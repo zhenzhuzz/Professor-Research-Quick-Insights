@@ -56,14 +56,15 @@ A repository for quickly accessing research insights into professors' expertise 
         <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
           <img src="research-quickview/ucla/ece/sudhakar-pamarti/sudhakar-pamarti-profile.png" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
           <b>Sudhakar Pamarti</b>
-          <p>低功耗芯片设计</p>
         </a>
+        <p>低功耗芯片设计</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/kang-wang/research-overview.md">
           <img src="research-quickview/ucla/ece/kang-wang/kang-wang-profile.png" width="150" style="border-radius: 8px;" alt="Kang L. Wang"><br>
           <b>Kang L. Wang</b>
         </a>
+        <p>量子材料和自旋电子器</p>
       </td>
     </tr>
     <tr>
