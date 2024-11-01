@@ -56,6 +56,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
           <img src="research-quickview/ucla/ece/sudhakar-pamarti/sudhakar-pamarti-profile.png" width="150" style="border-radius: 8px;" alt="Sudhakar Pamarti"><br>
           <b>Sudhakar Pamarti</b>
+          <p>低功耗芯片设计</p>
         </a>
       </td>
       <td align="center">
