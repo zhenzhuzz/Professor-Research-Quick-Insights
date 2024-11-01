@@ -73,6 +73,7 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/ucla/ece/benjamin-williams/benjamin-williams-profile.png" width="150" style="border-radius: 8px;" alt="Benjamin Williams"><br>
           <b>Benjamin Williams</b>
         </a>
+        <p>太赫兹，量子级联激光器，超表面激光器</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
