@@ -79,8 +79,8 @@ A repository for quickly accessing research insights into professors' expertise 
         <a href="research-quickview/ucla/ece/chee-wei-wong/research-overview.md">
           <img src="research-quickview/ucla/ece/chee-wei-wong/chee-wei-wong-profile.png" width="150" style="border-radius: 8px;" alt="Chee Wei Wong"><br>
           <b>Chee Wei Wong</b>
-          <p>频率梳，微腔光子器件，量子通信</p>
         </a>
+        <p>频率梳，微腔光子器件，量子通信</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/jason-woo/research-overview.md">
