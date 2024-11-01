@@ -87,13 +87,14 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/ucla/ece/jason-woo/jason-woo-profile.png" width="150" style="border-radius: 8px;" alt="Jason Woo"><br>
           <b>Jason Woo</b>
         </a>
-        <p>疑似退休<\p>
+        <p>疑似退休</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/ken-yang/research-overview.md">
           <img src="research-quickview/ucla/ece/ken-yang/ken-yang-profile.png" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
           <b>C. K. "Ken" Yang</b>
         </a>
+        <p>无课题组网站</p>p
       </td>
     </tr>
     <tr>
