@@ -103,6 +103,7 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/ucla/ece/mona-jarrahi/mona-jarrahi-profile.png" width="150" style="border-radius: 8px;" alt="Mona Jarrahi"><br>
           <b>Mona Jarrahi</b>
         </a>
+        <p>太赫兹成像、光学处理、光子计算</p>
       </td>
     </tr>
   </table>
