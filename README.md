@@ -15,26 +15,26 @@ A repository for quickly accessing research insights into professors' expertise 
   <table>
     <tr>
       <td align="center">
-        <a href="universities/UCLA/ECE/Elaheh_Ahmadi/README.md">
-          <img src="universities/UCLA/ECE/Elaheh_Ahmadi/elahe-ahmadi-profile.png" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
+        <a href="research-quickview/ucla/ece/elaheh-ahmadi/research-overview.md">
+          <img src="research-quickview/ucla/ece/elaheh-ahmadi/elahe-ahmadi-profile.png" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
           <b>Elaheh Ahmadi</b>
         </a>
       </td>
       <td align="center">
-        <a href="universities/UCLA/ECE/Robert_Candler/README.md">
-          <img src="universities/UCLA/ECE/Robert_Candler/robert-candler-profile.png" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
+        <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
+          <img src="research-quickview/ucla/ece/robert-candler/robert-candler-profile.png" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
           <b>Robert Candler</b>
         </a>
       </td>
       <td align="center">
-        <a href="universities/UCLA/ECE/Frank_Chang/README.md">
-          <img src="universities/UCLA/ECE/Frank_Chang/frank-chang-profile.png" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
+        <a href="research-quickview/ucla/ece/frank-chang/research-overview.md">
+          <img src="research-quickview/ucla/ece/frank-chang/frank-chang-profile.png" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
           <b>Frank Chang</b>
         </a>
       </td>
       <td align="center">
-        <a href="universities/UCLA/ECE/Sam_Emamjinejad/README.md">
-          <img src="universities/UCLA/ECE/Sam_Emamjinejad/sam-emamjinejad-profile.png" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
+        <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
+          <img src="research-quickview/ucla/ece/sam-emamjinejad/sam-emamjinejad-profile.png" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
           <b>Sam Emamjinejad</b>
         </a>
       </td>
