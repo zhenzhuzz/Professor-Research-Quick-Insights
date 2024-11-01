@@ -94,7 +94,7 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/ucla/ece/ken-yang/ken-yang-profile.png" width="150" style="border-radius: 8px;" alt="C. K. 'Ken' Yang"><br>
           <b>C. K. "Ken" Yang</b>
         </a>
-        <p>无课题组网站</p>p
+        <p>无课题组网站</p>
       </td>
     </tr>
     <tr>
