@@ -1,3 +1,7 @@
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=q7qcZcYAAAAJ)
+- [UCLA Profile](https://samueli.ucla.edu/people/elaheh-ahmadi/)
+- [Lab Group Website](https://research.seas.ucla.edu/ahmadi/about/)
+
 ## Q1:
 
 - **Demonstration of Normally-Off N-Polar GaN Deep Recess HEMT**  
