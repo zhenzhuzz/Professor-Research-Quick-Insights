@@ -1,125 +1,125 @@
 Q1:
 
-Demonstration of Normally-Off N-Polar GaN Deep Recess HEMT
-O Odabasi, MI Khan, K Khan, E Ahmadi
-IEEE Microwave and Wireless Technology Letters
-2024
-(010) β-(Alx, Ga1− x) 2O3 growth using tritertiarybutylaluminum as Al gas precursor via hybrid molecular beam epitaxy
-Z Wen, X Zhai, K Khan, O Odabasi, M Kim, E Ahmadi
-Applied Physics Letters 125 (16)
-2024
-Epitaxial Growth and Doping of N-Polar AlN by Plasma-Assisted Molecular Beam Epitaxy
-E Ahmadi, I Khan
-ECS Meeting Abstracts, 1570
-2024
-(Ultra) wide-bandgap semiconductors for electric vehicles
-G Gupta, E Ahmadi
-MRS Bulletin 49 (7), 730-737
-1	2024
-Selective Area Growth of Ga-and N-Polar InGaN/GaN Nanowires-A Comparative Study
-A Ghosh, K Khan, S Sankar, E Ahmadi, S Arafin
-CLEO: Science and Innovations, SF1R. 7
-2024
-Investigation of ALD HfSiOx as gate dielectric on β-Ga2O3 (001)
-X Zhai, Z Wen, O Odabasi, E Achamyeleh, K Sun, E Ahmadi
-Applied Physics Letters 124 (13)
-1	2024
-Investigation of Si incorporation in (010) β-Ga2O3 films grown by plasma-assisted MBE using diluted disilane as Si source and suboxide Ga2O precursor
-Z Wen, X Zhai, C Lee, S Kosanovic, Y Kim, AT Neal, T Asel, S Mou, ...
-Applied Physics Letters 124 (12)
-2	2024
-Diluted disilane as silicon source for uniform and controllable n-type doping of Ga2O3 via molecular beam epitaxy
-E Ahmadi, Z Wen
-Oxide-based Materials and Devices XV, PC128870D
-2024
-Demonstration of controllable Si doping in N-polar AlN using plasma-assisted molecular beam epitaxy
-MI Khan, C Lee, E Ahmadi
-Applied Physics Letters 124 (6)
-4	2024
-Comparative analysis of selective area grown Ga-and N-polar InGaN/GaN nanowires for quantum emitters
-A Ghosh, K Khan, S Sankar, ZA Jian, S Hasan, E Ahmadi, S Arafin
-AIP Advances 14 (2)
-1	2024
-Demonstration of 82% relaxed In0. 18Ga0. 82N on porous GaN pseudo-substrate by plasma-assisted molecular beam epitaxy
-K Khan, C Wurm, H Collins, VR Muthuraj, MI Khan, C Lee, S Keller, ...
-Physica Scripta 99 (1), 015027
-1	2023
-Thermal conductivity enhancement of aluminum scandium nitride grown by molecular beam epitaxy
-GA Alvarez, J Casamento, L van Deurzen, MI Khan, K Khan, E Jeong, ...
-Materials Research Letters 11 (12), 1048-1054
-4	2023
-Heteroepitaxy of N-polar AlN on C-face 4H-SiC: Structural and optical properties
-M Hu, P Wang, D Wang, Y Wu, S Mondal, D Wang, E Ahmadi, T Ma, Z Mi
-APL Materials 11 (12)
-2	2023
-N-Polar GaN Deep Recess HEMT With Atomic Layer Deposition HfO as Gate Insulator
-O Odabasi, S Mohanty, K Khan, E Ahmadi
-IEEE Transactions on Electron Devices
-3	2023
-Thermal stability of HVPE-grown (0001) α-Ga2O3 on sapphire template under vacuum and atmospheric environments
-Z Wen, K Khan, K Sun, R Wellen, Y Oshima, E Ahmadi
-Journal of Vacuum Science & Technology A 41 (4)
-9	2023
-Electrical and Structural Analysis of β‐Ga2O3/GaN Wafer‐Bonded Heterojunctions with a ZnO Interlayer
-Z Jian, K Sun, S Kosanovic, CJ Clymore, U Mishra, E Ahmadi
-Advanced Electronic Materials, 2300174
-2	2023
-Selective-area growth of GaN and AlGaN nanowires on N-polar GaN templates with 4° miscut by plasma-assisted molecular beam epitaxy
-K Khan, ZA Jian, J Li, K Sun, E Ahmadi
-Journal of Crystal Growth 611, 127181
-3	2023
-Demonstration of N-Polar GaN MIS-HEMT with High-k Atomic Layer Deposited HfO2 as Gate Dielectric
-S Mohanty, Z Jian, K Khan, E Ahmadi
-Journal of Electronic Materials 52 (4), 2596-2602
-4	2023
-Type-II band alignment for atomic layer deposited HfSiO4 on α-Ga2O3
-X Xia, JS Li, Z Wen, K Khan, MI Khan, E Ahmadi, Y Oshima, DC Hays, ...
-Journal of Vacuum Science & Technology A 41 (2), 023205
-3	2023
-Si doping of β-Ga2O3 by disilane via hybrid plasma-assisted molecular beam epitaxy
-Z Wen, K Khan, X Zhai, E Ahmadi
-Applied Physics Letters 122 (8), 082101
-15	2023
-Uniform and controlled Si doping of Ga2O3 by disilane via hybrid molecular beam epitaxy
-Z Wen, E Ahmadi, K Khan
-APS March Meeting Abstracts 2023, B41. 007
-2023
-N-polar GaN: Epitaxy, properties, and device applications
-S Mohanty, K Khan, E Ahmadi
-Progress in Quantum Electronics 87, 100450
-20	2023
-Progress and challenges in the development of ultra-wide bandgap semiconductor α-Ga2O3 toward realizing power device applications
-Y Oshima, E Ahmadi
-Applied Physics Letters 121 (26), 260501
-26	2022
-Band alignment of sputtered and atomic layer deposited SiO2 and Al2O3 on ScAlN
-X Xia, JS Li, MI Khan, K Khan, E Ahmadi, DC Hays, F Ren, SJ Pearton
-Journal of Applied Physics 132 (23), 235701
-2	2022
-METHOD TO CONTROL THE RELAXATION OF THICK FILMS ON LATTICE-MISMATCHED SUBSTRATES
-K Khan, E Ahmadi, S Keller, C Wurm, UK Mishra
-US Patent App. 17/576,716
-2022
-Reconfigurable self-powered deep UV photodetectors based on ultrawide bandgap ferroelectric ScAlN
-S Mondal, D Wang, P Wang, Y Wu, M Hu, Y Xiao, S Mohanty, T Ma, ...
-APL Materials 10 (12), 121101
-16	2022
-An epitaxial ferroelectric ScAlN/GaN heterostructure memory
-D Wang, P Wang, S Mondal, S Mohanty, T Ma, E Ahmadi, Z Mi
-Advanced Electronic Materials 8 (9), 2200005
-71	2022
-Improved N-polar GaN mm-wave Linearity, Efficiency, and Noise
-M Guidry, P Shrestha, W Liu, B Romanczyk, N Hatui, C Wurm, R Karnaty, ...
-2022 IEEE/MTT-S International Microwave Symposium-IMS 2022, 291-294
-9	2022
-Impact of In flux on self-assembled InGaN/GaN superlattice grown on GaN template by plasma-assisted molecular beam epitaxy
-K Khan, K Sun, C Wurm, E Ahmadi
-2022 Compound Semiconductor Week (CSW), 1-2
-1	2022
-Demonstration of device-quality InGaN grown on porous GaN tiles by MBE with an in-plane lattice constant equivalent to fully relaxed In0.12Ga0.88N
-C Wurm, H Collins, N Hatui, W Li, S Pasayat, R Hamwey, K Sun, I Sayed, ...
-2022 Compound Semiconductor Week (CSW), 1-2
-2022
+- **Demonstration of Normally-Off N-Polar GaN Deep Recess HEMT**  
+  *O Odabasi, MI Khan, K Khan, E Ahmadi*  
+  *IEEE Microwave and Wireless Technology Letters, 2024*
+
+- **(010) β-(Alx, Ga1− x)2O3 growth using tritertiarybutylaluminum as Al gas precursor via hybrid molecular beam epitaxy**  
+  *Z Wen, X Zhai, K Khan, O Odabasi, M Kim, E Ahmadi*  
+  *Applied Physics Letters 125 (16), 2024*
+
+- **Epitaxial Growth and Doping of N-Polar AlN by Plasma-Assisted Molecular Beam Epitaxy**  
+  *E Ahmadi, I Khan*  
+  *ECS Meeting Abstracts, 1570, 2024*
+
+- **(Ultra) wide-bandgap semiconductors for electric vehicles**  
+  *G Gupta, E Ahmadi*  
+  *MRS Bulletin 49 (7), 730-737, 1 2024*
+
+- **Selective Area Growth of Ga-and N-Polar InGaN/GaN Nanowires-A Comparative Study**  
+  *A Ghosh, K Khan, S Sankar, E Ahmadi, S Arafin*  
+  *CLEO: Science and Innovations, SF1R. 7, 2024*
+
+- **Investigation of ALD HfSiOx as gate dielectric on β-Ga2O3 (001)**  
+  *X Zhai, Z Wen, O Odabasi, E Achamyeleh, K Sun, E Ahmadi*  
+  *Applied Physics Letters 124 (13), 1 2024*
+
+- **Investigation of Si incorporation in (010) β-Ga2O3 films grown by plasma-assisted MBE using diluted disilane as Si source and suboxide Ga2O precursor**  
+  *Z Wen, X Zhai, C Lee, S Kosanovic, Y Kim, AT Neal, T Asel, S Mou, ...*  
+  *Applied Physics Letters 124 (12), 2 2024*
+
+- **Diluted disilane as silicon source for uniform and controllable n-type doping of Ga2O3 via molecular beam epitaxy**  
+  *E Ahmadi, Z Wen*  
+  *Oxide-based Materials and Devices XV, PC128870D, 2024*
+
+- **Demonstration of controllable Si doping in N-polar AlN using plasma-assisted molecular beam epitaxy**  
+  *MI Khan, C Lee, E Ahmadi*  
+  *Applied Physics Letters 124 (6), 4 2024*
+
+- **Comparative analysis of selective area grown Ga-and N-polar InGaN/GaN nanowires for quantum emitters**  
+  *A Ghosh, K Khan, S Sankar, ZA Jian, S Hasan, E Ahmadi, S Arafin*  
+  *AIP Advances 14 (2), 1 2024*
+
+- **Demonstration of 82% relaxed In0.18Ga0.82N on porous GaN pseudo-substrate by plasma-assisted molecular beam epitaxy**  
+  *K Khan, C Wurm, H Collins, VR Muthuraj, MI Khan, C Lee, S Keller, ...*  
+  *Physica Scripta 99 (1), 015027, 1 2023*
+
+- **Thermal conductivity enhancement of aluminum scandium nitride grown by molecular beam epitaxy**  
+  *GA Alvarez, J Casamento, L van Deurzen, MI Khan, K Khan, E Jeong, ...*  
+  *Materials Research Letters 11 (12), 1048-1054, 4 2023*
+
+- **Heteroepitaxy of N-polar AlN on C-face 4H-SiC: Structural and optical properties**  
+  *M Hu, P Wang, D Wang, Y Wu, S Mondal, D Wang, E Ahmadi, T Ma, Z Mi*  
+  *APL Materials 11 (12), 2 2023*
+
+- **N-Polar GaN Deep Recess HEMT With Atomic Layer Deposition HfO as Gate Insulator**  
+  *O Odabasi, S Mohanty, K Khan, E Ahmadi*  
+  *IEEE Transactions on Electron Devices, 3 2023*
+
+- **Thermal stability of HVPE-grown (0001) α-Ga2O3 on sapphire template under vacuum and atmospheric environments**  
+  *Z Wen, K Khan, K Sun, R Wellen, Y Oshima, E Ahmadi*  
+  *Journal of Vacuum Science & Technology A 41 (4), 9 2023*
+
+- **Electrical and Structural Analysis of β‐Ga2O3/GaN Wafer‐Bonded Heterojunctions with a ZnO Interlayer**  
+  *Z Jian, K Sun, S Kosanovic, CJ Clymore, U Mishra, E Ahmadi*  
+  *Advanced Electronic Materials, 2300174, 2 2023*
+
+- **Selective-area growth of GaN and AlGaN nanowires on N-polar GaN templates with 4° miscut by plasma-assisted molecular beam epitaxy**  
+  *K Khan, ZA Jian, J Li, K Sun, E Ahmadi*  
+  *Journal of Crystal Growth 611, 127181, 3 2023*
+
+- **Demonstration of N-Polar GaN MIS-HEMT with High-k Atomic Layer Deposited HfO2 as Gate Dielectric**  
+  *S Mohanty, Z Jian, K Khan, E Ahmadi*  
+  *Journal of Electronic Materials 52 (4), 2596-2602, 4 2023*
+
+- **Type-II band alignment for atomic layer deposited HfSiO4 on α-Ga2O3**  
+  *X Xia, JS Li, Z Wen, K Khan, MI Khan, E Ahmadi, Y Oshima, DC Hays, ...*  
+  *Journal of Vacuum Science & Technology A 41 (2), 023205, 3 2023*
+
+- **Si doping of β-Ga2O3 by disilane via hybrid plasma-assisted molecular beam epitaxy**  
+  *Z Wen, K Khan, X Zhai, E Ahmadi*  
+  *Applied Physics Letters 122 (8), 082101, 15 2023*
+
+- **Uniform and controlled Si doping of Ga2O3 by disilane via hybrid molecular beam epitaxy**  
+  *Z Wen, E Ahmadi, K Khan*  
+  *APS March Meeting Abstracts 2023, B41. 007, 2023*
+
+- **N-polar GaN: Epitaxy, properties, and device applications**  
+  *S Mohanty, K Khan, E Ahmadi*  
+  *Progress in Quantum Electronics 87, 100450, 20 2023*
+
+- **Progress and challenges in the development of ultra-wide bandgap semiconductor α-Ga2O3 toward realizing power device applications**  
+  *Y Oshima, E Ahmadi*  
+  *Applied Physics Letters 121 (26), 260501, 26 2022*
+
+- **Band alignment of sputtered and atomic layer deposited SiO2 and Al2O3 on ScAlN**  
+  *X Xia, JS Li, MI Khan, K Khan, E Ahmadi, DC Hays, F Ren, SJ Pearton*  
+  *Journal of Applied Physics 132 (23), 235701, 2 2022*
+
+- **METHOD TO CONTROL THE RELAXATION OF THICK FILMS ON LATTICE-MISMATCHED SUBSTRATES**  
+  *K Khan, E Ahmadi, S Keller, C Wurm, UK Mishra*  
+  *US Patent App. 17/576,716, 2022*
+
+- **Reconfigurable self-powered deep UV photodetectors based on ultrawide bandgap ferroelectric ScAlN**  
+  *S Mondal, D Wang, P Wang, Y Wu, M Hu, Y Xiao, S Mohanty, T Ma, ...*  
+  *APL Materials 10 (12), 121101, 16 2022*
+
+- **An epitaxial ferroelectric ScAlN/GaN heterostructure memory**  
+  *D Wang, P Wang, S Mondal, S Mohanty, T Ma, E Ahmadi, Z Mi*  
+  *Advanced Electronic Materials 8 (9), 2200005, 71 2022*
+
+- **Improved N-polar GaN mm-wave Linearity, Efficiency, and Noise**  
+  *M Guidry, P Shrestha, W Liu, B Romanczyk, N Hatui, C Wurm, R Karnaty, ...*  
+  *2022 IEEE/MTT-S International Microwave Symposium-IMS 2022, 291-294, 9 2022*
+
+- **Impact of In flux on self-assembled InGaN/GaN superlattice grown on GaN template by plasma-assisted molecular beam epitaxy**  
+  *K Khan, K Sun, C Wurm, E Ahmadi*  
+  *2022 Compound Semiconductor Week (CSW), 1-2, 2022*
+
+- **Demonstration of device-quality InGaN grown on porous GaN tiles by MBE with an in-plane lattice constant equivalent to fully relaxed In0.12Ga0.88N**  
+  *C Wurm, H Collins, N Hatui, W Li, S Pasayat, R Hamwey, K Sun, I Sayed, ...*  
+  *2022 Compound Semiconductor Week (CSW), 1-2, 2022*
+
 
 Elaheh Ahmadi  
 1. 翻译她的论文标题   
