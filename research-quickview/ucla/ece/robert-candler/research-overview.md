@@ -1,8 +1,7 @@
+### Rob Candler
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=GBP-lQQAAAAJ)
 - [UCLA Profile](https://samueli.ucla.edu/people/robert-candler/)
 - [Lab Group Website](https://sites.google.com/g.ucla.edu/stl)
-
-# Rob Candler
 
 ## Q1
 
