@@ -25,18 +25,21 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/ucla/profiles/robert-candler-profile-300x200.png" width="150" style="border-radius: 8px;" alt="Robert Candler"><br>
           <b>Robert Candler</b>
         </a>
+        <p>纳米磁铁材料设计制造、生物医学应用</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/frank-chang/research-overview.md">
           <img src="research-quickview/ucla/profiles/frank-chang-profile-300x200.png" width="150" style="border-radius: 8px;" alt="Frank Chang"><br>
           <b>Frank Chang</b>
         </a>
+        <p>射频芯片设计与集成</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/sam-emamjinejad/research-overview.md">
           <img src="research-quickview/ucla/profiles/sam-emamjinejad-profile-300x200.png" width="150" style="border-radius: 8px;" alt="Sam Emamjinejad"><br>
           <b>Sam Emamjinejad</b>
         </a>
+        <p>可穿戴生物电子传感器、健康监测</p>
       </td>
     </tr>
     <tr>
@@ -45,12 +48,14 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/ucla/profiles/puneet-gupta-profile-300x200.png" width="150" style="border-radius: 8px;" alt="Puneet Gupta"><br>
           <b>Puneet Gupta</b>
         </a>
+        <p>芯片设计、光子计算和存储</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/subramanian-iyer/research-overview.md">
           <img src="research-quickview/ucla/profiles/subramanian-iyer-profile-300x200.png" width="150" style="border-radius: 8px;" alt="Subramanian Iyer"><br>
           <b>Subramanian Iyer</b>
         </a>
+        <p>芯片封装和光刻</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/sudhakar-pamarti/research-overview.md">
