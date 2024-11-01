@@ -19,6 +19,7 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/ucla/profiles/elaheh-ahmadi-profile-300x200.png" width="150" style="border-radius: 8px;" alt="Elaheh Ahmadi"><br>
           <b>Elaheh Ahmadi</b>
         </a>
+        <p>芯片掺杂、分子束外延</p>
       </td>
       <td align="center">
         <a href="research-quickview/ucla/ece/robert-candler/research-overview.md">
