@@ -6,6 +6,39 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## Universities
 
+### [Stanford](https://www.stanford.edu/)
+
+#### [Mechanical Engineering](https://me.stanford.edu/)
+
+- **Field**: Nanofabrication
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="research-quickview/stanford/me/kenneth-goodson/research-overview.md">
+          <img src="research-quickview/stanford/me/kenneth-goodson-profile.png" width="150" style="border-radius: 8px;" alt="Kenneth Goodson"><br>
+          <b>Kenneth Goodson</b>
+        </a>
+        <p>热管理、微纳尺度热传输</p>
+      </td>
+      <td align="center">
+        <a href="research-quickview/stanford/me/matthew-edwards/research-overview.md">
+          <img src="research-quickview/stanford/me/matthew-edwards-profile.png" width="150" style="border-radius: 8px;" alt="Matthew Edwards"><br>
+          <b>Matthew Edwards</b>
+        </a>
+        <p>材料性能分析、计算材料学</p>
+      </td>
+      <td align="center">
+        <a href="research-quickview/stanford/me/ronald-hanson/research-overview.md">
+          <img src="research-quickview/stanford/me/ronald-hanson-profile.png" width="150" style="border-radius: 8px;" alt="Ronald Hanson"><br>
+          <b>Ronald Hanson</b>
+        </a>
+        <p>湍流、气体动力学</p>
+      </td>
+    </tr>
+  </table>
+
+
 ### [UCLA](https://www.ucla.edu/)
 
 #### [Electrical & Computer Engineering](https://www.ee.ucla.edu/ucla-ee-research/)
