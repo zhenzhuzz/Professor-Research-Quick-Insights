@@ -33,7 +33,7 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/stanford/profiles/ronald-hanson-profile.png" width="150" style="border-radius: 8px;" alt="Ronald Hanson"><br>
           <b>Ronald Hanson</b>
         </a>
-        <p>湍流、气体动力学</p>
+        <p>燃烧动力学、高温光谱诊断、激波管技术（模拟高温高压气体行为）</p>
       </td>
     </tr>
   </table>
