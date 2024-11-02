@@ -46,35 +46,35 @@ A repository for quickly accessing research insights into professors' expertise 
   <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/joonhee-choi/research-overview.md">
-        <img src="research-quickview/stanford/ee/joonhee-choi-profile.png" width="150" style="border-radius: 8px;" alt="Joonhee Choi"><br>
+        <img src="research-quickview/stanford/profiles/joonhee-choi-profile.png" width="150" style="border-radius: 8px;" alt="Joonhee Choi"><br>
         <b>Joonhee Choi</b>
       </a>
       <p>光子学、量子科学与工程</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/srabanti-chowdhury/research-overview.md">
-        <img src="research-quickview/stanford/ee/srabanti-chowdhury-profile.png" width="150" style="border-radius: 8px;" alt="Srabanti Chowdhury"><br>
+        <img src="research-quickview/stanford/profiles/srabanti-chowdhury-profile.png" width="150" style="border-radius: 8px;" alt="Srabanti Chowdhury"><br>
         <b>Srabanti Chowdhury</b>
       </a>
       <p>纳米技术、集成电路与系统</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/daniel-congreve/research-overview.md">
-        <img src="research-quickview/stanford/ee/daniel-congreve-profile.png" width="150" style="border-radius: 8px;" alt="Daniel Congreve"><br>
+        <img src="research-quickview/stanford/profiles/daniel-congreve-profile.png" width="150" style="border-radius: 8px;" alt="Daniel Congreve"><br>
         <b>Daniel Congreve</b>
       </a>
       <p>光子学、能源与可持续性</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/jonathan-fan/research-overview.md">
-        <img src="research-quickview/stanford/ee/jonathan-fan-profile.png" width="150" style="border-radius: 8px;" alt="Jonathan Fan"><br>
+        <img src="research-quickview/stanford/profiles/jonathan-fan-profile.png" width="150" style="border-radius: 8px;" alt="Jonathan Fan"><br>
         <b>Jonathan Fan</b>
       </a>
       <p>纳米技术、量子科学与工程</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/siddharth-krishnan/research-overview.md">
-        <img src="research-quickview/stanford/ee/siddharth-krishnan-profile.png" width="150" style="border-radius: 8px;" alt="Siddharth Krishnan"><br>
+        <img src="research-quickview/stanford/profiles/siddharth-krishnan-profile.png" width="150" style="border-radius: 8px;" alt="Siddharth Krishnan"><br>
         <b>Siddharth Krishnan</b>
       </a>
       <p>生物医学设备、传感器和系统</p>
@@ -83,35 +83,35 @@ A repository for quickly accessing research insights into professors' expertise 
   <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/piero-pianetta/research-overview.md">
-        <img src="research-quickview/stanford/ee/piero-pianetta-profile.png" width="150" style="border-radius: 8px;" alt="Piero A. Pianetta"><br>
+        <img src="research-quickview/stanford/profiles/piero-pianetta-profile.png" width="150" style="border-radius: 8px;" alt="Piero A. Pianetta"><br>
         <b>Piero A. Pianetta</b>
       </a>
       <p>纳米技术、集成电路与系统</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/james-plummer/research-overview.md">
-        <img src="research-quickview/stanford/ee/james-plummer-profile.png" width="150" style="border-radius: 8px;" alt="James D. Plummer"><br>
+        <img src="research-quickview/stanford/profiles/james-plummer-profile.png" width="150" style="border-radius: 8px;" alt="James D. Plummer"><br>
         <b>James D. Plummer</b>
       </a>
       <p>纳米技术、能源与可持续性</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/eric-pop/research-overview.md">
-        <img src="research-quickview/stanford/ee/eric-pop-profile.png" width="150" style="border-radius: 8px;" alt="Eric Pop"><br>
+        <img src="research-quickview/stanford/profiles/eric-pop-profile.png" width="150" style="border-radius: 8px;" alt="Eric Pop"><br>
         <b>Eric Pop</b>
       </a>
       <p>纳米技术、集成电路与系统</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/juan-rivas/research-overview.md">
-        <img src="research-quickview/stanford/ee/juan-rivas-profile.png" width="150" style="border-radius: 8px;" alt="Juan Rivas"><br>
+        <img src="research-quickview/stanford/profiles/juan-rivas-profile.png" width="150" style="border-radius: 8px;" alt="Juan Rivas"><br>
         <b>Juan Rivas</b>
       </a>
       <p>纳米技术、能源与可持续性</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/krishna-saraswat/research-overview.md">
-        <img src="research-quickview/stanford/ee/krishna-saraswat-profile.png" width="150" style="border-radius: 8px;" alt="Krishna Saraswat"><br>
+        <img src="research-quickview/stanford/profiles/krishna-saraswat-profile.png" width="150" style="border-radius: 8px;" alt="Krishna Saraswat"><br>
         <b>Krishna Saraswat</b>
       </a>
       <p>纳米技术、集成电路与系统</p>
@@ -120,34 +120,35 @@ A repository for quickly accessing research insights into professors' expertise 
   <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/debbie-senesky/research-overview.md">
-        <img src="research-quickview/stanford/ee/debbie-senesky-profile.png" width="150" style="border-radius: 8px;" alt="Debbie Senesky"><br>
+        <img src="research-quickview/stanford/profiles/debbie-senesky-profile.png" width="150" style="border-radius: 8px;" alt="Debbie Senesky"><br>
         <b>Debbie Senesky</b>
       </a>
       <p>环境传感器、嵌入式系统</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/jelena-vuckovic/research-overview.md">
-        <img src="research-quickview/stanford/ee/jelena-vuckovic-profile.png" width="150" style="border-radius: 8px;" alt="Jelena Vuckovic"><br>
+        <img src="research-quickview/stanford/profiles/jelena-vuckovic-profile.png" width="150" style="border-radius: 8px;" alt="Jelena Vuckovic"><br>
         <b>Jelena Vuckovic</b>
       </a>
       <p>光子学、量子科学与工程</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/shan-wang/research-overview.md">
-        <img src="research-quickview/stanford/ee/shan-wang-profile.png" width="150" style="border-radius: 8px;" alt="Shan X. Wang"><br>
+        <img src="research-quickview/stanford/profiles/shan-wang-profile.png" width="150" style="border-radius: 8px;" alt="Shan X. Wang"><br>
         <b>Shan X. Wang</b>
       </a>
       <p>生物医学设备、集成电路与系统</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/h-s-philip-wong/research-overview.md">
-        <img src="research-quickview/stanford/ee/h-s-philip-wong-profile.png" width="150" style="border-radius: 8px;" alt="H.-S. Philip Wong"><br>
+        <img src="research-quickview/stanford/profiles/h-s-philip-wong-profile.png" width="150" style="border-radius: 8px;" alt="H.-S. Philip Wong"><br>
         <b>H.-S. Philip Wong</b>
       </a>
       <p>纳米技术、计算机架构、安全性</p>
     </td>
   </tr>
 </table>
+
 
 
 ### [UCLA](https://www.ucla.edu/)
