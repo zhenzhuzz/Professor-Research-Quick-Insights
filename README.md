@@ -19,7 +19,7 @@ A repository for quickly accessing research insights into professors' expertise 
           <img src="research-quickview/stanford/me/matthew-edwards-profile.png" width="150" style="border-radius: 8px;" alt="Matthew Edwards"><br>
           <b>Matthew Edwards</b>
         </a>
-        <p>材料性能分析、计算材料学</p>
+        <p>超快激光控制、等离子体光学、粒子加速技术</p>
       </td>
       <td align="center">
         <a href="research-quickview/stanford/me/kenneth-goodson/research-overview.md">
