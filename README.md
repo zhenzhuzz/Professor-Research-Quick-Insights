@@ -16,21 +16,21 @@ A repository for quickly accessing research insights into professors' expertise 
     <tr>
       <td align="center">
         <a href="research-quickview/stanford/me/matthew-edwards/research-overview.md">
-          <img src="research-quickview/stanford/me/matthew-edwards-profile.png" width="150" style="border-radius: 8px;" alt="Matthew Edwards"><br>
+          <img src="research-quickview/stanford/profiles/matthew-edwards-profile.png" width="150" style="border-radius: 8px;" alt="Matthew Edwards"><br>
           <b>Matthew Edwards</b>
         </a>
         <p>超快激光控制、等离子体光学、粒子加速技术</p>
       </td>
       <td align="center">
         <a href="research-quickview/stanford/me/kenneth-goodson/research-overview.md">
-          <img src="research-quickview/stanford/me/kenneth-goodson-profile.png" width="150" style="border-radius: 8px;" alt="Kenneth Goodson"><br>
+          <img src="research-quickview/stanford/profiles/kenneth-goodson-profile.png" width="150" style="border-radius: 8px;" alt="Kenneth Goodson"><br>
           <b>Kenneth Goodson</b>
         </a>
         <p>微尺度散热、液气双相冷却、高热通量管理</p>
       </td>
       <td align="center">
         <a href="research-quickview/stanford/me/ronald-hanson/research-overview.md">
-          <img src="research-quickview/stanford/me/ronald-hanson-profile.png" width="150" style="border-radius: 8px;" alt="Ronald Hanson"><br>
+          <img src="research-quickview/stanford/profiles/ronald-hanson-profile.png" width="150" style="border-radius: 8px;" alt="Ronald Hanson"><br>
           <b>Ronald Hanson</b>
         </a>
         <p>湍流、气体动力学</p>
