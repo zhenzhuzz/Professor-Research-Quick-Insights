@@ -15,18 +15,18 @@ A repository for quickly accessing research insights into professors' expertise 
   <table>
     <tr>
       <td align="center">
-        <a href="research-quickview/stanford/me/kenneth-goodson/research-overview.md">
-          <img src="research-quickview/stanford/me/kenneth-goodson-profile.png" width="150" style="border-radius: 8px;" alt="Kenneth Goodson"><br>
-          <b>Kenneth Goodson</b>
-        </a>
-        <p>热管理、微纳尺度热传输</p>
-      </td>
-      <td align="center">
         <a href="research-quickview/stanford/me/matthew-edwards/research-overview.md">
           <img src="research-quickview/stanford/me/matthew-edwards-profile.png" width="150" style="border-radius: 8px;" alt="Matthew Edwards"><br>
           <b>Matthew Edwards</b>
         </a>
         <p>材料性能分析、计算材料学</p>
+      </td>
+      <td align="center">
+        <a href="research-quickview/stanford/me/kenneth-goodson/research-overview.md">
+          <img src="research-quickview/stanford/me/kenneth-goodson-profile.png" width="150" style="border-radius: 8px;" alt="Kenneth Goodson"><br>
+          <b>Kenneth Goodson</b>
+        </a>
+        <p>微尺度散热、液气双相冷却、高热通量管理</p>
       </td>
       <td align="center">
         <a href="research-quickview/stanford/me/ronald-hanson/research-overview.md">
