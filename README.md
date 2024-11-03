@@ -291,7 +291,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
   </table>
 
-  #### [Electrical Engineering](https://www.ee.columbia.edu/)
+#### [Electrical Engineering](https://www.ee.columbia.edu/)
 
 - **Field**: Nanoscale Structures and Integrated Devices
 
@@ -303,6 +303,20 @@ A repository for quickly accessing research insights into professors' expertise 
           <b>Michal Lipson</b>
         </a>
         <p>集成/硅基光子学、克尔频率梳、异质集成、量子信息处理</p>
+      </td>
+    </tr>
+  </table>
+
+### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="research-quickview/columbia/apam/alexander-gaeta/research-overview.md">
+          <img src="research-quickview/columbia/profiles/alexander-gaeta-profile.png" width="150" style="border-radius: 8px;" alt="Alexander Gaeta"><br>
+          <b>Alexander Gaeta</b>
+        </a>
+        <p>非线性光学、芯片级光学器件、量子计算通信、生物医学成像、光子数据传输</p>
       </td>
     </tr>
   </table>
