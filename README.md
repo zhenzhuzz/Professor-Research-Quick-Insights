@@ -40,6 +40,8 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Electrical Engineering](https://ee.stanford.edu/)
 
+- **Learn about Professor** Stanford EE website->People->Faculty->Areas
+
 - **Field**: Nanotechnology, nanofabrication, materials, advanced packaging and manufacturing technologies
 
 <table>
