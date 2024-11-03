@@ -5,6 +5,158 @@
 - [Lab Group Website](https://gaeta.apam.columbia.edu/)
 
 ## Q1：
+## Paper Titles and Citations
+
+- **Synchronization of nonlinear microresonators**  
+  AL Gaeta  
+  *Molecular and Nanophotonic Machines, Devices, and Applications VII, PC1312609*  
+  Year: 2024
+
+- **Nonlinear Dynamics of Coupled-Resonator Kerr-Combs**  
+  S Sanyal, Y Okawachi, Y Zhao, BY Kim, KJ McNulty, M Lipson, AL Gaeta  
+  *arXiv preprint arXiv:2409.17343*  
+  Year: 2024
+
+- **Overcoming stress limitations in SiN nonlinear photonics via a bilayer waveguide**  
+  KJ McNulty, S Chaitanya, S Sanyal, A Gil-Molina, M Corato-Zanarella, ...  
+  *arXiv preprint arXiv:2409.08358*  
+  Year: 2024
+
+- **Microresonator-Frequency-Comb-Based Platform For Clinical High-Resolution Optical Coherence Tomography**  
+  M Lipson, JI Xingchen, A Klenner, X Yao, Y Gan, AL Gaeta, CP Hendon  
+  *US Patent App. 18/509,739*  
+  Year: 2024
+
+- **Wavelength generator based on ring resonator photonic devices**  
+  Y Okawachi, A Novick, S Karimelahi, A Gaeta, V Raghunathan  
+  *US Patent App. 18/460,477*  
+  Year: 2024
+
+- **Quantum state tomography in a third-order integrated optical parametric oscillator**  
+  R Alfredo Kögler, G Couto Rickli, R Ribeiro Domeneguetti, X Ji, AL Gaeta, ...  
+  *Optics Letters 49 (11), 3150-3153*  
+  Year: 2024
+
+- **Stable Modelocking of Coupled Resonator Normal-GVD Kerr-Combs**  
+  S Sanyal, Y Okawachi, Y Zhao, BY Kim, KJ McNulty, M Lipson, AL Gaeta  
+  *CLEO: Fundamental Science, FTh4F. 2*  
+  Year: 2024
+
+- **Telecom-to-Visible Frequency Conversion in a SiN Microresonator**  
+  S Raghunathan, R Oliver, Y Zhao, K McNulty, M Lipson, A Gaeta  
+  *2024 Conference on Lasers and Electro-Optics (CLEO), 1-2*  
+  Year: 2024
+
+- **Realization of a Dual-Rail Photonic Cluster State**  
+  M Blau, R Oliver, X Ji, M Lipson, AL Gaeta  
+  *CLEO: Fundamental Science, FM1K. 5*  
+  Year: 2024
+
+- **Near-Unity-Efficiency Frequency Conversion on a Silicon-Nitride Chip**  
+  Y Zhao, KJ McNulty, M Lipson, AL Gaeta  
+  *CLEO: Science and Innovations, STh1F. 5*  
+  Year: 2024
+
+- **Tomography of a Frequency-Bin Qubit**  
+  R Oliver, S Raghunathan, HC Chiu, A Binai-Motlagh, AL Gaeta  
+  *CLEO: Fundamental Science, FM4R. 2*  
+  Year: 2024
+
+- **Thermometric Control of the Resonance Frequency of a High-Q Si3N4 Microresonator**  
+  SK Dacha, Y Zhao, KJ McNulty, M Lipson, AL Gaeta  
+  *2024 Conference on Lasers and Electro-Optics (CLEO), 1-2*  
+  Year: 2024
+
+- **Spectrally Flat Normal-GVD Kerr Combs via Opposite-Polarity Comb Synchronization**  
+  S Sanyal, BY Kim, Y Okawachi, Y Zhao, KJ McNulty, M Lipson, AL Gaeta  
+  *2024 Conference on Lasers and Electro-Optics (CLEO), 1-2*  
+  Year: 2024
+
+- **Overcoming Thermal Effects with Kerr Soliton Combs in Compact Photonic Structures**  
+  G Beals, Y Zhao, K McNulty, SK Dacha, M Lipson, AL Gaeta  
+  *2024 Conference on Lasers and Electro-Optics (CLEO), 1-2*  
+  Year: 2024
+
+- **N-Way Frequency Beamsplitter for Quantum Photonics**  
+  R Oliver, M Blau, C Joshi, X Ji, R Gutierrez-Jauregui, A Asenjo-Garcia, ...  
+  *arXiv preprint arXiv:2405.02453*  
+  Year: 2024
+
+- **Nonlinear and quantum photonics using integrated optical materials**  
+  A Dutt, A Mohanty, AL Gaeta, M Lipson  
+  *Nature Reviews Materials, 1-26*  
+  Year: 2024
+
+- **Unzipping hBN with ultrashort mid-infrared pulses**  
+  CY Chen, SL Moore, R Maiti, JS Ginsberg, MM Jadidi, B Li, SH Chae, ...  
+  *Science Advances 10 (18), eadi3653*  
+  Year: 2024
+
+- **All-optical frequency division on-chip using a single laser**  
+  Y Zhao, JK Jang, GJ Beals, KJ McNulty, X Ji, Y Okawachi, M Lipson, ...  
+  *Nature 627 (8004), 546-552*  
+  Year: 2024
+
+- **Microresonator-frequency-comb-based platform for clinical high-resolution optical coherence tomography**  
+  M Lipson, JI Xingchen, A Klenner, X Yao, Y Gan, AL Gaeta, CP Hendon  
+  *US Patent 11,859,972*  
+  Year: 2024
+
+- **Frequency-bin photonic quantum information**  
+  HH Lu, M Liscidini, AL Gaeta, AM Weiner, JM Lukens  
+  *Optica 10 (12), 1655-1671*  
+  Year: 2023
+
+- **High-Power Fully-Integrated Frequency Comb Generation Using Multimode Gain Chips**  
+  A Gil-Molina, Y Antman, O Westreich, JI Xingchen, MC Shin, GR Bhatt, ...  
+  *US Patent App. 18/309,600*  
+  Year: 2023
+
+- **Phonon-enhanced nonlinearities in hexagonal boron nitride**  
+  JS Ginsberg, MM Jadidi, J Zhang, CY Chen, N Tancogne-Dejean, ...  
+  *Nature Communications 14 (1), 7685*  
+  Year: 2023
+
+- **Narrow linewidth semiconductor lasers based on nonlinear self-injection locking**  
+  AM Bishop, AL Gaeta  
+  *arXiv preprint arXiv:2309.09811*  
+  Year: 2023
+
+- **Massively scalable Kerr comb-driven silicon photonic link**  
+  A Rizzo, A Novick, V Gopal, BY Kim, X Ji, S Daudlin, Y Okawachi, ...  
+  *Nature Photonics 17 (9), 781-790*  
+  Year: 2023
+
+- **Chip-scale frequency combs for data communications in computing systems**  
+  Y Okawachi, BY Kim, M Lipson, AL Gaeta  
+  *Optica 10 (8), 977-995*  
+  Year: 2023
+
+- **Coherent Combining for High‐Power Kerr Combs**  
+  BY Kim, Y Okawachi, JK Jang, X Ji, M Lipson, AL Gaeta  
+  *Laser & Photonics Reviews 17 (8), 2200607*  
+  Year: 2023
+
+- **Large regenerative parametric amplification on chip at ultra-low pump powers**  
+  Y Zhao, JK Jang, X Ji, Y Okawachi, M Lipson, AL Gaeta  
+  *Optica 10 (7), 819-825*  
+  Year: 2023
+
+- **Chip-Based All-Optical Frequency Division**  
+  Y Zhao, JK Jang, KJ McNulty, X Ji, Y Okawachi, M Lipson, AL Gaeta  
+  *Nonlinear Optics, W3A. 2*  
+  Year: 2023
+
+- **High-Gain Regenerative Parametric Amplification On-Chip**  
+  Y Zhao, JK Jang, X Ji, Y Okawachi, M Lipson, AL Gaeta  
+  *Nonlinear Optics, Tu2A. 1*  
+  Year: 2023
+
+- **Massively scalable Kerr comb-driven silicon photonic link**  
+  V Gopal, S Daudlin, AL Gaeta, A Rizzo, A Novick, BY Kim, X Ji, ...  
+  *Nature Publishing Group UK*  
+  Year: 2023
+
 
 1. 翻译他的前二十篇论文标题
 2. 详细说明教授做什么研究内容的
