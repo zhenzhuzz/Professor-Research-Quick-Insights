@@ -307,7 +307,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
   </table>
 
-### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
+#### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
 
   <table>
     <tr>
