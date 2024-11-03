@@ -10,7 +10,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Mechanical Engineering](https://me.stanford.edu/)
 
-- **Field**: Unknown
+- **Field**: Mix
 
   <table>
     <tr>
