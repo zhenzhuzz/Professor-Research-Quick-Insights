@@ -151,7 +151,19 @@ A repository for quickly accessing research insights into professors' expertise 
   </tr>
 </table>
 
+- **Field**: Quantum science and engineering, Photonics
 
+  <table>
+    <tr>
+      <td align="center">
+        <a href="research-quickview/stanford/ee/olav-solgaard/research-overview.md">
+          <img src="research-quickview/stanford/profiles/olav-solgaard-profile.png" width="150" style="border-radius: 8px;" alt="Olav Solgaard"><br>
+          <b>Olav Solgaard</b>
+        </a>
+        <p>纳米光学结构、MEMS相移器与空间光调制器、光子区块链与光子计算、介质激光加速</p>
+      </td>
+    </tr>
+  </table>
 
 ### [UCLA](https://www.ucla.edu/)
 
