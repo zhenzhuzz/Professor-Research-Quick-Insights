@@ -277,7 +277,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Mechanical Engineering](https://www.me.columbia.edu/)
 
-- **Field**: MManufacturing
+- **Field**: Manufacturing
 
   <table>
     <tr>
