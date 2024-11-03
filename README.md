@@ -272,3 +272,21 @@ A repository for quickly accessing research insights into professors' expertise 
       </td>
     </tr>
   </table>
+
+### [Columbia University](https://www.columbia.edu/)
+
+#### [Mechanical Engineering](https://www.me.columbia.edu/)
+
+- **Field**: MManufacturing
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="research-quickview/columbia/me/y-lawrence-yao/research-overview.md">
+          <img src="research-quickview/columbia/profiles/y-lawrence-yao-profile.png" width="150" style="border-radius: 8px;" alt="Y. Lawrence Yao"><br>
+          <b>Y. Lawrence Yao</b>
+        </a>
+        <p>激光加工</p>
+      </td>
+    </tr>
+  </table>
