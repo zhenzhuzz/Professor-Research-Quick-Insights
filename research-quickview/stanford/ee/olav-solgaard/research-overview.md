@@ -5,6 +5,167 @@
 - Lab Group Website: None, a bit old (1992 Ph.D), probably not much time on research
 
 ## Q1:
+## Paper Titles and Citations
+
+- **Moth-eye anti-reflection structures in silicon for Long Wave IR applications**  
+  P Papatzacos, P Broaddus, O Solgaard, MN Akram, P Ohlckers  
+  *Journal of Modern Optics, 1-8*  
+  Year: 2024
+
+- **AstroPIC: near-infrared photonic integrated circuit coronagraph architecture for the Habitable Worlds Observatory**  
+  D Sirbu, R Belikov, K Fogarty, C Valdez, Z Sun, A Kroo, O Solgaard, ...  
+  *Space Telescopes and Instrumentation 2024: Optical, Infrared, and Millimeter …*  
+  Year: 2024
+
+- **Tunable Directional Couplers for High Contrast Optical Meshes**  
+  NS Abebe, S Pai, RL Hwang, P Broaddus, Y Miao, O Solgaard  
+  *2024 International Conference on Optical MEMS and Nanophotonics (OMN), 1-2*  
+  Year: 2024
+
+- **Coupled Mode Design of Low-Loss Electromechanical Phase Shifters**  
+  NS Abebe, S Pai, RL Hwang, P Broaddus, Y Miao, O Solgaard  
+  *Micro 4 (2), 334-347*  
+  Year: 2024
+
+- **An Experimental Platform to Control Solid-State Spin Systems with Engineered Electron Beams**  
+  D Catanzaro, J Grzesik, C Roques-Carmes, KJ Leedle, DS Black, ...  
+  *2024 Conference on Lasers and Electro-Optics (CLEO), 1-2*  
+  Year: 2024
+
+- **Dielectric laser accelerators: photonic control, electron compression, and quantum sensing**  
+  Z Zhao, DS Black, XQ Sun, TW Hughes, KJ Leedle, S Tan, RJ England, ...  
+  *2024 Conference on Lasers and Electro-Optics (CLEO), 1-2*  
+  Year: 2024
+
+- **High-efficiency vertically emitting coupler facilitated by three wave interaction gratings**  
+  CG Valdez, S Pai, P Broaddus, O Solgaard  
+  *Optics Letters 49 (9), 2373-2376*  
+  Year: 2024
+
+- **Dual-layer micro-ribbon MEMS light modulator**  
+  O Solgaard, S Hamann, A Payne, L Eng, J Hunter, T Liu  
+  *US Patent 11,958,738*  
+  Year: 2024
+
+- **Multiple-frequency-component scanning involving scan-pattern design and balanced or optimized attributes**  
+  Z Sun, R Quan, O Solgaard  
+  *US Patent App. 18/273,735*  
+  Year: 2024
+
+- **Subrelativistic Alternating Phase Focusing Dielectric Laser Accelerators**  
+  P Broaddus, T Egenolf, DS Black, M Murillo, C Woodahl, Y Miao, ...  
+  *Physical Review Letters 132 (8), 085001*  
+  Year: 2024
+
+- **AstroPIC: Architecture options and trades for integrated photonic coronagraphy**  
+  D Sirbu, R Belikov, K Fogarty, Z Sun, CG Valdez, O Solgaard, D Miller  
+  *American Astronomical Society Meeting Abstracts 56 (2), 329.07*  
+  Year: 2024
+
+- **Photonic Blockchain Based on Optical Proof-of-Work**  
+  SK Pai, DAB Miller, O Solgaard, S Fan, M Dubrovsky, B Penkovsky, ...  
+  *US Patent App. 18/126,436*  
+  Year: 2024
+
+- **Coupled Mode Design of Low-Loss Electromechanical Phase Shifters. Micro 2024, 4, 334–347**  
+  NS Abebe, S Pai, RL Hwang, P Broaddus, Y Miao, O Solgaard  
+  *2024*  
+  Year: 2024
+
+- **Scalable low-latency optical phase sensor array**  
+  Z Sun, S Pai, C Valdez, M Milanizadeh, A Melloni, F Morichetti, DAB Miller, ...  
+  *Optica 10 (9), 1165-1172*  
+  Year: 2023
+
+- **Doubly Resonant Micromechanical Beam Scanners**  
+  O Solgaard, J Solgaard  
+  *US Patent App. 18/024,146*  
+  Year: 2023
+
+- **Mirror-enhanced mems-based spatial light modulator**  
+  O Solgaard, SS Hamann  
+  *US Patent App. 18/164,092*  
+  Year: 2023
+
+- **Apparatuses and methods involving adaptive scanning for an optimized region of interest**  
+  Z Sun, R Quan, O Solgaard, S Manosalvas-Kjono  
+  *US Patent App. 18/101,036*  
+  Year: 2023
+
+- **Experimental evaluation of digitally verifiable photonic computing for blockchain and cryptocurrency**  
+  S Pai, T Park, M Ball, B Penkovsky, M Dubrovsky, N Abebe, ...  
+  *Optica 10 (5), 552-560*  
+  Year: 2023
+
+- **Triple-Etch Grating for Near Perfect Coupling at Normal Incidence**  
+  CG Valdez, S Pai, P Broaddus, O Solgaard  
+  *CLEO: Fundamental Science, JW2A. 66*  
+  Year: 2023
+
+- **Experimentally realized in situ backpropagation for deep learning in photonic neural networks**  
+  S Pai, Z Sun, TW Hughes, T Park, B Bartlett, IAD Williamson, M Minkov, ...  
+  *Science 380 (6643), 398-404*  
+  Year: 2023
+
+- **Rapid axial scanning for light sheet microscopy using a phased array**  
+  JR Landry, O Solgaard, SS Hamann  
+  *US Patent 11,619,585*  
+  Year: 2023
+
+- **Power monitoring in a feedforward photonic network using two output detectors**  
+  S Pai, C Valdez, T Park, M Milanizadeh, F Morichetti, A Melloni, S Fan, ...  
+  *Nanophotonics 12 (5), 985-991*  
+  Year: 2023
+
+- **Magnetic Control of Bound Electron Spins with Cavity-bunched Electron Beams**  
+  J Grzesik, D Catanzaro, D Black, K Leedle, E Rosenthal, J England, ...  
+  *APS March Meeting Abstracts 2023, K66. 003*  
+  Year: 2023
+
+- **Scalable and self-correcting photonic computation using balanced photonic binary tree cascades**  
+  S Pai, O Solgaard, S Fan, DAB Miller  
+  *arXiv preprint arXiv:2210.16935*  
+  Year: 2022
+
+- **Simultaneous measurements of gradients in optical networks**  
+  S Fan, TW Hughes, DAB Miller, SK Pai, O Solgaard, IAD Williamson  
+  *US Patent App. 17/639,054*  
+  Year: 2022
+
+- **Rhodonea Curve Scanning with Doubly Resonant Micromirrors**  
+  J Solgaard, O Solgaard  
+  *International Conference on Optical MEMS and Nanophotonics (OMN) 2022*  
+  Year: 2022
+
+- **High Contrast Spatial Light Modulator**  
+  O Solgaard, A Payne, J Hunter, S Hamann  
+  *US Patent App. 17/689,868*  
+  Year: 2022
+
+- **Integrated amplitude and phase monitor for micro-actuators**  
+  SN Manosalvas-Kjono, R Quan, O Solgaard  
+  *Micromachines 13 (8), 1360*  
+  Year: 2022
+
+- **High Contrast MEMS Phased-Array**  
+  S Hamann, O Solgaard  
+  *US Patent App. 17/670,274*  
+  Year: 2022
+
+- **Immersion graded index optics: theory, design, and prototypes**  
+  N Vaidya, O Solgaard  
+  *Microsystems & Nanoengineering 8 (1), 69*  
+  Year: 2022
+
+- **Experimentally realized in situ backpropagation for deep learning in nanophotonic neural networks**  
+  S Pai, Z Sun, TW Hughes, T Park, B Bartlett, IAD Williamson, M Minkov, ...  
+  *arXiv preprint arXiv:2205.08501*  
+  Year: 2022
+
+- **Magnetic Control and Entanglement of Electron Spins with Bunched Electron Beams**  
+  DS Black, J Grzesik, J Vuckovic, O Solgaard  
+  *CLEO: QELS_Fundamental Science, FM5D. 7*  
+  Year: 2022
 
 
 1. 翻译他的前二十篇论文标题
