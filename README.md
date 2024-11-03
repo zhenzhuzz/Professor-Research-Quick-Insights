@@ -100,7 +100,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/stanford/profiles/eric-pop-profile.png" width="150" style="border-radius: 8px;" alt="Eric Pop"><br>
         <b>Eric Pop</b>
       </a>
-      <p>纳米技术、集成电路与系统</p>
+      <p>纳米尺度热管理、相变存储器、二维材料纳米电子器件</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/juan-rivas/research-overview.md">
@@ -144,7 +144,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/stanford/profiles/h-s-philip-wong-profile.png" width="150" style="border-radius: 8px;" alt="H.-S. Philip Wong"><br>
         <b>H.-S. Philip Wong</b>
       </a>
-      <p>纳米技术、计算机架构、安全性</p>
+      <p>碳纳米管晶体管，铁电场效应晶体管，存算一体架构，三维堆叠存储</p>
     </td>
   </tr>
 </table>
