@@ -277,7 +277,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Mechanical Engineering](https://www.me.columbia.edu/)
 
-- **Field**: Manufacturing
+- **Field**: Manufacturing and Robotics
 
   <table>
     <tr>
@@ -287,6 +287,13 @@ A repository for quickly accessing research insights into professors' expertise 
           <b>Y. Lawrence Yao</b>
         </a>
         <p>激光加工</p>
+      </td>
+      <td align="center">
+        <a href="research-quickview/columbia/me/richard-longman/research-overview.md">
+          <img src="research-quickview/columbia/profiles/richard-longman-profile.png" width="150" style="border-radius: 8px;" alt="Richard W. Longman"><br>
+          <b>Richard W. Longman/b>
+        </a>
+        <p>迭代学习控制、重复控制算法、航天器姿态控制/机器人/智能医疗设备控制</p>
       </td>
     </tr>
   </table>
