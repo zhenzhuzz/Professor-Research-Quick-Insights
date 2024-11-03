@@ -132,7 +132,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/stanford/profiles/jelena-vuckovic-profile.png" width="150" style="border-radius: 8px;" alt="Jelena Vuckovic"><br>
         <b>Jelena Vuckovic</b>
       </a>
-      <p>光子学、量子科学与工程</p>
+      <p>纳米光子器件、量子计算、光通信与光传感</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/shan-wang/research-overview.md">
