@@ -51,7 +51,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/stanford/profiles/joonhee-choi-profile.png" width="150" style="border-radius: 8px;" alt="Joonhee Choi"><br>
         <b>Joonhee Choi</b>
       </a>
-      <p>光子学、量子科学与工程</p>
+      <p>量子态操控、量子计算与通信、多体量子动力学</p>
     </td>
     <td align="center">
       <a href="research-quickview/stanford/ee/srabanti-chowdhury/research-overview.md">
