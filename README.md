@@ -290,3 +290,19 @@ A repository for quickly accessing research insights into professors' expertise 
       </td>
     </tr>
   </table>
+
+  #### [Electrical Engineering](https://www.ee.columbia.edu/)
+
+- **Field**: Nanoscale Structures and Integrated Devices
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="research-quickview/columbia/ee/michal-lipson/research-overview.md">
+          <img src="research-quickview/columbia/profiles/michal-lipson-profile.png" width="150" style="border-radius: 8px;" alt="Michal Lipson"><br>
+          <b>Michal Lipson</b>
+        </a>
+        <p>集成/硅基光子学、克尔频率梳、异质集成、量子信息处理</p>
+      </td>
+    </tr>
+  </table>
