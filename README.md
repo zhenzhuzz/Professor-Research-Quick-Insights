@@ -424,7 +424,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/nicholas-x-fang-profile.jpg" width="150" style="border-radius: 8px;" alt="Sherrie Wang"><br>
         <b>Sherrie Wang</b>
       </a>
-      <p>(今年刚转去HKU港大)</p>
+      <p>声学超材料、3D打印纳米结构、医疗声学诊断成像(今年刚转去HKU港大)</p>
     </td>
   </tr>
 </table>
