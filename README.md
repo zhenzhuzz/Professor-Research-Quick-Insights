@@ -303,14 +303,14 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/dirk-englund-profile.png" width="150" style="border-radius: 8px;" alt="Dirk Englund"><br>
         <b>Dirk Englund</b>
       </a>
-      <p>Quantum Photonics</p>
+      <p>量子光子器件、光学神经计算、高灵敏传感器与成像</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/eecs/james-fujimoto/research-overview.md">
         <img src="research-quickview/mit/profiles/james-fujimoto-profile.png" width="150" style="border-radius: 8px;" alt="James Fujimoto"><br>
         <b>James Fujimoto</b>
       </a>
-      <p>Medical Devices; Quantum</p>
+      <p>光学相干断层扫描、高分辨率生物成像、临床诊断应用</p>
     </td>
   </tr>
   <tr>
@@ -319,14 +319,14 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/leslie-kolodziejski-profile.png" width="150" style="border-radius: 8px;" alt="Leslie Kolodziejski"><br>
         <b>Leslie Kolodziejski</b>
       </a>
-      <p>Quantum Energy</p>
+      <p>（疑似退休或不在科研一线）</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/eecs/wojciech-matusik/research-overview.md">
         <img src="research-quickview/mit/profiles/wojciech-matusik-profile.png" width="150" style="border-radius: 8px;" alt="Wojciech Matusik"><br>
         <b>Wojciech Matusik</b>
       </a>
-      <p>AI; Fabrication</p>
+      <p>视觉反馈制造、AI调节生产过程、自动优化材料、智能制造</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/eecs/jelena-notaros/research-overview.md">
