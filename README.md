@@ -150,20 +150,6 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>碳纳米管晶体管，铁电场效应晶体管，存算一体架构，三维堆叠存储</p>
     </td>
-    <td align="center">
-      <a href="research-quickview/stanford/ee/another-researcher/research-overview.md">
-        <img src="research-quickview/stanford/profiles/another-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Another Researcher"><br>
-        <b>Another Researcher</b>
-      </a>
-      <p>Another Research Topic</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/stanford/ee/yet-another-researcher/research-overview.md">
-        <img src="research-quickview/stanford/profiles/yet-another-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Yet Another Researcher"><br>
-        <b>Yet Another Researcher</b>
-      </a>
-      <p>Yet Another Research Topic</p>
-    </td>
   </tr>
 </table>
 
