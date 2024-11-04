@@ -74,6 +74,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>纳米技术、量子科学与工程</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/siddharth-krishnan/research-overview.md">
         <img src="research-quickview/stanford/profiles/siddharth-krishnan-profile.png" width="150" style="border-radius: 8px;" alt="Siddharth Krishnan"><br>
@@ -81,8 +83,6 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>生物医学设备、传感器和系统</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/piero-pianetta/research-overview.md">
         <img src="research-quickview/stanford/profiles/piero-pianetta-profile.png" width="150" style="border-radius: 8px;" alt="Piero A. Pianetta"><br>
@@ -104,6 +104,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>纳米尺度热管理、相变存储器、二维材料纳米电子器件</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/juan-rivas/research-overview.md">
         <img src="research-quickview/stanford/profiles/juan-rivas-profile.png" width="150" style="border-radius: 8px;" alt="Juan Rivas"><br>
@@ -118,8 +120,6 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>纳米技术、集成电路与系统</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/debbie-senesky/research-overview.md">
         <img src="research-quickview/stanford/profiles/debbie-senesky-profile.png" width="150" style="border-radius: 8px;" alt="Debbie Senesky"><br>
@@ -134,6 +134,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>纳米光子器件、量子计算、光通信与光传感</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/stanford/ee/shan-wang/research-overview.md">
         <img src="research-quickview/stanford/profiles/shan-wang-profile.png" width="150" style="border-radius: 8px;" alt="Shan X. Wang"><br>
@@ -148,8 +150,23 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>碳纳米管晶体管，铁电场效应晶体管，存算一体架构，三维堆叠存储</p>
     </td>
+    <td align="center">
+      <a href="research-quickview/stanford/ee/another-researcher/research-overview.md">
+        <img src="research-quickview/stanford/profiles/another-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Another Researcher"><br>
+        <b>Another Researcher</b>
+      </a>
+      <p>Another Research Topic</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/stanford/ee/yet-another-researcher/research-overview.md">
+        <img src="research-quickview/stanford/profiles/yet-another-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Yet Another Researcher"><br>
+        <b>Yet Another Researcher</b>
+      </a>
+      <p>Yet Another Research Topic</p>
+    </td>
   </tr>
 </table>
+
 
 - **Field**: Quantum science and engineering, Photonics
 
