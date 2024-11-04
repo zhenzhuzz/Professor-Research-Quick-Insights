@@ -1061,7 +1061,172 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 
+#### [Applied Physics]([https://www.ee.caltech.edu/](https://aph.caltech.edu/))
 
+- [**Faculty**]([https://www.ee.caltech.edu/people](https://aph.caltech.edu/people))
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/harry-atwater/research-overview.md">
+        <img src="research-quickview/caltech/profiles/harry-atwater-profile.jpg" width="150" style="border-radius: 8px;" alt="Harry A. Atwater, Jr."><br>
+        <b>Harry A. Atwater, Jr.</b>
+      </a>
+      <p>量子与纳米光子学、超材料与超表面、人造光合作用、二维材料、纳米和微结构光伏、空间太阳能和等离子体学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/paul-bellan/research-overview.md">
+        <img src="research-quickview/caltech/profiles/paul-bellan-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul M. Bellan"><br>
+        <b>Paul M. Bellan</b>
+      </a>
+      <p>等离子体物理，应用于聚变能、太阳物理、天体物理学、高空大气现象和土星环</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/marco-bernardi/research-overview.md">
+        <img src="research-quickview/caltech/profiles/marco-bernardi-profile.jpg" width="150" style="border-radius: 8px;" alt="Marco Bernardi"><br>
+        <b>Marco Bernardi</b>
+      </a>
+      <p>理论与计算材料物理，开发新的第一性原理方法，研究材料中的电子传输、超快动力学和光-物质相互作用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/chiara-daraio/research-overview.md">
+        <img src="research-quickview/caltech/profiles/chiara-daraio-profile.jpg" width="150" style="border-radius: 8px;" alt="Chiara Daraio"><br>
+        <b>Chiara Daraio</b>
+      </a>
+      <p>工程新材料，具有先进的机械和传感特性，应用于机器人技术、医疗设备和振动吸收</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/paul-dimotakis/research-overview.md">
+        <img src="research-quickview/caltech/profiles/paul-dimotakis-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul E. Dimotakis"><br>
+        <b>Paul E. Dimotakis</b>
+      </a>
+      <p>实验和计算研究，关注亚音速和超音速自由剪切流中的湍流混合和化学反应；高超音速推进；湍流中的混合和表面几何</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/michael-elowitz/research-overview.md">
+        <img src="research-quickview/caltech/profiles/michael-elowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Elowitz"><br>
+        <b>Michael Elowitz</b>
+      </a>
+      <p>创建和分析生物“电路”，通过编程活细胞中的新功能，揭示电路设计的基本原理，开发下一代细胞和基因疗法</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/andrei-faraon/research-overview.md">
+        <img src="research-quickview/caltech/profiles/andrei-faraon-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrei Faraon"><br>
+        <b>Andrei Faraon</b>
+      </a>
+      <p>固态量子光学和纳米光子学，应用于量子信息处理、片上光信号处理、节能传感器和生物光子学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/brent-fultz/research-overview.md">
+        <img src="research-quickview/caltech/profiles/brent-fultz-profile.jpg" width="150" style="border-radius: 8px;" alt="Brent Fultz"><br>
+        <b>Brent Fultz</b>
+      </a>
+      <p>材料物理和材料化学，研究熵的起源，使用中子散射和计算；新型能源存储材料，特别是氢存储材料</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/william-goddard/research-overview.md">
+        <img src="research-quickview/caltech/profiles/william-goddard-profile.jpg" width="150" style="border-radius: 8px;" alt="William A. Goddard, III"><br>
+        <b>William A. Goddard, III</b>
+      </a>
+      <p>开发量子力学、力场、反应动力学、电子动力学、分子动力学和蒙特卡罗预测化学、催化和生化材料系统的方法</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/alireza-marandi/research-overview.md">
+        <img src="research-quickview/caltech/profiles/alireza-marandi-profile.jpg" width="150" style="border-radius: 8px;" alt="Alireza Marandi"><br>
+        <b>Alireza Marandi</b>
+      </a>
+      <p>非线性光子学的基础技术发展，探索超快光学、光频梳、量子光学、光信息处理、中红外光子学和激光光谱学的前沿</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/austin-minnich/research-overview.md">
+        <img src="research-quickview/caltech/profiles/austin-minnich-profile.jpg" width="150
+        "border-radius: 8px;" alt="Austin Minnich"><br>
+        <b>Austin Minnich</b>
+      </a>
+      <p>先进的微波和毫米波技术在无线电天文学、量子信息科学等应用中的研究</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/mohammad-mirhosseini/research-overview.md">
+        <img src="research-quickview/caltech/profiles/mohammad-mirhosseini-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammad Mirhosseini"><br>
+        <b>Mohammad Mirhosseini</b>
+      </a>
+      <p>量子工程的实验研究，开发和结合超导电路与基于芯片的声子和光子设备</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/stevan-nadj-perge/research-overview.md">
+        <img src="research-quickview/caltech/profiles/stevan-nadj-perge-profile.jpg" width="150" style="border-radius: 8px;" alt="Stevan Nadj-Perge"><br>
+        <b>Stevan Nadj-Perge</b>
+      </a>
+      <p>开发用于量子信息处理的介观设备，探索在纳米尺度的异域电子状态</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/oskar-painter/research-overview.md">
+        <img src="research-quickview/caltech/profiles/oskar-painter-profile.jpg" width="150" style="border-radius: 8px;" alt="Oskar J. Painter"><br>
+        <b>Oskar J. Painter</b>
+      </a>
+      <p>纳米光子学、量子光学和光机械学在精密测量和量子信息科学中的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/rob-phillips/research-overview.md">
+        <img src="research-quickview/caltech/profiles/rob-phillips-profile.jpg" width="150" style="border-radius: 8px;" alt="Rob Phillips"><br>
+        <b>Rob Phillips</b>
+      </a>
+      <p>细胞的物理生物学：转录和活性物质模型、物理基因组学和进化的生物物理方法</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/michael-roukes/research-overview.md">
+        <img src="research-quickview/caltech/profiles/michael-roukes-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael L. Roukes"><br>
+        <b>Michael L. Roukes</b>
+      </a>
+      <p>纳米生物技术、纳米技术、纳米尺度物理、纳米和分子力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/axel-scherer/research-overview.md">
+        <img src="research-quickview/caltech/profiles/axel-scherer-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Scherer"><br>
+        <b>Axel Scherer</b>
+      </a>
+      <p>微制造应用于集成微系统，专注于低成本疾病检测和精确健康监测的传感器和诊断工具开发</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/keith-schwab/research-overview.md">
+        <img src="research-quickview/caltech/profiles/keith-schwab-profile.jpg" width="150" style="border-radius: 8px;" alt="Keith C. Schwab"><br>
+        <b>Keith C. Schwab</b>
+      </a>
+      <p>开发用于超流氦-4的约瑟夫森结，旨在构建量子设备，如干涉仪和量子比特</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/sandra-troian/research-overview.md">
+        <img src="research-quickview/caltech/profiles/sandra-troian-profile.jpg" width="150" style="border-radius: 8px;" alt="Sandra M. Troian"><br>
+        <b>Sandra M. Troian</b>
+      </a>
+      <p>通过调节表面力的时空调制来控制微纳米尺度系统中的液体、热量或光的流动</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/kerry-vahala/research-overview.md">
+        <img src="research-quickview/caltech/profiles/kerry-vahala-profile.jpg" width="150" style="border-radius: 8px;" alt="Kerry J. Vahala"><br>
+        <b>Kerry J. Vahala</b>
+      </a>
+      <p>高Q光微腔中的非线性光学，应用于精密计量系统和微型光学陀螺仪</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/aph/amnon-yariv/research-overview.md">
+        <img src="research-quickview/caltech/profiles/amnon-yariv-profile.jpg" width="150" style="border-radius: 8px;" alt="Amnon Yariv"><br>
+        <b>Amnon Yariv</b>
+      </a>
+      <p>光通信的理论和技术基础，包括新型半导体激光器和光相位锁系统</p>
+    </td>
+  </tr>
+</table>
 
 
 
