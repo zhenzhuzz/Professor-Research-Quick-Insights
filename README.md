@@ -286,14 +286,14 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/duane-boning-profile.png" width="150" style="border-radius: 8px;" alt="Duane Boning"><br>
         <b>Duane Boning</b>
       </a>
-      <p>Computational Fabrication; Quantum Materials</p>
+      <p>半导体工艺优化、设备可靠性评估、光子集成制造</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/eecs/vladimir-bulovic/research-overview.md">
         <img src="research-quickview/mit/profiles/vladimir-bulovic-profile.png" width="150" style="border-radius: 8px;" alt="Vladimir Bulović"><br>
         <b>Vladimir Bulović</b>
       </a>
-      <p>Energy; Nanoscale Devices</p>
+      <p>钙钛矿光电材料、透明光伏技术（能源）、纳米尺度传感器</p>
     </td>
   </tr>
   <tr>
