@@ -1,7 +1,7 @@
 ### Jonathan A. Fan
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=rGh_JfoAAAAJ)
-- [Stanford Profile](https://fanlab.stanford.edu/people/)
+- [Stanford Profile](https://profiles.stanford.edu/jonathan-fan)
 - [Lab Group Website](https://fanlab.stanford.edu/)
 
 ## Q1:
