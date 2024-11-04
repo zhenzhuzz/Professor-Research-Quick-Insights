@@ -333,14 +333,14 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/jelena-notaros-profile.png" width="150" style="border-radius: 8px;" alt="Jelena Notaros"><br>
         <b>Jelena Notaros</b>
       </a>
-      <p>Medical; Quantum Communications</p>
+      <p>集成光子学、光学相控阵、量子信息处理</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/eecs/william-d-oliver/research-overview.md">
         <img src="research-quickview/mit/profiles/william-d-oliver-profile.png" width="150" style="border-radius: 8px;" alt="William D. Oliver"><br>
         <b>William D. Oliver</b>
       </a>
-      <p>Quantum Photonics</p>
+      <p>超导量子计算、远程量子纠缠、量子噪声控制</p>
     </td>
   </tr>
   <tr>
@@ -349,14 +349,14 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/rajeev-ram-profile.png" width="150" style="border-radius: 8px;" alt="Rajeev Ram"><br>
         <b>Rajeev Ram</b>
       </a>
-      <p>Quantum Energy</p>
+      <p>光电集成光通信、生物医疗光学传感、CMOS兼容的光学器件</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/eecs/sixian-you/research-overview.md">
         <img src="research-quickview/mit/profiles/sixian-you-profile.png" width="150" style="border-radius: 8px;" alt="Sixian You"><br>
         <b>Sixian You</b>
       </a>
-      <p>Medical Photonics</p>
+      <p>无标记光学显微成像、AI应成像算法、生物医学诊断</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/eecs/some-other-researcher/research-overview.md">
