@@ -1063,7 +1063,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Applied Physics]([https://www.ee.caltech.edu/](https://aph.caltech.edu/))
 
-- [**Faculty**]([https://www.ee.caltech.edu/people](https://aph.caltech.edu/people))
+- [**Faculty**](https://aph.caltech.edu/people)
 
 <table>
   <tr>
