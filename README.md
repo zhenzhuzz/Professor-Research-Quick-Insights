@@ -327,7 +327,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/john-hart-profile.jpg" width="150" style="border-radius: 8px;" alt="John Hart"><br>
         <b>John Hart</b>
       </a>
-      <p>先进制造工艺、增材制造、纳米制造技术</p>
+      <p>碳纳米管纤维复合材料制造、增材制造</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/me/joseph-jacobson/research-overview.md">
@@ -380,7 +380,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/carlos-portela-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Portela"><br>
         <b>Carlos Portela</b>
       </a>
-      <p>结构材料、机械超材料、能量吸收</p>
+      <p>军用超材料抗冲击承受高应力、声学聚焦超材料（水下）、自组装纳米超材料</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/me/yang-shao-horn/research-overview.md">
