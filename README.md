@@ -358,20 +358,6 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>无标记光学显微成像、AI应成像算法、生物医学诊断</p>
     </td>
-    <td align="center">
-      <a href="research-quickview/mit/eecs/some-other-researcher/research-overview.md">
-        <img src="research-quickview/mit/profiles/some-other-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Some Other Researcher"><br>
-        <b>Some Other Researcher</b>
-      </a>
-      <p>Some Research Topic</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/mit/eecs/yet-another-researcher/research-overview.md">
-        <img src="research-quickview/mit/profiles/yet-another-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Yet Another Researcher"><br>
-        <b>Yet Another Researcher</b>
-      </a>
-      <p>Another Research Topic</p>
-    </td>
   </tr>
 </table>
 
