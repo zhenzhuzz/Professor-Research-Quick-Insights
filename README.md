@@ -295,8 +295,6 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>钙钛矿光电材料、透明光伏技术（能源）、纳米尺度传感器</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="research-quickview/mit/eecs/dirk-englund/research-overview.md">
         <img src="research-quickview/mit/profiles/dirk-englund-profile.png" width="150" style="border-radius: 8px;" alt="Dirk Englund"><br>
@@ -327,8 +325,6 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>AI; Fabrication</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="research-quickview/mit/eecs/jelena-notaros/research-overview.md">
         <img src="research-quickview/mit/profiles/jelena-notaros-profile.png" width="150" style="border-radius: 8px;" alt="Jelena Notaros"><br>
@@ -359,8 +355,23 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>Medical Photonics</p>
     </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/some-other-researcher/research-overview.md">
+        <img src="research-quickview/mit/profiles/some-other-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Some Other Researcher"><br>
+        <b>Some Other Researcher</b>
+      </a>
+      <p>Some Research Topic</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/yet-another-researcher/research-overview.md">
+        <img src="research-quickview/mit/profiles/yet-another-researcher-profile.png" width="150" style="border-radius: 8px;" alt="Yet Another Researcher"><br>
+        <b>Yet Another Researcher</b>
+      </a>
+      <p>Another Research Topic</p>
+    </td>
   </tr>
 </table>
+
 
 
 
