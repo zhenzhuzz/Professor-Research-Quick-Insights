@@ -278,6 +278,151 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [MIT](https://www.mit.edu/)
 
+#### [Mechanical Engineering](https://meche.mit.edu/)
+
+- **Field**: Micro and Nanotechnology
+- [**Faculty**](https://meche.mit.edu/people?field_research_area_tid[]=12)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/me/george-barbastathis/research-overview.md">
+        <img src="research-quickview/mit/profiles/george-barbastathis-profile.jpg" width="150" style="border-radius: 8px;" alt="George Barbastathis"><br>
+        <b>George Barbastathis</b>
+      </a>
+      <p>光学与光子学、计算成像、逆问题</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/gang-chen/research-overview.md">
+        <img src="research-quickview/mit/profiles/gang-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Gang Chen"><br>
+        <b>Gang Chen</b>
+      </a>
+      <p>纳米尺度热传导、能量转换、热管理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/martin-culpepper/research-overview.md">
+        <img src="research-quickview/mit/profiles/martin-culpepper-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin Culpepper"><br>
+        <b>Martin Culpepper</b>
+      </a>
+      <p>精密机械设计、高精度仪器与系统、纳米技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/alan-grodzinsky/research-overview.md">
+        <img src="research-quickview/mit/profiles/alan-grodzinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Alan Grodzinsky"><br>
+        <b>Alan Grodzinsky</b>
+      </a>
+      <p>生物力学、生物组织电机械特性、关节疾病治疗</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/me/nicolas-hadjiconstantinou/research-overview.md">
+        <img src="research-quickview/mit/profiles/nicolas-hadjiconstantinou-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicolas Hadjiconstantinou"><br>
+        <b>Nicolas Hadjiconstantinou</b>
+      </a>
+      <p>微纳尺度流体力学、热传导、传输现象计算方法</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/john-hart/research-overview.md">
+        <img src="research-quickview/mit/profiles/john-hart-profile.jpg" width="150" style="border-radius: 8px;" alt="John Hart"><br>
+        <b>John Hart</b>
+      </a>
+      <p>先进制造工艺、增材制造、纳米制造技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/joseph-jacobson/research-overview.md">
+        <img src="research-quickview/mit/profiles/joseph-jacobson-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph Jacobson"><br>
+        <b>Joseph Jacobson</b>
+      </a>
+      <p>数字制造、分子电子学、生物与电子学界面</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/rohit-karnik/research-overview.md">
+        <img src="research-quickview/mit/profiles/rohit-karnik-profile.jpg" width="150" style="border-radius: 8px;" alt="Rohit Karnik"><br>
+        <b>Rohit Karnik</b>
+      </a>
+      <p>微流体和纳流体系统、流体传输、水净化和生物医学设备</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/me/jeehwan-kim/research-overview.md">
+        <img src="research-quickview/mit/profiles/jeehwan-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeehwan Kim"><br>
+        <b>Jeehwan Kim</b>
+      </a>
+      <p>二维材料、电子和光电子学、材料可扩展制造技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/sang-gook-kim/research-overview.md">
+        <img src="research-quickview/mit/profiles/sang-gook-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Sang-Gook Kim"><br>
+        <b>Sang-Gook Kim</b>
+      </a>
+      <p>微机电系统、传感器和能量采集器、纳米技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/robert-langer/research-overview.md">
+        <img src="research-quickview/mit/profiles/robert-langer-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Langer"><br>
+        <b>Robert Langer</b>
+      </a>
+      <p>生物技术、材料科学、药物输送系统、组织工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/scott-manalis/research-overview.md">
+        <img src="research-quickview/mit/profiles/scott-manalis-profile.jpg" width="150" style="border-radius: 8px;" alt="Scott Manalis"><br>
+        <b>Scott Manalis</b>
+      </a>
+      <p>生物微机电系统、单细胞分析、诊断和治疗</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/me/carlos-portela/research-overview.md">
+        <img src="research-quickview/mit/profiles/carlos-portela-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Portela"><br>
+        <b>Carlos Portela</b>
+      </a>
+      <p>结构材料、机械超材料、能量吸收</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/yang-shao-horn/research-overview.md">
+        <img src="research-quickview/mit/profiles/yang-shao-horn-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Shao-Horn"><br>
+        <b>Yang Shao-Horn</b>
+      </a>
+      <p>能量存储与转换、电池和燃料电池、催化剂材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/vivishek-sudhir/research-overview.md">
+        <img src="research-quickview/mit/profiles/vivishek-sudhir-profile.jpg" width="150" style="border-radius: 8px;" alt="Vivishek Sudhir"><br>
+        <b>Vivishek Sudhir</b>
+      </a>
+      <p>量子测量与控制、量子系统控制</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/kripa-varanasi/research-overview.md">
+        <img src="research-quickview/mit/profiles/kripa-varanasi-profile.jpg" width="150" style="border-radius: 8px;" alt="Kripa Varanasi"><br>
+        <b>Kripa Varanasi</b>
+      </a>
+      <p>界面现象、表面润湿性、能源与制造</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/me/evelyn-wang/research-overview.md">
+        <img src="research-quickview/mit/profiles/evelyn-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Evelyn Wang"><br>
+        <b>Evelyn Wang</b>
+      </a>
+      <p>热管理、能量收集、电子冷却和太阳能应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/sherrie-wang/research-overview.md">
+        <img src="research-quickview/mit/profiles/sherrie-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Sherrie Wang"><br>
+        <b>Sherrie Wang</b>
+      </a>
+      <p>可持续农业、食品系统、机器学习与遥感</p>
+    </td>
+  </tr>
+</table>
+
+
 #### [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/)
 
 - **Field**: Optics + Photonics
