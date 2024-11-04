@@ -373,24 +373,24 @@ A repository for quickly accessing research insights into professors' expertise 
 
 - **Field**: Manufacturing and Robotics
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="research-quickview/columbia/me/y-lawrence-yao/research-overview.md">
-          <img src="research-quickview/columbia/profiles/y-lawrence-yao-profile.png" width="150" style="border-radius: 8px;" alt="Y. Lawrence Yao"><br>
-          <b>Y. Lawrence Yao</b>
-        </a>
-        <p>激光加工</p>
-      </td>
-      <td align="center">
-        <a href="research-quickview/columbia/me/richard-longman/research-overview.md">
-          <img src="research-quickview/columbia/profiles/richard-longman-profile.png" width="150" style="border-radius: 8px;" alt="Richard W. Longman"><br>
-          <b>Richard W. Longman</b>
-        </a>
-        <p>迭代学习控制、重复控制算法、航天器姿态控制/机器人/智能医疗设备控制</p>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/me/y-lawrence-yao/research-overview.md">
+        <img src="research-quickview/columbia/profiles/y-lawrence-yao-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Lawrence Yao"><br>
+        <b>Y. Lawrence Yao</b>
+      </a>
+      <p>激光加工</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/richard-longman/research-overview.md">
+        <img src="research-quickview/columbia/profiles/richard-longman-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard W. Longman"><br>
+        <b>Richard W. Longman</b>
+      </a>
+      <p>迭代学习控制、重复控制算法、航天器姿态控制/机器人/智能医疗设备控制</p>
+    </td>
+  </tr>
+</table>
 
 #### [Electrical Engineering](https://www.ee.columbia.edu/)
 
@@ -400,7 +400,7 @@ A repository for quickly accessing research insights into professors' expertise 
     <tr>
       <td align="center">
         <a href="research-quickview/columbia/ee/michal-lipson/research-overview.md">
-          <img src="research-quickview/columbia/profiles/michal-lipson-profile.png" width="150" style="border-radius: 8px;" alt="Michal Lipson"><br>
+          <img src="research-quickview/columbia/profiles/michal-lipson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michal Lipson"><br>
           <b>Michal Lipson</b>
         </a>
         <p>集成/硅基光子学、克尔频率梳、异质集成、量子信息处理</p>
@@ -414,7 +414,7 @@ A repository for quickly accessing research insights into professors' expertise 
     <tr>
       <td align="center">
         <a href="research-quickview/columbia/apam/alexander-gaeta/research-overview.md">
-          <img src="research-quickview/columbia/profiles/alexander-gaeta-profile.png" width="150" style="border-radius: 8px;" alt="Alexander Gaeta"><br>
+          <img src="research-quickview/columbia/profiles/alexander-gaeta-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexander Gaeta"><br>
           <b>Alexander Gaeta</b>
         </a>
         <p>非线性光学、芯片级光学器件、量子计算通信、生物医学成像、光子数据传输</p>
