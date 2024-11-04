@@ -800,7 +800,61 @@ A repository for quickly accessing research insights into professors' expertise 
       <p>量子信息、光子学、超导量子电路</p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/pietro-perona/research-overview.md">
+        <img src="research-quickview/caltech/profiles/pietro-perona-profile.jpg" width="150" style="border-radius: 8px;" alt="Pietro Perona"><br>
+        <b>Pietro Perona</b>
+      </a>
+      <p>计算机视觉、机器学习、神经科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/axel-scherer/research-overview.md">
+        <img src="research-quickview/caltech/profiles/axel-scherer-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Scherer"><br>
+        <b>Axel Scherer</b>
+      </a>
+      <p>纳米技术、微机电系统、光子学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/yu-chong-tai/research-overview.md">
+        <img src="research-quickview/caltech/profiles/yu-chong-tai-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu-Chong Tai"><br>
+        <b>Yu-Chong Tai</b>
+      </a>
+      <p>微机电系统、生物传感器、微流体</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/p-p-vaidyanathan/research-overview.md">
+        <img src="research-quickview/caltech/profiles/p-p-vaidyanathan-profile.jpg" width="150" style="border-radius: 8px;" alt="P. P. Vaidyanathan"><br>
+        <b>P. P. Vaidyanathan</b>
+      </a>
+      <p>信号处理、滤波器设计、通信系统</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/lihong-wang/research-overview.md">
+        <img src="research-quickview/caltech/profiles/lihong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihong Wang"><br>
+        <b>Lihong Wang</b>
+      </a>
+      <p>光声成像、生物医学成像、光学成像</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/changhuei-yang/research-overview.md">
+        <img src="research-quickview/caltech/profiles/changhuei-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Changhuei Yang"><br>
+        <b>Changhuei Yang</b>
+      </a>
+      <p>生物医学光学、成像技术、微流体</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/amnon-yariv/research-overview.md">
+        <img src="research-quickview/caltech/profiles/amnon-yariv-profile.jpg" width="150" style="border-radius: 8px;" alt="Amnon Yariv"><br>
+        <b>Amnon Yariv</b>
+      </a>
+      <p>光子学、量子电子学、光通信</p>
+    </td>
+  </tr>
 </table>
+
 
 
 
