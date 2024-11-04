@@ -273,6 +273,98 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
   </table>
 
+### [MIT](https://www.mit.edu/)
+
+#### [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/)
+
+- **Field**: Optics + Photonics
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/duane-boning/research-overview.md">
+        <img src="research-quickview/mit/profiles/duane-boning-profile.png" width="150" style="border-radius: 8px;" alt="Duane Boning"><br>
+        <b>Duane Boning</b>
+      </a>
+      <p>Computational Fabrication and Manufacturing; Electronic, Magnetic, Optical and Quantum Materials and Devices; Nanoscale Materials, Devices, and Systems</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/vladimir-bulovic/research-overview.md">
+        <img src="research-quickview/mit/profiles/vladimir-bulovic-profile.png" width="150" style="border-radius: 8px;" alt="Vladimir Bulović"><br>
+        <b>Vladimir Bulović</b>
+      </a>
+      <p>Energy; Nanoscale Materials, Devices, and Systems; Optics + Photonics</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/dirk-englund/research-overview.md">
+        <img src="research-quickview/mit/profiles/dirk-englund-profile.png" width="150" style="border-radius: 8px;" alt="Dirk Englund"><br>
+        <b>Dirk Englund</b>
+      </a>
+      <p>Quantum; Nanoscale; Photonics</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/james-fujimoto/research-overview.md">
+        <img src="research-quickview/mit/profiles/james-fujimoto-profile.png" width="150" style="border-radius: 8px;" alt="James Fujimoto"><br>
+        <b>James Fujimoto</b>
+      </a>
+      <p>Medical Devices; Quantum Materials; Photonics</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/leslie-kolodziejski/research-overview.md">
+        <img src="research-quickview/mit/profiles/leslie-kolodziejski-profile.png" width="150" style="border-radius: 8px;" alt="Leslie Kolodziejski"><br>
+        <b>Leslie Kolodziejski</b>
+      </a>
+      <p>Quantum; Energy; Nanoscale</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/wojciech-matusik/research-overview.md">
+        <img src="research-quickview/mit/profiles/wojciech-matusik-profile.png" width="150" style="border-radius: 8px;" alt="Wojciech Matusik"><br>
+        <b>Wojciech Matusik</b>
+      </a>
+      <p>Artificial Intelligence; Graphics; Fabrication</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/jelena-notaros/research-overview.md">
+        <img src="research-quickview/mit/profiles/jelena-notaros-profile.png" width="150" style="border-radius: 8px;" alt="Jelena Notaros"><br>
+        <b>Jelena Notaros</b>
+      </a>
+      <p>Medical; Communications; Quantum</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/william-d-oliver/research-overview.md">
+        <img src="research-quickview/mit/profiles/william-d-oliver-profile.png" width="150" style="border-radius: 8px;" alt="William D. Oliver"><br>
+        <b>William D. Oliver</b>
+      </a>
+      <p>Quantum; Nanoscale; Photonics</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/rajeev-ram/research-overview.md">
+        <img src="research-quickview/mit/profiles/rajeev-ram-profile.png" width="150" style="border-radius: 8px;" alt="Rajeev Ram"><br>
+        <b>Rajeev Ram</b>
+      </a>
+      <p>Quantum; Energy; Nanoscale</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/mit/eecs/sixian-you/research-overview.md">
+        <img src="research-quickview/mit/profiles/sixian-you-profile.png" width="150" style="border-radius: 8px;" alt="Sixian You"><br>
+        <b>Sixian You</b>
+      </a>
+      <p>Medical; Quantum; Photonics</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ### [Columbia University](https://www.columbia.edu/)
 
 #### [Mechanical Engineering](https://www.me.columbia.edu/)
