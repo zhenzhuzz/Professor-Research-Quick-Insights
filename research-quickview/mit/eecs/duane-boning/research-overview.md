@@ -1,7 +1,7 @@
 ### Duane Boning
 
 - [Google Scholar](https://scholar.google.com/citations?user=oIdI_PcAAAAJ&hl=en&oi=ao)
-- [Columbia Profile](https://www.eecs.mit.edu/people/duane-boning/)
+- [MIT Profile](https://www.eecs.mit.edu/people/duane-boning/)
 - [Lab Group Website](https://boning.mit.edu/)
 
 ## Q1：
