@@ -419,6 +419,13 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>可持续农业、食品系统、机器学习与遥感</p>
     </td>
+    <td align="center">
+      <a href="research-quickview/mit/me/nicholas-x-fang/research-overview.md">
+        <img src="research-quickview/mit/profiles/nicholas-x-fang-profile.jpg" width="150" style="border-radius: 8px;" alt="Sherrie Wang"><br>
+        <b>Sherrie Wang</b>
+      </a>
+      <p>(今年刚转去HKU港大)</p>
+    </td>
   </tr>
 </table>
 
