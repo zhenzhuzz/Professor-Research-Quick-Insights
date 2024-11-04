@@ -673,6 +673,141 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 
+
+
+### [California Institute of Technology](https://www.caltech.edu/)
+
+#### [Electrical Engineering](https://www.ee.caltech.edu/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/yaser-abu-mostafa/research-overview.md">
+        <img src="research-quickview/caltech/profiles/yaser-abu-mostafa-profile.jpg" width="150" style="border-radius: 8px;" alt="Yaser Abu-Mostafa"><br>
+        <b>Yaser Abu-Mostafa</b>
+      </a>
+      <p>机器学习、计算智能、金融工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/katherine-bouman/research-overview.md">
+        <img src="research-quickview/caltech/profiles/katherine-bouman-profile.jpg" width="150" style="border-radius: 8px;" alt="Katherine L. (Katie) Bouman"><br>
+        <b>Katherine L. (Katie) Bouman</b>
+      </a>
+      <p>计算成像、计算摄影、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/jehoshua-bruck/research-overview.md">
+        <img src="research-quickview/caltech/profiles/jehoshua-bruck-profile.jpg" width="150" style="border-radius: 8px;" alt="Jehoshua (Shuki) Bruck"><br>
+        <b>Jehoshua (Shuki) Bruck</b>
+      </a>
+      <p>信息理论、数据存储、计算生物学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/venkat-chandrasekaran/research-overview.md">
+        <img src="research-quickview/caltech/profiles/venkat-chandrasekaran-profile.jpg" width="150" style="border-radius: 8px;" alt="Venkat Chandrasekaran"><br>
+        <b>Venkat Chandrasekaran</b>
+      </a>
+      <p>优化、统计推断、计算复杂性</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/john-doyle/research-overview.md">
+        <img src="research-quickview/caltech/profiles/john-doyle-profile.jpg" width="150" style="border-radius: 8px;" alt="John Doyle"><br>
+        <b>John Doyle</b>
+      </a>
+      <p>控制理论、复杂系统、系统生物学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/michelle-effros/research-overview.md">
+        <img src="research-quickview/caltech/profiles/michelle-effros-profile.jpg" width="150" style="border-radius: 8px;" alt="Michelle Effros"><br>
+        <b>Michelle Effros</b>
+      </a>
+      <p>信息理论、数据压缩、网络编码</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/azita-emami/research-overview.md">
+        <img src="research-quickview/caltech/profiles/azita-emami-profile.jpg" width="150" style="border-radius: 8px;" alt="Azita Emami"><br>
+        <b>Azita Emami</b>
+      </a>
+      <p>集成电路设计、生物医学器件、光电系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/andrei-faraon/research-overview.md">
+        <img src="research-quickview/caltech/profiles/andrei-faraon-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrei Faraon"><br>
+        <b>Andrei Faraon</b>
+      </a>
+      <p>纳米光子学、量子光学、光学材料</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/glen-george/research-overview.md">
+        <img src="research-quickview/caltech/profiles/glen-george-profile.jpg" width="150" style="border-radius: 8px;" alt="Glen George"><br>
+        <b>Glen George</b>
+      </a>
+      <p>电路设计、嵌入式系统、工程教育</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/georgia-gkioxari/research-overview.md">
+        <img src="research-quickview/caltech/profiles/georgia-gkioxari-profile.jpg" width="150" style="border-radius: 8px;" alt="Georgia Gkioxari"><br>
+        <b>Georgia Gkioxari</b>
+      </a>
+      <p>计算机视觉、机器学习、人工智能</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/ali-hajimiri/research-overview.md">
+        <img src="research-quickview/caltech/profiles/ali-hajimiri-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Hajimiri"><br>
+        <b>Ali Hajimiri</b>
+      </a>
+      <p>电路与系统、微波光子学、无线电力传输</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/babak-hassibi/research-overview.md">
+        <img src="research-quickview/caltech/profiles/babak-hassibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Babak Hassibi"><br>
+        <b>Babak Hassibi</b>
+      </a>
+      <p>通信、信号处理、控制理论</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/victoria-kostina/research-overview.md">
+        <img src="research-quickview/caltech/profiles/victoria-kostina-profile.jpg" width="150" style="border-radius: 8px;" alt="Victoria Kostina"><br>
+        <b>Victoria Kostina</b>
+      </a>
+      <p>信息理论、编码理论、统计学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/steven-low/research-overview.md">
+        <img src="research-quickview/caltech/profiles/steven-low-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven Low"><br>
+        <b>Steven Low</b>
+      </a>
+      <p>网络控制、优化、智能电网</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/alireza-marandi/research-overview.md">
+        <img src="research-quickview/caltech/profiles/alireza-marandi-profile.jpg" width="150" style="border-radius: 8px;" alt="Alireza Marandi"><br>
+        <b>Alireza Marandi</b>
+      </a>
+      <p>非线性光学、量子光子学、激光科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/caltech/ee/mohammad-mirhosseini/research-overview.md">
+        <img src="research-quickview/caltech/profiles/mohammad-mirhosseini-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammad Mirhosseini"><br>
+        <b>Mohammad Mirhosseini</b>
+      </a>
+      <p>量子信息、光子学、超导量子电路</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 ### [Columbia University](https://www.columbia.edu/)
 
 #### [Mechanical Engineering](https://www.me.columbia.edu/)
