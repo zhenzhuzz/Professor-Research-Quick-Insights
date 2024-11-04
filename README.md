@@ -290,7 +290,7 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/mit/profiles/george-barbastathis-profile.jpg" width="150" style="border-radius: 8px;" alt="George Barbastathis"><br>
         <b>George Barbastathis</b>
       </a>
-      <p>光学与光子学、计算成像、逆问题</p>
+      <p>生物医学成像、药物冷冻干燥监控、计算光学与物理驱动AI</p>
     </td>
     <td align="center">
       <a href="research-quickview/mit/me/gang-chen/research-overview.md">
