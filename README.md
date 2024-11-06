@@ -2712,7 +2712,7 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Electrical and Computer Engineering Faculty</summary>
 
-- ** Field**: Microelectronics, Photonics And Nanotechnology
+- **Field**: Microelectronics, Photonics And Nanotechnology
 - [Faculty](https://ece.duke.edu/people?s=&group=&research_themes=&custom_taxonomy=microelectronics-photonics-and-nanotechnology)
 
 <table>
