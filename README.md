@@ -2480,26 +2480,189 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Mechanical Engineering](https://www.me.columbia.edu/)
 
-- **Field**: Manufacturing and Robotics
-
 <table>
   <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/me/sunil-agrawal/research-overview.md">
+        <img src="research-quickview/columbia/profiles/sunil-agrawal-profile.jpg" width="150" style="border-radius: 8px;" alt="Sunil K. Agrawal"><br>
+        <b>Sunil K. Agrawal</b>
+      </a>
+      <p>生物力学、机器人技术和运动学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/gerard-ateshian/research-overview.md">
+        <img src="research-quickview/columbia/profiles/gerard-ateshian-profile.jpg" width="150" style="border-radius: 8px;" alt="Gerard A. Ateshian"><br>
+        <b>Gerard A. Ateshian</b>
+      </a>
+      <p>生物材料的力学行为及其在关节组织中的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/mary-boyce/research-overview.md">
+        <img src="research-quickview/columbia/profiles/mary-boyce-profile.jpg" width="150" style="border-radius: 8px;" alt="Mary Boyce"><br>
+        <b>Mary Boyce</b>
+      </a>
+      <p>材料科学、非线性力学、结构力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/adrian-buganza-tepole/research-overview.md">
+        <img src="research-quickview/columbia/profiles/adrian-buganza-tepole-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrian Buganza Tepole"><br>
+        <b>Adrian Buganza Tepole</b>
+      </a>
+      <p>材料的热和流体动力学，特别是针对生物体的工程设计</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/me/michael-burke/research-overview.md">
+        <img src="research-quickview/columbia/profiles/michael-burke-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Burke"><br>
+        <b>Michael Burke</b>
+      </a>
+      <p>多相流、微流体、流体动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/rene-chevray/research-overview.md">
+        <img src="research-quickview/columbia/profiles/rene-chevray-profile.jpg" width="150" style="border-radius: 8px;" alt="Rene Chevray"><br>
+        <b>Rene Chevray</b>
+      </a>
+      <p>流体力学、动态系统的控制与优化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/matei-ciocarlie/research-overview.md">
+        <img src="research-quickview/columbia/profiles/matei-ciocarlie-profile.jpg" width="150" style="border-radius: 8px;" alt="Matei Ciocarlie"><br>
+        <b>Matei Ciocarlie</b>
+      </a>
+      <p>机器人技术、力学与控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/james-hone/research-overview.md">
+        <img src="research-quickview/columbia/profiles/james-hone-profile.jpg" width="150" style="border-radius: 8px;" alt="James Hone"><br>
+        <b>James Hone</b>
+      </a>
+      <p>纳米技术、材料科学和力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/me/bianca-howard/research-overview.md">
+        <img src="research-quickview/columbia/profiles/bianca-howard-profile.jpg" width="150" style="border-radius: 8px;" alt="Bianca Howard"><br>
+        <b>Bianca Howard</b>
+      </a>
+      <p>材料与机械工程中的智能材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/karen-kasza/research-overview.md">
+        <img src="research-quickview/columbia/profiles/karen-kasza-profile.jpg" width="150" style="border-radius: 8px;" alt="Karen E. Kasza"><br>
+        <b>Karen E. Kasza</b>
+      </a>
+      <p>生物力学、软物质和生物材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/jeffrey-kysar/research-overview.md">
+        <img src="research-quickview/columbia/profiles/jeffrey-kysar-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey W. Kysar"><br>
+        <b>Jeffrey W. Kysar</b>
+      </a>
+      <p>材料力学、复合材料、损伤机制</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/w-michael-lai/research-overview.md">
+        <img src="research-quickview/columbia/profiles/w-michael-lai-profile.jpg" width="150" style="border-radius: 8px;" alt="W. Michael Lai"><br>
+        <b>W. Michael Lai</b>
+      </a>
+      <p>流体力学、材料科学、热传递</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/me/qiao-lin/research-overview.md">
+        <img src="research-quickview/columbia/profiles/qiao-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Qiao Lin"><br>
+        <b>Qiao Lin</b>
+      </a>
+      <p>材料科学、结构力学、计算力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/richard-longman/research-overview.md">
+        <img src="research-quickview/columbia/profiles/richard-longman-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Longman"><br>
+        <b>Richard Longman</b>
+      </a>
+      <p>非线性控制、迭代学习、重复控制算法、航天器姿态控制/机器人/智能医疗设备控制</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/mike-massimino/research-overview.md">
+        <img src="research-quickview/columbia/profiles/mike-massimino-profile.jpg" width="150" style="border-radius: 8px;" alt="Mike Massimino"><br>
+        <b>Mike Massimino</b>
+      </a>
+      <p>专业实践、航天工程、宇航学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/vijay-modi/research-overview.md">
+        <img src="research-quickview/columbia/profiles/vijay-modi-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Modi"><br>
+        <b>Vijay Modi</b>
+      </a>
+      <p>可持续能源解决方案、环境工程</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/me/kristin-myers/research-overview.md">
+        <img src="research-quickview/columbia/profiles/kristin-myers-profile.jpg" width="150" style="border-radius: 8px;" alt="Kristin M. Myers"><br>
+        <b>Kristin M. Myers</b>
+      </a>
+      <p>生物材料、力学、细胞工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/arvind-narayanaswamy/research-overview.md">
+        <img src="research-quickview/columbia/profiles/arvind-narayanaswamy-profile.jpg" width="150" style="border-radius: 8px;" alt="Arvind Narayanaswamy"><br>
+        <b>Arvind Narayanaswamy</b>
+      </a>
+      <p>热力学、流体动力学和能量转换</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/p-james-schuck/research-overview.md">
+        <img src="research-quickview/columbia/profiles/p-james-schuck-profile.jpg" width="150" style="border-radius: 8px;" alt="P. James Schuck"><br>
+        <b>P. James Schuck</b>
+      </a>
+      <p>纳米光子学、激光技术、材料表征</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/vijay-vedula/research-overview.md">
+        <img src="research-quickview/columbia/profiles/vijay-vedula-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Vedula"><br>
+        <b>Vijay Vedula</b>
+      </a>
+      <p>动力学与控制、材料科学、机械设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/me/sinisa-vukelic/research-overview.md">
+        <img src="research-quickview/columbia/profiles/sinisa-vukelic-profile.jpg" width="150" style="border-radius: 8px;" alt="Sinisa Vukelic"><br>
+        <b>Sinisa Vukelic</b>
+      </a>
+      <p>激光加工、材料表征、力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/me/harry-west/research-overview.md">
+        <img src="research-quickview/columbia/profiles/harry-west-profile.jpg" width="150" style="border-radius: 8px;" alt="Harry West"><br>
+        <b>Harry West</b>
+      </a>
+      <p>工业工程与运营研究、机械工程</p>
+    </td>
     <td align="center">
       <a href="research-quickview/columbia/me/y-lawrence-yao/research-overview.md">
         <img src="research-quickview/columbia/profiles/y-lawrence-yao-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Lawrence Yao"><br>
         <b>Y. Lawrence Yao</b>
       </a>
-      <p>激光加工</p>
+      <p>激光加工、材料力学、微纳米制造</p>
     </td>
     <td align="center">
-      <a href="research-quickview/columbia/me/richard-longman/research-overview.md">
-        <img src="research-quickview/columbia/profiles/richard-longman-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard W. Longman"><br>
-        <b>Richard W. Longman</b>
+      <a href="research-quickview/columbia/me/yevgeniy-yesilevskiy/research-overview.md">
+        <img src="research-quickview/columbia/profiles/yevgeniy-yesilevskiy-profile.jpg" width="150" style="border-radius: 8px;" alt="Yevgeniy Yesilevskiy"><br>
+        <b>Yevgeniy Yesilevskiy</b>
       </a>
-      <p>迭代学习控制、重复控制算法、航天器姿态控制/机器人/智能医疗设备控制</p>
+      <p>力学、材料力学、工程教育</p>
     </td>
   </tr>
 </table>
+
 
 #### [Electrical Engineering](https://www.ee.columbia.edu/)
 
