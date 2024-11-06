@@ -1229,6 +1229,492 @@ A repository for quickly accessing research insights into professors' expertise 
 </table>
 
 
+### [Harvard](https://www.harvard.edu/)
+
+#### [Electrical Engineering](https://seas.harvard.edu/faculty/all-research-areas)
+
+- [**Faculty**](https://seas.harvard.edu/electrical-engineering/faculty-research)
+
+- **Field**: Manufacturing and Robotics
+
+- **Field**: Circuits and VLSI
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/donhee-ham/research-overview.md">
+        <img src="research-quickview/harvard/profiles/donhee-ham-profile.jpg" width="150" style="border-radius: 8px;" alt="Donhee Ham"><br>
+        <b>Donhee Ham</b>
+      </a>
+      <p>生物电子学、神经工程、集成电路设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/gage-hills/research-overview.md">
+        <img src="research-quickview/harvard/profiles/gage-hills-profile.jpg" width="150" style="border-radius: 8px;" alt="Gage Hills"><br>
+        <b>Gage Hills</b>
+      </a>
+      <p>集成电路设计、射频电路、毫米波电路</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/paul-horowitz/research-overview.md">
+        <img src="research-quickview/harvard/profiles/paul-horowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Horowitz"><br>
+        <b>Paul Horowitz</b>
+      </a>
+      <p>电子学、实验物理、教育</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/gu-yeon-wei/research-overview.md">
+        <img src="research-quickview/harvard/profiles/gu-yeon-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Gu-Yeon Wei"><br>
+        <b>Gu-Yeon Wei</b>
+      </a>
+      <p>集成电路、计算机体系结构、机器学习硬件</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/woodward-yang/research-overview.md">
+        <img src="research-quickview/harvard/profiles/woodward-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Woodward Yang"><br>
+        <b>Woodward Yang</b>
+      </a>
+      <p>集成电路设计、射频电路、毫米波电路</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Computer Engineering and Architecture
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/david-brooks/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-brooks-profile.jpg" width="150" style="border-radius: 8px;" alt="David Brooks"><br>
+        <b>David Brooks</b>
+      </a>
+      <p>计算机体系结构、能源效率、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/donhee-ham/research-overview.md">
+        <img src="research-quickview/harvard/profiles/donhee-ham-profile.jpg" width="150" style="border-radius: 8px;" alt="Donhee Ham"><br>
+        <b>Donhee Ham</b>
+      </a>
+      <p>生物电子学、神经工程、集成电路设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/gage-hills/research-overview.md">
+        <img src="research-quickview/harvard/profiles/gage-hills-profile.jpg" width="150" style="border-radius: 8px;" alt="Gage Hills"><br>
+        <b>Gage Hills</b>
+      </a>
+      <p>集成电路设计、射频电路、毫米波电路</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/vijay-janapa-reddi/research-overview.md">
+        <img src="research-quickview/harvard/profiles/vijay-janapa-reddi-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Janapa Reddi"><br>
+        <b>Vijay Janapa Reddi</b>
+      </a>
+      <p>计算机体系结构、能源效率、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/h-t-kung/research-overview.md">
+        <img src="research-quickview/harvard/profiles/h-t-kung-profile.jpg" width="150" style="border-radius: 8px;" alt="H.T. Kung"><br>
+        <b>H.T. Kung</b>
+      </a>
+      <p>计算机体系结构、并行计算、网络</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/michael-d-smith/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-d-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael D. Smith"><br>
+        <b>Michael D. Smith</b>
+      </a>
+      <p>计算机体系结构、并行计算、网络</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/gu-yeon-wei/research-overview.md">
+        <img src="research-quickview/harvard/profiles/gu-yeon-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Gu-Yeon Wei"><br>
+        <b>Gu-Yeon Wei</b>
+      </a>
+      <p>集成电路、计算机体系结构、机器学习硬件</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/woodward-yang/research-overview.md">
+        <img src="research-quickview/harvard/profiles/woodward-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Woodward Yang"><br>
+        <b>Woodward Yang</b>
+      </a>
+      <p>集成电路设计、射频电路、毫米波电路</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Photonics
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/federico-capasso/research-overview.md">
+        <img src="research-quickview/harvard/profiles/federico-capasso-profile.jpg" width="150" style="border-radius: 8px;" alt="Federico Capasso"><br>
+        <b>Federico Capasso</b>
+      </a>
+      <p>光子学、纳米光子学、量子材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/lene-v-hau/research-overview.md">
+        <img src="research-quickview/harvard/profiles/lene-v-hau-profile.jpg" width="150" style="border-radius: 8px;" alt="Lene V. Hau"><br>
+        <b>Lene V. Hau</b>
+      </a>
+      <p>光学、量子光学、冷原子物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/gage-hills/research-overview.md">
+        <img src="research-quickview/harvard/profiles/gage-hills-profile.jpg" width="150" style="border-radius: 8px;" alt="Gage Hills"><br>
+        <b>Gage Hills</b>
+      </a>
+      <p>光子学、射频电路设计、毫米波电路</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/evelyn-hu/research-overview.md">
+        <img src="research-quickview/harvard/profiles/evelyn-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Evelyn Hu"><br>
+        <b>Evelyn Hu</b>
+      </a>
+      <p>纳米光子学、量子工程、光电材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/marko-loncar/research-overview.md">
+        <img src="research-quickview/harvard/profiles/marko-loncar-profile.jpg" width="150" style="border-radius: 8px;" alt="Marko Loncar"><br>
+        <b>Marko Loncar</b>
+      </a>
+      <p>纳米光子学、量子光学、集成光学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/eric-mazur/research-overview.md">
+        <img src="research-quickview/harvard/profiles/eric-mazur-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Mazur"><br>
+        <b>Eric Mazur</b>
+      </a>
+      <p>光子学、光学材料、教育技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/maxim-prigozhin/research-overview.md">
+        <img src="research-quickview/harvard/profiles/maxim-prigozhin-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Prigozhin"><br>
+        <b>Maxim Prigozhin</b>
+      </a>
+      <p>光学、非线性光学、光子学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/kiyoul-yang/research-overview.md">
+        <img src="research-quickview/harvard/profiles/kiyoul-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kiyoul Yang"><br>
+        <b>Kiyoul Yang</b>
+      </a>
+      <p>光学、计算成像、机器学习</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Robotics and Control
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/martin-bechthold/research-overview.md">
+        <img src="research-quickview/harvard/profiles/martin-bechthold-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin Bechthold"><br>
+        <b>Martin Bechthold</b>
+      </a>
+      <p>机器人控制、机械设计、自动化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/david-clarke/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-clarke-profile.jpg" width="150" style="border-radius: 8px;" alt="David Clarke"><br>
+        <b>David Clarke</b>
+      </a>
+      <p>材料科学、机器人技术、传感器</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/yilun-du/research-overview.md">
+        <img src="research-quickview/harvard/profiles/yilun-du-profile.jpg" width="150" style="border-radius: 8px;" alt="Yilun Du"><br>
+        <b>Yilun Du</b>
+      </a>
+      <p>机器人技术、人工智能、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/stephanie-gil/research-overview.md">
+        <img src="research-quickview/harvard/profiles/stephanie-gil-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephanie Gil"><br>
+        <b>Stephanie Gil</b>
+      </a>
+      <p>机器学习、智能机器人、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/robert-d-howe/research-overview.md">
+        <img src="research-quickview/harvard/profiles/robert-d-howe-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert D. Howe"><br>
+        <b>Robert D. Howe</b>
+      </a>
+      <p>机器人控制、机械设计、医疗机器人</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/vijay-janapa-reddi/research-overview.md">
+        <img src="research-quickview/harvard/profiles/vijay-janapa-reddi-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Janapa Reddi"><br>
+        <b>Vijay Janapa Reddi</b>
+      </a>
+      <p>计算机体系结构、机器人、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/na-li/research-overview.md">
+        <img src="research-quickview/harvard/profiles/na-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Na Li"><br>
+        <b>Na Li</b>
+      </a>
+      <p>机器人、机器学习、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/l-mahadevan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/l-mahadevan-profile.jpg" width="150" style="border-radius: 8px;" alt="L Mahadevan"><br>
+        <b>L Mahadevan</b>
+      </a>
+      <p>生物力学、软体机器人、流体力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/patrick-slade/research-overview.md">
+        <img src="research-quickview/harvard/profiles/patrick-slade-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick Slade"><br>
+        <b>Patrick Slade</b>
+      </a>
+      <p>机器人学、控制理论、机械设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/maurice-smith/research-overview.md">
+        <img src="research-quickview/harvard/profiles/maurice-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Maurice Smith"><br>
+        <b>Maurice Smith</b>
+      </a>
+      <p>材料科学、机器人技术、传感器技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/shriya-srinivasan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/shriya-srinivasan-profile.jpg" width="150" style="border-radius: 8px;" alt="Shriya Srinivasan"><br>
+        <b>Shriya Srinivasan</b>
+      </a>
+      <p>生物机器人、人工智能、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/conor-j-walsh/research-overview.md">
+        <img src="research-quickview/harvard/profiles/conor-j-walsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Conor J Walsh"><br>
+        <b>Conor J Walsh</b>
+      </a>
+      <p>生物医疗机器人、控制系统、传感器</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/justin-werfel/research-overview.md">
+        <img src="research-quickview/harvard/profiles/justin-werfel-profile.jpg" width="150" style="border-radius: 8px;" alt="Justin Werfel"><br>
+        <b>Justin Werfel</b>
+      </a>
+      <p>机器人、人工智能、控制理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/robert-j-wood/research-overview.md">
+        <img src="research-quickview/harvard/profiles/robert-j-wood-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert J. Wood"><br>
+        <b>Robert J. Wood</b>
+      </a>
+      <p>微型机器人、人工智能、控制理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/heng-yang/research-overview.md">
+        <img src="research-quickview/harvard/profiles/heng-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Heng Yang"><br>
+        <b>Heng Yang</b>
+      </a>
+      <p>机器学习、计算机视觉、机器人技术</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Science and Engineering for ClimateTech
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/joanna-aizenberg/research-overview.md">
+        <img src="research-quickview/harvard/profiles/joanna-aizenberg-profile.jpg" width="150" style="border-radius: 8px;" alt="Joanna Aizenberg"><br>
+        <b>Joanna Aizenberg</b>
+      </a>
+      <p>材料科学、可持续技术、气候变化研究</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/michael-j-aziz/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-j-aziz-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael J. Aziz"><br>
+        <b>Michael J. Aziz</b>
+      </a>
+      <p>能量存储、材料科学、气候变化技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/michael-p-brenner/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-p-brenner-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael P. Brenner"><br>
+        <b>Michael P. Brenner</b>
+      </a>
+      <p>流体力学、气候科学、计算物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/david-brooks/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-brooks-profile.jpg" width="150" style="border-radius: 8px;" alt="David Brooks"><br>
+        <b>David Brooks</b>
+      </a>
+      <p>气候技术、可持续计算、网络架构</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/david-clarke/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-clarke-profile.jpg" width="150" style="border-radius: 8px;" alt="David Clarke"><br>
+        <b>David Clarke</b>
+      </a>
+      <p>材料科学、机器人技术、气候变化技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/lene-v-hau/research-overview.md">
+        <img src="research-quickview/harvard/profiles/lene-v-hau-profile.jpg" width="150" style="border-radius: 8px;" alt="Lene V. Hau"><br>
+        <b>Lene V. Hau</b>
+      </a>
+      <p>量子光学、气候科学、光子学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/frank-n-keutsch/research-overview.md">
+        <img src="research-quickview/harvard/profiles/frank-n-keutsch-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank N Keutsch"><br>
+        <b>Frank N Keutsch</b>
+      </a>
+      <p>大气科学、气候变化、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/petros-koumoutsakos/research-overview.md">
+        <img src="research-quickview/harvard/profiles/petros-koumoutsakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Petros Koumoutsakos"><br>
+        <b>Petros Koumoutsakos</b>
+      </a>
+      <p>计算流体力学、气候变化模拟、气候技术</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/boris-kozinsky/research-overview.md">
+        <img src="research-quickview/harvard/profiles/boris-kozinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kozinsky"><br>
+        <b>Boris Kozinsky</b>
+      </a>
+      <p>材料科学、计算材料学、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/jennifer-lewis/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jennifer-lewis-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Lewis"><br>
+        <b>Jennifer Lewis</b>
+      </a>
+      <p>材料科学、3D打印、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/na-li/research-overview.md">
+        <img src="research-quickview/harvard/profiles/na-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Na Li"><br>
+        <b>Na Li</b>
+      </a>
+      <p>机器人、机器学习、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/vinothan-n-manoharan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/vinothan-n-manoharan-profile.jpg" width="150" style="border-radius: 8px;" alt="Vinothan N. Manoharan"><br>
+        <b>Vinothan N. Manoharan</b>
+      </a>
+      <p>材料科学、气候技术、流体力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/zachary-schiffer/research-overview.md">
+        <img src="research-quickview/harvard/profiles/zachary-schiffer-profile.jpg" width="150" style="border-radius: 8px;" alt="Zachary Schiffer"><br>
+        <b>Zachary Schiffer</b>
+      </a>
+      <p>气候技术、环境工程、材料科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/john-h-shaw/research-overview.md">
+        <img src="research-quickview/harvard/profiles/john-h-shaw-profile.jpg" width="150" style="border-radius: 8px;" alt="John H. Shaw"><br>
+        <b>John H. Shaw</b>
+      </a>
+      <p>气候技术、环境科学、材料科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/le-xie/research-overview.md">
+        <img src="research-quickview/harvard/profiles/le-xie-profile.jpg" width="150" style="border-radius: 8px;" alt="Le Xie"><br>
+        <b>Le Xie</b>
+      </a>
+      <p>电力系统、智能电网、气候变化技术</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Signal Processing
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/demba-ba/research-overview.md">
+        <img src="research-quickview/harvard/profiles/demba-ba-profile.jpg" width="150" style="border-radius: 8px;" alt="Demba Ba"><br>
+        <b>Demba Ba</b>
+      </a>
+      <p>信号处理、统计学习、信息理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/flavio-p-calmon/research-overview.md">
+        <img src="research-quickview/harvard/profiles/flavio-p-calmon-profile.jpg" width="150" style="border-radius: 8px;" alt="Flavio P. Calmon"><br>
+        <b>Flavio P. Calmon</b>
+      </a>
+      <p>信息理论、统计信号处理、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/frank-j-doyle/research-overview.md">
+        <img src="research-quickview/harvard/profiles/frank-j-doyle-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank J. Doyle"><br>
+        <b>Frank J. Doyle</b>
+      </a>
+      <p>生物工程、信号处理、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/h-t-kung/research-overview.md">
+        <img src="research-quickview/harvard/profiles/h-t-kung-profile.jpg" width="150" style="border-radius: 8px;" alt="H.T. Kung"><br>
+        <b>H.T. Kung</b>
+      </a>
+      <p>计算机体系结构、并行计算、信号处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/jia-liu/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jia-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jia Liu"><br>
+        <b>Jia Liu</b>
+      </a>
+      <p>信号处理、机器学习、数据分析</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/yue-lu/research-overview.md">
+        <img src="research-quickview/harvard/profiles/yue-lu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yue Lu"><br>
+        <b>Yue Lu</b>
+      </a>
+      <p>图像处理、信号处理、深度学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/christin-y-sander/research-overview.md">
+        <img src="research-quickview/harvard/profiles/christin-y-sander-profile.jpg" width="150" style="border-radius: 8px;" alt="Christin Y. Sander"><br>
+        <b>Christin Y. Sander</b>
+      </a>
+      <p>信号处理、统计学习、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/conor-j-walsh/research-overview.md">
+        <img src="research-quickview/harvard/profiles/conor-j-walsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Conor J Walsh"><br>
+        <b>Conor J Walsh</b>
+      </a>
+      <p>生物医疗信号处理、智能机器人、机器学习</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/heng-yang/research-overview.md">
+        <img src="research-quickview/harvard/profiles/heng-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Heng Yang"><br>
+        <b>Heng Yang</b>
+      </a>
+      <p>信号处理、机器学习、图像处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/woodward-yang/research-overview.md">
+        <img src="research-quickview/harvard/profiles/woodward-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Woodward Yang"><br>
+        <b>Woodward Yang</b>
+      </a>
+      <p>信号处理、机器学习、图像分析</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/ee/todd-zickler/research-overview.md">
+        <img src="research-quickview/harvard/profiles/todd-zickler-profile.jpg" width="150" style="border-radius: 8px;" alt="Todd Zickler"><br>
+        <b>Todd Zickler</b>
+      </a>
+      <p>计算机视觉、信号处理、图像重建</p>
+    </td>
+  </tr>
+</table>
+
+ 
+
 
 
 ### [Columbia University](https://www.columbia.edu/)
