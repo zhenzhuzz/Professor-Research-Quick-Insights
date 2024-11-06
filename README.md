@@ -2807,6 +2807,391 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+
+- **Field**: [Engineering Physics](https://ece.duke.edu/people?s=&group=&research_themes=&custom_taxonomy=engineering-physics)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/steven-cummer/research-overview.md">
+        <img src="research-quickview/duke/profiles/steven-cummer-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven A. Cummer"><br>
+        <b>Steven A. Cummer</b>
+      </a>
+      <p>电磁学的理论和实验问题，涉及地球物理遥感和工程电磁材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/michael-gehm/research-overview.md">
+        <img src="research-quickview/duke/profiles/michael-gehm-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael E. Gehm"><br>
+        <b>Michael E. Gehm</b>
+      </a>
+      <p>主要研究计算和压缩传感器及所有模式的测量，特别是电磁/光学从RF到X射线及各种质谱</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/jungsang-kim/research-overview.md">
+        <img src="research-quickview/duke/profiles/jungsang-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Jungsang Kim"><br>
+        <b>Jungsang Kim</b>
+      </a>
+      <p>量子计算、陷阱离子、量子信息科学、新型光子器件、量子计算机的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/natalia-litchinitser/research-overview.md">
+        <img src="research-quickview/duke/profiles/natalia-litchinitser-profile.jpg" width="150" style="border-radius: 8px;" alt="Natalia Litchinitser"><br>
+        <b>Natalia Litchinitser</b>
+      </a>
+      <p>纳米光子学；光子超材料；非线性光学；光纤光学；光子晶体光纤</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/jerome-lynch/research-overview.md">
+        <img src="research-quickview/duke/profiles/jerome-lynch-profile.jpg" width="150" style="border-radius: 8px;" alt="Jerome Peter Lynch"><br>
+        <b>Jerome Peter Lynch</b>
+      </a>
+      <p>结构健康监测；网络物理系统架构；基础设施韧性；多功能纳米复合材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/iman-marvian/research-overview.md">
+        <img src="research-quickview/duke/profiles/iman-marvian-profile.jpg" width="150" style="border-radius: 8px;" alt="Iman Marvian"><br>
+        <b>Iman Marvian</b>
+      </a>
+      <p>量子信息与计算理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/maiken-mikkelsen/research-overview.md">
+        <img src="research-quickview/duke/profiles/maiken-mikkelsen-profile.jpg" width="150" style="border-radius: 8px;" alt="Maiken Mikkelsen"><br>
+        <b>Maiken Mikkelsen</b>
+      </a>
+      <p>量子纳米光子学、等离子体学、在人工结构纳米材料中的光-物质相互作用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/christopher-monroe/research-overview.md">
+        <img src="research-quickview/duke/profiles/christopher-monroe-profile.jpg" width="150" style="border-radius: 8px;" alt="Christopher R Monroe"><br>
+        <b>Christopher R Monroe</b>
+      </a>
+      <p>量子物理及其在量子信息科学中的应用</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/crystal-noel/research-overview.md">
+        <img src="research-quickview/duke/profiles/crystal-noel-profile.jpg" width="150" style="border-radius: 8px;" alt="Crystal Noel"><br>
+        <b>Crystal Noel</b>
+      </a>
+      <p>量子计算与模拟、集成光子学、陷阱离子系统的可扩展性、表面电场噪声</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/willie-padilla/research-overview.md">
+        <img src="research-quickview/duke/profiles/willie-padilla-profile.jpg" width="150" style="border-radius: 8px;" alt="Willie John Padilla"><br>
+        <b>Willie John Padilla</b>
+      </a>
+      <p>电磁超材料和超表面的理论与实验研究，及其在成像和传感中的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/guillermo-sapiro/research-overview.md">
+        <img src="research-quickview/duke/profiles/guillermo-sapiro-profile.jpg" width="150" style="border-radius: 8px;" alt="Guillermo Sapiro"><br>
+        <b>Guillermo Sapiro</b>
+      </a>
+      <p>图像与视频处理、计算机视觉、计算图形、医学成像、脑成像</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/david-smith/research-overview.md">
+        <img src="research-quickview/duke/profiles/david-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="David R. Smith"><br>
+        <b>David R. Smith</b>
+      </a>
+      <p>电磁超材料的理论、仿真及在微波和光学领域的应用</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: [Computer Engineering](https://ece.duke.edu/people?s=&group=&research_themes=&custom_taxonomy=computer-engineering)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/tyler-bletsch/research-overview.md">
+        <img src="research-quickview/duke/profiles/tyler-bletsch-profile.jpg" width="150" style="border-radius: 8px;" alt="Tyler K Bletsch"><br>
+        <b>Tyler K Bletsch</b>
+      </a>
+      <p>软件安全、机器人技术、项目导向教育和数据中心效率</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/john-board/research-overview.md">
+        <img src="research-quickview/duke/profiles/john-board-profile.jpg" width="150" style="border-radius: 8px;" alt="John A. Board"><br>
+        <b>John A. Board</b>
+      </a>
+      <p>高性能科学计算与仿真、新型计算架构、集群计算和并行处理；普遍计算</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/boyuan-chen/research-overview.md">
+        <img src="research-quickview/duke/profiles/boyuan-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Boyuan Chen"><br>
+        <b>Boyuan Chen</b>
+      </a>
+      <p>机器人技术、计算机视觉、机器学习、科学中的人工智能</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/tingjun-chen/research-overview.md">
+        <img src="research-quickview/duke/profiles/tingjun-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Tingjun Chen"><br>
+        <b>Tingjun Chen</b>
+      </a>
+      <p>无线网络、下一代无线和光网络、边缘云和计算、物联网、移动和嵌入式系统</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/yiran-chen/research-overview.md">
+        <img src="research-quickview/duke/profiles/yiran-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yiran Chen"><br>
+        <b>Yiran Chen</b>
+      </a>
+      <p>新兴存储技术、嵌入式系统、边缘计算和移动应用、神经形态计算、深度学习和系统安全</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/shaundra-daily/research-overview.md">
+        <img src="research-quickview/duke/profiles/shaundra-daily-profile.jpg" width="150" style="border-radius: 8px;" alt="Shaundra Daily"><br>
+        <b>Shaundra Daily</b>
+      </a>
+      <p>包容性身份计算、以人为本的设计与工程、公正中心的STEM教育</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/neil-gong/research-overview.md">
+        <img src="research-quickview/duke/profiles/neil-gong-profile.jpg" width="150" style="border-radius: 8px;" alt="Neil Gong"><br>
+        <b>Neil Gong</b>
+      </a>
+      <p>网络安全和可信AI</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/maria-gorlatova/research-overview.md">
+        <img src="research-quickview/duke/profiles/maria-gorlatova-profile.jpg" width="150" style="border-radius: 8px;" alt="Maria Gorlatova"><br>
+        <b>Maria Gorlatova</b>
+      </a>
+      <p>新兴移动普适系统和物联网的架构、算法和协议</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/andrew-hilton/research-overview.md">
+        <img src="research-quickview/duke/profiles/andrew-hilton-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Douglas Hilton"><br>
+        <b>Andrew Douglas Hilton</b>
+      </a>
+      <p>计算机架构，特别是安全和能效性能的架构支持</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/hai-li/research-overview.md">
+        <img src="research-quickview/duke/profiles/hai-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Hai Hai 'Helen' Li"><br>
+        <b>Hai Hai "Helen" Li</b>
+      </a>
+      <p>神经形态计算系统、机器学习加速与可信AI、新兴存储技术、低功耗电路和系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/xin-li/research-overview.md">
+        <img src="research-quickview/duke/profiles/xin-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xin Li"><br>
+        <b>Xin Li</b>
+      </a>
+      <p>集成电路、信号处理与数据分析</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/genevieve-lipp/research-overview.md">
+        <img src="research-quickview/duke/profiles/genevieve-lipp-profile.jpg" width="150" style="border-radius: 8px;" alt="Genevieve Lipp"><br>
+        <b>Genevieve Lipp</b>
+      </a>
+      <p>第一年计算项目的主任，电气与计算机工程助理教授</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/miroslav-pajic/research-overview.md">
+        <img src="research-quickview/duke/profiles/miroslav-pajic-profile.jpg" width="150" style="border-radius: 8px;" alt="Miroslav Pajic"><br>
+        <b>Miroslav Pajic</b>
+      </a>
+      <p>设计与分析自主网络物理系统，嵌入式系统、AI、学习与控制、网络物理系统安全与高保障自主性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/javier-pastorino/research-overview.md">
+        <img src="research-quickview/duke/profiles/javier-pastorino-profile.jpg" width="150" style="border-radius: 8px;" alt="Javier Pastorino"><br>
+        <b>Javier Pastorino</b>
+      </a>
+      <p>软件工程和数据管理，人工智能，机器学习，隐私，网络安全，计算机工程教育</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/jian-pei/research-overview.md">
+        <img src="research-quickview/duke/profiles/jian-pei-profile.jpg" width="150" style="border-radius: 8px;" alt="Jian Pei"><br>
+        <b>Jian Pei</b>
+      </a>
+      <p>计算机科学的亚瑟S.皮尔斯杰出教授</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/afsaneh-rahbar/research-overview.md">
+        <img src="research-quickview/duke/profiles/afsaneh-rahbar-profile.jpg" width="150" style="border-radius: 8px;" alt="Afsaneh Rahbar"><br>
+        <b>Afsaneh Rahbar</b>
+      </a>
+      <p>编译器、高性能计算、计算集群、分布式系统、数据中心网络</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/michael-reiter/research-overview.md">
+        <img src="research-quickview/duke/profiles/michael-reiter-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Reiter"><br>
+        <b>Michael Reiter</b>
+      </a>
+      <p>计算机与通信安全、容错分布式计算、应用密码学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/cynthia-rudin/research-overview.md">
+        <img src="research-quickview/duke/profiles/cynthia-rudin-profile.jpg" width="150" style="border-radius: 8px;" alt="Cynthia D. Rudin"><br>
+        <b>Cynthia D. Rudin</b>
+      </a>
+      <p>Gilbert，Louis和Edward Lehrman杰出教授</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/daniel-sorin/research-overview.md">
+        <img src="research-quickview/duke/profiles/daniel-sorin-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel J. Sorin"><br>
+        <b>Daniel J. Sorin</b>
+      </a>
+      <p>计算机架构，设计微架构以便于验证，提高计算机系统容错性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/kishor-trivedi/research-overview.md">
+        <img src="research-quickview/duke/profiles/kishor-trivedi-profile.jpg" width="150" style="border-radius: 8px;" alt="Kishor S. Trivedi"><br>
+        <b>Kishor S. Trivedi</b>
+      </a>
+      <p>马尔可夫模型、故障树、随机Petri网、可靠性建模</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/emily-wenger/research-overview.md">
+        <img src="research-quickview/duke/profiles/emily-wenger-profile.jpg" width="150" style="border-radius: 8px;" alt="Emily Wenger"><br>
+        <b>Emily Wenger</b>
+      </a>
+      <p>电气与计算机工程助理教授</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/rabih-younes/research-overview.md">
+        <img src="research-quickview/duke/profiles/rabih-younes-profile.jpg" width="150" style="border-radius: 8px;" alt="Rabih Younes"><br>
+        <b>Rabih Younes</b>
+      </a>
+      <p>本科生研究生项目副主任，电气与计算机工程助理教授</p>
+    </td>
+  </tr>
+</table>
+- **Field**: [Signal and Information Processing](https://ece.duke.edu/people?s=&group=&research_themes=&custom_taxonomy=signal-and-information-processing)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/robert-calderbank/research-overview.md">
+        <img src="research-quickview/duke/profiles/robert-calderbank-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Calderbank"><br>
+        <b>Robert Calderbank</b>
+      </a>
+      <p>理论与实验电磁问题与地球物理遥感、工程电磁材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/lawrence-carin/research-overview.md">
+        <img src="research-quickview/duke/profiles/lawrence-carin-profile.jpg" width="150" style="border-radius: 8px;" alt="Lawrence Carin"><br>
+        <b>Lawrence Carin</b>
+      </a>
+      <p>应用统计与机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/xiang-cheng/research-overview.md">
+        <img src="research-quickview/duke/profiles/xiang-cheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiang Cheng"><br>
+        <b>Xiang Cheng</b>
+      </a>
+      <p>访客助理教授，电气与计算机工程系</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/leslie-collins/research-overview.md">
+        <img src="research-quickview/duke/profiles/leslie-collins-profile.jpg" width="150" style="border-radius: 8px;" alt="Leslie M. Collins"><br>
+        <b>Leslie M. Collins</b>
+      </a>
+      <p>基于物理的机器学习算法，解决听障问题的修复策略</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/michael-gustafson/research-overview.md">
+        <img src="research-quickview/duke/profiles/michael-gustafson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Richard Gustafson"><br>
+        <b>Michael Richard Gustafson</b>
+      </a>
+      <p>图像分析与信息提取的计算方法、离散事件仿真、课程开发与部署</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/lisa-huettel/research-overview.md">
+        <img src="research-quickview/duke/profiles/lisa-huettel-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa Gresham Huettel"><br>
+        <b>Lisa Gresham Huettel</b>
+      </a>
+      <p>工程教育、教学法和课程开发、统计信号处理的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/jeffrey-krolik/research-overview.md">
+        <img src="research-quickview/duke/profiles/jeffrey-krolik-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey L. Krolik"><br>
+        <b>Jeffrey L. Krolik</b>
+      </a>
+      <p>基于物理和统计的信号处理，传感器阵列处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/douglas-nowacek/research-overview.md">
+        <img src="research-quickview/duke/profiles/douglas-nowacek-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas Nowacek"><br>
+        <b>Douglas Nowacek</b>
+      </a>
+      <p>海洋哺乳动物行为与声学生态学、海洋噪声</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/henry-pfister/research-overview.md">
+        <img src="research-quickview/duke/profiles/henry-pfister-profile.jpg" width="150" style="border-radius: 8px;" alt="Henry Pfister"><br>
+        <b>Henry Pfister</b>
+      </a>
+      <p>信息理论、通信、概率图模型、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/galen-reeves/research-overview.md">
+        <img src="research-quickview/duke/profiles/galen-reeves-profile.jpg" width="150" style="border-radius: 8px;" alt="Galen Reeves"><br>
+        <b>Galen Reeves</b>
+      </a>
+      <p>信息理论、高维统计推断、统计信号处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/christ-richmond/research-overview.md">
+        <img src="research-quickview/duke/profiles/christ-richmond-profile.jpg" width="150" style="border-radius: 8px;" alt="Christ D Richmond"><br>
+        <b>Christ D Richmond</b>
+      </a>
+      <p>电气与计算机工程系教授</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/cynthia-rudin/research-overview.md">
+        <img src="research-quickview/duke/profiles/cynthia-rudin-profile.jpg" width="150" style="border-radius: 8px;" alt="Cynthia D. Rudin"><br>
+        <b>Cynthia D. Rudin</b>
+      </a>
+      <p>吉尔伯特、路易斯与爱德华·勒尔曼杰出教授</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/stacy-tantum/research-overview.md">
+        <img src="research-quickview/duke/profiles/stacy-tantum-profile.jpg" width="150" style="border-radius: 8px;" alt="Stacy L. Tantum"><br>
+        <b>Stacy L. Tantum</b>
+      </a>
+      <p>基于物理的统计信号处理、上下文感知机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/vahid-tarokh/research-overview.md">
+        <img src="research-quickview/duke/profiles/vahid-tarokh-profile.jpg" width="150" style="border-radius: 8px;" alt="Vahid Tarokh"><br>
+        <b>Vahid Tarokh</b>
+      </a>
+      <p>AI基础、信号处理基础、学习表示、迁移学习、元学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/yu-tong/research-overview.md">
+        <img src="research-quickview/duke/profiles/yu-tong-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu Tong"><br>
+        <b>Yu Tong</b>
+      </a>
+      <p>数学系助理教授</p>
+    </td>
+  </tr>
+</table>
+
+
 </details>
 
 #### [Mechanical Engineering and Materials Science](https://mems.duke.edu/)
