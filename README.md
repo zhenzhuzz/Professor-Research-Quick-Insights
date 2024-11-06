@@ -178,6 +178,9 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [UCLA](https://www.ucla.edu/)
 
+<details>
+<summary>Click to expand UCLA Professors</summary>
+
 #### [Electrical & Computer Engineering](https://www.ee.ucla.edu/ucla-ee-research/)
 
 - **Field**: Semiconductors and Packaging Technology
@@ -283,9 +286,18 @@ A repository for quickly accessing research insights into professors' expertise 
       </td>
     </tr>
   </table>
+</details>
+
+<!-- End of UCLA Section -->
+<!-- End of UCLA Section -->
+<!-- End of UCLA Section -->
+
 
 ### [MIT](https://www.mit.edu/)
 
+<details>
+<summary>Click to expand MIT Professors</summary>
+  
 #### [Mechanical Engineering](https://meche.mit.edu/)
 
 - **Field**: Micro and Nanotechnology
@@ -677,13 +689,20 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+</details>
+
+<!-- End of MIT Section -->
+<!-- End of MIT Section -->
+<!-- End of MIT Section -->
 
 
 
 
 
+### [Caltech](https://www.caltech.edu/)
 
-### [California Institute of Technology](https://www.caltech.edu/)
+<details>
+<summary>Click to expand Caltech Professors</summary>
 
 #### [Mechanical and Civil Engineering](https://mce.caltech.edu/)
 
@@ -883,7 +902,6 @@ A repository for quickly accessing research insights into professors' expertise 
 </table>
 
  
-
 
 
 #### [Electrical Engineering](https://www.ee.caltech.edu/)
@@ -1235,9 +1253,717 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+</details>
+
+<!-- End of Caltech Section -->
+<!-- End of Caltech Section -->
+<!-- End of Caltech Section -->
 
 
 ### [Harvard](https://www.harvard.edu/)
+
+<details>
+<summary>Click to expand Harvard Professors</summary>
+
+#### [Materials and Mechanical Engineering](https://seas.harvard.edu/materials-science-mechanical-engineering/faculty-research)
+
+- [**Faculty**](https://seas.harvard.edu/materials-science-mechanical-engineering/faculty-research)
+
+<details>
+<summary>Materials and Mechanical Engineering Faculty</summary>
+
+- **Field**: Computational Materials Science
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/efthimios-kaxiras/research-overview.md">
+        <img src="research-quickview/harvard/profiles/efthimios-kaxiras-profile.jpg" width="150" style="border-radius: 8px;" alt="Efthimios Kaxiras"><br>
+        <b>Efthimios Kaxiras</b>
+      </a>
+      <p>计算材料科学、量子物理、纳米材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/boris-kozinsky/research-overview.md">
+        <img src="research-quickview/harvard/profiles/boris-kozinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kozinsky"><br>
+        <b>Boris Kozinsky</b>
+      </a>
+      <p>计算材料科学、机器学习、材料建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/xin-li/research-overview.md">
+        <img src="research-quickview/harvard/profiles/xin-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xin Li"><br>
+        <b>Xin Li</b>
+      </a>
+      <p>计算材料、纳米技术、光电材料</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Fluid Mechanics
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/michael-p-brenner/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-p-brenner-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael P. Brenner"><br>
+        <b>Michael P. Brenner</b>
+      </a>
+      <p>流体力学、气候科学、非线性动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/brian-f-farrell/research-overview.md">
+        <img src="research-quickview/harvard/profiles/brian-f-farrell-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian F. Farrell"><br>
+        <b>Brian F. Farrell</b>
+      </a>
+      <p>流体力学、气候动力学、气候变化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/petros-koumoutsakos/research-overview.md">
+        <img src="research-quickview/harvard/profiles/petros-koumoutsakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Petros Koumoutsakos"><br>
+        <b>Petros Koumoutsakos</b>
+      </a>
+      <p>计算流体力学、气候变化模拟、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/marianna-katherine-linz/research-overview.md">
+        <img src="research-quickview/harvard/profiles/marianna-katherine-linz-profile.jpg" width="150" style="border-radius: 8px;" alt="Marianna Katherine Linz"><br>
+        <b>Marianna Katherine Linz</b>
+      </a>
+      <p>流体力学、波动理论、非线性动力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/maxim-prigozhin/research-overview.md">
+        <img src="research-quickview/harvard/profiles/maxim-prigozhin-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Prigozhin"><br>
+        <b>Maxim Prigozhin</b>
+      </a>
+      <p>流体力学、复杂系统、材料科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/james-r-rice/research-overview.md">
+        <img src="research-quickview/harvard/profiles/james-r-rice-profile.jpg" width="150" style="border-radius: 8px;" alt="James R. Rice"><br>
+        <b>James R. Rice</b>
+      </a>
+      <p>固体力学、材料科学、流体动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/fiamma-straneo/research-overview.md">
+        <img src="research-quickview/harvard/profiles/fiamma-straneo-profile.jpg" width="150" style="border-radius: 8px;" alt="Fiamma Straneo"><br>
+        <b>Fiamma Straneo</b>
+      </a>
+      <p>海洋学、流体动力学、气候变化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/eli-tziperman/research-overview.md">
+        <img src="research-quickview/harvard/profiles/eli-tziperman-profile.jpg" width="150" style="border-radius: 8px;" alt="Eli Tziperman"><br>
+        <b>Eli Tziperman</b>
+      </a>
+      <p>气候动力学、流体力学、气候变化</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/robin-wordsworth/research-overview.md">
+        <img src="research-quickview/harvard/profiles/robin-wordsworth-profile.jpg" width="150" style="border-radius: 8px;" alt="Robin Wordsworth"><br>
+        <b>Robin Wordsworth</b>
+      </a>
+      <p>气候科学、气候动力学、行星科学</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Materials
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/joanna-aizenberg/research-overview.md">
+        <img src="research-quickview/harvard/profiles/joanna-aizenberg-profile.jpg" width="150" style="border-radius: 8px;" alt="Joanna Aizenberg"><br>
+        <b>Joanna Aizenberg</b>
+      </a>
+      <p>智能材料、仿生材料、纳米技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/michael-j-aziz/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-j-aziz-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael J. Aziz"><br>
+        <b>Michael J. Aziz</b>
+      </a>
+      <p>能量存储、材料科学、气候变化技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/martin-bechthold/research-overview.md">
+        <img src="research-quickview/harvard/profiles/martin-bechthold-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin Bechthold"><br>
+        <b>Martin Bechthold</b>
+      </a>
+      <p>机械设计、材料科学、工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/katia-bertoldi/research-overview.md">
+        <img src="research-quickview/harvard/profiles/katia-bertoldi-profile.jpg" width="150" style="border-radius: 8px;" alt="Katia Bertoldi"><br>
+        <b>Katia Bertoldi</b>
+      </a>
+      <p>材料科学、软材料、结构材料</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/david-clarke/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-clarke-profile.jpg" width="150" style="border-radius: 8px;" alt="David Clarke"><br>
+        <b>David Clarke</b>
+      </a>
+      <p>材料科学、热物理、力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/roy-g-gordon/research-overview.md">
+        <img src="research-quickview/harvard/profiles/roy-g-gordon-profile.jpg" width="150" style="border-radius: 8px;" alt="Roy G. Gordon"><br>
+        <b>Roy G. Gordon</b>
+      </a>
+      <p>材料科学、化学、物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/donhee-ham/research-overview.md">
+        <img src="research-quickview/harvard/profiles/donhee-ham-profile.jpg" width="150" style="border-radius: 8px;" alt="Donhee Ham"><br>
+        <b>Donhee Ham</b>
+      </a>
+      <p>生物电子学、材料科学、集成电路</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/jenny-hoffman/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jenny-hoffman-profile.jpg" width="150" style="border-radius: 8px;" alt="Jenny Hoffman"><br>
+        <b>Jenny Hoffman</b>
+      </a>
+      <p>材料科学、量子材料、磁性</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/evelyn-hu/research-overview.md">
+        <img src="research-quickview/harvard/profiles/evelyn-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Evelyn Hu"><br>
+        <b>Evelyn Hu</b>
+      </a>
+      <p>纳米光子学、量子材料、电子材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/efthimios-kaxiras/research-overview.md">
+        <img src="research-quickview/harvard/profiles/efthimios-kaxiras-profile.jpg" width="150" style="border-radius: 8px;" alt="Efthimios Kaxiras"><br>
+        <b>Efthimios Kaxiras</b>
+      </a>
+      <p>材料科学、计算材料、量子物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/philip-kim/research-overview.md">
+        <img src="research-quickview/harvard/profiles/philip-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Kim"><br>
+        <b>Philip Kim</b>
+      </a>
+      <p>纳米材料、量子材料、低维材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/boris-kozinsky/research-overview.md">
+        <img src="research-quickview/harvard/profiles/boris-kozinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kozinsky"><br>
+        <b>Boris Kozinsky</b>
+      </a>
+      <p>计算材料、材料设计、机器学习</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/jennifer-lewis/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jennifer-lewis-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Lewis"><br>
+        <b>Jennifer Lewis</b>
+      </a>
+      <p>3D打印、生物材料、纳米材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/xin-li/research-overview.md">
+        <img src="research-quickview/harvard/profiles/xin-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xin Li"><br>
+        <b>Xin Li</b>
+      </a>
+      <p>计算材料、纳米材料、材料设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/jia-liu/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jia-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jia Liu"><br>
+        <b>Jia Liu</b>
+      </a>
+      <p>材料科学、柔性材料、可持续技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/vinothan-n-manoharan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/vinothan-n-manoharan-profile.jpg" width="150" style="border-radius: 8px;" alt="Vinothan N. Manoharan"><br>
+        <b>Vinothan N. Manoharan</b>
+      </a>
+      <p>材料科学、流体力学、气候技术</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/samir-mitragotri/research-overview.md">
+        <img src="research-quickview/harvard/profiles/samir-mitragotri-profile.jpg" width="150" style="border-radius: 8px;" alt="Samir Mitragotri"><br>
+        <b>Samir Mitragotri</b>
+      </a>
+      <p>生物材料、药物传递、纳米技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/julia-a-mundy/research-overview.md">
+        <img src="research-quickview/harvard/profiles/julia-a-mundy-profile.jpg" width="150" style="border-radius: 8px;" alt="Julia A. Mundy"><br>
+        <b>Julia A. Mundy</b>
+      </a>
+      <p>生物材料、纳米材料、表面科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/venkatesh-narayanamurti/research-overview.md">
+        <img src="research-quickview/harvard/profiles/venkatesh-narayanamurti-profile.jpg" width="150" style="border-radius: 8px;" alt="Venkatesh Narayanamurti"><br>
+        <b>Venkatesh Narayanamurti</b>
+      </a>
+      <p>材料科学、工程教育、技术开发</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/daniel-needleman/research-overview.md">
+        <img src="research-quickview/harvard/profiles/daniel-needleman-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Needleman"><br>
+        <b>Daniel Needleman</b>
+      </a>
+      <p>生物物理、材料科学、力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/kit-parker/research-overview.md">
+        <img src="research-quickview/harvard/profiles/kit-parker-profile.jpg" width="150" style="border-radius: 8px;" alt="Kit Parker"><br>
+        <b>Kit Parker</b>
+      </a>
+      <p>生物力学、材料科学、柔性材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/maxim-prigozhin/research-overview.md">
+        <img src="research-quickview/harvard/profiles/maxim-prigozhin-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Prigozhin"><br>
+        <b>Maxim Prigozhin</b>
+      </a>
+      <p>材料科学、流体力学、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/james-r-rice/research-overview.md">
+        <img src="research-quickview/harvard/profiles/james-r-rice-profile.jpg" width="150" style="border-radius: 8px;" alt="James R. Rice"><br>
+        <b>James R. Rice</b>
+      </a>
+      <p>固体力学、材料科学、气候变化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/zhigang-suo/research-overview.md">
+        <img src="research-quickview/harvard/profiles/zhigang-suo-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhigang Suo"><br>
+        <b>Zhigang Suo</b>
+      </a>
+      <p>固体力学、材料科学、热力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/joost-j-vlassak/research-overview.md">
+        <img src="research-quickview/harvard/profiles/joost-j-vlassak-profile.jpg" width="150" style="border-radius: 8px;" alt="Joost J. Vlassak"><br>
+        <b>Joost J. Vlassak</b>
+      </a>
+      <p>材料科学、力学、材料设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/conor-j-walsh/research-overview.md">
+        <img src="research-quickview/harvard/profiles/conor-j-walsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Conor J Walsh"><br>
+        <b>Conor J Walsh</b>
+      </a>
+      <p>生物医学设备、机器人技术、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/david-a-weitz/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-a-weitz-profile.jpg" width="150" style="border-radius: 8px;" alt="David A. Weitz"><br>
+        <b>David A. Weitz</b>
+      </a>
+      <p>材料科学、微流体、细胞生物学</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Robotics and Control
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/martin-bechthold/research-overview.md">
+        <img src="research-quickview/harvard/profiles/martin-bechthold-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin Bechthold"><br>
+        <b>Martin Bechthold</b>
+      </a>
+      <p>机器人控制、机械设计、自动化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/david-clarke/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-clarke-profile.jpg" width="150" style="border-radius: 8px;" alt="David Clarke"><br>
+        <b>David Clarke</b>
+      </a>
+      <p>材料科学、机器人技术、传感器</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/yilun-du/research-overview.md">
+        <img src="research-quickview/harvard/profiles/yilun-du-profile.jpg" width="150" style="border-radius: 8px;" alt="Yilun Du"><br>
+        <b>Yilun Du</b>
+      </a>
+      <p>机器人技术、人工智能、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/stephanie-gil/research-overview.md">
+        <img src="research-quickview/harvard/profiles/stephanie-gil-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephanie Gil"><br>
+        <b>Stephanie Gil</b>
+      </a>
+      <p>机器学习、智能机器人、控制系统</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/robert-d-howe/research-overview.md">
+        <img src="research-quickview/harvard/profiles/robert-d-howe-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert D. Howe"><br>
+        <b>Robert D. Howe</b>
+      </a>
+      <p>机器人控制、机械设计、医疗机器人</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/vijay-janapa-reddi/research-overview.md">
+        <img src="research-quickview/harvard/profiles/vijay-janapa-reddi-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Janapa Reddi"><br>
+        <b>Vijay Janapa Reddi</b>
+      </a>
+      <p>计算机体系结构、机器人、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/na-li/research-overview.md">
+        <img src="research-quickview/harvard/profiles/na-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Na Li"><br>
+        <b>Na Li</b>
+      </a>
+      <p>机器人、机器学习、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/l-mahadevan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/l-mahadevan-profile.jpg" width="150" style="border-radius: 8px;" alt="L Mahadevan"><br>
+        <b>L Mahadevan</b>
+      </a>
+      <p>生物力学、软体机器人、流体力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/patrick-slade/research-overview.md">
+        <img src="research-quickview/harvard/profiles/patrick-slade-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick Slade"><br>
+        <b>Patrick Slade</b>
+      </a>
+      <p>机器人学、控制理论、机械设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/maurice-smith/research-overview.md">
+        <img src="research-quickview/harvard/profiles/maurice-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Maurice Smith"><br>
+        <b>Maurice Smith</b>
+      </a>
+      <p>材料科学、机器人技术、传感器技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/shriya-srinivasan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/shriya-srinivasan-profile.jpg" width="150" style="border-radius: 8px;" alt="Shriya Srinivasan"><br>
+        <b>Shriya Srinivasan</b>
+      </a>
+      <p>生物机器人、人工智能、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/conor-j-walsh/research-overview.md">
+        <img src="research-quickview/harvard/profiles/conor-j-walsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Conor J Walsh"><br>
+        <b>Conor J Walsh</b>
+      </a>
+      <p>生物医疗机器人、控制系统、传感器</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/justin-werfel/research-overview.md">
+        <img src="research-quickview/harvard/profiles/justin-werfel-profile.jpg" width="150" style="border-radius: 8px;" alt="Justin Werfel"><br>
+        <b>Justin Werfel</b>
+      </a>
+      <p>机器人、人工智能、控制理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/robert-j-wood/research-overview.md">
+        <img src="research-quickview/harvard/profiles/robert-j-wood-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert J. Wood"><br>
+        <b>Robert J. Wood</b>
+      </a>
+      <p>微型机器人、人工智能、控制理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/heng-yang/research-overview.md">
+        <img src="research-quickview/harvard/profiles/heng-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Heng Yang"><br>
+        <b>Heng Yang</b>
+      </a>
+      <p>机器学习、计算机视觉、机器人技术</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Science and Engineering for ClimateTech
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/joanna-aizenberg/research-overview.md">
+        <img src="research-quickview/harvard/profiles/joanna-aizenberg-profile.jpg" width="150" style="border-radius: 8px;" alt="Joanna Aizenberg"><br>
+        <b>Joanna Aizenberg</b>
+      </a>
+      <p>材料科学、可持续技术、气候变化研究</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/michael-j-aziz/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-j-aziz-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael J. Aziz"><br>
+        <b>Michael J. Aziz</b>
+      </a>
+      <p>能量存储、材料科学、气候变化技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/michael-p-brenner/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-p-brenner-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael P. Brenner"><br>
+        <b>Michael P. Brenner</b>
+      </a>
+      <p>流体力学、气候科学、计算物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/david-brooks/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-brooks-profile.jpg" width="150" style="border-radius: 8px;" alt="David Brooks"><br>
+        <b>David Brooks</b>
+      </a>
+      <p>气候技术、可持续计算、网络架构</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/david-clarke/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-clarke-profile.jpg" width="150" style="border-radius: 8px;" alt="David Clarke"><br>
+        <b>David Clarke</b>
+      </a>
+      <p>材料科学、机器人技术、气候变化技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/lene-v-hau/research-overview.md">
+        <img src="research-quickview/harvard/profiles/lene-v-hau-profile.jpg" width="150" style="border-radius: 8px;" alt="Lene V. Hau"><br>
+        <b>Lene V. Hau</b>
+      </a>
+      <p>量子光学、气候科学、光子学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/frank-n-keutsch/research-overview.md">
+        <img src="research-quickview/harvard/profiles/frank-n-keutsch-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank N Keutsch"><br>
+        <b>Frank N Keutsch</b>
+      </a>
+      <p>大气科学、气候变化、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/petros-koumoutsakos/research-overview.md">
+        <img src="research-quickview/harvard/profiles/petros-koumoutsakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Petros Koumoutsakos"><br>
+        <b>Petros Koumoutsakos</b>
+      </a>
+      <p>计算流体力学、气候变化模拟、气候技术</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/boris-kozinsky/research-overview.md">
+        <img src="research-quickview/harvard/profiles/boris-kozinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kozinsky"><br>
+        <b>Boris Kozinsky</b>
+      </a>
+      <p>材料科学、计算材料学、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/jennifer-lewis/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jennifer-lewis-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Lewis"><br>
+        <b>Jennifer Lewis</b>
+      </a>
+      <p>材料科学、3D打印、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/na-li/research-overview.md">
+        <img src="research-quickview/harvard/profiles/na-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Na Li"><br>
+        <b>Na Li</b>
+      </a>
+      <p>机器人、机器学习、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/vinothan-n-manoharan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/vinothan-n-manoharan-profile.jpg" width="150" style="border-radius: 8px;" alt="Vinothan N. Manoharan"><br>
+        <b>Vinothan N. Manoharan</b>
+      </a>
+      <p>材料科学、气候技术、流体力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/zachary-schiffer/research-overview.md">
+        <img src="research-quickview/harvard/profiles/zachary-schiffer-profile.jpg" width="150" style="border-radius: 8px;" alt="Zachary Schiffer"><br>
+        <b>Zachary Schiffer</b>
+      </a>
+      <p>气候技术、环境工程、材料科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/john-h-shaw/research-overview.md">
+        <img src="research-quickview/harvard/profiles/john-h-shaw-profile.jpg" width="150" style="border-radius: 8px;" alt="John H. Shaw"><br>
+        <b>John H. Shaw</b>
+      </a>
+      <p>气候技术、环境科学、材料科学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/le-xie/research-overview.md">
+        <img src="research-quickview/harvard/profiles/le-xie-profile.jpg" width="150" style="border-radius: 8px;" alt="Le Xie"><br>
+        <b>Le Xie</b>
+      </a>
+      <p>电力系统、智能电网、气候变化技术</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: Soft Matter
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/joanna-aizenberg/research-overview.md">
+        <img src="research-quickview/harvard/profiles/joanna-aizenberg-profile.jpg" width="150" style="border-radius: 8px;" alt="Joanna Aizenberg"><br>
+        <b>Joanna Aizenberg</b>
+      </a>
+      <p>软材料、仿生材料、纳米技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/markus-thomas-basan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/markus-thomas-basan-profile.jpg" width="150" style="border-radius: 8px;" alt="Markus Thomas Basan"><br>
+        <b>Markus Thomas Basan</b>
+      </a>
+      <p>软物质、流体力学、生物物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/michael-p-brenner/research-overview.md">
+        <img src="research-quickview/harvard/profiles/michael-p-brenner-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael P. Brenner"><br>
+        <b>Michael P. Brenner</b>
+      </a>
+      <p>流体力学、气候科学、非线性动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/david-clarke/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-clarke-profile.jpg" width="150" style="border-radius: 8px;" alt="David Clarke"><br>
+        <b>David Clarke</b>
+      </a>
+      <p>材料科学、软物质、工程</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/doeke-romke-hekstra/research-overview.md">
+        <img src="research-quickview/harvard/profiles/doeke-romke-hekstra-profile.jpg" width="150" style="border-radius: 8px;" alt="Doeke Romke Hekstra"><br>
+        <b>Doeke Romke Hekstra</b>
+      </a>
+      <p>软物质、流体力学、分子动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/petros-koumoutsakos/research-overview.md">
+        <img src="research-quickview/harvard/profiles/petros-koumoutsakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Petros Koumoutsakos"><br>
+        <b>Petros Koumoutsakos</b>
+      </a>
+      <p>计算流体力学、气候变化模拟、软物质</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/boris-kozinsky/research-overview.md">
+        <img src="research-quickview/harvard/profiles/boris-kozinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kozinsky"><br>
+        <b>Boris Kozinsky</b>
+      </a>
+      <p>计算材料、软物质、机器学习</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/jennifer-lewis/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jennifer-lewis-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Lewis"><br>
+        <b>Jennifer Lewis</b>
+      </a>
+      <p>3D打印、材料科学、软材料</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/jia-liu/research-overview.md">
+        <img src="research-quickview/harvard/profiles/jia-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jia Liu"><br>
+        <b>Jia Liu</b>
+      </a>
+      <p>柔性材料、生物材料、软物质</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/l-mahadevan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/l-mahadevan-profile.jpg" width="150" style="border-radius: 8px;" alt="L Mahadevan"><br>
+        <b>L Mahadevan</b>
+      </a>
+      <p>生物力学、软物质、流体力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/vinothan-n-manoharan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/vinothan-n-manoharan-profile.jpg" width="150" style="border-radius: 8px;" alt="Vinothan N. Manoharan"><br>
+        <b>Vinothan N. Manoharan</b>
+      </a>
+      <p>材料科学、流体力学、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/daniel-needleman/research-overview.md">
+        <img src="research-quickview/harvard/profiles/daniel-needleman-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Needleman"><br>
+        <b>Daniel Needleman</b>
+      </a>
+      <p>生物物理、材料科学、力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/maxim-prigozhin/research-overview.md">
+        <img src="research-quickview/harvard/profiles/maxim-prigozhin-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Prigozhin"><br>
+        <b>Maxim Prigozhin</b>
+      </a>
+      <p>材料科学、软物质、气候技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/sharad-ramanathan/research-overview.md">
+        <img src="research-quickview/harvard/profiles/sharad-ramanathan-profile.jpg" width="150" style="border-radius: 8px;" alt="Sharad Ramanathan"><br>
+        <b>Sharad Ramanathan</b>
+      </a>
+      <p>材料科学、软物质、流体力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/frans-a-spaepen/research-overview.md">
+        <img src="research-quickview/harvard/profiles/frans-a-spaepen-profile.jpg" width="150" style="border-radius: 8px;" alt="Frans A. Spaepen"><br>
+        <b>Frans A. Spaepen</b>
+      </a>
+      <p>材料科学、力学、热力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/zhigang-suo/research-overview.md">
+        <img src="research-quickview/harvard/profiles/zhigang-suo-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhigang Suo"><br>
+        <b>Zhigang Suo</b>
+      </a>
+      <p>固体力学、材料科学、热力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/joost-j-vlassak/research-overview.md">
+        <img src="research-quickview/harvard/profiles/joost-j-vlassak-profile.jpg" width="150" style="border-radius: 8px;" alt="Joost J. Vlassak"><br>
+        <b>Joost J. Vlassak</b>
+      </a>
+      <p>材料科学、力学、材料设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/conor-j-walsh/research-overview.md">
+        <img src="research-quickview/harvard/profiles/conor-j-walsh-profile.jpg" width="150" style="border-radius: 8px;" alt="Conor J Walsh"><br>
+        <b>Conor J Walsh</b>
+      </a>
+      <p>生物医学设备、机器人技术、控制系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/harvard/mme/david-a-weitz/research-overview.md">
+        <img src="research-quickview/harvard/profiles/david-a-weitz-profile.jpg" width="150" style="border-radius: 8px;" alt="David A. Weitz"><br>
+        <b>David A. Weitz</b>
+      </a>
+      <p>材料科学、微流体、细胞生物学</p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+
+<summary>Electrical Engineering Faculty</summary>
 
 #### [Electrical Engineering](https://seas.harvard.edu/faculty/all-research-areas)
 
@@ -1734,13 +2460,21 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+</details>
 
+</details>
 
+<!-- End of Harvard Section -->
+<!-- End of Harvard Section -->
+<!-- End of Harvard Section -->
  
 
 
 
 ### [Columbia University](https://www.columbia.edu/)
+
+<details>
+<summary>Click to expand Columbia Professors</summary>
 
 #### [Mechanical Engineering](https://www.me.columbia.edu/)
 
@@ -1794,3 +2528,9 @@ A repository for quickly accessing research insights into professors' expertise 
       </td>
     </tr>
   </table>
+
+</details>
+
+<!-- End of Columbia Section -->
+<!-- End of Columbia Section -->
+<!-- End of Columbia Section -->
