@@ -3073,6 +3073,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+
 - **Field**: [Signal and Information Processing](https://ece.duke.edu/people?s=&group=&research_themes=&custom_taxonomy=signal-and-information-processing)
 
 <table>
