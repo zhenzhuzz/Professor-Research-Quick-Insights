@@ -1267,10 +1267,11 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Materials and Mechanical Engineering](https://seas.harvard.edu/materials-science-mechanical-engineering/faculty-research)
 
-- [**Faculty**](https://seas.harvard.edu/materials-science-mechanical-engineering/faculty-research)
-
 <details>
 <summary>Materials and Mechanical Engineering Faculty</summary>
+
+- [**Faculty**](https://seas.harvard.edu/materials-science-mechanical-engineering/faculty-research)
+
 
 - **Field**: Computational Materials Science
 <table>
@@ -1963,9 +1964,10 @@ A repository for quickly accessing research insights into professors' expertise 
 </details>
 
 
-<summary>Electrical Engineering Faculty</summary>
-
 #### [Electrical Engineering](https://seas.harvard.edu/faculty/all-research-areas)
+
+<details>
+<summary>Electrical Engineering Faculty</summary>
 
 - [**Faculty**](https://seas.harvard.edu/electrical-engineering/faculty-research)
 
