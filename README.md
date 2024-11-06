@@ -2700,3 +2700,299 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Columbia Section -->
 <!-- End of Columbia Section -->
 <!-- End of Columbia Section -->
+
+
+### [Duke University](https://duke.edu/)
+
+<details>
+<summary>Click to expand Duke Professors</summary>
+
+#### [Electrical and Computer Engineering](https://ece.duke.edu/)
+
+<details>
+<summary>Electrical and Computer Engineering Faculty</summary>
+
+- ** Field**: Microelectronics, Photonics And Nanotechnology
+- [Faculty](https://ece.duke.edu/people?s=&group=&research_themes=&custom_taxonomy=microelectronics-photonics-and-nanotechnology)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/martin-brooke/research-overview.md">
+        <img src="research-quickview/duke/profiles/martin-brooke-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin A. Brooke"><br>
+        <b>Martin A. Brooke</b>
+      </a>
+      <p>模拟、射频和光电电路；传感器接口电路；可部署传感器系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/april-brown/research-overview.md">
+        <img src="research-quickview/duke/profiles/april-brown-profile.jpg" width="150" style="border-radius: 8px;" alt="April S. Brown"><br>
+        <b>April S. Brown</b>
+      </a>
+      <p>电气与计算机工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/kenneth-brown/research-overview.md">
+        <img src="research-quickview/duke/profiles/kenneth-brown-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenneth R Brown"><br>
+        <b>Kenneth R Brown</b>
+      </a>
+      <p>量子纠错、量子控制、量子计算机架构、离子阱量子计算、冷却分子离子的光谱学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/richard-fair/research-overview.md">
+        <img src="research-quickview/duke/profiles/richard-fair-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard B. Fair"><br>
+        <b>Richard B. Fair</b>
+      </a>
+      <p>基于电湿技术的实验室芯片微流体系统</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/aaron-franklin/research-overview.md">
+        <img src="research-quickview/duke/profiles/aaron-franklin-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron D. Franklin"><br>
+        <b>Aaron D. Franklin</b>
+      </a>
+      <p>电子设备中的纳米材料、纳米制造、印刷电子和物联网（IoT）、生物传感</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/jeffrey-glass/research-overview.md">
+        <img src="research-quickview/duke/profiles/jeffrey-glass-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey Glass"><br>
+        <b>Jeffrey Glass</b>
+      </a>
+      <p>电子材料及其相关设备/仪器的改进，特别是在微型质谱法、能量转换和储存及液体废物消毒方面的电极应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/nan-jokerst/research-overview.md">
+        <img src="research-quickview/duke/profiles/nan-jokerst-profile.jpg" width="150" style="border-radius: 8px;" alt="Nan Marie Jokerst"><br>
+        <b>Nan Marie Jokerst</b>
+      </a>
+      <p>电子与计算机工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/hisham-massoud/research-overview.md">
+        <img src="research-quickview/duke/profiles/hisham-massoud-profile.jpg" width="150" style="border-radius: 8px;" alt="Hisham Z. Massoud"><br>
+        <b>Hisham Z. Massoud</b>
+      </a>
+      <p>超薄栅介电层在CMOS ULSI中的应用 - 技术、物理、建模、仿真和超薄氧化物MOSFET的表征</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/ece/tania-roy/research-overview.md">
+        <img src="research-quickview/duke/profiles/tania-roy-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Roy"><br>
+        <b>Tania Roy</b>
+      </a>
+      <p>能效电子学、二维材料、神经形态计算、光电学、宽带隙材料、高功率电子、辐射效应和可靠性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/david-smith/research-overview.md">
+        <img src="research-quickview/duke/profiles/david-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="David R. Smith"><br>
+        <b>David R. Smith</b>
+      </a>
+      <p>理论、仿真和新型电磁超材料的演示，应用于天线和成像设备</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/adrienne-stiff-roberts/research-overview.md">
+        <img src="research-quickview/duke/profiles/adrienne-stiff-roberts-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrienne Stiff-Roberts"><br>
+        <b>Adrienne Stiff-Roberts</b>
+      </a>
+      <p>薄膜沉积、MAPLE、混合钙钛矿、混合纳米复合材料、有机薄膜</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/ece/haozhe-wang/research-overview.md">
+        <img src="research-quickview/duke/profiles/haozhe-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Haozhe Wang"><br>
+        <b>Haozhe Wang</b>
+      </a>
+      <p>低维材料、纳米制造和纳米器件、半导体、陶瓷、金属、量子计算</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+#### [Mechanical Engineering and Materials Science](https://mems.duke.edu/)
+
+<details>
+<summary>Mechanical Engineering and Materials Science Faculty</summary>
+
+- **Field:** Biomechanics and Biomaterials
+- [Faculty](https://mems.duke.edu/people?s=&group=&research_themes=bio)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/mems/wilkins-aquino/research-overview.md">
+        <img src="research-quickview/duke/profiles/wilkins-aquino-profile.jpg" width="150" style="border-radius: 8px;" alt="Wilkins Aquino"><br>
+        <b>Wilkins Aquino</b>
+      </a>
+      <p>计算力学、有限元方法、计算逆问题及其在工程和生物医学中的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/gaurav-arya/research-overview.md">
+        <img src="research-quickview/duke/profiles/gaurav-arya-profile.jpg" width="150" style="border-radius: 8px;" alt="Gaurav Arya"><br>
+        <b>Gaurav Arya</b>
+      </a>
+      <p>分子建模、分子模拟、统计力学、粗粒化、机器学习、聚合物与胶体物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/matthew-becker/research-overview.md">
+        <img src="research-quickview/duke/profiles/matthew-becker-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew L Becker"><br>
+        <b>Matthew L Becker</b>
+      </a>
+      <p>聚合物化学、生物结合化学、分子成像与增材制造；骨、软组织、神经和血管组织工程的材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/l-catherine-brinson/research-overview.md">
+        <img src="research-quickview/duke/profiles/l-catherine-brinson-profile.jpg" width="150" style="border-radius: 8px;" alt="L. Catherine Brinson"><br>
+        <b>L. Catherine Brinson</b>
+      </a>
+      <p>材料力学，特别是复杂层次材料和基于聚合物的系统，将数据科学概念融入材料研究</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/mems/chuan-hua-chen/research-overview.md">
+        <img src="research-quickview/duke/profiles/chuan-hua-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Chuan-Hua Chen"><br>
+        <b>Chuan-Hua Chen</b>
+      </a>
+      <p>实验和理论研究，耦合物理化学流体动力学与界面工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/ashutosh-chilkoti/research-overview.md">
+        <img src="research-quickview/duke/profiles/ashutosh-chilkoti-profile.jpg" width="150" style="border-radius: 8px;" alt="Ashutosh Chilkoti"><br>
+        <b>Ashutosh Chilkoti</b>
+      </a>
+      <p>生物分子材料和生物界面科学，强调生物分离、传感器、生物材料和靶向药物输送的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/patrick-codd/research-overview.md">
+        <img src="research-quickview/duke/profiles/patrick-codd-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick James Codd"><br>
+        <b>Patrick James Codd</b>
+      </a>
+      <p>神经外科</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/louis-defrate/research-overview.md">
+        <img src="research-quickview/duke/profiles/louis-defrate-profile.jpg" width="150" style="border-radius: 8px;" alt="Louis Edwin DeFrate"><br>
+        <b>Louis Edwin DeFrate</b>
+      </a>
+      <p>骨科手术的生物力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/mems/liang-feng/research-overview.md">
+        <img src="research-quickview/duke/profiles/liang-feng-profile.jpg" width="150" style="border-radius: 8px;" alt="Liang Feng"><br>
+        <b>Liang Feng</b>
+      </a>
+      <p>碳捕集与去除、负排放、去碳化、关键材料、仿生软材料、超分子与多孔材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/ken-gall/research-overview.md">
+        <img src="research-quickview/duke/profiles/ken-gall-profile.jpg" width="150" style="border-radius: 8px;" alt="Ken Gall"><br>
+        <b>Ken Gall</b>
+      </a>
+      <p>材料科学、机械性能、金属和聚合物，专注于形状记忆材料、生物材料和3D打印</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/laurens-howle/research-overview.md">
+        <img src="research-quickview/duke/profiles/laurens-howle-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurens E. Howle"><br>
+        <b>Laurens E. Howle</b>
+      </a>
+      <p>可变形结构的水弹性建模、热与化学系统中的传输、实验与计算流体动力学、非线性与复杂系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/tony-huang/research-overview.md">
+        <img src="research-quickview/duke/profiles/tony-huang-profile.jpg" width="150" style="border-radius: 8px;" alt="Tony Jun Huang"><br>
+        <b>Tony Jun Huang</b>
+      </a>
+      <p>声流体动力学、微流体学、芯片实验室、生物医学微电机械系统（BioMEMS）、光流体动力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/mems/bavand-keshavarz/research-overview.md">
+        <img src="research-quickview/duke/profiles/bavand-keshavarz-profile.jpg" width="150" style="border-radius: 8px;" alt="Bavand Keshavarz"><br>
+        <b>Bavand Keshavarz</b>
+      </a>
+      <p>软材料力学、生物仿生水凝胶、金属配位网络、复杂流体的流体动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/brian-mann/research-overview.md">
+        <img src="research-quickview/duke/profiles/brian-mann-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Mann"><br>
+        <b>Brian Mann</b>
+      </a>
+      <p>非线性动力学与振动，采用分析、数值和实验技术研究现象</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/piotr-marszalek/research-overview.md">
+        <img src="research-quickview/duke/profiles/piotr-marszalek-profile.jpg" width="150" style="border-radius: 8px;" alt="Piotr E. Marszalek"><br>
+        <b>Piotr E. Marszalek</b>
+      </a>
+      <p>探讨生物聚合物（多糖、DNA、蛋白质）的结构与机械特性之间的关系，单分子水平</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/david-needham/research-overview.md">
+        <img src="research-quickview/duke/profiles/david-needham-profile.jpg" width="150" style="border-radius: 8px;" alt="David Needham"><br>
+        <b>David Needham</b>
+      </a>
+      <p>反癌药物输送研究，基于癌细胞的生存与扩散机制</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/mems/xiaoyue-ni/research-overview.md">
+        <img src="research-quickview/duke/profiles/xiaoyue-ni-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaoyue Ni"><br>
+        <b>Xiaoyue Ni</b>
+      </a>
+      <p>柔性电子学、精密测量、无损检测、随机介质的变形物理学、机械超材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/christine-payne/research-overview.md">
+        <img src="research-quickview/duke/profiles/christine-payne-profile.jpg" width="150" style="border-radius: 8px;" alt="Christine K. Payne"><br>
+        <b>Christine K. Payne</b>
+      </a>
+      <p>细胞与纳米材料相互作用的分子机制，纳米医学与环境暴露的应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/amanda-randles/research-overview.md">
+        <img src="research-quickview/duke/profiles/amanda-randles-profile.jpg" width="150" style="border-radius: 8px;" alt="Amanda Randles"><br>
+        <b>Amanda Randles</b>
+      </a>
+      <p>生物医学模拟与高性能计算</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/michael-rubinstein/research-overview.md">
+        <img src="research-quickview/duke/profiles/michael-rubinstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Rubinstein"><br>
+        <b>Michael Rubinstein</b>
+      </a>
+      <p>聚合物理论与计算模拟</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/duke/mems/shyni-varghese/research-overview.md">
+        <img src="research-quickview/duke/profiles/shyni-varghese-profile.jpg" width="150" style="border-radius: 8px;" alt="Shyni Varghese"><br>
+        <b>Shyni Varghese</b>
+      </a>
+      <p>肌肉骨骼组织修复、疾病生物物理学与芯片技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/stefan-zauscher/research-overview.md">
+        <img src="research-quickview/duke/profiles/stefan-zauscher-profile.jpg" width="150" style="border-radius: 8px;" alt="Stefan Zauscher"><br>
+        <b>Stefan Zauscher</b>
+      </a>
+      <p>纳米机械和纳米摩擦学表征（弹性、摩擦、粘附），包括有机薄膜、自组装单分子层、聚合物凝胶等材料</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/duke/mems/pei-zhong/research-overview.md">
+        <img src="research-quickview/duke/profiles/pei-zhong-profile.jpg" width="150" style="border-radius: 8px;" alt="Pei Zhong"><br>
+        <b>Pei Zhong</b>
+      </a>
+      <p>冲击波和激光碎石的机制研究与技术开发；超声波诱导的机械转导、神经调节和声遗传学；HIFU与癌症免疫治疗</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+
+</details>
