@@ -2630,6 +2630,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>动力学与控制、材料科学、机械设计</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/columbia/me/sinisa-vukelic/research-overview.md">
         <img src="research-quickview/columbia/profiles/sinisa-vukelic-profile.jpg" width="150" style="border-radius: 8px;" alt="Sinisa Vukelic"><br>
@@ -2637,8 +2639,6 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>激光加工、材料表征、力学</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="research-quickview/columbia/me/harry-west/research-overview.md">
         <img src="research-quickview/columbia/profiles/harry-west-profile.jpg" width="150" style="border-radius: 8px;" alt="Harry West"><br>
@@ -2662,6 +2662,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+
 
 
 #### [Electrical Engineering](https://www.ee.columbia.edu/)
