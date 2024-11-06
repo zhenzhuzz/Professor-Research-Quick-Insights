@@ -8,6 +8,9 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Stanford](https://www.stanford.edu/)
 
+<details>
+<summary>Click to expand Stanford Professors</summary>
+
 #### [Mechanical Engineering](https://me.stanford.edu/)
 
 - **Field**: Mix
@@ -167,6 +170,11 @@ A repository for quickly accessing research insights into professors' expertise 
       </td>
     </tr>
   </table>
+</details>
+
+<!-- End of Stanford University Section -->
+<!-- End of Stanford University Section -->
+<!-- End of Stanford University Section -->
 
 ### [UCLA](https://www.ucla.edu/)
 
