@@ -1235,8 +1235,6 @@ A repository for quickly accessing research insights into professors' expertise 
 
 - [**Faculty**](https://seas.harvard.edu/electrical-engineering/faculty-research)
 
-- **Field**: Manufacturing and Robotics
-
 - **Field**: Circuits and VLSI
 <table>
   <tr>
@@ -1268,6 +1266,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>集成电路、计算机体系结构、机器学习硬件</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/woodward-yang/research-overview.md">
         <img src="research-quickview/harvard/profiles/woodward-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Woodward Yang"><br>
@@ -1309,6 +1309,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>计算机体系结构、能源效率、机器学习</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/h-t-kung/research-overview.md">
         <img src="research-quickview/harvard/profiles/h-t-kung-profile.jpg" width="150" style="border-radius: 8px;" alt="H.T. Kung"><br>
@@ -1371,6 +1373,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>纳米光子学、量子工程、光电材料</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/marko-loncar/research-overview.md">
         <img src="research-quickview/harvard/profiles/marko-loncar-profile.jpg" width="150" style="border-radius: 8px;" alt="Marko Loncar"><br>
@@ -1433,6 +1437,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>机器学习、智能机器人、控制系统</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/robert-d-howe/research-overview.md">
         <img src="research-quickview/harvard/profiles/robert-d-howe-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert D. Howe"><br>
@@ -1491,6 +1497,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>生物医疗机器人、控制系统、传感器</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/justin-werfel/research-overview.md">
         <img src="research-quickview/harvard/profiles/justin-werfel-profile.jpg" width="150" style="border-radius: 8px;" alt="Justin Werfel"><br>
@@ -1546,6 +1554,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>气候技术、可持续计算、网络架构</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/david-clarke/research-overview.md">
         <img src="research-quickview/harvard/profiles/david-clarke-profile.jpg" width="150" style="border-radius: 8px;" alt="David Clarke"><br>
@@ -1604,6 +1614,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>材料科学、气候技术、流体力学</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/zachary-schiffer/research-overview.md">
         <img src="research-quickview/harvard/profiles/zachary-schiffer-profile.jpg" width="150" style="border-radius: 8px;" alt="Zachary Schiffer"><br>
@@ -1659,6 +1671,8 @@ A repository for quickly accessing research insights into professors' expertise 
       </a>
       <p>计算机体系结构、并行计算、信号处理</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="research-quickview/harvard/ee/jia-liu/research-overview.md">
         <img src="research-quickview/harvard/profiles/jia-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jia Liu"><br>
@@ -1712,6 +1726,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+
 
  
 
