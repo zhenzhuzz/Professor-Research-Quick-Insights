@@ -2725,6 +2725,72 @@ A repository for quickly accessing research insights into professors' expertise 
   </tr>
 </table>
 
+- **Field**: Integrated Circuits and Systems
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/xiaofan-jiang/research-overview.md">
+        <img src="research-quickview/columbia/profiles/xiaofan-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan (Fred) Jiang"><br>
+        <b>Xiaofan (Fred) Jiang</b>
+      </a>
+      <p>集成电路与系统、网络与通信、智能电能、计算机工程与计算机系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/peter-kinget/research-overview.md">
+        <img src="research-quickview/columbia/profiles/peter-kinget-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter R. Kinget"><br>
+        <b>Peter R. Kinget</b>
+      </a>
+      <p>集成电路与系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/harish-krishnaswamy/research-overview.md">
+        <img src="research-quickview/columbia/profiles/harish-krishnaswamy-profile.jpg" width="150" style="border-radius: 8px;" alt="Harish Krishnaswamy"><br>
+        <b>Harish Krishnaswamy</b>
+      </a>
+      <p>集成电路与系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/matthias-preindl/research-overview.md">
+        <img src="research-quickview/columbia/profiles/matthias-preindl-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthias Preindl"><br>
+        <b>Matthias Preindl</b>
+      </a>
+      <p>智能电能、集成电路与系统、信号、信息与数据</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/mingoo-seok/research-overview.md">
+        <img src="research-quickview/columbia/profiles/mingoo-seok-profile.jpg" width="150" style="border-radius: 8px;" alt="Mingoo Seok"><br>
+        <b>Mingoo Seok</b>
+      </a>
+      <p>集成电路与系统、计算机工程与计算机系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/ken-shepard/research-overview.md">
+        <img src="research-quickview/columbia/profiles/ken-shepard-profile.jpg" width="150" style="border-radius: 8px;" alt="Ken Shepard"><br>
+        <b>Ken Shepard</b>
+      </a>
+      <p>集成电路与系统、系统生物学与神经工程、智能电能、计算机工程与计算机系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/yannis-tsividis/research-overview.md">
+        <img src="research-quickview/columbia/profiles/yannis-tsividis-profile.jpg" width="150" style="border-radius: 8px;" alt="Yannis P. Tsividis"><br>
+        <b>Yannis P. Tsividis</b>
+      </a>
+      <p>集成电路与系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/charles-zukowski/research-overview.md">
+        <img src="research-quickview/columbia/profiles/charles-zukowski-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles A. Zukowski"><br>
+        <b>Charles A. Zukowski</b>
+      </a>
+      <p>集成电路与系统、计算机工程与计算机系统</p>
+    </td>
+  </tr>
+</table>
+
+
 
 #### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
 
