@@ -6215,8 +6215,321 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
 </table>
 
-</details>
 
+
+### [Electrical and Systems Engineering](https://www.ese.upenn.edu/areas-of-focus/)
+
+- **Field**: Nanodevices and Nanosystems
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/mark-allen/research-overview.md">
+                <img src="research-quickview/upenn/profiles/mark-allen-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Allen"><br>
+                <b>Mark Allen</b>
+            </a>
+            <p>纳米器件设计与制造、MEMS技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/lee-bassett/research-overview.md">
+                <img src="research-quickview/upenn/profiles/lee-bassett-profile.jpg" width="150" style="border-radius: 8px;" alt="Lee Bassett"><br>
+                <b>Lee Bassett</b>
+            </a>
+            <p>量子点、光电子学与纳米光学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/nader-engheta/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nader-engheta-profile.jpg" width="150" style="border-radius: 8px;" alt="Nader Engheta"><br>
+                <b>Nader Engheta</b>
+            </a>
+            <p>超材料、纳米电磁学与光学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/liang-feng/research-overview.md">
+                <img src="research-quickview/upenn/profiles/liang-feng-profile.jpg" width="150" style="border-radius: 8px;" alt="Liang Feng"><br>
+                <b>Liang Feng</b>
+            </a>
+            <p>光电材料与器件、纳米光子学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/deep-jariwala/research-overview.md">
+                <img src="research-quickview/upenn/profiles/deep-jariwala-profile.jpg" width="150" style="border-radius: 8px;" alt="Deep Jariwala"><br>
+                <b>Deep Jariwala</b>
+            </a>
+            <p>二维材料、纳米电子器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/charlie-johnson/research-overview.md">
+                <img src="research-quickview/upenn/profiles/charlie-johnson-profile.jpg" width="150" style="border-radius: 8px;" alt="Charlie Johnson"><br>
+                <b>Charlie Johnson</b>
+            </a>
+            <p>量子材料、纳米结构与表面科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/cherie-kagan/research-overview.md">
+                <img src="research-quickview/upenn/profiles/cherie-kagan-profile.jpg" width="150" style="border-radius: 8px;" alt="Cherie Kagan"><br>
+                <b>Cherie Kagan</b>
+            </a>
+            <p>有机电子学、纳米复合材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/marc-miskin/research-overview.md">
+                <img src="research-quickview/upenn/profiles/marc-miskin-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Miskin"><br>
+                <b>Marc Miskin</b>
+            </a>
+            <p>自组装纳米结构、纳米制造</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/troy-olsson/research-overview.md">
+                <img src="research-quickview/upenn/profiles/troy-olsson-profile.jpg" width="150" style="border-radius: 8px;" alt="Troy Olsson"><br>
+                <b>Troy Olsson</b>
+            </a>
+            <p>分子动力学与热传导、热电材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/bo-zhen/research-overview.md">
+                <img src="research-quickview/upenn/profiles/bo-zhen-profile.jpg" width="150" style="border-radius: 8px;" alt="Bo Zhen"><br>
+                <b>Bo Zhen</b>
+            </a>
+            <p>光子晶体、纳米器件与量子信息</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/anthony-sigillito/research-overview.md">
+                <img src="research-quickview/upenn/profiles/anthony-sigillito-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Sigillito"><br>
+                <b>Anthony Sigillito</b>
+            </a>
+            <p>电子系统、纳米集成电路</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: Circuits and Computer Engineering
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/firooz-aflatouni/research-overview.md">
+                <img src="research-quickview/upenn/profiles/firooz-aflatouni-profile.jpg" width="150" style="border-radius: 8px;" alt="Firooz Aflatouni"><br>
+                <b>Firooz Aflatouni</b>
+            </a>
+            <p>模拟电路设计、射频电路、传感器接口</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/andre-dehon/research-overview.md">
+                <img src="research-quickview/upenn/profiles/andre-dehon-profile.jpg" width="150" style="border-radius: 8px;" alt="Andre DeHon"><br>
+                <b>Andre DeHon</b>
+            </a>
+            <p>可重构计算、硬件加速器、电子系统设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/thomas-farmer/research-overview.md">
+                <img src="research-quickview/upenn/profiles/thomas-farmer-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Farmer"><br>
+                <b>Thomas Farmer</b>
+            </a>
+            <p>电路设计、低功耗电子、数据转换器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/david-issadore/research-overview.md">
+                <img src="research-quickview/upenn/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
+                <b>David Issadore</b>
+            </a>
+            <p>生物医学电路、传感器、神经接口</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/tania-khanna/research-overview.md">
+                <img src="research-quickview/upenn/profiles/tania-khanna-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Khanna"><br>
+                <b>Tania Khanna</b>
+            </a>
+            <p>低功耗电路、嵌入式系统、传感器网络</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/benjamin-lee/research-overview.md">
+                <img src="research-quickview/upenn/profiles/benjamin-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Lee"><br>
+                <b>Benjamin Lee</b>
+            </a>
+            <p>集成电路、系统芯片、数据处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/insup-lee/research-overview.md">
+                <img src="research-quickview/upenn/profiles/insup-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Insup Lee"><br>
+                <b>Insup Lee</b>
+            </a>
+            <p>实时系统、计算机架构、嵌入式系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/jing-li/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jing-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Jing Li"><br>
+                <b>Jing Li</b>
+            </a>
+            <p>信号处理、传感器网络、硬件安全</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/boon-thau-loo/research-overview.md">
+                <img src="research-quickview/upenn/profiles/boon-thau-loo-profile.jpg" width="150" style="border-radius: 8px;" alt="Boon Thau Loo"><br>
+                <b>Boon Thau Loo</b>
+            </a>
+            <p>计算机网络、嵌入式系统、智能传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/rahul-mangharam/research-overview.md">
+                <img src="research-quickview/upenn/profiles/rahul-mangharam-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Mangharam"><br>
+                <b>Rahul Mangharam</b>
+            </a>
+            <p>智能交通、嵌入式系统、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/jan-van-der-spiegel/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jan-van-der-spiegel-profile.jpg" width="150" style="border-radius: 8px;" alt="Jan Van der Spiegel"><br>
+                <b>Jan Van der Spiegel</b>
+            </a>
+            <p>数字信号处理、智能传感器、集成电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/lei-gu/research-overview.md">
+                <img src="research-quickview/upenn/profiles/lei-gu-profile.jpg" width="150" style="border-radius: 8px;" alt="Lei Gu"><br>
+                <b>Lei Gu</b>
+            </a>
+            <p>电力电子、智能电网、信号处理</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: Information and Decision Systems
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/gad-allon/research-overview.md">
+                <img src="research-quickview/upenn/profiles/gad-allon-profile.jpg" width="150" style="border-radius: 8px;" alt="Gad Allon"><br>
+                <b>Gad Allon</b>
+            </a>
+            <p>信息系统、供应链管理、数据分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/danielle-bassett/research-overview.md">
+                <img src="research-quickview/upenn/profiles/danielle-bassett-profile.jpg" width="150" style="border-radius: 8px;" alt="Danielle Bassett"><br>
+                <b>Danielle Bassett</b>
+            </a>
+            <p>网络科学、复杂系统、脑网络</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/pratik-chaudhari/research-overview.md">
+                <img src="research-quickview/upenn/profiles/pratik-chaudhari-profile.jpg" width="150" style="border-radius: 8px;" alt="Pratik Chaudhari"><br>
+                <b>Pratik Chaudhari</b>
+            </a>
+            <p>决策理论、博弈论、数据科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/christos-davatzikos/research-overview.md">
+                <img src="research-quickview/upenn/profiles/christos-davatzikos-profile.jpg" width="150" style="border-radius: 8px;" alt="Christos Davatzikos"><br>
+                <b>Christos Davatzikos</b>
+            </a>
+            <p>医学成像、计算神经科学、数据分析</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/kostas-daniilidis/research-overview.md">
+                <img src="research-quickview/upenn/profiles/kostas-daniilidis-profile.jpg" width="150" style="border-radius: 8px;" alt="Kostas Daniilidis"><br>
+                <b>Kostas Daniilidis</b>
+            </a>
+            <p>计算机视觉、机器人、三维重建</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/robert-ghrist/research-overview.md">
+                <img src="research-quickview/upenn/profiles/robert-ghrist-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Ghrist"><br>
+                <b>Robert Ghrist</b>
+            </a>
+            <p>拓扑学、网络科学、数据分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/hamed-hassani/research-overview.md">
+                <img src="research-quickview/upenn/profiles/hamed-hassani-profile.jpg" width="150" style="border-radius: 8px;" alt="Hamed Hassani"><br>
+                <b>Hamed Hassani</b>
+            </a>
+            <p>网络控制、动态系统、决策理论</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/m-ani-hsieh/research-overview.md">
+                <img src="research-quickview/upenn/profiles/m-ani-hsieh-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Ani Hsieh"><br>
+                <b>M. Ani Hsieh</b>
+            </a>
+            <p>机器人、控制、复杂系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/dinesh-jayaraman/research-overview.md">
+                <img src="research-quickview/upenn/profiles/dinesh-jayaraman-profile.jpg" width="150" style="border-radius: 8px;" alt="Dinesh Jayaraman"><br>
+                <b>Dinesh Jayaraman</b>
+            </a>
+            <p>网络、优化、智能交通系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/daniel-koditschek/research-overview.md">
+                <img src="research-quickview/upenn/profiles/daniel-koditschek-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Koditschek"><br>
+                <b>Daniel Koditschek</b>
+            </a>
+            <p>机器人、自动化、动态系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/vijay-kumar/research-overview.md">
+                <img src="research-quickview/upenn/profiles/vijay-kumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Kumar"><br>
+                <b>Vijay Kumar</b>
+            </a>
+            <p>机器人、无人机、网络系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/manfred-morari/research-overview.md">
+                <img src="research-quickview/upenn/profiles/manfred-morari-profile.jpg" width="150" style="border-radius: 8px;" alt="Manfred Morari"><br>
+                <b>Manfred Morari</b>
+            </a>
+            <p>控制系统、优化、动态系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/nikolai-matni/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nikolai-matni-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikolai Matni"><br>
+                <b>Nikolai Matni</b>
+            </a>
+            <p>控制理论、系统建模、数据驱动控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/george-pappas/research-overview.md">
+                <img src="research-quickview/upenn/profiles/george-pappas-profile.jpg" width="150" style="border-radius: 8px;" alt="George Pappas"><br>
+                <b>George Pappas</b>
+            </a>
+            <p>网络、控制系统、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/michael-posa/research-overview.md">
+                <img src="research-quickview/upenn/profiles/michael-posa-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Posa"><br>
+                <b>Michael Posa</b>
+            </a>
+            <p>机器人、控制、动态系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/ese/victor-preciado/research-overview.md">
+                <img src="research-quickview/upenn/profiles/victor-preciado-profile.jpg" width="150" style="border-radius: 8px;" alt="Victor Preciado"><br>
+                <b>Victor Preciado</b>
+            </a>
+            <p>网络、控制、信息系统</p>
+        </td>
+    </tr>
+</table>
+
+
+</details>
 <!-- End of UPenn Section -->
 <!-- End of UPenn Section -->
 <!-- End of UPenn Section -->
