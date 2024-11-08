@@ -1259,10 +1259,12 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Caltech Section -->
 <!-- End of Caltech Section -->
 
-### [University of Southern California--USC](https://www.usc.edu/)
+### [USC](https://www.usc.edu/)
 
 <details>
 <summary>Click to expand USC Professors</summary>
+
+### [University of Southern California](https://www.usc.edu/)
 
 #### [Aerospace and Mechanical Engineering](https://ame.usc.edu/)
 
@@ -1474,12 +1476,367 @@ A repository for quickly accessing research insights into professors' expertise 
 </table>
 
 - **Field**: [Design Informatics](https://ame.usc.edu/research/research-areas/design-informatics/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/yan-jin/research-overview.md">
+        <img src="research-quickview/usc/profiles/yan-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Yan Jin"><br>
+        <b>Yan Jin</b>
+      </a>
+      <p>设计认知与方法、协作工程、企业建模、复杂系统与复杂性</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Dynamical Systems and Controls](https://ame.usc.edu/research/research-areas/dynamical-systems-controls/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/henryk-flashner/research-overview.md">
+        <img src="research-quickview/usc/profiles/henryk-flashner-profile.jpg" width="150" style="border-radius: 8px;" alt="Henryk Flashner"><br>
+        <b>Henryk Flashner</b>
+      </a>
+      <p>生物力学、软物质力学、非线性动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/roger-ghanem/research-overview.md">
+        <img src="research-quickview/usc/profiles/roger-ghanem-profile.jpg" width="150" style="border-radius: 8px;" alt="Roger Ghanem"><br>
+        <b>Roger Ghanem</b>
+      </a>
+      <p>随机建模、计算力学、数据驱动建模、量化不确定性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/eva-kanso/research-overview.md">
+        <img src="research-quickview/usc/profiles/eva-kanso-profile.jpg" width="150" style="border-radius: 8px;" alt="Eva Kanso"><br>
+        <b>Eva Kanso</b>
+      </a>
+      <p>流体动力学、非线性动力学、机器人学、控制理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
+        <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
+        <b>Neda Maghsoodi</b>
+      </a>
+      <p>非线性动力学、控制理论、机器人学、智能系统</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/paul-newton/research-overview.md">
+        <img src="research-quickview/usc/profiles/paul-newton-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Newton"><br>
+        <b>Paul Newton</b>
+      </a>
+      <p>计算力学、有限元方法、非线性固体力学、材料建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/quan-nguyen/research-overview.md">
+        <img src="research-quickview/usc/profiles/quan-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Quan Nguyen"><br>
+        <b>Quan Nguyen</b>
+      </a>
+      <p>计算机视觉、机器人学、机器学习、控制理论</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/firdaus-udwadia/research-overview.md">
+        <img src="research-quickview/usc/profiles/firdaus-udwadia-profile.jpg" width="150" style="border-radius: 8px;" alt="Firdaus Udwadia"><br>
+        <b>Firdaus Udwadia</b>
+      </a>
+      <p>动力学、控制理论、机器人学、智能系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/bingen-yang/research-overview.md">
+        <img src="research-quickview/usc/profiles/bingen-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Bingen Yang"><br>
+        <b>Bingen Yang</b>
+      </a>
+      <p>动力学、振动、结构、控制、应用力学、应用数学</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Fluid Mechanics and Aerodynamics](https://ame.usc.edu/research/research-areas/fluid-mechanics-aerodynamics/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/ivan-bermejo-moreno/research-overview.md">
+        <img src="research-quickview/usc/profiles/ivan-bermejo-moreno-profile.jpg" width="150" style="border-radius: 8px;" alt="Iván Bermejo-Moreno"><br>
+        <b>Iván Bermejo-Moreno</b>
+      </a>
+      <p>流体动力学、数值模拟、湍流研究</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/julian-domaradzki/research-overview.md">
+        <img src="research-quickview/usc/profiles/julian-domaradzki-profile.jpg" width="150" style="border-radius: 8px;" alt="Julian Domaradzki"><br>
+        <b>Julian Domaradzki</b>
+      </a>
+      <p>计算流体力学、湍流与复杂流动、气动学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/eva-kanso/research-overview.md">
+        <img src="research-quickview/usc/profiles/eva-kanso-profile.jpg" width="150" style="border-radius: 8px;" alt="Eva Kanso"><br>
+        <b>Eva Kanso</b>
+      </a>
+      <p>流体动力学、非线性动力学、机器人学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/mitul-luhar/research-overview.md">
+        <img src="research-quickview/usc/profiles/mitul-luhar-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitul Luhar"><br>
+        <b>Mitul Luhar</b>
+      </a>
+      <p>生物流体力学、数值模拟、湍流与气动学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/paul-newton/research-overview.md">
+        <img src="research-quickview/usc/profiles/paul-newton-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Newton"><br>
+        <b>Paul Newton</b>
+      </a>
+      <p>计算流体力学、气动学、材料建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/assad-oberai/research-overview.md">
+        <img src="research-quickview/usc/profiles/assad-oberai-profile.jpg" width="150" style="border-radius: 8px;" alt="Assad A. Oberai"><br>
+        <b>Assad A. Oberai</b>
+      </a>
+      <p>流体动力学、计算力学、优化与控制</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/niema-pahlevan/research-overview.md">
+        <img src="research-quickview/usc/profiles/niema-pahlevan-profile.jpg" width="150" style="border-radius: 8px;" alt="Niema M. Pahlevan"><br>
+        <b>Niema M. Pahlevan</b>
+      </a>
+      <p>流体力学、可持续能源、数值分析</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/carlos-pantano-rubino/research-overview.md">
+        <img src="research-quickview/usc/profiles/carlos-pantano-rubino-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Pantano-Rubino"><br>
+        <b>Carlos Pantano-Rubino</b>
+      </a>
+      <p>多相流、化学反应流动、气动学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/geoff-spedding/research-overview.md">
+        <img src="research-quickview/usc/profiles/geoff-spedding-profile.jpg" width="150" style="border-radius: 8px;" alt="Geoff Spedding"><br>
+        <b>Geoff Spedding</b>
+      </a>
+      <p>流体动力学、气动学、非线性动力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/alejandra-uranga/research-overview.md">
+        <img src="research-quickview/usc/profiles/alejandra-uranga-profile.jpg" width="150" style="border-radius: 8px;" alt="Alejandra Uranga"><br>
+        <b>Alejandra Uranga</b>
+      </a>
+      <p>流体动力学、计算模型、湍流</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Materials](https://ame.usc.edu/research/research-areas/materials/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/yong-chen/research-overview.md">
+        <img src="research-quickview/usc/profiles/yong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yong Chen"><br>
+        <b>Yong Chen</b>
+      </a>
+      <p>材料科学、先进材料加工、增材制造</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/andrea-hodge/research-overview.md">
+        <img src="research-quickview/usc/profiles/andrea-hodge-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrea Hodge"><br>
+        <b>Andrea Hodge</b>
+      </a>
+      <p>纳米材料、复合材料、材料表征与性能</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/terence-langdon/research-overview.md">
+        <img src="research-quickview/usc/profiles/terence-langdon-profile.jpg" width="150" style="border-radius: 8px;" alt="Terence Langdon"><br>
+        <b>Terence Langdon</b>
+      </a>
+      <p>材料冶金、超塑性、合金设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
+        <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
+        <b>Neda Maghsoodi</b>
+      </a>
+      <p>材料科学与工程、塑性变形、纳米材料</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/paul-plucinsky/research-overview.md">
+        <img src="research-quickview/usc/profiles/paul-plucinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Plucinsky"><br>
+        <b>Paul Plucinsky</b>
+      </a>
+      <p>复合材料、材料性能评估、结构健康监测</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/hangbo-zhao/research-overview.md">
+        <img src="research-quickview/usc/profiles/hangbo-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hangbo Zhao"><br>
+        <b>Hangbo Zhao</b>
+      </a>
+      <p>材料设计、材料力学、相变材料</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Micro/Nano Technology](https://ame.usc.edu/research/research-areas/micro-nano-tech/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/yong-chen/research-overview.md">
+        <img src="research-quickview/usc/profiles/yong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yong Chen"><br>
+        <b>Yong Chen</b>
+      </a>
+      <p>微纳米制造、增材制造、微机电系统（MEMS）</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
+        <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
+        <b>Neda Maghsoodi</b>
+      </a>
+      <p>微纳米制造、纳米材料、微结构设计</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/paul-ronney/research-overview.md">
+        <img src="research-quickview/usc/profiles/paul-ronney-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Ronney"><br>
+        <b>Paul Ronney</b>
+      </a>
+      <p>微纳米燃烧、微型推进系统、能源转换</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/hangbo-zhao/research-overview.md">
+        <img src="research-quickview/usc/profiles/hangbo-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hangbo Zhao"><br>
+        <b>Hangbo Zhao</b>
+      </a>
+      <p>微纳米制造、复合材料、三维多功能结构</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Robotics](https://ame.usc.edu/research/research-areas/robotics/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/satyandra-gupta/research-overview.md">
+                <img src="research-quickview/usc/profiles/satyandra-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Satyandra K. Gupta"><br>
+                <b>Satyandra K. Gupta</b>
+            </a>
+            <p>机器人技术、智能系统、优化与规划</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/eva-kanso/research-overview.md">
+                <img src="research-quickview/usc/profiles/eva-kanso-profile.jpg" width="150" style="border-radius: 8px;" alt="Eva Kanso"><br>
+                <b>Eva Kanso</b>
+            </a>
+            <p>流体动力学、机器人学、控制理论</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/mitul-luhar/research-overview.md">
+                <img src="research-quickview/usc/profiles/mitul-luhar-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitul Luhar"><br>
+                <b>Mitul Luhar</b>
+            </a>
+            <p>流体与固体相互作用、机器人控制</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
+                <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
+                <b>Neda Maghsoodi</b>
+            </a>
+            <p>机器人技术、机器学习、自动化</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/quan-nguyen/research-overview.md">
+                <img src="research-quickview/usc/profiles/quan-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Quan Nguyen"><br>
+                <b>Quan Nguyen</b>
+            </a>
+            <p>智能控制、机器人感知与决策</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/bingen-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/bingen-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Bingen Yang"><br>
+                <b>Bingen Yang</b>
+            </a>
+            <p>机器人学、动态系统、控制理论</p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Solid and Applied Mechanics](https://ame.usc.edu/research/research-areas/solid-applied-mechanics/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/henryk-flashner/research-overview.md">
+                <img src="research-quickview/usc/profiles/henryk-flashner-profile.jpg" width="150" style="border-radius: 8px;" alt="Henryk Flashner"><br>
+                <b>Henryk Flashner</b>
+            </a>
+            <p>固体力学、非线性分析、结构健康监测</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
+                <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
+                <b>Neda Maghsoodi</b>
+            </a>
+            <p>材料力学、流体-固体相互作用</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/assad-oberai/research-overview.md">
+                <img src="research-quickview/usc/profiles/assad-oberai-profile.jpg" width="150" style="border-radius: 8px;" alt="Assad Oberai"><br>
+                <b>Assad Oberai</b>
+            </a>
+            <p>应用数学、计算力学、材料行为</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/paul-plucinsky/research-overview.md">
+                <img src="research-quickview/usc/profiles/paul-plucinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Plucinsky"><br>
+                <b>Paul Plucinsky</b>
+            </a>
+            <p>固体力学、结构分析、振动</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/bingen-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/bingen-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Bingen Yang"><br>
+                <b>Bingen Yang</b>
+            </a>
+            <p>固体力学、材料科学、流体力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ame/hangbo-zhao/research-overview.md">
+                <img src="research-quickview/usc/profiles/hangbo-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hangbo Zhao"><br>
+                <b>Hangbo Zhao</b>
+            </a>
+            <p>非线性动力学、材料性能、结构分析</p>
+        </td>
+    </tr>
+</table>
 
 
 </details>
