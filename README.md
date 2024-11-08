@@ -2669,17 +2669,62 @@ A repository for quickly accessing research insights into professors' expertise 
 
 - **Field**: Nanoscale Structures and Integrated Devices
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="research-quickview/columbia/ee/michal-lipson/research-overview.md">
-          <img src="research-quickview/columbia/profiles/michal-lipson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michal Lipson"><br>
-          <b>Michal Lipson</b>
-        </a>
-        <p>集成/硅基光子学、克尔频率梳、异质集成、量子信息处理</p>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/keren-bergman/research-overview.md">
+        <img src="research-quickview/columbia/profiles/keren-bergman-profile.jpg" width="150" style="border-radius: 8px;" alt="Keren Bergman"><br>
+        <b>Keren Bergman</b>
+      </a>
+      <p>集成光子学、光网络、光子设备设计与应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/savannah-eisner/research-overview.md">
+        <img src="research-quickview/columbia/profiles/savannah-eisner-profile.jpg" width="150" style="border-radius: 8px;" alt="Savannah Eisner"><br>
+        <b>Savannah Eisner</b>
+      </a>
+      <p>机器学习算法、计算机架构、能源高效计算</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/dion-khodagholy/research-overview.md">
+        <img src="research-quickview/columbia/profiles/dion-khodagholy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dion Khodagholy"><br>
+        <b>Dion Khodagholy</b>
+      </a>
+      <p>生物电子学、神经接口、类脑计算</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/ioannis-kymissis/research-overview.md">
+        <img src="research-quickview/columbia/profiles/ioannis-kymissis-profile.jpg" width="150" style="border-radius: 8px;" alt="Ioannis Kymissis"><br>
+        <b>Ioannis (John) Kymissis</b>
+      </a>
+      <p>能源系统、可再生能源技术、微电网</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/michal-lipson/research-overview.md">
+        <img src="research-quickview/columbia/profiles/michal-lipson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michal Lipson"><br>
+        <b>Michal Lipson</b>
+      </a>
+      <p>集成/硅基光子学、克尔频率梳、异质集成、量子信息处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/xiang-meng/research-overview.md">
+        <img src="research-quickview/columbia/profiles/xiang-meng-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiang Meng"><br>
+        <b>Xiang Meng</b>
+      </a>
+      <p>应用电气工程、信号处理、创新教学方法</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/wen-wang/research-overview.md">
+        <img src="research-quickview/columbia/profiles/wen-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Wen Wang"><br>
+        <b>Wen Wang</b>
+      </a>
+      <p>应用物理、工程力学、纳米技术及其应用</p>
+    </td>
+  </tr>
+</table>
+
 
 #### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
 
