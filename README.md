@@ -5416,3 +5416,807 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 </details>
+
+<!-- End of Columbia Section -->
+<!-- End of Columbia Section -->
+<!-- End of Columbia Section -->
+
+
+## [Upenn](https://www.upenn.edu/)
+
+<details>
+<summary>Click to expand Upenn Professors</summary>
+
+### [Mechanical Engineering and Applied Mechanics](https://www.me.upenn.edu/areas-of-focus/)
+
+- **Field**: Biomechanics
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/paulo-arratia/research-overview.md">
+                <img src="research-quickview/upenn/profiles/paulo-arratia-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo E. Arratia"><br>
+                <b>Paulo E. Arratia</b>
+            </a>
+            <p>细胞力学、生物物理学、生物分子模拟</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/joel-boerckel/research-overview.md">
+                <img src="research-quickview/upenn/profiles/joel-boerckel-profile.jpg" width="150" style="border-radius: 8px;" alt="Joel D. Boerckel"><br>
+                <b>Joel D. Boerckel</b>
+            </a>
+            <p>组织工程、细胞修复与再生</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/robert-carpick/research-overview.md">
+                <img src="research-quickview/upenn/profiles/robert-carpick-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert W. Carpick"><br>
+                <b>Robert W. Carpick</b>
+            </a>
+            <p>微纳米力学、材料特性、界面研究</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/dennis-discher/research-overview.md">
+                <img src="research-quickview/upenn/profiles/dennis-discher-profile.jpg" width="150" style="border-radius: 8px;" alt="Dennis E. Discher"><br>
+                <b>Dennis E. Discher</b>
+            </a>
+            <p>细胞力学、生物材料、药物输送</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/michelle-johnson/research-overview.md">
+                <img src="research-quickview/upenn/profiles/michelle-johnson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michelle J. Johnson"><br>
+                <b>Michelle J. Johnson</b>
+            </a>
+            <p>生物力学、组织工程、再生医学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/sherry-liu/research-overview.md">
+                <img src="research-quickview/upenn/profiles/sherry-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="X. Sherry Liu"><br>
+                <b>X. Sherry Liu</b>
+            </a>
+            <p>细胞生物学、生物物理学、力学建模</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/george-park/research-overview.md">
+                <img src="research-quickview/upenn/profiles/george-park-profile.jpg" width="150" style="border-radius: 8px;" alt="George I. Park"><br>
+                <b>George I. Park</b>
+            </a>
+            <p>生物力学、细胞工程、组织修复</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/paris-perdikaris/research-overview.md">
+                <img src="research-quickview/upenn/profiles/paris-perdikaris-profile.jpg" width="150" style="border-radius: 8px;" alt="Paris Perdikaris"><br>
+                <b>Paris Perdikaris</b>
+            </a>
+            <p>计算生物力学、机器学习、建模</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/prashant-purohit/research-overview.md">
+                <img src="research-quickview/upenn/profiles/prashant-purohit-profile.jpg" width="150" style="border-radius: 8px;" alt="Prashant K. Purohit"><br>
+                <b>Prashant K. Purohit</b>
+            </a>
+            <p>生物材料、细胞力学、模拟与优化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/louis-soslowsky/research-overview.md">
+                <img src="research-quickview/upenn/profiles/louis-soslowsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Louis Soslowsky"><br>
+                <b>Louis Soslowsky</b>
+            </a>
+            <p>韧带和肌腱的生物力学、组织再生</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/ottman-tertuliano/research-overview.md">
+                <img src="research-quickview/upenn/profiles/ottman-tertuliano-profile.jpg" width="150" style="border-radius: 8px;" alt="Ottman A. Tertuliano"><br>
+                <b>Ottman A. Tertuliano</b>
+            </a>
+            <p>细胞力学、生物力学、材料科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/kyle-vining/research-overview.md">
+                <img src="research-quickview/upenn/profiles/kyle-vining-profile.jpg" width="150" style="border-radius: 8px;" alt="Kyle Vining"><br>
+                <b>Kyle Vining</b>
+            </a>
+            <p>生物力学、细胞再生、工程技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/beth-winkelstein/research-overview.md">
+                <img src="research-quickview/upenn/profiles/beth-winkelstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Beth Winkelstein"><br>
+                <b>Beth Winkelstein</b>
+            </a>
+            <p>椎间盘功能与退化、再生医学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/shujie-yang/research-overview.md">
+                <img src="research-quickview/upenn/profiles/shujie-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Shujie Yang"><br>
+                <b>Shujie Yang</b>
+            </a>
+            <p>生物物理学、力学建模、细胞修复</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: Computational Mechanics
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/john-bassani/research-overview.md">
+                <img src="research-quickview/upenn/profiles/john-bassani-profile.jpg" width="150" style="border-radius: 8px;" alt="John L. Bassani"><br>
+                <b>John L. Bassani</b>
+            </a>
+            <p>计算力学、材料科学、波动传播</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/nadia-figueroa/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nadia-figueroa-profile.jpg" width="150" style="border-radius: 8px;" alt="Nadia Figueroa"><br>
+                <b>Nadia Figueroa</b>
+            </a>
+            <p>多相流、动态界面、机器人系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/howard-hu/research-overview.md">
+                <img src="research-quickview/upenn/profiles/howard-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Howard H. Hu"><br>
+                <b>Howard H. Hu</b>
+            </a>
+            <p>流体力学、电磁流体力学、科学计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/david-issadore/research-overview.md">
+                <img src="research-quickview/upenn/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
+                <b>David Issadore</b>
+            </a>
+            <p>生物网络建模、动力学系统、科学计算</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/jennifer-lukes/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jennifer-lukes-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer R. Lukes"><br>
+                <b>Jennifer R. Lukes</b>
+            </a>
+            <p>塑性与断裂、微重力下的材料行为</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/george-park/research-overview.md">
+                <img src="research-quickview/upenn/profiles/george-park-profile.jpg" width="150" style="border-radius: 8px;" alt="George I. Park"><br>
+                <b>George I. Park</b>
+            </a>
+            <p>生物力学、细胞力学、流体-固体相互作用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/paris-perdikaris/research-overview.md">
+                <img src="research-quickview/upenn/profiles/paris-perdikaris-profile.jpg" width="150" style="border-radius: 8px;" alt="Paris Perdikaris"><br>
+                <b>Paris Perdikaris</b>
+            </a>
+            <p>计算生物力学、机器学习、动态建模</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/pedro-ponte-casteneda/research-overview.md">
+                <img src="research-quickview/upenn/profiles/pedro-ponte-casteneda-profile.jpg" width="150" style="border-radius: 8px;" alt="Pedro Ponte Casteñeda"><br>
+                <b>Pedro Ponte Casteñeda</b>
+            </a>
+            <p>材料力学、计算材料科学、微观建模</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/michael-posa/research-overview.md">
+                <img src="research-quickview/upenn/profiles/michael-posa-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Posa"><br>
+                <b>Michael Posa</b>
+            </a>
+            <p>动态系统、控制理论、机器人</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/celia-reina/research-overview.md">
+                <img src="research-quickview/upenn/profiles/celia-reina-profile.jpg" width="150" style="border-radius: 8px;" alt="Celia Reina"><br>
+                <b>Celia Reina</b>
+            </a>
+            <p>计算流体动力学、热传导、流动控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/talid-sinno/research-overview.md">
+                <img src="research-quickview/upenn/profiles/talid-sinno-profile.jpg" width="150" style="border-radius: 8px;" alt="Talid R. Sinno"><br>
+                <b>Talid R. Sinno</b>
+            </a>
+            <p>生物力学、流体力学、动力学建模</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/cynthia-sung/research-overview.md">
+                <img src="research-quickview/upenn/profiles/cynthia-sung-profile.jpg" width="150" style="border-radius: 8px;" alt="Cynthia Sung"><br>
+                <b>Cynthia Sung</b>
+            </a>
+            <p>机器人学、计算机视觉、动态系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/nat-trask/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nat-trask-profile.jpg" width="150" style="border-radius: 8px;" alt="Nat Trask"><br>
+                <b>Nat Trask</b>
+            </a>
+            <p>计算力学、数值分析、材料科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/kevin-turner/research-overview.md">
+                <img src="research-quickview/upenn/profiles/kevin-turner-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin T. Turner"><br>
+                <b>Kevin T. Turner</b>
+            </a>
+            <p>生物力学、材料力学、建模与仿真</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: Fluid Mechanics
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/paulo-arratia/research-overview.md">
+                <img src="research-quickview/upenn/profiles/paulo-arratia-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo E. Arratia"><br>
+                <b>Paulo E. Arratia</b>
+            </a>
+            <p>微流体学、粒子运动、电磁场下流体行为</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/haim-bau/research-overview.md">
+                <img src="research-quickview/upenn/profiles/haim-bau-profile.jpg" width="150" style="border-radius: 8px;" alt="Haim H. Bau"><br>
+                <b>Haim H. Bau</b>
+            </a>
+            <p>微流体学、芯片实验室、流体与生物医学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/howard-hu/research-overview.md">
+                <img src="research-quickview/upenn/profiles/howard-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Howard H. Hu"><br>
+                <b>Howard H. Hu</b>
+            </a>
+            <p>复杂流体、流动控制、计算流体力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/david-issadore/research-overview.md">
+                <img src="research-quickview/upenn/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
+                <b>David Issadore</b>
+            </a>
+            <p>生物流体力学、动态系统、科学计算</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/douglas-jerolmack/research-overview.md">
+                <img src="research-quickview/upenn/profiles/douglas-jerolmack-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas J. Jerolmack"><br>
+                <b>Douglas J. Jerolmack</b>
+            </a>
+            <p>流体动力学、不稳定性、流动控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/noam-lior/research-overview.md">
+                <img src="research-quickview/upenn/profiles/noam-lior-profile.jpg" width="150" style="border-radius: 8px;" alt="Noam Lior"><br>
+                <b>Noam Lior</b>
+            </a>
+            <p>热力学、流体力学、可再生能源</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/jennifer-lukes/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jennifer-lukes-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer R. Lukes"><br>
+                <b>Jennifer R. Lukes</b>
+            </a>
+            <p>塑性与断裂、流体-固体相互作用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/samantha-mcbride/research-overview.md">
+                <img src="research-quickview/upenn/profiles/samantha-mcbride-profile.jpg" width="150" style="border-radius: 8px;" alt="Samantha McBride"><br>
+                <b>Samantha McBride</b>
+            </a>
+            <p>流体力学、材料科学、非线性现象</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/marc-miskin/research-overview.md">
+                <img src="research-quickview/upenn/profiles/marc-miskin-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Miskin"><br>
+                <b>Marc Miskin</b>
+            </a>
+            <p>微流体、动态系统、材料工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/george-park/research-overview.md">
+                <img src="research-quickview/upenn/profiles/george-park-profile.jpg" width="150" style="border-radius: 8px;" alt="George I. Park"><br>
+                <b>George I. Park</b>
+            </a>
+            <p>生物力学、细胞力学、流体动力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/paris-perdikaris/research-overview.md">
+                <img src="research-quickview/upenn/profiles/paris-perdikaris-profile.jpg" width="150" style="border-radius: 8px;" alt="Paris Perdikaris"><br>
+                <b>Paris Perdikaris</b>
+            </a>
+            <p>计算流体力学、流体动力学建模、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/pedro-ponte-casteneda/research-overview.md">
+                <img src="research-quickview/upenn/profiles/pedro-ponte-casteneda-profile.jpg" width="150" style="border-radius: 8px;" alt="Pedro Ponte Casteñeda"><br>
+                <b>Pedro Ponte Casteñeda</b>
+            </a>
+            <p>材料力学、计算材料科学、微观建模</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/kathleen-stebe/research-overview.md">
+                <img src="research-quickview/upenn/profiles/kathleen-stebe-profile.jpg" width="150" style="border-radius: 8px;" alt="Kathleen J. Stebe"><br>
+                <b>Kathleen J. Stebe</b>
+            </a>
+            <p>软物质、流体力学、界面现象</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/nat-trask/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nat-trask-profile.jpg" width="150" style="border-radius: 8px;" alt="Nat Trask"><br>
+                <b>Nat Trask</b>
+            </a>
+            <p>计算流体动力学、材料科学、建模与仿真</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/nathan-wei/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nathan-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Nathan Wei"><br>
+                <b>Nathan Wei</b>
+            </a>
+            <p>生物流体力学、动态系统、科学计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/other-researchers/research-overview.md">
+                <img src="research-quickview/upenn/profiles/other-researchers-profile.jpg" width="150" style="border-radius: 8px;" alt="Other Researchers"><br>
+                <b>其他研究人员</b>
+            </a>
+            <p>多相流、微流体学、流体与生物医学</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: Mechanical Systems
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/haim-bau/research-overview.md">
+                <img src="research-quickview/upenn/profiles/haim-bau-profile.jpg" width="150" style="border-radius: 8px;" alt="Haim H. Bau"><br>
+                <b>Haim H. Bau</b>
+            </a>
+            <p>微流体学、生物力学、机器人技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/nadia-figueroa/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nadia-figueroa-profile.jpg" width="150" style="border-radius: 8px;" alt="Nadia Figueroa"><br>
+                <b>Nadia Figueroa</b>
+            </a>
+            <p>机器人技术、机械设计、控制理论</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/ani-hsieh/research-overview.md">
+                <img src="research-quickview/upenn/profiles/ani-hsieh-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Ani Hsieh"><br>
+                <b>M. Ani Hsieh</b>
+            </a>
+            <p>无人驾驶系统、动态系统、优化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/david-issadore/research-overview.md">
+                <img src="research-quickview/upenn/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
+                <b>David Issadore</b>
+            </a>
+            <p>生物流体力学、动态系统、机器人</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/michelle-johnson/research-overview.md">
+                <img src="research-quickview/upenn/profiles/michelle-johnson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michelle J. Johnson"><br>
+                <b>Michelle J. Johnson</b>
+            </a>
+            <p>机器人学、产品设计、控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/daniel-koditschek/research-overview.md">
+                <img src="research-quickview/upenn/profiles/daniel-koditschek-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel E. Koditschek"><br>
+                <b>Daniel E. Koditschek</b>
+            </a>
+            <p>机制设计、机器人技术、控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/vijay-kumar/research-overview.md">
+                <img src="research-quickview/upenn/profiles/vijay-kumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Kumar"><br>
+                <b>Vijay Kumar</b>
+            </a>
+            <p>无人机、动态系统、机器人学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/marc-miskin/research-overview.md">
+                <img src="research-quickview/upenn/profiles/marc-miskin-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Miskin"><br>
+                <b>Marc Miskin</b>
+            </a>
+            <p>微型机器人、机制设计、流体力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/george-pappas/research-overview.md">
+                <img src="research-quickview/upenn/profiles/george-pappas-profile.jpg" width="150" style="border-radius: 8px;" alt="George J. Pappas"><br>
+                <b>George J. Pappas</b>
+            </a>
+            <p>控制理论、机器人技术、动态系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/paris-perdikaris/research-overview.md">
+                <img src="research-quickview/upenn/profiles/paris-perdikaris-profile.jpg" width="150" style="border-radius: 8px;" alt="Paris Perdikaris"><br>
+                <b>Paris Perdikaris</b>
+            </a>
+            <p>计算流体力学、机器人学、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/michael-posa/research-overview.md">
+                <img src="research-quickview/upenn/profiles/michael-posa-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Posa"><br>
+                <b>Michael Posa</b>
+            </a>
+            <p>动态系统、控制、机器人技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/jordan-raney/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jordan-raney-profile.jpg" width="150" style="border-radius: 8px;" alt="Jordan R. Raney"><br>
+                <b>Jordan R. Raney</b>
+            </a>
+            <p>流体力学、机器人学、动态控制</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/cynthia-sung/research-overview.md">
+                <img src="research-quickview/upenn/profiles/cynthia-sung-profile.jpg" width="150" style="border-radius: 8px;" alt="Cynthia Sung"><br>
+                <b>Cynthia Sung</b>
+            </a>
+            <p>机器人技术、控制、微机电系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/camillo-taylor/research-overview.md">
+                <img src="research-quickview/upenn/profiles/camillo-taylor-profile.jpg" width="150" style="border-radius: 8px;" alt="Camillo Jose Taylor"><br>
+                <b>Camillo Jose Taylor</b>
+            </a>
+            <p>动态系统、机械设计、机器人</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/kevin-turner/research-overview.md">
+                <img src="research-quickview/upenn/profiles/kevin-turner-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin T. Turner"><br>
+                <b>Kevin T. Turner</b>
+            </a>
+            <p>控制、动态系统、机械设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/karl-ulrich/research-overview.md">
+                <img src="research-quickview/upenn/profiles/karl-ulrich-profile.jpg" width="150" style="border-radius: 8px;" alt="Karl Ulrich"><br>
+                <b>Karl Ulrich</b>
+            </a>
+            <p>产品设计、机器人技术、机制设计</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/nathan-wei/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nathan-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Nathan Wei"><br>
+                <b>Nathan Wei</b>
+            </a>
+            <p>生物力学、流体力学、动态系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/mark-yim/research-overview.md">
+                <img src="research-quickview/upenn/profiles/mark-yim-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Yim"><br>
+                <b>Mark Yim</b>
+            </a>
+            <p>机器人技术、控制、优化</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: Mechanics of Materials
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/john-bassani/research-overview.md">
+                <img src="research-quickview/upenn/profiles/john-bassani-profile.jpg" width="150" style="border-radius: 8px;" alt="John L. Bassani"><br>
+                <b>John L. Bassani</b>
+            </a>
+            <p>晶体塑性、非线性复合材料的有效性质</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/robert-carpick/research-overview.md">
+                <img src="research-quickview/upenn/profiles/robert-carpick-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert W. Carpick"><br>
+                <b>Robert W. Carpick</b>
+            </a>
+            <p>原子/连续介质性质关系、纳米尺度力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/david-goldsby/research-overview.md">
+                <img src="research-quickview/upenn/profiles/david-goldsby-profile.jpg" width="150" style="border-radius: 8px;" alt="David L. Goldsby"><br>
+                <b>David L. Goldsby</b>
+            </a>
+            <p>高温断裂、相变、疲劳</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/douglas-jerolmack/research-overview.md">
+                <img src="research-quickview/upenn/profiles/douglas-jerolmack-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas J. Jerolmack"><br>
+                <b>Douglas J. Jerolmack</b>
+            </a>
+            <p>局部化研究、流体动力学、界面断裂</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/marc-miskin/research-overview.md">
+                <img src="research-quickview/upenn/profiles/marc-miskin-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Miskin"><br>
+                <b>Marc Miskin</b>
+            </a>
+            <p>软材料、细胞力学、各向异性</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/troy-olsson/research-overview.md">
+                <img src="research-quickview/upenn/profiles/troy-olsson-profile.jpg" width="150" style="border-radius: 8px;" alt="Troy Olsson"><br>
+                <b>Troy Olsson</b>
+            </a>
+            <p>软复合材料的粘弹性、材料力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/pedro-ponte-castaneda/research-overview.md">
+                <img src="research-quickview/upenn/profiles/pedro-ponte-casteneda-profile.jpg" width="150" style="border-radius: 8px;" alt="Pedro Ponte Casteñeda"><br>
+                <b>Pedro Ponte Casteñeda</b>
+            </a>
+            <p>高温断裂、界面力学、材料科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/prashant-purohit/research-overview.md">
+                <img src="research-quickview/upenn/profiles/prashant-purohit-profile.jpg" width="150" style="border-radius: 8px;" alt="Prashant K. Purohit"><br>
+                <b>Prashant K. Purohit</b>
+            </a>
+            <p>细胞力学、软材料的力学性质</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/jordan-raney/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jordan-raney-profile.jpg" width="150" style="border-radius: 8px;" alt="Jordan R. Raney"><br>
+                <b>Jordan R. Raney</b>
+            </a>
+            <p>细胞力学、相变、疲劳行为</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/celia-reina/research-overview.md">
+                <img src="research-quickview/upenn/profiles/celia-reina-profile.jpg" width="150" style="border-radius: 8px;" alt="Celia Reina"><br>
+                <b>Celia Reina</b>
+            </a>
+            <p>微观力学、材料设计、动态系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/ottman-tertuliano/research-overview.md">
+                <img src="research-quickview/upenn/profiles/ottman-tertuliano-profile.jpg" width="150" style="border-radius: 8px;" alt="Ottman A. Tertuliano"><br>
+                <b>Ottman A. Tertuliano</b>
+            </a>
+            <p>晶体塑性、软复合材料的力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/nat-trask/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nat-trask-profile.jpg" width="150" style="border-radius: 8px;" alt="Nat Trask"><br>
+                <b>Nat Trask</b>
+            </a>
+            <p>疲劳与高温断裂、界面力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/kevin-turner/research-overview.md">
+                <img src="research-quickview/upenn/profiles/kevin-turner-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin T. Turner"><br>
+                <b>Kevin T. Turner</b>
+            </a>
+            <p>材料力学、动态系统、流体力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/kyle-vining/research-overview.md">
+                <img src="research-quickview/upenn/profiles/kyle-vining-profile.jpg" width="150" style="border-radius: 8px;" alt="Kyle Vining"><br>
+                <b>Kyle Vining</b>
+            </a>
+            <p>软材料、局部化研究、相变行为</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/beth-winkelstein/research-overview.md">
+                <img src="research-quickview/upenn/profiles/beth-winkelstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Beth Winkelstein"><br>
+                <b>Beth Winkelstein</b>
+            </a>
+            <p>细胞力学、材料行为、流体动力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/other-researchers/research-overview.md">
+                <img src="research-quickview/upenn/profiles/other-researchers-profile.jpg" width="150" style="border-radius: 8px;" alt="Other Researchers"><br>
+                <b>其他研究人员</b>
+            </a>
+            <p>材料力学、微观力学、相变</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: Micro- and Nanomechanics
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/mark-allen/research-overview.md">
+                <img src="research-quickview/upenn/profiles/mark-allen-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark G. Allen"><br>
+                <b>Mark G. Allen</b>
+            </a>
+            <p>纳米、微观及宏观热传递、分子动力学模拟</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/igor-bargatin/research-overview.md">
+                <img src="research-quickview/upenn/profiles/igor-bargatin-profile.jpg" width="150" style="border-radius: 8px;" alt="Igor Bargatin"><br>
+                <b>Igor Bargatin</b>
+            </a>
+            <p>能量分析与转化、空间能量</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/john-bassani/research-overview.md">
+                <img src="research-quickview/upenn/profiles/john-bassani-profile.jpg" width="150" style="border-radius: 8px;" alt="John L. Bassani"><br>
+                <b>John L. Bassani</b>
+            </a>
+            <p>生物热传递、材料加工</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/haim-bau/research-overview.md">
+                <img src="research-quickview/upenn/profiles/haim-bau-profile.jpg" width="150" style="border-radius: 8px;" alt="Haim H. Bau"><br>
+                <b>Haim H. Bau</b>
+            </a>
+            <p>废水处理、排放减少</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/robert-carpick/research-overview.md">
+                <img src="research-quickview/upenn/profiles/robert-carpick-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert W. Carpick"><br>
+                <b>Robert W. Carpick</b>
+            </a>
+            <p>燃烧、热能转换</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/david-goldsby/research-overview.md">
+                <img src="research-quickview/upenn/profiles/david-goldsby-profile.jpg" width="150" style="border-radius: 8px;" alt="David L. Goldsby"><br>
+                <b>David L. Goldsby</b>
+            </a>
+            <p>电源生成、环境效应分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/david-issadore/research-overview.md">
+                <img src="research-quickview/upenn/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
+                <b>David Issadore</b>
+            </a>
+            <p>电子封装、先进热管理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/jennifer-lukes/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jennifer-lukes-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer R. Lukes"><br>
+                <b>Jennifer R. Lukes</b>
+            </a>
+            <p>多相流动、热传递、传输动力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/samantha-mcbride/research-overview.md">
+                <img src="research-quickview/upenn/profiles/samantha-mcbride-profile.jpg" width="150" style="border-radius: 8px;" alt="Samantha McBride"><br>
+                <b>Samantha McBride</b>
+            </a>
+            <p>纳米流体、热管理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/marc-miskin/research-overview.md">
+                <img src="research-quickview/upenn/profiles/marc-miskin-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Miskin"><br>
+                <b>Marc Miskin</b>
+            </a>
+            <p>能量转化、材料处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/troy-olsson/research-overview.md">
+                <img src="research-quickview/upenn/profiles/troy-olsson-profile.jpg" width="150" style="border-radius: 8px;" alt="Troy Olsson"><br>
+                <b>Troy Olsson</b>
+            </a>
+            <p>相变与界面力学、能量分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/pedro-ponte-castaneda/research-overview.md">
+                <img src="research-quickview/upenn/profiles/pedro-ponte-casteneda-profile.jpg" width="150" style="border-radius: 8px;" alt="Pedro Ponte Casteñeda"><br>
+                <b>Pedro Ponte Casteñeda</b>
+            </a>
+            <p>复合材料、微观力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/prashant-purohit/research-overview.md">
+                <img src="research-quickview/upenn/profiles/prashant-purohit-profile.jpg" width="150" style="border-radius: 8px;" alt="Prashant K. Purohit"><br>
+                <b>Prashant K. Purohit</b>
+            </a>
+            <p>生物能量传输、细胞力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/jordan-raney/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jordan-raney-profile.jpg" width="150" style="border-radius: 8px;" alt="Jordan R. Raney"><br>
+                <b>Jordan R. Raney</b>
+            </a>
+            <p>动力学与控制、流体力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/celia-reina/research-overview.md">
+                <img src="research-quickview/upenn/profiles/celia-reina-profile.jpg" width="150" style="border-radius: 8px;" alt="Celia Reina"><br>
+                <b>Celia Reina</b>
+            </a>
+            <p>多相流动、热传递、材料行为</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/talid-sinno/research-overview.md">
+                <img src="research-quickview/upenn/profiles/talid-sinno-profile.jpg" width="150" style="border-radius: 8px;" alt="Talid R. Sinno"><br>
+                <b>Talid R. Sinno</b>
+            </a>
+            <p>流体与气体动力学、相变行为</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: Thermal Sciences and Energy Conversion
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/igor-bargatin/research-overview.md">
+                <img src="research-quickview/upenn/profiles/igor-bargatin-profile.jpg" width="150" style="border-radius: 8px;" alt="Igor Bargatin"><br>
+                <b>Igor Bargatin</b>
+            </a>
+            <p>纳米、微观及宏观热传递、能量分析与转化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/robert-carpick/research-overview.md">
+                <img src="research-quickview/upenn/profiles/robert-carpick-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert W. Carpick"><br>
+                <b>Robert W. Carpick</b>
+            </a>
+            <p>生物热传递、材料加工与热管理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/noam-lior/research-overview.md">
+                <img src="research-quickview/upenn/profiles/noam-lior-profile.jpg" width="150" style="border-radius: 8px;" alt="Noam Lior"><br>
+                <b>Noam Lior</b>
+            </a>
+            <p>可再生能源、热能转换与水处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/jennifer-lukes/research-overview.md">
+                <img src="research-quickview/upenn/profiles/jennifer-lukes-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer R. Lukes"><br>
+                <b>Jennifer R. Lukes</b>
+            </a>
+            <p>热传递、气体动力学与材料行为</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/upenn/meam/samantha-mcbride/research-overview.md">
+                <img src="research-quickview/upenn/profiles/samantha-mcbride-profile.jpg" width="150" style="border-radius: 8px;" alt="Samantha McBride"><br>
+                <b>Samantha McBride</b>
+            </a>
+            <p>纳米流体与能量转换</p>
+        </td>
+            <td align="center">
+            <a href="research-quickview/upenn/meam/nathan-wei/research-overview.md">
+                <img src="research-quickview/upenn/profiles/nathan-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Nathan Wei"><br>
+                <b>Nathan Wei</b>
+            </a>
+            <p>热科学、能源分析与环境影响</p>
+        </td>
+    </tr>
+</table>
+
+</details>
+
+<!-- End of UPenn Section -->
+<!-- End of UPenn Section -->
+<!-- End of UPenn Section -->
