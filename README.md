@@ -1259,7 +1259,7 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Caltech Section -->
 <!-- End of Caltech Section -->
 
-### [USC](https://www.usc.edu/)
+### [University of Southern California--USC](https://www.usc.edu/)
 
 <details>
 <summary>Click to expand USC Professors</summary>
@@ -1346,7 +1346,7 @@ A repository for quickly accessing research insights into professors' expertise 
   </tr>
 </table>
 
-
+</details>
 
 <!-- End of USC Section -->
 <!-- End of USC Section -->
