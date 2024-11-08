@@ -1732,8 +1732,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>机器人技术、智能系统、优化与规划</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/eva-kanso/research-overview.md">
                 <img src="research-quickview/usc/profiles/eva-kanso-profile.jpg" width="150" style="border-radius: 8px;" alt="Eva Kanso"><br>
@@ -1741,8 +1739,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>流体动力学、机器人学、控制理论</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/mitul-luhar/research-overview.md">
                 <img src="research-quickview/usc/profiles/mitul-luhar-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitul Luhar"><br>
@@ -1750,8 +1746,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>流体与固体相互作用、机器人控制</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
                 <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
@@ -1768,8 +1762,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>智能控制、机器人感知与决策</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/bingen-yang/research-overview.md">
                 <img src="research-quickview/usc/profiles/bingen-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Bingen Yang"><br>
@@ -1777,10 +1769,14 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>机器人学、动态系统、控制理论</p>
         </td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
 </table>
 
+
 - **Field**: [Solid and Applied Mechanics](https://ame.usc.edu/research/research-areas/solid-applied-mechanics/)
+
 <table>
     <tr>
         <td align="center">
@@ -1790,8 +1786,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>固体力学、非线性分析、结构健康监测</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
                 <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
@@ -1799,8 +1793,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>材料力学、流体-固体相互作用</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/assad-oberai/research-overview.md">
                 <img src="research-quickview/usc/profiles/assad-oberai-profile.jpg" width="150" style="border-radius: 8px;" alt="Assad Oberai"><br>
@@ -1808,8 +1800,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>应用数学、计算力学、材料行为</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/paul-plucinsky/research-overview.md">
                 <img src="research-quickview/usc/profiles/paul-plucinsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Plucinsky"><br>
@@ -1826,8 +1816,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>固体力学、材料科学、流体力学</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/usc/ame/hangbo-zhao/research-overview.md">
                 <img src="research-quickview/usc/profiles/hangbo-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hangbo Zhao"><br>
@@ -1835,8 +1823,11 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>非线性动力学、材料性能、结构分析</p>
         </td>
+        <td align="center"></td>
+        <td align="center"></td>
     </tr>
 </table>
+
 
 
 </details>
