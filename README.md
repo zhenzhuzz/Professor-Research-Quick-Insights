@@ -1259,6 +1259,98 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Caltech Section -->
 <!-- End of Caltech Section -->
 
+### [USC](https://www.usc.edu/)
+
+<details>
+<summary>Click to expand USC Professors</summary>
+
+#### [Aerospace and Mechanical Engineering](https://ame.usc.edu/)
+
+- **Field**: [Biomechanics and Biotransport](https://ame.usc.edu/research/research-areas/bio-inspired-engineering/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/yong-chen/research-overview.md">
+        <img src="research-quickview/usc/profiles/yong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yong Chen"><br>
+        <b>Yong Chen</b>
+      </a>
+      <p>生物力学、生物材料、组织工程、细胞力学、微流体系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/henryk-flashner/research-overview.md">
+        <img src="research-quickview/usc/profiles/henryk-flashner-profile.jpg" width="150" style="border-radius: 8px;" alt="Henryk Flashner"><br>
+        <b>Henryk Flashner</b>
+      </a>
+      <p>生物力学、流体力学、计算流体力学、血流动力学、组织工程</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/eva-kanso/research-overview.md">
+        <img src="research-quickview/usc/profiles/eva-kanso-profile.jpg" width="150" style="border-radius: 8px;" alt="Eva Kanso"><br>
+        <b>Eva Kanso</b>
+      </a>
+      <p>生物流体力学、运动学、细胞力学、微流体系统、运动控制</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/mitul-luhar/research-overview.md">
+        <img src="research-quickview/usc/profiles/mitul-luhar-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitul Luhar"><br>
+        <b>Mitul Luhar</b>
+      </a>
+      <p>生物流体力学、计算生物学、传输现象、微流体系统、细胞力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/paul-newton/research-overview.md">
+        <img src="research-quickview/usc/profiles/paul-newton-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Newton"><br>
+        <b>Paul Newton</b>
+      </a>
+      <p>生物传输、生物力学、运动分析、细胞力学、微流体系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/neda-maghsoodi/research-overview.md">
+        <img src="research-quickview/usc/profiles/neda-maghsoodi-profile.jpg" width="150" style="border-radius: 8px;" alt="Neda Maghsoodi"><br>
+        <b>Neda Maghsoodi</b>
+      </a>
+      <p>生物力学、运动学、动力学、软材料、仿生学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/niema-pahlevan/research-overview.md">
+        <img src="research-quickview/usc/profiles/niema-pahlevan-profile.jpg" width="150" style="border-radius: 8px;" alt="Niema M. Pahlevan"><br>
+        <b>Niema M. Pahlevan</b>
+      </a>
+      <p>生物力学、流体力学、运动生物力学、细胞力学、微流体系统</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/satwindar-sadhal/research-overview.md">
+        <img src="research-quickview/usc/profiles/satwindar-sadhal-profile.jpg" width="150" style="border-radius: 8px;" alt="Satwindar Sadhal"><br>
+        <b>Satwindar Sadhal</b>
+      </a>
+      <p>生物力学、流体力学、热传递、微流体系统、细胞力学</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/geoff-spedding/research-overview.md">
+        <img src="research-quickview/usc/profiles/geoff-spedding-profile.jpg" width="150" style="border-radius: 8px;" alt="Geoff Spedding"><br>
+        <b>Geoff Spedding</b>
+      </a>
+      <p>流体力学、气动声学、生物力学、运动学、细胞力学</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/hangbo-zhao/research-overview.md">
+        <img src="research-quickview/usc/profiles/hangbo-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hangbo Zhao"><br>
+        <b>Hangbo Zhao</b>
+      </a>
+      <p>生物力学、流体力学、计算流体动力学、细胞力学、微流体系统</p>
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- End of USC Section -->
+<!-- End of USC Section -->
+<!-- End of USC Section -->
 
 ### [Harvard](https://www.harvard.edu/)
 
