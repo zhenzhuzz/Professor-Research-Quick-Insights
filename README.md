@@ -6,12 +6,12 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## Universities
 
-### [Stanford](https://www.stanford.edu/)
+## [Stanford](https://www.stanford.edu/)
 
 <details>
 <summary>Click to expand Stanford Professors</summary>
 
-#### [Mechanical Engineering](https://me.stanford.edu/)
+### [Mechanical Engineering](https://me.stanford.edu/)
 
 - **Field**: Mix
 
@@ -41,7 +41,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
   </table>
 
-#### [Electrical Engineering](https://ee.stanford.edu/)
+### [Electrical Engineering](https://ee.stanford.edu/)
 
 - **Learn about Professor**: Stanford EE website->People->Faculty->Areas
 
@@ -176,12 +176,12 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Stanford University Section -->
 <!-- End of Stanford University Section -->
 
-### [UCLA](https://www.ucla.edu/)
+## [UCLA](https://www.ucla.edu/)
 
 <details>
 <summary>Click to expand UCLA Professors</summary>
 
-#### [Electrical & Computer Engineering](https://www.ee.ucla.edu/ucla-ee-research/)
+### [Electrical & Computer Engineering](https://www.ee.ucla.edu/ucla-ee-research/)
 
 - **Field**: Semiconductors and Packaging Technology
 
@@ -293,12 +293,12 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of UCLA Section -->
 
 
-### [MIT](https://www.mit.edu/)
+## [MIT](https://www.mit.edu/)
 
 <details>
 <summary>Click to expand MIT Professors</summary>
   
-#### [Mechanical Engineering](https://meche.mit.edu/)
+### [Mechanical Engineering](https://meche.mit.edu/)
 
 - **Field**: Micro and Nanotechnology
 - [**Faculty**](https://meche.mit.edu/people?field_research_area_tid[]=12)
@@ -450,7 +450,7 @@ A repository for quickly accessing research insights into professors' expertise 
 </table>
 
 
-#### [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/)
+### [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/)
 
 - **Field**: Optics + Photonics
 - [**Faculty**](https://www.eecs.mit.edu/people/?fwp_research=optics-and-photonics)
@@ -699,12 +699,12 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 
-### [Caltech](https://www.caltech.edu/)
+## [Caltech](https://www.caltech.edu/)
 
 <details>
 <summary>Click to expand Caltech Professors</summary>
 
-#### [Mechanical and Civil Engineering](https://mce.caltech.edu/)
+### [Mechanical and Civil Engineering](https://mce.caltech.edu/)
 
 - [**Faculty**](https://mce.caltech.edu/people)
 
@@ -904,7 +904,7 @@ A repository for quickly accessing research insights into professors' expertise 
  
 
 
-#### [Electrical Engineering](https://www.ee.caltech.edu/)
+### [Electrical Engineering](https://www.ee.caltech.edu/)
 
 - [**Faculty**](https://www.ee.caltech.edu/people)
 
@@ -1087,7 +1087,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 
-#### [Applied Physics]([https://www.ee.caltech.edu/](https://aph.caltech.edu/))
+### [Applied Physics]([https://www.ee.caltech.edu/](https://aph.caltech.edu/))
 
 - [**Faculty**](https://aph.caltech.edu/people)
 
@@ -1259,14 +1259,14 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Caltech Section -->
 <!-- End of Caltech Section -->
 
-### [USC](https://www.usc.edu/)
+## [USC](https://www.usc.edu/)
 
 <details>
 <summary>Click to expand USC Professors</summary>
 
-### [University of Southern California](https://www.usc.edu/)
+## [University of Southern California](https://www.usc.edu/)
 
-#### [Aerospace and Mechanical Engineering](https://ame.usc.edu/)
+### [Aerospace and Mechanical Engineering](https://ame.usc.edu/)
 
 - **Field**: [Advanced Manufacturing](https://ame.usc.edu/research/research-areas/advanced-manufacturing/)
 
@@ -1828,6 +1828,714 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
 </table>
 
+### [Electrical and Computer Engineering](https://minghsiehece.usc.edu/research/)
+
+- **Field**: [Biological, Medical and Biomedical](https://minghsiehece.usc.edu/research/area/biological-medical-and-biomedical/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/corey-baker/research-overview.md">
+                <img src="research-quickview/usc/profiles/corey-baker-profile.jpg" width="150" style="border-radius: 8px;" alt="Corey E. Baker"><br>
+                <b>Corey E. Baker</b>
+            </a>
+            <p>生物医学信号处理、影像处理、神经工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/justin-haldar/research-overview.md">
+                <img src="research-quickview/usc/profiles/justin-haldar-profile.jpg" width="150" style="border-radius: 8px;" alt="Justin P. Haldar"><br>
+                <b>Justin P. Haldar</b>
+            </a>
+            <p>医学成像、信号处理、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/hossein-hashemi/research-overview.md">
+                <img src="research-quickview/usc/profiles/hossein-hashemi-profile.jpg" width="150" style="border-radius: 8px;" alt="Hossein Hashemi"><br>
+                <b>Hossein Hashemi</b>
+            </a>
+            <p>微电子学、生物医学电子设备、无线通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/yasser-khan/research-overview.md">
+                <img src="research-quickview/usc/profiles/yasser-khan-profile.jpg" width="150" style="border-radius: 8px;" alt="Yasser Khan"><br>
+                <b>Yasser Khan</b>
+            </a>
+            <p>信号处理、图像分析、生物信息学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/eun-sok-kim/research-overview.md">
+                <img src="research-quickview/usc/profiles/eun-sok-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Eun Sok Kim"><br>
+                <b>Eun Sok Kim</b>
+            </a>
+            <p>生物医学信号处理、医疗成像、光学传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/richard-leahy/research-overview.md">
+                <img src="research-quickview/usc/profiles/richard-leahy-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard M. Leahy"><br>
+                <b>Richard M. Leahy</b>
+            </a>
+            <p>医学成像、计算成像、信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/urbashi-mitra/research-overview.md">
+                <img src="research-quickview/usc/profiles/urbashi-mitra-profile.jpg" width="150" style="border-radius: 8px;" alt="Urbashi Mitra"><br>
+                <b>Urbashi Mitra</b>
+            </a>
+            <p>无线通信、生物医学信号处理、系统理论</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mahta-moghaddam/research-overview.md">
+                <img src="research-quickview/usc/profiles/mahta-moghaddam-profile.jpg" width="150" style="border-radius: 8px;" alt="Mahta Moghaddam"><br>
+                <b>Mahta Moghaddam</b>
+            </a>
+            <p>毫米波成像、生物医学应用、传感器技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/shrikanth-narayanan/research-overview.md">
+                <img src="research-quickview/usc/profiles/shrikanth-narayanan-profile.jpg" width="150" style="border-radius: 8px;" alt="Shrikanth Narayanan"><br>
+                <b>Shrikanth Narayanan</b>
+            </a>
+            <p>语音与语言处理、情感计算、医疗信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/krishna-nayak/research-overview.md">
+                <img src="research-quickview/usc/profiles/krishna-nayak-profile.jpg" width="150" style="border-radius: 8px;" alt="Krishna Shrinivas Nayak"><br>
+                <b>Krishna Shrinivas Nayak</b>
+            </a>
+            <p>医学成像、磁共振成像、超声成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/maryam-shanechi/research-overview.md">
+                <img src="research-quickview/usc/profiles/maryam-shanechi-profile.jpg" width="150" style="border-radius: 8px;" alt="Maryam Shanechi"><br>
+                <b>Maryam Shanechi</b>
+            </a>
+            <p>脑机接口、神经工程、医疗信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/constantine-sideris/research-overview.md">
+                <img src="research-quickview/usc/profiles/constantine-sideris-profile.jpg" width="150" style="border-radius: 8px;" alt="Constantine Sideris"><br>
+                <b>Constantine Sideris</b>
+            </a>
+            <p>信号处理、图像处理、传感器网络</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/joshua-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/joshua-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Joshua Yang"><br>
+                <b>J. Joshua Yang</b>
+            </a>
+            <p>生物医学电子设备、无线传感器、健康监测</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Control Systems](https://minghsiehece.usc.edu/research/area/control-systems/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/paul-bogdan/research-overview.md">
+                <img src="research-quickview/usc/profiles/paul-bogdan-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Bogdan"><br>
+                <b>Paul Bogdan</b>
+            </a>
+            <p>控制系统、网络控制、系统动力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/petros-ioannou/research-overview.md">
+                <img src="research-quickview/usc/profiles/petros-ioannou-profile.jpg" width="150" style="border-radius: 8px;" alt="Petros A. Ioannou"><br>
+                <b>Petros A. Ioannou</b>
+            </a>
+            <p>控制系统、动态系统、机器人学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/rahul-jain/research-overview.md">
+                <img src="research-quickview/usc/profiles/rahul-jain-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Jain"><br>
+                <b>Rahul Jain</b>
+            </a>
+            <p>控制理论、优化、系统工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mihailo-jovanovic/research-overview.md">
+                <img src="research-quickview/usc/profiles/mihailo-jovanovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Mihailo Jovanovic"><br>
+                <b>Mihailo Jovanovic</b>
+            </a>
+            <p>控制系统、非线性系统、动态系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/bart-kosko/research-overview.md">
+                <img src="research-quickview/usc/profiles/bart-kosko-profile.jpg" width="150" style="border-radius: 8px;" alt="Bart Andrew Kosko"><br>
+                <b>Bart Andrew Kosko</b>
+            </a>
+            <p>控制系统、模糊逻辑、系统理论</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/daniel-lidar/research-overview.md">
+                <img src="research-quickview/usc/profiles/daniel-lidar-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Amihud Lidar"><br>
+                <b>Daniel Amihud Lidar</b>
+            </a>
+            <p>量子控制、量子计算、信息科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/ashutosh-nayyar/research-overview.md">
+                <img src="research-quickview/usc/profiles/ashutosh-nayyar-profile.jpg" width="150" style="border-radius: 8px;" alt="Ashutosh Nayyar"><br>
+                <b>Ashutosh Nayyar</b>
+            </a>
+            <p>控制系统、信号处理、系统设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/feifei-qian/research-overview.md">
+                <img src="research-quickview/usc/profiles/feifei-qian-profile.jpg" width="150" style="border-radius: 8px;" alt="Feifei Qian"><br>
+                <b>Feifei Qian</b>
+            </a>
+            <p>控制系统、自动化、数据驱动建模</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Electromagnetics and Energy Conversion](https://minghsiehece.usc.edu/research/area/electromagnetics-and-energy-conversion-research-area/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mercedeh-khajavikhan/research-overview.md">
+                <img src="research-quickview/usc/profiles/mercedeh-khajavikhan-profile.jpg" width="150" style="border-radius: 8px;" alt="Mercedeh Khajavikhan"><br>
+                <b>Mercedeh Khajavikhan</b>
+            </a>
+            <p>电磁场理论、能量转换、电磁兼容性</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/eun-sok-kim/research-overview.md">
+                <img src="research-quickview/usc/profiles/eun-sok-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Eun Sok Kim"><br>
+                <b>Eun Sok Kim</b>
+            </a>
+            <p>电磁场、无线通信、信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mahta-moghaddam/research-overview.md">
+                <img src="research-quickview/usc/profiles/mahta-moghaddam-profile.jpg" width="150" style="border-radius: 8px;" alt="Mahta Moghaddam"><br>
+                <b>Mahta Moghaddam</b>
+            </a>
+            <p>电磁波传播、传感器技术、无线能量传输</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/aluizio-prata/research-overview.md">
+                <img src="research-quickview/usc/profiles/aluizio-prata-profile.jpg" width="150" style="border-radius: 8px;" alt="Aluizio Prata"><br>
+                <b>Aluizio Prata</b>
+            </a>
+            <p>电磁理论、微波工程、电力电子</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/constantine-sideris/research-overview.md">
+                <img src="research-quickview/usc/profiles/constantine-sideris-profile.jpg" width="150" style="border-radius: 8px;" alt="Constantine Sideris"><br>
+                <b>Constantine Sideris</b>
+            </a>
+            <p>电磁场、信号处理、控制系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mengjie-yu/research-overview.md">
+                <img src="research-quickview/usc/profiles/mengjie-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Mengjie Yu"><br>
+                <b>Mengjie Yu</b>
+            </a>
+            <p>电磁能量转换、无线能量传输、纳米技术</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Integrated Circuits and Systems](https://minghsiehece.usc.edu/research/area/integrated-circuits-and-systems/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/peter-beerel/research-overview.md">
+                <img src="research-quickview/usc/profiles/peter-beerel-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter A. Beerel"><br>
+                <b>Peter A. Beerel</b>
+            </a>
+            <p>集成电路设计、数字电路、时序分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/shuo-wei-chen/research-overview.md">
+                <img src="research-quickview/usc/profiles/shuo-wei-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Shuo-Wei (Mike) Chen"><br>
+                <b>Shuo-Wei (Mike) Chen</b>
+            </a>
+            <p>集成电路设计、系统级集成、计算机架构</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/hossein-hashemi/research-overview.md">
+                <img src="research-quickview/usc/profiles/hossein-hashemi-profile.jpg" width="150" style="border-radius: 8px;" alt="Hossein Hashemi"><br>
+                <b>Hossein Hashemi</b>
+            </a>
+            <p>模拟和混合信号电路、RF集成电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/eun-sok-kim/research-overview.md">
+                <img src="research-quickview/usc/profiles/eun-sok-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Eun Sok Kim"><br>
+                <b>Eun Sok Kim</b>
+            </a>
+            <p>电磁场、无线通信、信号处理</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/viktor-prasanna/research-overview.md">
+                <img src="research-quickview/usc/profiles/viktor-prasanna-profile.jpg" width="150" style="border-radius: 8px;" alt="Viktor K. Prasanna"><br>
+                <b>Viktor K. Prasanna</b>
+            </a>
+            <p>计算机体系结构、并行处理、集成电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/constantine-sideris/research-overview.md">
+                <img src="research-quickview/usc/profiles/constantine-sideris-profile.jpg" width="150" style="border-radius: 8px;" alt="Constantine Sideris"><br>
+                <b>Constantine Sideris</b>
+            </a>
+            <p>电路设计、信号处理、控制系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/christopher-torng/research-overview.md">
+                <img src="research-quickview/usc/profiles/christopher-torng-profile.jpg" width="150" style="border-radius: 8px;" alt="Christopher Torng"><br>
+                <b>Christopher Torng</b>
+            </a>
+            <p>集成电路设计、计算机视觉、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/j-joshua-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/j-joshua-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Joshua Yang"><br>
+                <b>J. Joshua Yang</b>
+            </a>
+            <p>微电子学、量子电路、集成电路设计</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/chongwu-zhou/research-overview.md">
+                <img src="research-quickview/usc/profiles/chongwu-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Chongwu Zhou"><br>
+                <b>Chongwu Zhou</b>
+            </a>
+            <p>半导体器件、集成电路、纳米电子学</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Nanotechnology & Micro Electrical-Mechanical Systems](https://minghsiehece.usc.edu/research/area/nanotechnology-micro-electrical-mechanical-systems-research-area/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/stephen-cronin/research-overview.md">
+                <img src="research-quickview/usc/profiles/stephen-cronin-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Burke Cronin"><br>
+                <b>Stephen Burke Cronin</b>
+            </a>
+            <p>纳米技术、光电子学、MEMS</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/rehan-kapadia/research-overview.md">
+                <img src="research-quickview/usc/profiles/rehan-kapadia-profile.jpg" width="150" style="border-radius: 8px;" alt="Rehan Kapadia"><br>
+                <b>Rehan Kapadia</b>
+            </a>
+            <p>微纳制造、MEMS、集成电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mercedeh-khajavikhan/research-overview.md">
+                <img src="research-quickview/usc/profiles/mercedeh-khajavikhan-profile.jpg" width="150" style="border-radius: 8px;" alt="Mercedeh Khajavikhan"><br>
+                <b>Mercedeh Khajavikhan</b>
+            </a>
+            <p>MEMS、传感器、纳米技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/yasser-khan/research-overview.md">
+                <img src="research-quickview/usc/profiles/yasser-khan-profile.jpg" width="150" style="border-radius: 8px;" alt="Yasser Khan"><br>
+                <b>Yasser Khan</b>
+            </a>
+            <p>微电子器件、纳米材料、MEMS</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/eun-sok-kim/research-overview.md">
+                <img src="research-quickview/usc/profiles/eun-sok-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Eun Sok Kim"><br>
+                <b>Eun Sok Kim</b>
+            </a>
+            <p>纳米电子学、无线通信、信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/daniel-lidar/research-overview.md">
+                <img src="research-quickview/usc/profiles/daniel-lidar-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Amihud Lidar"><br>
+                <b>Daniel Amihud Lidar</b>
+            </a>
+            <p>量子信息、量子计算、材料科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/wei-wu/research-overview.md">
+                <img src="research-quickview/usc/profiles/wei-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei Wu"><br>
+                <b>Wei Wu</b>
+            </a>
+            <p>纳米技术、材料性能、电子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/j-joshua-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/j-joshua-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Joshua Yang"><br>
+                <b>J. Joshua Yang</b>
+            </a>
+            <p>微电子学、量子电路、集成电路设计</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mengjie-yu/research-overview.md">
+                <img src="research-quickview/usc/profiles/mengjie-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Mengjie Yu"><br>
+                <b>Mengjie Yu</b>
+            </a>
+            <p>MEMS、微纳制造、集成电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/chongwu-zhou/research-overview.md">
+                <img src="research-quickview/usc/profiles/chongwu-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Chongwu Zhou"><br>
+                <b>Chongwu Zhou</b>
+            </a>
+            <p>半导体器件、集成电路、纳米电子学</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Parallel and Distributed Computing](https://minghsiehece.usc.edu/research/area/parallel-and-distributed-computing/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/murali-annavaram/research-overview.md">
+                <img src="research-quickview/usc/profiles/murali-annavaram-profile.jpg" width="150" style="border-radius: 8px;" alt="Murali Annavaram"><br>
+                <b>Murali Annavaram</b>
+            </a>
+            <p>电力工程、并行和分布式计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/salman-avestimehr/research-overview.md">
+                <img src="research-quickview/usc/profiles/salman-avestimehr-profile.jpg" width="150" style="border-radius: 8px;" alt="Salman Avestimehr"><br>
+                <b>Salman Avestimehr</b>
+            </a>
+            <p>分布式系统、网络通信、数据科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/paul-bogdan/research-overview.md">
+                <img src="research-quickview/usc/profiles/paul-bogdan-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Bogdan"><br>
+                <b>Paul Bogdan</b>
+            </a>
+            <p>嵌入式系统、并行计算、智能电网</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/timothy-pinkston/research-overview.md">
+                <img src="research-quickview/usc/profiles/timothy-pinkston-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy Pinkston"><br>
+                <b>Timothy M. Pinkston</b>
+            </a>
+            <p>计算机架构、并行处理、网络系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/viktor-prasanna/research-overview.md">
+                <img src="research-quickview/usc/profiles/viktor-prasanna-profile.jpg" width="150" style="border-radius: 8px;" alt="Viktor Prasanna"><br>
+                <b>Viktor K. Prasanna</b>
+            </a>
+            <p>计算机科学、并行和分布式计算、系统设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/christopher-torng/research-overview.md">
+                <img src="research-quickview/usc/profiles/christopher-torng-profile.jpg" width="150" style="border-radius: 8px;" alt="Christopher Torng"><br>
+                <b>Christopher Torng</b>
+            </a>
+            <p>计算机系统、算法设计、并行计算</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Photonics and Quantum Electronics](https://minghsiehece.usc.edu/research/area/photonics-and-quantum-electronics/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/stephen-cronin/research-overview.md">
+                <img src="research-quickview/usc/profiles/stephen-cronin-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Cronin"><br>
+                <b>Stephen B. Cronin</b>
+            </a>
+            <p>光子学、纳米光子学、量子电子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/hossein-hashemi/research-overview.md">
+                <img src="research-quickview/usc/profiles/hossein-hashemi-profile.jpg" width="150" style="border-radius: 8px;" alt="Hossein Hashemi"><br>
+                <b>Hossein Hashemi</b>
+            </a>
+            <p>集成光子学、量子信息、微纳米光学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mercedeh-khajavikhan/research-overview.md">
+                <img src="research-quickview/usc/profiles/mercedeh-khajavikhan-profile.jpg" width="150" style="border-radius: 8px;" alt="Mercedeh Khajavikhan"><br>
+                <b>Mercedeh Khajavikhan</b>
+            </a>
+            <p>光电集成、光信号处理、量子光学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/anthony-levi/research-overview.md">
+                <img src="research-quickview/usc/profiles/anthony-levi-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Levi"><br>
+                <b>Tony Levi</b>
+            </a>
+            <p>光学材料、量子光子学、光电技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/daniel-lidar/research-overview.md">
+                <img src="research-quickview/usc/profiles/daniel-lidar-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Lidar"><br>
+                <b>Daniel A. Lidar</b>
+            </a>
+            <p>量子计算、量子信息、量子系统控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/michelle-povinelli/research-overview.md">
+                <img src="research-quickview/usc/profiles/michelle-povinelli-profile.jpg" width="150" style="border-radius: 8px;" alt="Michelle Povinelli"><br>
+                <b>Michelle L. Povinelli</b>
+            </a>
+            <p>光子学、光子集成电路、量子材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/alan-willner/research-overview.md">
+                <img src="research-quickview/usc/profiles/alan-willner-profile.jpg" width="150" style="border-radius: 8px;" alt="Alan Willner"><br>
+                <b>Alan E. Willner</b>
+            </a>
+            <p>光通信、量子光子学、光子信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/joshua-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/joshua-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Joshua Yang"><br>
+                <b>J. Joshua Yang</b>
+            </a>
+            <p>量子光学、非线性光学、光电系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mengjie-yu/research-overview.md">
+                <img src="research-quickview/usc/profiles/mengjie-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Mengjie Yu"><br>
+                <b>Mengjie Yu</b>
+            </a>
+            <p>集成光子学、光子传感、纳米光学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/chongwu-zhou/research-overview.md">
+                <img src="research-quickview/usc/profiles/chongwu-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Chongwu Zhou"><br>
+                <b>Chongwu Zhou</b>
+            </a>
+            <p>光子学、光电器件、量子材料</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Quantum Information Processing](https://minghsiehece.usc.edu/research/area/quantum-information-processing/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/todd-brun/research-overview.md">
+                <img src="research-quickview/usc/profiles/todd-brun-profile.jpg" width="150" style="border-radius: 8px;" alt="Todd Brun"><br>
+                <b>Todd A. Brun</b>
+            </a>
+            <p>量子计算、量子信息理论、量子算法</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/stephen-cronin/research-overview.md">
+                <img src="research-quickview/usc/profiles/stephen-cronin-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Cronin"><br>
+                <b>Stephen B. Cronin</b>
+            </a>
+            <p>光子学、量子光学、量子信息处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mercedeh-khajavikhan/research-overview.md">
+                <img src="research-quickview/usc/profiles/mercedeh-khajavikhan-profile.jpg" width="150" style="border-radius: 8px;" alt="Mercedeh Khajavikhan"><br>
+                <b>Mercedeh Khajavikhan</b>
+            </a>
+            <p>集成光子学、量子信息、光子电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/anthony-levi/research-overview.md">
+                <img src="research-quickview/usc/profiles/anthony-levi-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Levi"><br>
+                <b>Tony Levi</b>
+            </a>
+            <p>量子光子学、材料科学、光学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/daniel-lidar/research-overview.md">
+                <img src="research-quickview/usc/profiles/daniel-lidar-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Lidar"><br>
+                <b>Daniel A. Lidar</b>
+            </a>
+            <p>量子系统、量子控制、量子计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/benjamin-reichardt/research-overview.md">
+                <img src="research-quickview/usc/profiles/benjamin-reichardt-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Reichardt"><br>
+                <b>Benjamin W. Reichardt</b>
+            </a>
+            <p>量子信息、量子算法、计算机科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/alan-willner/research-overview.md">
+                <img src="research-quickview/usc/profiles/alan-willner-profile.jpg" width="150" style="border-radius: 8px;" alt="Alan Willner"><br>
+                <b>Alan E. Willner</b>
+            </a>
+            <p>光子学、量子光子学、通信技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/joshua-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/joshua-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Joshua Yang"><br>
+                <b>J. Joshua Yang</b>
+            </a>
+            <p>量子系统、光学、量子计算</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mengjie-yu/research-overview.md">
+                <img src="research-quickview/usc/profiles/mengjie-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Mengjie Yu"><br>
+                <b>Mengjie Yu</b>
+            </a>
+            <p>量子信息、量子计算、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/qunta-zhuang/research-overview.md">
+                <img src="research-quickview/usc/profiles/qunta-zhuang-profile.jpg" width="150" style="border-radius: 8px;" alt="Quntao Zhuang"><br>
+                <b>Quntao Zhuang</b>
+            </a>
+            <p>量子通信、量子光学、量子探测</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Signal and Image Processing](https://minghsiehece.usc.edu/research/area/signal-and-image-processing/)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/salman-avestimehr/research-overview.md">
+                <img src="research-quickview/usc/profiles/salman-avestimehr-profile.jpg" width="150" style="border-radius: 8px;" alt="Salman Avestimehr"><br>
+                <b>Salman Avestimehr</b>
+            </a>
+            <p>信号处理、图像处理、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/keith-chugg/research-overview.md">
+                <img src="research-quickview/usc/profiles/keith-chugg-profile.jpg" width="150" style="border-radius: 8px;" alt="Keith Chugg"><br>
+                <b>Keith M. Chugg</b>
+            </a>
+            <p>信号处理、系统识别、估计理论</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/justin-haldar/research-overview.md">
+                <img src="research-quickview/usc/profiles/justin-haldar-profile.jpg" width="150" style="border-radius: 8px;" alt="Justin Haldar"><br>
+                <b>Justin P. Haldar</b>
+            </a>
+            <p>医学图像处理、计算成像、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/brian-jenkins/research-overview.md">
+                <img src="research-quickview/usc/profiles/brian-jenkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Jenkins"><br>
+                <b>Keith Jenkins</b>
+            </a>
+            <p>图像处理、信号处理、通信系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/bart-kosko/research-overview.md">
+                <img src="research-quickview/usc/profiles/bart-kosko-profile.jpg" width="150" style="border-radius: 8px;" alt="Bart Kosko"><br>
+                <b>Bart A. Kosko</b>
+            </a>
+            <p>信息处理、模糊逻辑、法律与工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/chung-chieh-kuo/research-overview.md">
+                <img src="research-quickview/usc/profiles/chung-chieh-kuo-profile.jpg" width="150" style="border-radius: 8px;" alt="Chung-Chieh Kuo"><br>
+                <b>C.-C. Jay Kuo</b>
+            </a>
+            <p>图像和视频编码、信号处理、计算机视觉</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/christos-kyriakakis/research-overview.md">
+                <img src="research-quickview/usc/profiles/christos-kyriakakis-profile.jpg" width="150" style="border-radius: 8px;" alt="Christos Kyriakakis"><br>
+                <b>Chris Kyriakakis</b>
+            </a>
+            <p>信号处理、声学、音频处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/richard-leahy/research-overview.md">
+                <img src="research-quickview/usc/profiles/richard-leahy-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Leahy"><br>
+                <b>Richard M. Leahy</b>
+            </a>
+            <p>医学图像分析、信号处理、生物医学工程</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/urbashi-mitra/research-overview.md">
+                <img src="research-quickview/usc/profiles/urbashi-mitra-profile.jpg" width="150" style="border-radius: 8px;" alt="Urbashi Mitra"><br>
+                <b>Urbashi Mitra</b>
+            </a>
+            <p>信号处理、通信系统、无线网络</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/shrikanth-narayanan/research-overview.md">
+                <img src="research-quickview/usc/profiles/shrikanth-narayanan-profile.jpg" width="150" style="border-radius: 8px;" alt="Shrikanth Narayanan"><br>
+                <b>Shrikanth Narayanan</b>
+            </a>
+            <p>语音处理、语言处理、人工智能</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/krishna-nayak/research-overview.md">
+                <img src="research-quickview/usc/profiles/krishna-nayak-profile.jpg" width="150" style="border-radius: 8px;" alt="Krishna Nayak"><br>
+                <b>Krishna S. Nayak</b>
+            </a>
+            <p>信号处理、生物医学工程、医学成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/antonio-ortega/research-overview.md">
+                <img src="research-quickview/usc/profiles/antonio-ortega-profile.jpg" width="150" style="border-radius: 8px;" alt="Antonio Ortega"><br>
+                <b>Antonio Ortega</b>
+            </a>
+            <p>视频编码、信号处理、数据压缩</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/usc/ece/maryam-shanechi/research-overview.md">
+                <img src="research-quickview/usc/profiles/maryam-shanechi-profile.jpg" width="150" style="border-radius: 8px;" alt="Maryam Shanechi"><br>
+                <b>Maryam Shanechi</b>
+            </a>
+            <p>生物医学信号处理、机器学习、脑机接口</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/mahdi-soltanolkotabi/research-overview.md">
+                <img src="research-quickview/usc/profiles/mahdi-soltanolkotabi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mahdi Soltanolkotabi"><br>
+                <b>Mahdi Soltanolkotabi</b>
+            </a>
+            <p>信号处理、图像处理、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/usc/ece/joshua-yang/research-overview.md">
+                <img src="research-quickview/usc/profiles/joshua-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Joshua Yang"><br>
+                <b>J. Joshua Yang</b>
+            </a>
+            <p>信号处理、图像处理、通信</p>
+        </td>
+    </tr>
+</table>
+
 
 
 </details>
@@ -1836,12 +2544,12 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of USC Section -->
 <!-- End of USC Section -->
 
-### [Harvard](https://www.harvard.edu/)
+## [Harvard](https://www.harvard.edu/)
 
 <details>
 <summary>Click to expand Harvard Professors</summary>
 
-#### [Materials and Mechanical Engineering](https://seas.harvard.edu/materials-science-mechanical-engineering/faculty-research)
+### [Materials and Mechanical Engineering](https://seas.harvard.edu/materials-science-mechanical-engineering/faculty-research)
 
 <details>
 <summary>Materials and Mechanical Engineering Faculty</summary>
@@ -2540,7 +3248,7 @@ A repository for quickly accessing research insights into professors' expertise 
 </details>
 
 
-#### [Electrical Engineering](https://seas.harvard.edu/faculty/all-research-areas)
+### [Electrical Engineering](https://seas.harvard.edu/faculty/all-research-areas)
 
 <details>
 <summary>Electrical Engineering Faculty</summary>
@@ -3049,12 +3757,12 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 
-### [Columbia University](https://www.columbia.edu/)
+## [Columbia University](https://www.columbia.edu/)
 
 <details>
 <summary>Click to expand Columbia Professors</summary>
 
-#### [Mechanical Engineering](https://www.me.columbia.edu/)
+### [Mechanical Engineering](https://www.me.columbia.edu/)
 
 <table>
   <tr>
@@ -3241,7 +3949,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 
-#### [Electrical Engineering](https://www.ee.columbia.edu/)
+### [Electrical Engineering](https://www.ee.columbia.edu/)
 
 - **Field**: Nanoscale Structures and Integrated Devices
 
@@ -3368,7 +4076,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 
-#### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
+### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
 
   <table>
     <tr>
@@ -3389,12 +4097,12 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Columbia Section -->
 
 
-### [Duke University](https://duke.edu/)
+## [Duke University](https://duke.edu/)
 
 <details>
 <summary>Click to expand Duke Professors</summary>
 
-#### [Electrical and Computer Engineering](https://ece.duke.edu/)
+### [Electrical and Computer Engineering](https://ece.duke.edu/)
 
 <details>
 <summary>Electrical and Computer Engineering Faculty</summary>
@@ -3881,7 +4589,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 </details>
 
-#### [Mechanical Engineering and Materials Science](https://mems.duke.edu/)
+### [Mechanical Engineering and Materials Science](https://mems.duke.edu/)
 
 <details>
 <summary>Mechanical Engineering and Materials Science Faculty</summary>
