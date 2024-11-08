@@ -1266,6 +1266,41 @@ A repository for quickly accessing research insights into professors' expertise 
 
 #### [Aerospace and Mechanical Engineering](https://ame.usc.edu/)
 
+- **Field**: [Advanced Manufacturing](https://ame.usc.edu/research/research-areas/advanced-manufacturing/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/yong-chen/research-overview.md">
+        <img src="research-quickview/usc/profiles/yong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yong Chen"><br>
+        <b>Yong Chen</b>
+      </a>
+      <p>增材制造、多材料和多功能制造、制造过程建模、设计与优化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/satyandra-gupta/research-overview.md">
+        <img src="research-quickview/usc/profiles/satyandra-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Satyandra K. Gupta"><br>
+        <b>Satyandra K. Gupta</b>
+      </a>
+      <p>增材制造、灵活制造自动化、智能制造、机器人技术</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/yan-jin/research-overview.md">
+        <img src="research-quickview/usc/profiles/yan-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Yan Jin"><br>
+        <b>Yan Jin</b>
+      </a>
+      <p>先进制造技术、智能制造、过程建模与控制、资源优化</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/hangbo-zhao/research-overview.md">
+        <img src="research-quickview/usc/profiles/hangbo-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hangbo Zhao"><br>
+        <b>Hangbo Zhao</b>
+      </a>
+      <p>增材制造、灵活制造自动化、机械驱动制造、过程优化</p>
+    </td>
+  </tr>
+</table>
+
 - **Field**: [Biomechanics and Biotransport](https://ame.usc.edu/research/research-areas/bio-inspired-engineering/)
 <table>
   <tr>
@@ -1345,6 +1380,107 @@ A repository for quickly accessing research insights into professors' expertise 
     </td>
   </tr>
 </table>
+
+- **Field**: [Combustion and Propulsion](https://ame.usc.edu/research/research-areas/combustion-heat-transfer/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/fokion-egolfopoulos/research-overview.md">
+        <img src="research-quickview/usc/profiles/fokion-egolfopoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="Fokion Egolfopoulos"><br>
+        <b>Fokion Egolfopoulos</b>
+      </a>
+      <p>燃烧动力学、化学反应流动、燃料-空气混合物的火焰特性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/carlos-pantano-rubino/research-overview.md">
+        <img src="research-quickview/usc/profiles/carlos-pantano-rubino-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Pantano-Rubino"><br>
+        <b>Carlos Pantano-Rubino</b>
+      </a>
+      <p>化学反应动力学、喷雾燃烧、燃烧模型的数值模拟</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/paul-ronney/research-overview.md">
+        <img src="research-quickview/usc/profiles/paul-ronney-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Ronney"><br>
+        <b>Paul Ronney</b>
+      </a>
+      <p>燃烧过程中的热量与质量传递、自由基动力学、推进系统的燃烧特性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/satwindar-sadhal/research-overview.md">
+        <img src="research-quickview/usc/profiles/satwindar-sadhal-profile.jpg" width="150" style="border-radius: 8px;" alt="Satwindar Sadhal"><br>
+        <b>Satwindar Sadhal</b>
+      </a>
+      <p>燃烧、推进技术、气体动力学及其在航天应用中的作用</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: [Physics- & Data-Informed Computational Modeling](https://ame.usc.edu/research/research-areas/computational-engineering/)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/ivan-bermejo-moreno/research-overview.md">
+        <img src="research-quickview/usc/profiles/ivan-bermejo-moreno-profile.jpg" width="150" style="border-radius: 8px;" alt="Iván Bermejo-Moreno"><br>
+        <b>Iván Bermejo-Moreno</b>
+      </a>
+      <p>计算力学、有限元分析、非线性固体力学、材料建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/julian-domaradzki/research-overview.md">
+        <img src="research-quickview/usc/profiles/julian-domaradzki-profile.jpg" width="150" style="border-radius: 8px;" alt="Julian Domaradzki"><br>
+        <b>Julian Domaradzki</b>
+      </a>
+      <p>计算流体力学、湍流建模、统计流体力学、数值方法</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/roger-ghanem/research-overview.md">
+        <img src="research-quickview/usc/profiles/roger-ghanem-profile.jpg" width="150" style="border-radius: 8px;" alt="Roger Ghanem"><br>
+        <b>Roger Ghanem</b>
+      </a>
+      <p>随机建模、计算力学、数据驱动建模、量化不确定性</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/paul-newton/research-overview.md">
+        <img src="research-quickview/usc/profiles/paul-newton-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Newton"><br>
+        <b>Paul Newton</b>
+      </a>
+      <p>计算力学、有限元方法、非线性固体力学、材料建模</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/usc/ame/assad-oberai/research-overview.md">
+        <img src="research-quickview/usc/profiles/assad-oberai-profile.jpg" width="150" style="border-radius: 8px;" alt="Assad A. Oberai"><br>
+        <b>Assad A. Oberai</b>
+      </a>
+      <p>计算力学、有限元分析、非线性固体力学、材料建模</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/carlos-pantano-rubino/research-overview.md">
+        <img src="research-quickview/usc/profiles/carlos-pantano-rubino-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Pantano-Rubino"><br>
+        <b>Carlos Pantano-Rubino</b>
+      </a>
+      <p>计算流体力学、湍流建模、数值方法、计算物理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/usc/ame/alejandra-uranga/research-overview.md">
+        <img src="research-quickview/usc/profiles/alejandra-uranga-profile.jpg" width="150" style="border-radius: 8px;" alt="Alejandra Uranga"><br>
+        <b>Alejandra Uranga</b>
+      </a>
+      <p>计算力学、有限元分析、非线性固体力学、材料建模</p>
+    </td>
+  </tr>
+</table>
+
+- **Field**: [Design Informatics](https://ame.usc.edu/research/research-areas/design-informatics/)
+- **Field**: [Dynamical Systems and Controls](https://ame.usc.edu/research/research-areas/dynamical-systems-controls/)
+- **Field**: [Fluid Mechanics and Aerodynamics](https://ame.usc.edu/research/research-areas/fluid-mechanics-aerodynamics/)
+- **Field**: [Materials](https://ame.usc.edu/research/research-areas/materials/)
+- **Field**: [Micro/Nano Technology](https://ame.usc.edu/research/research-areas/micro-nano-tech/)
+- **Field**: [Robotics](https://ame.usc.edu/research/research-areas/robotics/)
+- **Field**: [Solid and Applied Mechanics](https://ame.usc.edu/research/research-areas/solid-applied-mechanics/)
+
 
 </details>
 
