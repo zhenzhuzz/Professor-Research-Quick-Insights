@@ -7671,28 +7671,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/stephen-antolovich-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen D. Antolovich"><br>
                 <b>Stephen D. Antolovich</b>
             </a>
-            <p>材料的疲劳、变形和退化，高温行为，结构失效的力学和材料应用。</p>
+            <p>材料的疲劳、变形和退化，高温行为，结构失效的力学和材料应用</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/antonia-antoniou/research-overview.md">
                 <img src="research-quickview/gatech/profiles/antonia-antoniou-profile.jpg" width="150" style="border-radius: 8px;" alt="Antonia Antoniou"><br>
                 <b>Antonia Antoniou</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/nazanin-bassiri-gharb/research-overview.md">
                 <img src="research-quickview/gatech/profiles/nazanin-bassiri-gharb-profile.jpg" width="150" style="border-radius: 8px;" alt="Nazanin Bassiri-Gharb"><br>
                 <b>Nazanin Bassiri-Gharb</b>
             </a>
-            <p>铁电和多铁性材料在微纳机电系统中的应用，传感器和执行器的开发。</p>
+            <p>铁电和多铁性材料在微纳机电系统中的应用，传感器和执行器的开发</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/hailong-chen/research-overview.md">
                 <img src="research-quickview/gatech/profiles/hailong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Hailong Chen"><br>
                 <b>Hailong Chen</b>
             </a>
-            <p>多尺度建模和仿真，材料的力学行为，特别是纳米尺度下的性能。</p>
+            <p>多尺度建模和仿真，材料的力学行为，特别是纳米尺度下的性能</p>
         </td>
     </tr>
     <tr>
@@ -7701,28 +7701,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/seung-kyum-choi-profile.jpg" width="150" style="border-radius: 8px;" alt="Seung-Kyum Choi"><br>
                 <b>Seung-Kyum Choi</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/chaitanya-deo/research-overview.md">
                 <img src="research-quickview/gatech/profiles/chaitanya-deo-profile.jpg" width="150" style="border-radius: 8px;" alt="Chaitanya S. Deo"><br>
                 <b>Chaitanya S. Deo</b>
             </a>
-            <p>核能材料的力学行为，特别是辐照下的性能，材料的失效机制。</p>
+            <p>核能材料的力学行为，特别是辐照下的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/alper-erturk/research-overview.md">
                 <img src="research-quickview/gatech/profiles/alper-erturk-profile.jpg" width="150" style="border-radius: 8px;" alt="Alper Erturk"><br>
                 <b>Alper Erturk</b>
             </a>
-            <p>智能材料和结构的力学行为，特别是压电材料的应用，能量收集和传感器。</p>
+            <p>智能材料和结构的力学行为，特别是压电材料的应用，能量收集和传感器</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/rudolph-gleason/research-overview.md">
                 <img src="research-quickview/gatech/profiles/rudolph-gleason-profile.jpg" width="150" style="border-radius: 8px;" alt="Rudolph L. Gleason"><br>
                 <b>Rudolph L. Gleason</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
     </tr>
     <tr>
@@ -7731,28 +7731,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/yuhang-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuhang Hu"><br>
                 <b>Yuhang Hu</b>
             </a>
-            <p>多尺度建模和仿真，材料的力学行为，特别是纳米尺度下的性能。</p>
+            <p>多尺度建模和仿真，材料的力学行为，特别是纳米尺度下的性能</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/karl-jacob/research-overview.md">
                 <img src="research-quickview/gatech/profiles/karl-jacob-profile.jpg" width="150" style="border-radius: 8px;" alt="Karl I. Jacob"><br>
                 <b>Karl I. Jacob</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/laurence-jacobs/research-overview.md">
                 <img src="research-quickview/gatech/profiles/laurence-jacobs-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurence J. Jacobs"><br>
                 <b>Laurence J. Jacobs</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/w-steven-johnson/research-overview.md">
                 <img src="research-quickview/gatech/profiles/w-steven-johnson-profile.jpg" width="150" style="border-radius: 8px;" alt="W. Steven Johnson"><br>
                 <b>W. Steven Johnson</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
     </tr>
     <tr>
@@ -7761,28 +7761,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/kyriaki-kalaitzidou-profile.jpg" width="150" style="border-radius: 8px;" alt="Kyriaki Kalaitzidou"><br>
                 <b>Kyriaki Kalaitzidou</b>
             </a>
-            <p>聚合物基复合材料的力学行为，特别是纳米复合材料的性能，材料的失效机制。</p>
+            <p>聚合物基复合材料的力学行为，特别是纳米复合材料的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/surya-kalidindi/research-overview.md">
                 <img src="research-quickview/gatech/profiles/surya-kalidindi-profile.jpg" width="150" style="border-radius: 8px;" alt="Surya Kalidindi"><br>
                 <b>Surya Kalidindi</b>
             </a>
-            <p>材料的力学行为，特别是多尺度建模和仿真，材料的失效机制。</p>
+            <p>材料的力学行为，特别是多尺度建模和仿真，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/michael-leamy/research-overview.md">
                 <img src="research-quickview/gatech/profiles/michael-leamy-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael J. Leamy"><br>
                 <b>Michael J. Leamy</b>
             </a>
-            <p>智能材料和结构的力学行为，特别是压电材料的应用，能量收集和传感器。</p>
+            <p>智能材料和结构的力学行为，特别是压电材料的应用，能量收集和传感器</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/david-mcdowell/research-overview.md">
                 <img src="research-quickview/gatech/profiles/david-mcdowell-profile.jpg" width="150" style="border-radius: 8px;" alt="David L. McDowell"><br>
                 <b>David L. McDowell</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
     </tr>
     <tr>
@@ -7791,28 +7791,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/matthew-mcdowell-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew McDowell"><br>
                 <b>Matthew McDowell</b>
             </a>
-            <p>材料的力学行为，特别是多尺度建模和仿真，材料的失效机制。</p>
+            <p>材料的力学行为，特别是多尺度建模和仿真，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/julien-meaud/research-overview.md">
                 <img src="research-quickview/gatech/profiles/julien-meaud-profile.jpg" width="150" style="border-radius: 8px;" alt="Julien Meaud"><br>
                 <b>Julien Meaud</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/farrokh-mistree/research-overview.md">
                 <img src="research-quickview/gatech/profiles/farrokh-mistree-profile.jpg" width="150" style="border-radius: 8px;" alt="Farrokh Mistree"><br>
                 <b>Farrokh Mistree</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/me/richard-neu/research-overview.md">
                 <img src="research-quickview/gatech/profiles/richard-neu-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard W. Neu"><br>
                 <b>Richard W. Neu</b>
             </a>
-            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制。</p>
+            <p>材料的力学行为，特别是高温和高压下的性能，材料的失效机制</p>
         </td>
     </tr>
 </table>
@@ -7827,28 +7827,28 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/gatech/profiles/alexander-alexeev-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexander Alexeev"><br>
         <b>Alexander Alexeev</b>
       </a>
-      <p>微纳尺度热传输、纳米材料的热管理、微纳尺度热辐射。</p>
+      <p>微纳尺度热传输、纳米材料的热管理、微纳尺度热辐射</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/antonia-antoniou/research-overview.md">
         <img src="research-quickview/gatech/profiles/antonia-antoniou-profile.jpg" width="150" style="border-radius: 8px;" alt="Antonia Antoniou"><br>
         <b>Antonia Antoniou</b>
       </a>
-      <p>微纳制造技术、微纳传感器、微纳机电系统（MEMS/NEMS）的设计与制造。</p>
+      <p>微纳制造技术、微纳传感器、微纳机电系统（MEMS/NEMS）的设计与制造</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/nazanin-bassiri-gharb/research-overview.md">
         <img src="research-quickview/gatech/profiles/nazanin-bassiri-gharb-profile.jpg" width="150" style="border-radius: 8px;" alt="Nazanin Bassiri-Gharb"><br>
         <b>Nazanin Bassiri-Gharb</b>
       </a>
-      <p>铁电和多铁性材料在微纳机电系统中的应用，传感器和执行器的开发。</p>
+      <p>铁电和多铁性材料在微纳机电系统中的应用，传感器和执行器的开发</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/hailong-chen/research-overview.md">
         <img src="research-quickview/gatech/profiles/hailong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Hailong Chen"><br>
         <b>Hailong Chen</b>
       </a>
-      <p>微纳尺度热传输、热管理、微电子器件的热分析。</p>
+      <p>微纳尺度热传输、热管理、微电子器件的热分析</p>
     </td>
   </tr>
   <tr>
@@ -7857,28 +7857,28 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/gatech/profiles/jonathan-colton-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan S. Colton"><br>
         <b>Jonathan S. Colton</b>
       </a>
-      <p>制造过程建模、制造系统优化、制造系统的可靠性和可维护性。</p>
+      <p>制造过程建模、制造系统优化、制造系统的可靠性和可维护性</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/f-levent-degertekin/research-overview.md">
         <img src="research-quickview/gatech/profiles/f-levent-degertekin-profile.jpg" width="150" style="border-radius: 8px;" alt="F. Levent Degertekin"><br>
         <b>F. Levent Degertekin</b>
       </a>
-      <p>超声波传感器、微纳机电系统（MEMS）传感器、超声波成像技术。</p>
+      <p>超声波传感器、微纳机电系统（MEMS）传感器、超声波成像技术</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/andrei-fedorov/research-overview.md">
         <img src="research-quickview/gatech/profiles/andrei-fedorov-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrei G. Fedorov"><br>
         <b>Andrei G. Fedorov</b>
       </a>
-      <p>微纳制造、微纳机电系统（MEMS）设计与制造、微纳尺度热传输。</p>
+      <p>微纳制造、微纳机电系统（MEMS）设计与制造、微纳尺度热传输</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/samuel-graham/research-overview.md">
         <img src="research-quickview/gatech/profiles/samuel-graham-profile.jpg" width="150" style="border-radius: 8px;" alt="Samuel Graham"><br>
         <b>Samuel Graham</b>
       </a>
-      <p>微纳尺度热传输、热管理、微电子器件的热分析。</p>
+      <p>微纳尺度热传输、热管理、微电子器件的热分析</p>
     </td>
   </tr>
   <tr>
@@ -7887,28 +7887,28 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/gatech/profiles/marta-hatzell-profile.jpg" width="150" style="border-radius: 8px;" alt="Marta Hatzell"><br>
         <b>Marta Hatzell</b>
       </a>
-      <p>能源存储系统、微纳尺度热传输、热管理。</p>
+      <p>能源存储系统、微纳尺度热传输、热管理</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/peter-hesketh/research-overview.md">
         <img src="research-quickview/gatech/profiles/peter-hesketh-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter J. Hesketh"><br>
         <b>Peter J. Hesketh</b>
       </a>
-      <p>微纳机电系统（MEMS）、传感器、执行器、微流体学。</p>
+      <p>微纳机电系统（MEMS）、传感器、执行器、微流体学</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/yunhyeok-im/research-overview.md">
         <img src="research-quickview/gatech/profiles/yunhyeok-im-profile.jpg" width="150" style="border-radius: 8px;" alt="Yunhyeok Im"><br>
         <b>Yunhyeok Im</b>
       </a>
-      <p>微纳制造、微机电系统（MEMS）设计与制造、微纳尺度热传输。</p>
+      <p>微纳制造、微机电系统（MEMS）设计与制造、微纳尺度热传输</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/yogendra-joshi/research-overview.md">
         <img src="research-quickview/gatech/profiles/yogendra-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Yogendra Joshi"><br>
         <b>Yogendra Joshi</b>
       </a>
-      <p>微纳尺度热传输、热管理、微电子器件的热分析。</p>
+      <p>微纳尺度热传输、热管理、微电子器件的热分析</p>
     </td>
   </tr>
   <tr>
@@ -7917,28 +7917,28 @@ A repository for quickly accessing research insights into professors' expertise 
         <img src="research-quickview/gatech/profiles/yongtae-tony-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="YongTae (Tony) Kim"><br>
         <b>YongTae (Tony) Kim</b>
       </a>
-      <p>微纳制造、微机电系统（MEMS）设计与制造、微纳尺度热传输。</p>
+      <p>微纳制造、微机电系统（MEMS）设计与制造、微纳尺度热传输</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/seung-woo-lee/research-overview.md">
         <img src="research-quickview/gatech/profiles/seung-woo-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Seung Woo Lee"><br>
         <b>Seung Woo Lee</b>
       </a>
-      <p>微纳尺度热传输、热管理、微电子器件的热分析。</p>
+      <p>微纳尺度热传输、热管理、微电子器件的热分析</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/matthew-mcdowell/research-overview.md">
         <img src="research-quickview/gatech/profiles/matthew-mcdowell-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew McDowell"><br>
         <b>Matthew McDowell</b>
       </a>
-      <p>能源存储系统、微纳尺度热传输、热管理。</p>
+      <p>能源存储系统、微纳尺度热传输、热管理</p>
     </td>
     <td align="center">
       <a href="research-quickview/gatech/me/akanksha-menon/research-overview.md">
         <img src="research-quickview/gatech/profiles/akanksha-menon-profile.jpg" width="150" style="border-radius: 8px;" alt="Akanksha Menon"><br>
         <b>Akanksha Menon</b>
       </a>
-      <p>微纳制造、微机电系统（MEMS）设计与制造、微纳尺度热传输。</p>
+      <p>微纳制造、微机电系统（MEMS）设计与制造、微纳尺度热传输</p>
     </td>
   </tr>
 </table>
@@ -8690,28 +8690,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="cmu/profiles/david-allstot-profile.jpg" width="150" style="border-radius: 8px;" alt="David Allstot"><br>
                 <b>David Allstot</b>
             </a>
-            <p>集成电路设计，特别是高性能模拟和混合信号电路的设计与优化。</p>
+            <p>集成电路设计，特别是高性能模拟和混合信号电路的设计与优化</p>
         </td>
         <td align="center">
             <a href="cmu/ece/george-amvrosiadis/research-overview.md">
                 <img src="cmu/profiles/george-amvrosiadis-profile.jpg" width="150" style="border-radius: 8px;" alt="George Amvrosiadis"><br>
                 <b>George Amvrosiadis</b>
             </a>
-            <p>计算机体系结构，特别是高性能计算和并行计算系统的设计与分析。</p>
+            <p>计算机体系结构，特别是高性能计算和并行计算系统的设计与分析</p>
         </td>
         <td align="center">
             <a href="cmu/ece/jim-bain/research-overview.md">
                 <img src="cmu/profiles/jim-bain-profile.jpg" width="150" style="border-radius: 8px;" alt="Jim Bain"><br>
                 <b>Jim Bain</b>
             </a>
-            <p>集成电路测试，特别是测试方法学和可测试性设计的研究。</p>
+            <p>集成电路测试，特别是测试方法学和可测试性设计的研究</p>
         </td>
         <td align="center">
             <a href="cmu/ece/james-barr-von-oehsen/research-overview.md">
                 <img src="cmu/profiles/james-barr-von-oehsen-profile.jpg" width="150" style="border-radius: 8px;" alt="James Barr von Oehsen"><br>
                 <b>James Barr von Oehsen</b>
             </a>
-            <p>计算机体系结构，特别是高性能计算和并行计算系统的设计与分析。</p>
+            <p>计算机体系结构，特别是高性能计算和并行计算系统的设计与分析</p>
         </td>
     </tr>
     <tr>
@@ -8720,28 +8720,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="cmu/profiles/lujo-bauer-profile.jpg" width="150" style="border-radius: 8px;" alt="Lujo Bauer"><br>
                 <b>Lujo Bauer</b>
             </a>
-            <p>网络安全，特别是隐私保护和安全协议的设计与分析。</p>
+            <p>网络安全，特别是隐私保护和安全协议的设计与分析</p>
         </td>
         <td align="center">
             <a href="cmu/ece/theophilus-benson/research-overview.md">
                 <img src="cmu/profiles/theophilus-benson-profile.jpg" width="150" style="border-radius: 8px;" alt="Theophilus Benson"><br>
                 <b>Theophilus Benson</b>
             </a>
-            <p>网络系统，特别是网络测量和网络性能分析的研究。</p>
+            <p>网络系统，特别是网络测量和网络性能分析的研究</p>
         </td>
         <td align="center">
             <a href="cmu/ece/vijayakumar-bhagavatula/research-overview.md">
                 <img src="cmu/profiles/vijayakumar-bhagavatula-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijayakumar Bhagavatula"><br>
                 <b>Vijayakumar Bhagavatula</b>
             </a>
-            <p>计算机体系结构，特别是高性能计算和并行计算系统的设计与分析。</p>
+            <p>计算机体系结构，特别是高性能计算和并行计算系统的设计与分析</p>
         </td>
         <td align="center">
             <a href="cmu/ece/shawn-blanton/research-overview.md">
                 <img src="cmu/profiles/shawn-blanton-profile.jpg" width="150" style="border-radius: 8px;" alt="Shawn Blanton"><br>
                 <b>Shawn Blanton</b>
             </a>
-            <p>集成电路测试，特别是测试方法学和可测试性设计的研究。</p>
+            <p>集成电路测试，特别是测试方法学和可测试性设计的研究</p>
         </td>
     </tr>
     <tr>
@@ -8750,28 +8750,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="cmu/profiles/david-brumley-profile.jpg" width="150" style="border-radius: 8px;" alt="David Brumley"><br>
                 <b>David Brumley</b>
             </a>
-            <p>网络安全，特别是漏洞分析和恶意软件检测的研究。</p>
+            <p>网络安全，特别是漏洞分析和恶意软件检测的研究</p>
         </td>
         <td align="center">
             <a href="cmu/ece/mark-budnik/research-overview.md">
                 <img src="cmu/profiles/mark-budnik-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Budnik"><br>
                 <b>Mark Budnik</b>
             </a>
-            <p>教学，特别是电气与计算机工程领域的教育方法和课程开发。</p>
+            <p>教学，特别是电气与计算机工程领域的教育方法和课程开发</p>
         </td>
         <td align="center">
             <a href="cmu/ece/rick-carley/research-overview.md">
                 <img src="cmu/profiles/rick-carley-profile.jpg" width="150" style="border-radius: 8px;" alt="Rick Carley"><br>
                 <b>Rick Carley</b>
             </a>
-            <p>教学，特别是电气与计算机工程领域的教育方法和课程开发。</p>
+            <p>教学，特别是电气与计算机工程领域的教育方法和课程开发</p>
         </td>
         <td align="center">
             <a href="cmu/ece/sarah-cen/research-overview.md">
                 <img src="cmu/profiles/sarah-cen-profile.jpg" width="150" style="border-radius: 8px;" alt="Sarah Cen"><br>
                 <b>Sarah Cen</b>
             </a>
-            <p>机器学习，特别是深度学习和计算机视觉的研究。</p>
+            <p>机器学习，特别是深度学习和计算机视觉的研究</p>
         </td>
     </tr>
     <tr>
@@ -8780,28 +8780,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="cmu/profiles/maysam-chamanzar-profile.jpg" width="150" style="border-radius: 8px;" alt="Maysam Chamanzar"><br>
                 <b>Maysam Chamanzar</b>
             </a>
-            <p>集成电路设计，特别是高性能模拟和混合信号电路的设计与优化。</p>
+            <p>集成电路设计，特别是高性能模拟和混合信号电路的设计与优化</p>
         </td>
         <td align="center">
             <a href="cmu/ece/justin-chan/research-overview.md">
                 <img src="cmu/profiles/justin-chan-profile.jpg" width="150" style="border-radius: 8px;" alt="Justin Chan"><br>
                 <b>Justin Chan</b>
             </a>
-            <p>机器学习，特别是深度学习和计算机视觉的研究。</p>
+            <p>机器学习，特别是深度学习和计算机视觉的研究</p>
         </td>
         <td align="center">
             <a href="cmu/ece/beidi-chen/research-overview.md">
                 <img src="cmu/profiles/beidi-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Beidi Chen"><br>
                 <b>Beidi Chen</b>
             </a>
-            <p>机器学习，特别是深度学习和计算机视觉的研究。</p>
+            <p>机器学习，特别是深度学习和计算机视觉的研究</p>
         </td>
         <td align="center">
             <a href="cmu/ece/vanessa-chen/research-overview.md">
                 <img src="cmu/profiles/vanessa-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Vanessa Chen"><br>
                 <b>Vanessa Chen</b>
             </a>
-            <p>机器学习，特别是深度学习和计算机视觉的研究。</p>
+            <p>机器学习，特别是深度学习和计算机视觉的研究</p>
         </td>
     </tr>
     <tr>
@@ -8810,28 +8810,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/gary-fedder-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Fedder"><br>
                 <b>Gary Fedder</b>
             </a>
-            <p>集成电路设计、嵌入式系统、微系统设计和制造。</p>
+            <p>集成电路设计、嵌入式系统、微系统设计和制造</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/franz-franchetti/research-overview.md">
                 <img src="research-quickview/cmu/profiles/franz-franchetti-profile.jpg" width="150" style="border-radius: 8px;" alt="Franz Franchetti"><br>
                 <b>Franz Franchetti</b>
             </a>
-            <p>高效计算架构和算法优化，硬件加速器。</p>
+            <p>高效计算架构和算法优化，硬件加速器</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/greg-ganger/research-overview.md">
                 <img src="research-quickview/cmu/profiles/greg-ganger-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Ganger"><br>
                 <b>Greg Ganger</b>
             </a>
-            <p>计算机体系结构、数据存储系统和云计算架构。</p>
+            <p>计算机体系结构、数据存储系统和云计算架构</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/phil-gibbons/research-overview.md">
                 <img src="research-quickview/cmu/profiles/phil-gibbons-profile.jpg" width="150" style="border-radius: 8px;" alt="Phil Gibbons"><br>
                 <b>Phil Gibbons</b>
             </a>
-            <p>网络协议、分布式系统、并行计算。</p>
+            <p>网络协议、分布式系统、并行计算</p>
         </td>
     </tr>
     <tr>
@@ -8840,28 +8840,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/virgil-gligor-profile.jpg" width="150" style="border-radius: 8px;" alt="Virgil Gligor"><br>
                 <b>Virgil Gligor</b>
             </a>
-            <p>网络安全、隐私保护和安全协议。</p>
+            <p>网络安全、隐私保护和安全协议</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/pulkit-grover/research-overview.md">
                 <img src="research-quickview/cmu/profiles/pulkit-grover-profile.jpg" width="150" style="border-radius: 8px;" alt="Pulkit Grover"><br>
                 <b>Pulkit Grover</b>
             </a>
-            <p>通信理论、网络优化和信息处理。</p>
+            <p>通信理论、网络优化和信息处理</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/james-hoe/research-overview.md">
                 <img src="research-quickview/cmu/profiles/james-hoe-profile.jpg" width="150" style="border-radius: 8px;" alt="James C. Hoe"><br>
                 <b>James C. Hoe</b>
             </a>
-            <p>计算机体系结构、并行处理和高性能计算。</p>
+            <p>计算机体系结构、并行处理和高性能计算</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/limin-jia/research-overview.md">
                 <img src="research-quickview/cmu/profiles/limin-jia-profile.jpg" width="150" style="border-radius: 8px;" alt="Limin Jia"><br>
                 <b>Limin Jia</b>
             </a>
-            <p>计算机科学与工程的应用数学，机器学习和大数据。</p>
+            <p>计算机科学与工程的应用数学，机器学习和大数据</p>
         </td>
     </tr>
     <tr>
@@ -8870,28 +8870,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/carlee-joe-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlee Joe-Wong"><br>
                 <b>Carlee Joe-Wong</b>
             </a>
-            <p>无线通信、数据通信、网络优化和能源效率。</p>
+            <p>无线通信、数据通信、网络优化和能源效率</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/gauri-joshi/research-overview.md">
                 <img src="research-quickview/cmu/profiles/gauri-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Gauri Joshi"><br>
                 <b>Gauri Joshi</b>
             </a>
-            <p>通信网络、信息理论和网络优化。</p>
+            <p>通信网络、信息理论和网络优化</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/soummya-kar/research-overview.md">
                 <img src="research-quickview/cmu/profiles/soummya-kar-profile.jpg" width="150" style="border-radius: 8px;" alt="Soummya Kar"><br>
                 <b>Soummya Kar</b>
             </a>
-            <p>网络优化、智能系统、算法设计。</p>
+            <p>网络优化、智能系统、算法设计</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/greg-kesden/research-overview.md">
                 <img src="research-quickview/cmu/profiles/greg-kesden-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Kesden"><br>
                 <b>Greg Kesden</b>
             </a>
-            <p>系统设计、计算机体系结构和教学方法。</p>
+            <p>系统设计、计算机体系结构和教学方法</p>
         </td>
     </tr>
     <tr>
@@ -8900,28 +8900,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/hyong-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyong Kim"><br>
                 <b>Hyong Kim</b>
             </a>
-            <p>计算机系统、数据存储和计算机网络。</p>
+            <p>计算机系统、数据存储和计算机网络</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/philip-koopman/research-overview.md">
                 <img src="research-quickview/cmu/profiles/philip-koopman-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Koopman"><br>
                 <b>Philip Koopman</b>
             </a>
-            <p>自动驾驶、安全协议和系统验证。</p>
+            <p>自动驾驶、安全协议和系统验证</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/swarun-kumar/research-overview.md">
                 <img src="research-quickview/cmu/profiles/swarun-kumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Swarun S. Kumar"><br>
                 <b>Swarun S. Kumar</b>
             </a>
-            <p>无线通信、网络优化和物联网。</p>
+            <p>无线通信、网络优化和物联网</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/qing-li/research-overview.md">
                 <img src="research-quickview/cmu/profiles/qing-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Qing Li"><br>
                 <b>Qing Li</b>
             </a>
-            <p>计算机网络、分布式计算和协议设计。</p>
+            <p>计算机网络、分布式计算和协议设计</p>
         </td>
     </tr>
     <tr>
@@ -8930,28 +8930,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/yorie-nakahira-profile.jpg" width="150" style="border-radius: 8px;" alt="Yorie Nakahira"><br>
                 <b>Yorie Nakahira</b>
             </a>
-            <p>计算机视觉、深度学习、神经网络。</p>
+            <p>计算机视觉、深度学习、神经网络</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/priya-narasimhan/research-overview.md">
                 <img src="research-quickview/cmu/profiles/priya-narasimhan-profile.jpg" width="150" style="border-radius: 8px;" alt="Priya Narasimhan"><br>
                 <b>Priya Narasimhan</b>
             </a>
-            <p>网络协议、分布式系统、计算机网络安全。</p>
+            <p>网络协议、分布式系统、计算机网络安全</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/rohit-negi/research-overview.md">
                 <img src="research-quickview/cmu/profiles/rohit-negi-profile.jpg" width="150" style="border-radius: 8px;" alt="Rohit Negi"><br>
                 <b>Rohit Negi</b>
             </a>
-            <p>信息检索、数据压缩、机器学习。</p>
+            <p>信息检索、数据压缩、机器学习</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/david-ohallaron/research-overview.md">
                 <img src="research-quickview/cmu/profiles/david-ohallaron-profile.jpg" width="150" style="border-radius: 8px;" alt="David O'Hallaron"><br>
                 <b>David O'Hallaron</b>
             </a>
-            <p>计算机系统、分布式计算、高性能计算。</p>
+            <p>计算机系统、分布式计算、高性能计算</p>
         </td>
     </tr>
     <tr>
@@ -8960,28 +8960,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/sam-pagliarini-profile.jpg" width="150" style="border-radius: 8px;" alt="Sam Pagliarini"><br>
                 <b>Sam Pagliarini</b>
             </a>
-            <p>网络和通信、自动化系统。</p>
+            <p>网络和通信、自动化系统</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/bryan-parno/research-overview.md">
                 <img src="research-quickview/cmu/profiles/bryan-parno-profile.jpg" width="150" style="border-radius: 8px;" alt="Bryan Parno"><br>
                 <b>Bryan Parno</b>
             </a>
-            <p>网络安全、密码学、系统安全。</p>
+            <p>网络安全、密码学、系统安全</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/gianluca-piazza/research-overview.md">
                 <img src="research-quickview/cmu/profiles/gianluca-piazza-profile.jpg" width="150" style="border-radius: 8px;" alt="Gianluca Piazza"><br>
                 <b>Gianluca Piazza</b>
             </a>
-            <p>MEMS、纳米电子学、微传感器。</p>
+            <p>MEMS、纳米电子学、微传感器</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/larry-pileggi/research-overview.md">
                 <img src="research-quickview/cmu/profiles/larry-pileggi-profile.jpg" width="150" style="border-radius: 8px;" alt="Larry Pileggi"><br>
                 <b>Larry Pileggi</b>
             </a>
-            <p>集成电路设计、半导体器件、数字电路。</p>
+            <p>集成电路设计、半导体器件、数字电路</p>
         </td>
     </tr>
     <tr>
@@ -8990,28 +8990,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/cecile-péraire-profile.jpg" width="150" style="border-radius: 8px;" alt="Cécile Péraire"><br>
                 <b>Cécile Péraire</b>
             </a>
-            <p>教学和教育技术。</p>
+            <p>教学和教育技术</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/guannan-qu/research-overview.md">
                 <img src="research-quickview/cmu/profiles/guannan-qu-profile.jpg" width="150" style="border-radius: 8px;" alt="Guannan Qu"><br>
                 <b>Guannan Qu</b>
             </a>
-            <p>信息理论、机器学习、量子计算。</p>
+            <p>信息理论、机器学习、量子计算</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/raj-rajkumar/research-overview.md">
                 <img src="research-quickview/cmu/profiles/raj-rajkumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Raj Rajkumar"><br>
                 <b>Raj Rajkumar</b>
             </a>
-            <p>嵌入式系统、无线网络、智能交通系统。</p>
+            <p>嵌入式系统、无线网络、智能交通系统</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/barry-rawn/research-overview.md">
                 <img src="research-quickview/cmu/profiles/barry-rawn-profile.jpg" width="150" style="border-radius: 8px;" alt="Barry Rawn"><br>
                 <b>Barry Rawn</b>
             </a>
-            <p>计算机架构、数据存储、系统优化。</p>
+            <p>计算机架构、数据存储、系统优化</p>
         </td>
     </tr>
     <tr>
@@ -9020,28 +9020,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/anthony-rowe-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Rowe"><br>
                 <b>Anthony Rowe</b>
             </a>
-            <p>嵌入式系统、物联网、传感器网络。</p>
+            <p>嵌入式系统、物联网、传感器网络</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/william-sanders/research-overview.md">
                 <img src="research-quickview/cmu/profiles/william-sanders-profile.jpg" width="150" style="border-radius: 8px;" alt="William Sanders"><br>
                 <b>William Sanders</b>
             </a>
-            <p>网络和计算机系统的建模与优化。</p>
+            <p>网络和计算机系统的建模与优化</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/aswin-sankaranarayanan/research-overview.md">
                 <img src="research-quickview/cmu/profiles/aswin-sankaranarayanan-profile.jpg" width="150" style="border-radius: 8px;" alt="Aswin Sankaranarayanan"><br>
                 <b>Aswin Sankaranarayanan</b>
             </a>
-            <p>机器学习、计算机视觉、传感器网络。</p>
+            <p>机器学习、计算机视觉、传感器网络</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/marios-savvides/research-overview.md">
                 <img src="research-quickview/cmu/profiles/marios-savvides-profile.jpg" width="150" style="border-radius: 8px;" alt="Marios Savvides"><br>
                 <b>Marios Savvides</b>
             </a>
-            <p>计算机视觉、人工智能、机器人。</p>
+            <p>计算机视觉、人工智能、机器人</p>
         </td>
     </tr>
     <tr>
@@ -9050,28 +9050,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/vyas-sekar-profile.jpg" width="150" style="border-radius: 8px;" alt="Vyas Sekar"><br>
                 <b>Vyas Sekar</b>
             </a>
-            <p>网络优化、网络安全、分布式系统。</p>
+            <p>网络优化、网络安全、分布式系统</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/john-shen/research-overview.md">
                 <img src="research-quickview/cmu/profiles/john-shen-profile.jpg" width="150" style="border-radius: 8px;" alt="John Shen"><br>
                 <b>John Shen</b>
             </a>
-            <p>计算机系统架构、高性能计算。</p>
+            <p>计算机系统架构、高性能计算</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/michael-skirpan/research-overview.md">
                 <img src="research-quickview/cmu/profiles/michael-skirpan-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Skirpan"><br>
                 <b>Michael Skirpan</b>
             </a>
-            <p>计算机系统、机器学习、网络安全。</p>
+            <p>计算机系统、机器学习、网络安全</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/asim-smailagic/research-overview.md">
                 <img src="research-quickview/cmu/profiles/asim-smailagic-profile.jpg" width="150" style="border-radius: 8px;" alt="Asim Smailagic"><br>
                 <b>Asim Smailagic</b>
             </a>
-            <p>嵌入式系统、传感器网络。</p>
+            <p>嵌入式系统、传感器网络</p>
         </td>
     </tr>
     <tr>
@@ -9080,28 +9080,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/leonardo-sousa-profile.jpg" width="150" style="border-radius: 8px;" alt="Leonardo Sousa"><br>
                 <b>Leonardo Sousa</b>
             </a>
-            <p>计算机视觉、深度学习。</p>
+            <p>计算机视觉、深度学习</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/tathagata-srimani/research-overview.md">
                 <img src="research-quickview/cmu/profiles/tathagata-srimani-profile.jpg" width="150" style="border-radius: 8px;" alt="Tathagata Srimani"><br>
                 <b>Tathagata Srimani</b>
             </a>
-            <p>深度学习、强化学习。</p>
+            <p>深度学习、强化学习</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/akshitha-sriraman/research-overview.md">
                 <img src="research-quickview/cmu/profiles/akshitha-sriraman-profile.jpg" width="150" style="border-radius: 8px;" alt="Akshitha Sriraman"><br>
                 <b>Akshitha Sriraman</b>
             </a>
-            <p>人工智能、机器学习。</p>
+            <p>人工智能、机器学习</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/peter-steenkiste/research-overview.md">
                 <img src="research-quickview/cmu/profiles/peter-steenkiste-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Steenkiste"><br>
                 <b>Peter Steenkiste</b>
             </a>
-            <p>计算机网络、分布式系统。</p>
+            <p>计算机网络、分布式系统</p>
         </td>
     </tr>
     <tr>
@@ -9110,28 +9110,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/richard-stern-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Stern"><br>
                 <b>Richard Stern</b>
             </a>
-            <p>数字信号处理、音频信号处理。</p>
+            <p>数字信号处理、音频信号处理</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/tom-sullivan/research-overview.md">
                 <img src="research-quickview/cmu/profiles/tom-sullivan-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Sullivan"><br>
                 <b>Tom Sullivan</b>
             </a>
-            <p>嵌入式系统、计算机架构。</p>
+            <p>嵌入式系统、计算机架构</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/ozan-tonguz/research-overview.md">
                 <img src="research-quickview/cmu/profiles/ozan-tonguz-profile.jpg" width="150" style="border-radius: 8px;" alt="Ozan Tonguz"><br>
                 <b>Ozan Tonguz</b>
             </a>
-            <p>无线网络、网络协议、分布式系统。</p>
+            <p>无线网络、网络协议、分布式系统</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/elias-towe/research-overview.md">
                 <img src="research-quickview/cmu/profiles/elias-towe-profile.jpg" width="150" style="border-radius: 8px;" alt="Elias Towe"><br>
                 <b>Elias Towe</b>
             </a>
-            <p>光通信、光学传感器。</p>
+            <p>光通信、光学传感器</p>
         </td>
     </tr>
     <tr>
@@ -9140,28 +9140,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/riad-wahby-profile.jpg" width="150" style="border-radius: 8px;" alt="Riad Wahby"><br>
                 <b>Riad Wahby</b>
             </a>
-            <p>信号处理、图像处理、机器学习。</p>
+            <p>信号处理、图像处理、机器学习</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/rafal-wlodarski/research-overview.md">
                 <img src="research-quickview/cmu/profiles/rafal-wlodarski-profile.jpg" width="150" style="border-radius: 8px;" alt="Rafal Wlodarski"><br>
                 <b>Rafal Wlodarski</b>
             </a>
-            <p>数字系统、嵌入式设计。</p>
+            <p>数字系统、嵌入式设计</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/osman-yagan/research-overview.md">
                 <img src="research-quickview/cmu/profiles/osman-yagan-profile.jpg" width="150" style="border-radius: 8px;" alt="Osman Yağan"><br>
                 <b>Osman Yağan</b>
             </a>
-            <p>通信系统、网络安全、信息理论。</p>
+            <p>通信系统、网络安全、信息理论</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/ziad-youssfi/research-overview.md">
                 <img src="research-quickview/cmu/profiles/ziad-youssfi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ziad Youssfi"><br>
                 <b>Ziad Youssfi</b>
             </a>
-            <p>嵌入式系统、物联网、分布式系统。</p>
+            <p>嵌入式系统、物联网、分布式系统</p>
         </td>
     </tr>
     <tr>
@@ -9170,31 +9170,48 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/cmu/profiles/byron-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Byron Yu"><br>
                 <b>Byron Yu</b>
             </a>
-            <p>神经网络、计算机视觉、深度学习。</p>
+            <p>神经网络、计算机视觉、深度学习</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/tom-zajdel/research-overview.md">
                 <img src="research-quickview/cmu/profiles/tom-zajdel-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Zajdel"><br>
                 <b>Tom Zajdel</b>
             </a>
-            <p>信号处理、计算机系统。</p>
+            <p>信号处理、计算机系统</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/andrea-zanette/research-overview.md">
                 <img src="research-quickview/cmu/profiles/andrea-zanette-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrea Zanette"><br>
                 <b>Andrea Zanette</b>
             </a>
-            <p>深度学习、计算机视觉、人工智能。</p>
+            <p>深度学习、计算机视觉、人工智能</p>
         </td>
         <td align="center">
             <a href="research-quickview/cmu/ece/xu-zhang/research-overview.md">
                 <img src="research-quickview/cmu/profiles/xu-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xu Zhang"><br>
                 <b>Xu Zhang</b>
             </a>
-            <p>计算机视觉、自动化。</p>
+            <p>计算机视觉、自动化</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/ece/siyang-zheng/research-overview.md">
+                <img src="research-quickview/cmu/profiles/siyang-zheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Siyang Zheng"><br>
+                <b>Siyang Zheng</b>
+            </a>
+            <p>计算机视觉、自动化、深度学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/ece/jimmy-zhu/research-overview.md">
+                <img src="research-quickview/cmu/profiles/jimmy-zhu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jimmy Zhu"><br>
+                <b>Jimmy Zhu</b>
+            </a>
+            <p>机器人技术、人工智能、嵌入式系统</p>
         </td>
     </tr>
 </table>
+
 
 </details>
 
