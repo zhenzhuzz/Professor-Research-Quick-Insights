@@ -7280,7 +7280,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
 </table>
 
-</detailes>
+</details>
 
 <!-- End of Gatech Section -->
 <!-- End of Gatech Section -->
