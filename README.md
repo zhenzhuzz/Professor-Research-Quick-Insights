@@ -6533,3 +6533,755 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of UPenn Section -->
 <!-- End of UPenn Section -->
 <!-- End of UPenn Section -->
+
+
+
+## [Gatech](https://www.gatech.edu/)
+
+<details>
+<summary>Click to expand Duke Professors</summary>
+  
+## [Georgia Institute of Technology](https://www.gatech.edu/)
+### [Colleges and Schools](https://www.gatech.edu/academics/colleges-and-schools)
+### [Schools of the College of Engineering](https://coe.gatech.edu/schools/schools-college-engineering)
+
+### [Mechanical Engineering](https://coe.gatech.edu/schools/mechanical-engineering)
+
+- **Field**: [Acoustics/Dynamics](http://me.gatech.edu/research/acoustics)
+- **Field**: [AI and Informatics for ME (AI2ME)](https://www.me.gatech.edu/research/AI2ME)
+- **Field**: [Automation, Robotics and Control](http://me.gatech.edu/research/automation)
+- **Field**: [Bioengineering](http://me.gatech.edu/research/bioengineering)
+- **Field**: [CAE and Design](http://me.gatech.edu/research/cae)
+- **Field**: [Fluid Mechanics](http://me.gatech.edu/research/fluid)
+- **Field**: [Heat Transfer, Combustion & Energy Systems](http://me.gatech.edu/research/heat_transfer)
+- **Field**: [Manufacturing](http://me.gatech.edu/research/manufacturing)
+- **Field**: [Mechanics of Materials](http://me.gatech.edu/research/mechanics)
+- **Field**: [Medical Physics](http://me.gatech.edu/research/medical_physics)
+- **Field**: [Micro & Nano Engineering](https://me.gatech.edu/micro-and-nano-engineering)
+- **Field**: [Nuclear & Radiological Engineering](http://me.gatech.edu/research/nre)
+- **Field**: [Tribology](http://me.gatech.edu/research/tribology)
+
+### [Electrical and Computer Engineering](https://coe.gatech.edu/schools/electrical-and-computer-engineering)
+
+- **Field**: [Bioengineering](https://ece.gatech.edu/directory/tig/bioeng)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/ali-adibi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/ali-adibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Adibi"><br>
+                <b>Ali Adibi</b>
+            </a>
+            <p>纳米光子学、微光学、传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/david-v-anderson/research-overview.md">
+                <img src="research-quickview/gatech/profiles/david-v-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="David V Anderson"><br>
+                <b>David V Anderson</b>
+            </a>
+            <p>生物传感器、纳米医学、分子生物学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/pamela-t-bhatti/research-overview.md">
+                <img src="research-quickview/gatech/profiles/pamela-t-bhatti-profile.jpg" width="150" style="border-radius: 8px;" alt="Pamela T Bhatti"><br>
+                <b>Pamela T Bhatti</b>
+            </a>
+            <p>生物工程、创新战略、医疗设备</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/vince-d-calhoun/research-overview.md">
+                <img src="research-quickview/gatech/profiles/vince-d-calhoun-profile.jpg" width="150" style="border-radius: 8px;" alt="Vince D Calhoun"><br>
+                <b>Vince D Calhoun</b>
+            </a>
+            <p>脑科学、信号处理、神经影像</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/mark-a-clements/research-overview.md">
+                <img src="research-quickview/gatech/profiles/mark-a-clements-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark A Clements"><br>
+                <b>Mark A Clements</b>
+            </a>
+            <p>医学成像、信号处理、生物医学工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/f-levent-degertekin/research-overview.md">
+                <img src="research-quickview/gatech/profiles/f-levent-degertekin-profile.jpg" width="150" style="border-radius: 8px;" alt="F Levent Degertekin"><br>
+                <b>F Levent Degertekin</b>
+            </a>
+            <p>超声波传感器、医学成像、生物传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/stephen-p-deweerth/research-overview.md">
+                <img src="research-quickview/gatech/profiles/stephen-p-deweerth-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen P DeWeerth"><br>
+                <b>Stephen P DeWeerth</b>
+            </a>
+            <p>神经科学、医学机器人、医学成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/eva-lauren-dyer/research-overview.md">
+                <img src="research-quickview/gatech/profiles/eva-lauren-dyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Eva Lauren Dyer"><br>
+                <b>Eva Lauren Dyer</b>
+            </a>
+            <p>神经信号处理、生物医学工程</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/stanislav-emelianov/research-overview.md">
+                <img src="research-quickview/gatech/profiles/stanislav-emelianov-profile.jpg" width="150" style="border-radius: 8px;" alt="Stanislav Emelianov"><br>
+                <b>Stanislav Emelianov</b>
+            </a>
+            <p>生物医学成像、超声学、分子成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/matthew-t-flavin/research-overview.md">
+                <img src="research-quickview/gatech/profiles/matthew-t-flavin-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew T. Flavin"><br>
+                <b>Matthew T. Flavin</b>
+            </a>
+            <p>生物医学工程、神经接口、传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/bruno-frazier/research-overview.md">
+                <img src="research-quickview/gatech/profiles/bruno-frazier-profile.jpg" width="150" style="border-radius: 8px;" alt="Bruno Frazier"><br>
+                <b>Bruno Frazier</b>
+            </a>
+            <p>生物传感器、医疗技术、生物医学设备</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/jennifer-olson-hasler/research-overview.md">
+                <img src="research-quickview/gatech/profiles/jennifer-olson-hasler-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Olson Hasler"><br>
+                <b>Jennifer Olson Hasler</b>
+            </a>
+            <p>生物医学电子学、医疗信号处理</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/william-d-hunt/research-overview.md">
+                <img src="research-quickview/gatech/profiles/william-d-hunt-profile.jpg" width="150" style="border-radius: 8px;" alt="William D Hunt"><br>
+                <b>William D Hunt</b>
+            </a>
+            <p>生物医学工程、传感器技术、医疗设备</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/omer-inan/research-overview.md">
+                <img src="research-quickview/gatech/profiles/omer-inan-profile.jpg" width="150" style="border-radius: 8px;" alt="Omer Inan"><br>
+                <b>Omer Inan</b>
+            </a>
+            <p>生物医学工程、传感器、神经学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/jeffrey-e-markowitz/research-overview.md">
+                <img src="research-quickview/gatech/profiles/jeffrey-e-markowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey E Markowitz"><br>
+                <b>Jeffrey E Markowitz</b>
+            </a>
+            <p>医疗成像、数据分析、医学工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/francisco-robles/research-overview.md">
+                <img src="research-quickview/gatech/profiles/francisco-robles-profile.jpg" width="150" style="border-radius: 8px;" alt="Francisco Robles"><br>
+                <b>Francisco Robles</b>
+            </a>
+            <p>生物医学信号处理、智能传感器</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Electromagnetics](https://ece.gatech.edu/directory/tig/emag)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/ali-adibi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/ali-adibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Adibi"><br>
+                <b>Ali Adibi</b>
+            </a>
+            <p>纳米光子学、微光学、传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/john-a-buck/research-overview.md">
+                <img src="research-quickview/gatech/profiles/john-a-buck-profile.jpg" width="150" style="border-radius: 8px;" alt="John A Buck"><br>
+                <b>John A Buck</b>
+            </a>
+            <p>电磁场理论、波动传播、天线设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/david-s-citrin/research-overview.md">
+                <img src="research-quickview/gatech/profiles/david-s-citrin-profile.jpg" width="150" style="border-radius: 8px;" alt="David S Citrin"><br>
+                <b>David S Citrin</b>
+            </a>
+            <p>电子材料、电光效应、纳米光学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/morris-b-cohen/research-overview.md">
+                <img src="research-quickview/gatech/profiles/morris-b-cohen-profile.jpg" width="150" style="border-radius: 8px;" alt="Morris B Cohen"><br>
+                <b>Morris B Cohen</b>
+            </a>
+            <p>电磁兼容性、信号处理、射频系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/gregory-david-durgin/research-overview.md">
+                <img src="research-quickview/gatech/profiles/gregory-david-durgin-profile.jpg" width="150" style="border-radius: 8px;" alt="Gregory David Durgin"><br>
+                <b>Gregory David Durgin</b>
+            </a>
+            <p>无线通信、电磁干扰、天线设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/thomas-k-gaylord/research-overview.md">
+                <img src="research-quickview/gatech/profiles/thomas-k-gaylord-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas K Gaylord"><br>
+                <b>Thomas K Gaylord</b>
+            </a>
+            <p>电磁波传播、非线性光学、集成光电子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/nima-ghalichechian/research-overview.md">
+                <img src="research-quickview/gatech/profiles/nima-ghalichechian-profile.jpg" width="150" style="border-radius: 8px;" alt="Nima Ghalichechian"><br>
+                <b>Nima Ghalichechian</b>
+            </a>
+            <p>电磁材料、光电子学、微波技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/qun-jane-gu/research-overview.md">
+                <img src="research-quickview/gatech/profiles/qun-jane-gu-profile.jpg" width="150" style="border-radius: 8px;" alt="Qun Jane Gu"><br>
+                <b>Qun Jane Gu</b>
+            </a>
+            <p>无线通信、射频电路、微波技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/william-d-hunt/research-overview.md">
+                <img src="research-quickview/gatech/profiles/william-d-hunt-profile.jpg" width="150" style="border-radius: 8px;" alt="William D Hunt"><br>
+                <b>William D Hunt</b>
+            </a>
+            <p>微波光子学、电磁波传播</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/james-stevenson-kenney/research-overview.md">
+                <img src="research-quickview/gatech/profiles/james-stevenson-kenney-profile.jpg" width="150" style="border-radius: 8px;" alt="James Stevenson Kenney"><br>
+                <b>James Stevenson Kenney</b>
+            </a>
+            <p>电磁波传播、电气工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/andy-peterson/research-overview.md">
+                <img src="research-quickview/gatech/profiles/andy-peterson-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew F. Peterson"><br>
+                <b>Andrew F. Peterson</b>
+            </a>
+            <p>电磁场理论、信号处理、无线通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/stephen-e-ralph/research-overview.md">
+                <img src="research-quickview/gatech/profiles/stephen-e-ralph-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen E Ralph"><br>
+                <b>Stephen E Ralph</b>
+            </a>
+            <p>射频设计、天线技术、电磁波传播</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/glenn-s-smith/research-overview.md">
+                <img src="research-quickview/gatech/profiles/glenn-s-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Glenn S Smith"><br>
+                <b>Glenn S Smith</b>
+            </a>
+            <p>电磁波传输、电磁材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/paul-g-steffes/research-overview.md">
+                <img src="research-quickview/gatech/profiles/paul-g-steffes-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul G Steffes"><br>
+                <b>Paul G Steffes</b>
+            </a>
+            <p>电磁波传输、电气工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/manos-tentzeris/research-overview.md">
+                <img src="research-quickview/gatech/profiles/emmanouil-m-tentzeris-profile.jpg" width="150" style="border-radius: 8px;" alt="Emmanouil M Tentzeris"><br>
+                <b>Emmanouil M Tentzeris</b>
+            </a>
+            <p>射频设计、天线技术、无线通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/alenka-zajic/research-overview.md">
+                <img src="research-quickview/gatech/profiles/alenka-zajic-profile.jpg" width="150" style="border-radius: 8px;" alt="Alenka Zajic"><br>
+                <b>Alenka Zajic</b>
+            </a>
+            <p>电磁设计、无线通信、信号处理</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Electronic Design and Applications](https://ece.gatech.edu/directory/tig/eda)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/azadeh-ansari/research-overview.md">
+                <img src="research-quickview/gatech/profiles/azadeh-ansari-profile.jpg" width="150" style="border-radius: 8px;" alt="Azadeh Ansari"><br>
+                <b>Azadeh Ansari</b>
+            </a>
+            <p>电子电路设计、传感器技术、无线通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/farrokh-ayazi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/farrokh-ayazi-profile.jpg" width="150" style="border-radius: 8px;" alt="Farrokh Ayazi"><br>
+                <b>Farrokh Ayazi</b>
+            </a>
+            <p>传感器集成、微机电系统(MEMS)、射频电路设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/timothy-j-brothers/research-overview.md">
+                <img src="research-quickview/gatech/profiles/timothy-j-brothers-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy J Brothers"><br>
+                <b>Timothy J Brothers</b>
+            </a>
+            <p>电子设计、通信系统、硬件实现</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/john-d-cressler/research-overview.md">
+                <img src="research-quickview/gatech/profiles/john-d-cressler-profile.jpg" width="150" style="border-radius: 8px;" alt="John D Cressler"><br>
+                <b>John D Cressler</b>
+            </a>
+            <p>半导体器件、集成电路、射频电路</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/qun-jane-gu/research-overview.md">
+                <img src="research-quickview/gatech/profiles/qun-jane-gu-profile.jpg" width="150" style="border-radius: 8px;" alt="Qun Jane Gu"><br>
+                <b>Qun Jane Gu</b>
+            </a>
+            <p>微波电路、射频设计、信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/jennifer-olson-hasler/research-overview.md">
+                <img src="research-quickview/gatech/profiles/jennifer-olson-hasler-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Olson Hasler"><br>
+                <b>Jennifer Olson Hasler</b>
+            </a>
+            <p>射频电路、集成系统、通信技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/william-d-hunt/research-overview.md">
+                <img src="research-quickview/gatech/profiles/william-d-hunt-profile.jpg" width="150" style="border-radius: 8px;" alt="William D Hunt"><br>
+                <b>William D Hunt</b>
+            </a>
+            <p>通信系统、电子设计、射频电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/omer-inan/research-overview.md">
+                <img src="research-quickview/gatech/profiles/omer-inan-profile.jpg" width="150" style="border-radius: 8px;" alt="Omer Inan"><br>
+                <b>Omer Inan</b>
+            </a>
+            <p>无线通信、智能电力系统、传感器网络</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/aaron-d-lanterman/research-overview.md">
+                <img src="research-quickview/gatech/profiles/aaron-d-lanterman-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron D Lanterman"><br>
+                <b>Aaron D Lanterman</b>
+            </a>
+            <p>电子测量、信号处理、无线传感器网络</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/shaolan-li/research-overview.md">
+                <img src="research-quickview/gatech/profiles/shaolan-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Shaolan Li"><br>
+                <b>Shaolan Li</b>
+            </a>
+            <p>数字信号处理、嵌入式系统设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/saibal-mukhopadhyay/research-overview.md">
+                <img src="research-quickview/gatech/profiles/saibal-mukhopadhyay-profile.jpg" width="150" style="border-radius: 8px;" alt="Saibal Mukhopadhyay"><br>
+                <b>Saibal Mukhopadhyay</b>
+            </a>
+            <p>微电子学、信号处理、低功耗电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/gabriel-a-rincon-mora/research-overview.md">
+                <img src="research-quickview/gatech/profiles/gabriel-a-rincon-mora-profile.jpg" width="150" style="border-radius: 8px;" alt="Gabriel A Rincon-Mora"><br>
+                <b>Gabriel A Rincon-Mora</b>
+            </a>
+            <p>集成电路、射频设计、通信电路</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/shimeng-yu/research-overview.md">
+                <img src="research-quickview/gatech/profiles/shimeng-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Shimeng Yu"><br>
+                <b>Shimeng Yu</b>
+            </a>
+            <p>集成电路设计、无线通信、传感器</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Nanotechnology](https://ece.gatech.edu/directory/tig/nano)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/ali-adibi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/ali-adibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Adibi"><br>
+                <b>Ali Adibi</b>
+            </a>
+            <p>纳米光子学、光电集成、微波光子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/azadeh-ansari/research-overview.md">
+                <img src="research-quickview/gatech/profiles/azadeh-ansari-profile.jpg" width="150" style="border-radius: 8px;" alt="Azadeh Ansari"><br>
+                <b>Azadeh Ansari</b>
+            </a>
+            <p>集成光学、纳米光电子学、传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/farrokh-ayazi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/farrokh-ayazi-profile.jpg" width="150" style="border-radius: 8px;" alt="Farrokh Ayazi"><br>
+                <b>Farrokh Ayazi</b>
+            </a>
+            <p>MEMS传感器、微系统、纳米技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/muhannad-s-bakir/research-overview.md">
+                <img src="research-quickview/gatech/profiles/muhannad-s-bakir-profile.jpg" width="150" style="border-radius: 8px;" alt="Muhannad S Bakir"><br>
+                <b>Muhannad S Bakir</b>
+            </a>
+            <p>纳米器件、集成电路、MEMS</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/david-s-citrin/research-overview.md">
+                <img src="research-quickview/gatech/profiles/david-s-citrin-profile.jpg" width="150" style="border-radius: 8px;" alt="David S Citrin"><br>
+                <b>David S Citrin</b>
+            </a>
+            <p>量子信息、纳米光学、光子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/john-d-cressler/research-overview.md">
+                <img src="research-quickview/gatech/profiles/john-d-cressler-profile.jpg" width="150" style="border-radius: 8px;" alt="John D Cressler"><br>
+                <b>John D Cressler</b>
+            </a>
+            <p>半导体、纳米材料、集成电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/suman-datta/research-overview.md">
+                <img src="research-quickview/gatech/profiles/suman-datta-profile.jpg" width="150" style="border-radius: 8px;" alt="Suman Datta"><br>
+                <b>Suman Datta</b>
+            </a>
+            <p>纳米电子学、量子计算、低功耗电子</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/jeffrey-a-davis/research-overview.md">
+                <img src="research-quickview/gatech/profiles/jeffrey-a-davis-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey A Davis"><br>
+                <b>Jeffrey A Davis</b>
+            </a>
+            <p>纳米电子学、集成电路、低功耗系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/f-levent-degertekin/research-overview.md">
+                <img src="research-quickview/gatech/profiles/f-levent-degertekin-profile.jpg" width="150" style="border-radius: 8px;" alt="F Levent Degertekin"><br>
+                <b>F Levent Degertekin</b>
+            </a>
+            <p>超声波传感器、纳米材料、微电子</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/william-alan-doolittle/research-overview.md">
+                <img src="research-quickview/gatech/profiles/william-alan-doolittle-profile.jpg" width="150" style="border-radius: 8px;" alt="William Alan Doolittle"><br>
+                <b>William Alan Doolittle</b>
+            </a>
+            <p>纳米材料、半导体器件、光电器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/russell-dean-dupuis/research-overview.md">
+                <img src="research-quickview/gatech/profiles/russell-dean-dupuis-profile.jpg" width="150" style="border-radius: 8px;" alt="Russell Dean Dupuis"><br>
+                <b>Russell Dean Dupuis</b>
+            </a>
+            <p>纳米器件、光电技术、集成电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/bruno-frazier/research-overview.md">
+                <img src="research-quickview/gatech/profiles/bruno-frazier-profile.jpg" width="150" style="border-radius: 8px;" alt="Bruno Frazier"><br>
+                <b>Bruno Frazier</b>
+            </a>
+            <p>纳米材料、纳米技术、传感器</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Optics and Photonics](https://ece.gatech.edu/directory/tig/optics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/ali-adibi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/ali-adibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Adibi"><br>
+                <b>Ali Adibi</b>
+            </a>
+            <p>控制理论、系统动力学、自动化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/john-a-buck/research-overview.md">
+                <img src="research-quickview/gatech/profiles/john-a-buck-profile.jpg" width="150" style="border-radius: 8px;" alt="John A Buck"><br>
+                <b>John A Buck</b>
+            </a>
+            <p>控制系统设计、动态系统分析、系统优化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/paulo-arratia/research-overview.md">
+                <img src="research-quickview/gatech/profiles/paulo-arratia-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Arratia"><br>
+                <b>Paulo Arratia</b>
+            </a>
+            <p>流体力学、动力系统、控制理论</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/david-issadore/research-overview.md">
+                <img src="research-quickview/gatech/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
+                <b>David Issadore</b>
+            </a>
+            <p>信号处理、数据分析、控制系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/gary-hodges/research-overview.md">
+                <img src="research-quickview/gatech/profiles/gary-hodges-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Hodges"><br>
+                <b>Gary Hodges</b>
+            </a>
+            <p>系统与控制、优化、自动化系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/philip-penn/research-overview.md">
+                <img src="research-quickview/gatech/profiles/philip-penn-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Penn"><br>
+                <b>Philip Penn</b>
+            </a>
+            <p>控制系统、动态系统分析、运动控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/james-d-fellows/research-overview.md">
+                <img src="research-quickview/gatech/profiles/james-d-fellows-profile.jpg" width="150" style="border-radius: 8px;" alt="James D Fellows"><br>
+                <b>James D Fellows</b>
+            </a>
+            <p>控制理论、机械系统控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/andrew-b-bath/research-overview.md">
+                <img src="research-quickview/gatech/profiles/andrew-b-bath-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew B Bath"><br>
+                <b>Andrew B Bath</b>
+            </a>
+            <p>自动控制、机器人技术、感知控制</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Systems and Controls](https://ece.gatech.edu/directory/tig/systems-and-controls)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/ali-adibi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/ali-adibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Adibi"><br>
+                <b>Ali Adibi</b>
+            </a>
+            <p>控制理论、系统动力学、自动化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/john-a-buck/research-overview.md">
+                <img src="research-quickview/gatech/profiles/john-a-buck-profile.jpg" width="150" style="border-radius: 8px;" alt="John A Buck"><br>
+                <b>John A Buck</b>
+            </a>
+            <p>控制系统设计、动态系统分析、系统优化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/paulo-arratia/research-overview.md">
+                <img src="research-quickview/gatech/profiles/paulo-arratia-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Arratia"><br>
+                <b>Paulo Arratia</b>
+            </a>
+            <p>流体力学、动力系统、控制理论</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/david-issadore/research-overview.md">
+                <img src="research-quickview/gatech/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
+                <b>David Issadore</b>
+            </a>
+            <p>信号处理、数据分析、控制系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/gary-hodges/research-overview.md">
+                <img src="research-quickview/gatech/profiles/gary-hodges-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Hodges"><br>
+                <b>Gary Hodges</b>
+            </a>
+            <p>系统与控制、优化、自动化系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/philip-penn/research-overview.md">
+                <img src="research-quickview/gatech/profiles/philip-penn-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Penn"><br>
+                <b>Philip Penn</b>
+            </a>
+            <p>控制系统、动态系统分析、运动控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/james-d-fellows/research-overview.md">
+                <img src="research-quickview/gatech/profiles/james-d-fellows-profile.jpg" width="150" style="border-radius: 8px;" alt="James D Fellows"><br>
+                <b>James D Fellows</b>
+            </a>
+            <p>控制理论、机械系统控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/andrew-b-bath/research-overview.md">
+                <img src="research-quickview/gatech/profiles/andrew-b-bath-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew B Bath"><br>
+                <b>Andrew B Bath</b>
+            </a>
+            <p>自动控制、机器人技术、感知控制</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [VLSI Systems and Digital Design](https://ece.gatech.edu/directory/tig/vlsi)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/nivedita-bhattacharya/research-overview.md">
+                <img src="research-quickview/gatech/profiles/nivedita-bhattacharya-profile.jpg" width="150" style="border-radius: 8px;" alt="Nivedita Bhattacharya"><br>
+                <b>Nivedita Bhattacharya</b>
+            </a>
+            <p>数字设计、VLSI系统、计算机体系结构</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/timothy-j-brothers/research-overview.md">
+                <img src="research-quickview/gatech/profiles/timothy-j-brothers-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy J Brothers"><br>
+                <b>Timothy J Brothers</b>
+            </a>
+            <p>数字设计、集成电路、嵌入式系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/abhijit-chatterjee/research-overview.md">
+                <img src="research-quickview/gatech/profiles/abhijit-chatterjee-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhijit Chatterjee"><br>
+                <b>Abhijit Chatterjee</b>
+            </a>
+            <p>集成电路、数字信号处理、低功耗设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/tom-conte/research-overview.md">
+                <img src="research-quickview/gatech/profiles/tom-conte-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Conte"><br>
+                <b>Tom Conte</b>
+            </a>
+            <p>计算机体系结构、嵌入式系统设计</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/suman-datta/research-overview.md">
+                <img src="research-quickview/gatech/profiles/suman-datta-profile.jpg" width="150" style="border-radius: 8px;" alt="Suman Datta"><br>
+                <b>Suman Datta</b>
+            </a>
+            <p>集成电路设计、半导体器件、功耗优化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/jeffrey-a-davis/research-overview.md">
+                <img src="research-quickview/gatech/profiles/jeffrey-a-davis-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey A Davis"><br>
+                <b>Jeffrey A Davis</b>
+            </a>
+            <p>数字设计、信号处理、系统集成</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/callie-hao/research-overview.md">
+                <img src="research-quickview/gatech/profiles/callie-hao-profile.jpg" width="150" style="border-radius: 8px;" alt="Callie Hao"><br>
+                <b>Callie Hao</b>
+            </a>
+            <p>数字电路设计、集成电路、高速数据传输</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/david-c-keezer/research-overview.md">
+                <img src="research-quickview/gatech/profiles/david-c-keezer-profile.jpg" width="150" style="border-radius: 8px;" alt="David C Keezer"><br>
+                <b>David C Keezer</b>
+            </a>
+            <p>集成电路、数字信号处理</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/asif-islam-khan/research-overview.md">
+                <img src="research-quickview/gatech/profiles/asif-islam-khan-profile.jpg" width="150" style="border-radius: 8px;" alt="Asif Islam Khan"><br>
+                <b>Asif Islam Khan</b>
+            </a>
+            <p>数字集成电路、射频设计、系统集成</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/shaolan-li/research-overview.md">
+                <img src="research-quickview/gatech/profiles/shaolan-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Shaolan Li"><br>
+                <b>Shaolan Li</b>
+            </a>
+            <p>集成电路设计、低功耗数字设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/sung-kyu-lim/research-overview.md">
+                <img src="research-quickview/gatech/profiles/sung-kyu-lim-profile.jpg" width="150" style="border-radius: 8px;" alt="Sung-Kyu Lim"><br>
+                <b>Sung-Kyu Lim</b>
+            </a>
+            <p>嵌入式系统、低功耗设计、硬件加速</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/vincent-j-mooney/research-overview.md">
+                <img src="research-quickview/gatech/profiles/vincent-j-mooney-profile.jpg" width="150" style="border-radius: 8px;" alt="Vincent J Mooney"><br>
+                <b>Vincent J Mooney</b>
+            </a>
+            <p>数字电路、通信系统、射频设计</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/saibal-mukhopadhyay/research-overview.md">
+                <img src="research-quickview/gatech/profiles/saibal-mukhopadhyay-profile.jpg" width="150" style="border-radius: 8px;" alt="Saibal Mukhopadhyay"><br>
+                <b>Saibal Mukhopadhyay</b>
+            </a>
+            <p>数字系统、功率优化、硬件设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/arijit-raychowdhury/research-overview.md">
+                <img src="research-quickview/gatech/profiles/arijit-raychowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Arijit Raychowdhury"><br>
+                <b>Arijit Raychowdhury</b>
+            </a>
+            <p>数字设计、集成电路、高效计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/william-h-robinson/research-overview.md">
+                <img src="research-quickview/gatech/profiles/william-h-robinson-profile.jpg" width="150" style="border-radius: 8px;" alt="William H Robinson"><br>
+                <b>William H Robinson</b>
+            </a>
+            <p>数字集成电路、硬件优化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/visvesh-s-sathe/research-overview.md">
+                <img src="research-quickview/gatech/profiles/visvesh-s-sathe-profile.jpg" width="150" style="border-radius: 8px;" alt="Visvesh S Sathe"><br>
+                <b>Visvesh S Sathe</b>
+            </a>
+            <p>硬件设计、数字信号处理</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/linda-m-wills/research-overview.md">
+                <img src="research-quickview/gatech/profiles/linda-m-wills-profile.jpg" width="150" style="border-radius: 8px;" alt="Linda M Wills"><br>
+                <b>Linda M Wills</b>
+            </a>
+            <p>集成电路、系统优化、嵌入式系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/shimeng-yu/research-overview.md">
+                <img src="research-quickview/gatech/profiles/shimeng-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Shimeng Yu"><br>
+                <b>Shimeng Yu</b>
+            </a>
+            <p>集成电路设计、低功耗电路、数字系统</p>
+        </td>
+    </tr>
+</table>
+
+</detailes>
+
+<!-- End of Gatech Section -->
+<!-- End of Gatech Section -->
+<!-- End of Gatech Section -->
