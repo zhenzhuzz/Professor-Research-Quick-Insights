@@ -8681,6 +8681,500 @@ A repository for quickly accessing research insights into professors' expertise 
 ### [Colleges and Schools](https://www.cmu.edu/academics/index.html)
 ### [College of Engineering](https://engineering.cmu.edu/)
 
+### [Mechanical Engineering](https://www.meche.engineering.cmu.edu/)
+
+- **Field**: [Micro/nanoengineering](https://www.meche.engineering.cmu.edu/directory/index.html#micro_nanoengineering)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/amir-barati-farimani/research-overview.md">
+                <img src="research-quickview/cmu/profiles/amir-barati-farimani-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Barati Farimani"><br>
+                <b>Amir Barati Farimani</b>
+            </a>
+            <p>微纳米材料，生物医用材料，机器学习。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/maarten-de-boer/research-overview.md">
+                <img src="research-quickview/cmu/profiles/maarten-de-boer-profile.jpg" width="150" style="border-radius: 8px;" alt="Maarten de Boer"><br>
+                <b>Maarten de Boer</b>
+            </a>
+            <p>微纳米结构，材料科学，纳米工程应用。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/reeja-jayan/research-overview.md">
+                <img src="research-quickview/cmu/profiles/reeja-jayan-profile.jpg" width="150" style="border-radius: 8px;" alt="Reeja Jayan"><br>
+                <b>Reeja Jayan</b>
+            </a>
+            <p>微纳米技术，生物医学材料，纳米医学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/shawn-litster/research-overview.md">
+                <img src="research-quickview/cmu/profiles/shawn-litster-profile.jpg" width="150" style="border-radius: 8px;" alt="Shawn Litster"><br>
+                <b>Shawn Litster</b>
+            </a>
+            <p>材料工程，化学工程，纳米制造。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/carmel-majidi/research-overview.md">
+                <img src="research-quickview/cmu/profiles/carmel-majidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Carmel Majidi"><br>
+                <b>Carmel Majidi</b>
+            </a>
+            <p>智能材料，纳米机械，机器人技术。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/jonathan-malen/research-overview.md">
+                <img src="research-quickview/cmu/profiles/jonathan-malen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Malen"><br>
+                <b>Jonathan Malen</b>
+            </a>
+            <p>纳米结构材料的热传导，纳米技术，微观热力学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/alan-mcgaughey/research-overview.md">
+                <img src="research-quickview/cmu/profiles/alan-mcgaughey-profile.jpg" width="150" style="border-radius: 8px;" alt="Alan McGaughey"><br>
+                <b>Alan McGaughey</b>
+            </a>
+            <p>纳米热力学，材料科学，热传导。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/burak-ozdoganlar/research-overview.md">
+                <img src="research-quickview/cmu/profiles/burak-ozdoganlar-profile.jpg" width="150" style="border-radius: 8px;" alt="Burak Ozdoganlar"><br>
+                <b>Burak Ozdoganlar</b>
+            </a>
+            <p>微纳制造技术，先进制造工艺，纳米级精度。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rahul-panat/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rahul-panat-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Panat"><br>
+                <b>Rahul Panat</b>
+            </a>
+            <p>纳米制造，材料科学，生物医用材料。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/sheng-shen/research-overview.md">
+                <img src="research-quickview/cmu/profiles/sheng-shen-profile.jpg" width="150" style="border-radius: 8px;" alt="Sheng Shen"><br>
+                <b>Sheng Shen</b>
+            </a>
+            <p>纳米电子学，材料工程，能量收集。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/ryan-sullivan/research-overview.md">
+                <img src="research-quickview/cmu/profiles/ryan-sullivan-profile.jpg" width="150" style="border-radius: 8px;" alt="Ryan Sullivan"><br>
+                <b>Ryan Sullivan</b>
+            </a>
+            <p>化学工程，机械工程，环境工程。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rebecca-taylor/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rebecca-taylor-profile.jpg" width="150" style="border-radius: 8px;" alt="Rebecca Taylor"><br>
+                <b>Rebecca Taylor</b>
+            </a>
+            <p>微纳制造，生物医学工程，纳米材料。</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Advanced manufacturing](https://www.meche.engineering.cmu.edu/directory/index.html#advanced_manufacturing)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/amir-barati-farimani/research-overview.md">
+                <img src="research-quickview/cmu/profiles/amir-barati-farimani-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Barati Farimani"><br>
+                <b>Amir Barati Farimani</b>
+            </a>
+            <p>微纳米制造，生物医学工程，机器学习。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/jack-beuth/research-overview.md">
+                <img src="research-quickview/cmu/profiles/jack-beuth-profile.jpg" width="150" style="border-radius: 8px;" alt="Jack Beuth"><br>
+                <b>Jack Beuth</b>
+            </a>
+            <p>增材制造，下一代制造技术，纳米制造。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/gary-fedder/research-overview.md">
+                <img src="research-quickview/cmu/profiles/gary-fedder-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Fedder"><br>
+                <b>Gary Fedder</b>
+            </a>
+            <p>制造技术，物理建模，机器人学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/reeja-jayan/research-overview.md">
+                <img src="research-quickview/cmu/profiles/reeja-jayan-profile.jpg" width="150" style="border-radius: 8px;" alt="Reeja Jayan"><br>
+                <b>Reeja Jayan</b>
+            </a>
+            <p>智能制造，材料科学，纳米工程应用。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/levent-burak-kara/research-overview.md">
+                <img src="research-quickview/cmu/profiles/levent-burak-kara-profile.jpg" width="150" style="border-radius: 8px;" alt="Levent Burak Kara"><br>
+                <b>Levent Burak Kara</b>
+            </a>
+            <p>制造工艺优化，自动化制造，3D打印技术。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/carmel-majidi/research-overview.md">
+                <img src="research-quickview/cmu/profiles/carmel-majidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Carmel Majidi"><br>
+                <b>Carmel Majidi</b>
+            </a>
+            <p>智能材料，纳米技术，机器人技术。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/christopher-mccomb/research-overview.md">
+                <img src="research-quickview/cmu/profiles/christopher-mccomb-profile.jpg" width="150" style="border-radius: 8px;" alt="Christopher McComb"><br>
+                <b>Christopher McComb</b>
+            </a>
+            <p>人机协作设计，智能系统，AI与制造融合。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/sneha-prabha-narra/research-overview.md">
+                <img src="research-quickview/cmu/profiles/sneha-prabha-narra-profile.jpg" width="150" style="border-radius: 8px;" alt="Sneha Prabha Narra"><br>
+                <b>Sneha Prabha Narra</b>
+            </a>
+            <p>纳米制造，智能材料，先进制造工艺。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/burak-ozdoganlar/research-overview.md">
+                <img src="research-quickview/cmu/profiles/burak-ozdoganlar-profile.jpg" width="150" style="border-radius: 8px;" alt="Burak Ozdoganlar"><br>
+                <b>Burak Ozdoganlar</b>
+            </a>
+            <p>先进制造技术，机器人自动化，制造过程优化。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rahul-panat/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rahul-panat-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Panat"><br>
+                <b>Rahul Panat</b>
+            </a>
+            <p>制造技术，纳米材料，生物医学工程应用。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/gianluca-piazza/research-overview.md">
+                <img src="research-quickview/cmu/profiles/gianluca-piazza-profile.jpg" width="150" style="border-radius: 8px;" alt="Gianluca Piazza"><br>
+                <b>Gianluca Piazza</b>
+            </a>
+            <p>纳米制造，纳米技术，集成系统设计。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/sheng-shen/research-overview.md">
+                <img src="research-quickview/cmu/profiles/sheng-shen-profile.jpg" width="150" style="border-radius: 8px;" alt="Sheng Shen"><br>
+                <b>Sheng Shen</b>
+            </a>
+            <p>纳米电子学，材料科学，热管理。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/kenji-shimada/research-overview.md">
+                <img src="research-quickview/cmu/profiles/kenji-shimada-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenji Shimada"><br>
+                <b>Kenji Shimada</b>
+            </a>
+            <p>智能制造，机器人设计，结构健康监测。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rebecca-taylor/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rebecca-taylor-profile.jpg" width="150" style="border-radius: 8px;" alt="Rebecca Taylor"><br>
+                <b>Rebecca Taylor</b>
+            </a>
+            <p>智能制造，生物医学工程，纳米材料。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/liwei-wang/research-overview.md">
+                <img src="research-quickview/cmu/profiles/liwei-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Liwei Wang"><br>
+                <b>Liwei Wang</b>
+            </a>
+            <p>先进制造工艺，机器人自动化，制造技术。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/victoria-webster-wood/research-overview.md">
+                <img src="research-quickview/cmu/profiles/victoria-webster-wood-profile.jpg" width="150" style="border-radius: 8px;" alt="Victoria Webster-Wood"><br>
+                <b>Victoria Webster-Wood</b>
+            </a>
+            <p>制造技术，生物医学工程，机器人学。</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Bioengineering](https://www.meche.engineering.cmu.edu/directory/index.html#bioengineering)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/amir-barati-farimani/research-overview.md">
+                <img src="research-quickview/cmu/profiles/amir-barati-farimani-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Barati Farimani"><br>
+                <b>Amir Barati Farimani</b>
+            </a>
+            <p>生物医学工程，生物力学，微纳米制造，机器学习。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/maarten-de-boer/research-overview.md">
+                <img src="research-quickview/cmu/profiles/maarten-de-boer-profile.jpg" width="150" style="border-radius: 8px;" alt="Maarten de Boer"><br>
+                <b>Maarten de Boer</b>
+            </a>
+            <p>生物医学工程，组织工程，生物材料。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/reeja-jayan/research-overview.md">
+                <img src="research-quickview/cmu/profiles/reeja-jayan-profile.jpg" width="150" style="border-radius: 8px;" alt="Reeja Jayan"><br>
+                <b>Reeja Jayan</b>
+            </a>
+            <p>生物力学，组织工程，微纳技术在医学中的应用。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/shawn-litster/research-overview.md">
+                <img src="research-quickview/cmu/profiles/shawn-litster-profile.jpg" width="150" style="border-radius: 8px;" alt="Shawn Litster"><br>
+                <b>Shawn Litster</b>
+            </a>
+            <p>生物医学工程，化学工程，细胞处理技术。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/carmel-majidi/research-overview.md">
+                <img src="research-quickview/cmu/profiles/carmel-majidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Carmel Majidi"><br>
+                <b>Carmel Majidi</b>
+            </a>
+            <p>生物医学工程，柔性电子，智能材料。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/jonathan-malen/research-overview.md">
+                <img src="research-quickview/cmu/profiles/jonathan-malen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Malen"><br>
+                <b>Jonathan Malen</b>
+            </a>
+            <p>纳米材料，传热，生物医学系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/alan-mcgaughey/research-overview.md">
+                <img src="research-quickview/cmu/profiles/alan-mcgaughey-profile.jpg" width="150" style="border-radius: 8px;" alt="Alan McGaughey"><br>
+                <b>Alan McGaughey</b>
+            </a>
+            <p>材料科学，热传导，生物医学热管理。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/burak-ozdoganlar/research-overview.md">
+                <img src="research-quickview/cmu/profiles/burak-ozdoganlar-profile.jpg" width="150" style="border-radius: 8px;" alt="Burak Ozdoganlar"><br>
+                <b>Burak Ozdoganlar</b>
+            </a>
+            <p>生物医学工程，微流控，纳米技术。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rahul-panat/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rahul-panat-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Panat"><br>
+                <b>Rahul Panat</b>
+            </a>
+            <p>生物医学工程，材料科学，纳米制造。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/sheng-shen/research-overview.md">
+                <img src="research-quickview/cmu/profiles/sheng-shen-profile.jpg" width="150" style="border-radius: 8px;" alt="Sheng Shen"><br>
+                <b>Sheng Shen</b>
+            </a>
+            <p>纳米材料，生物医学工程，电子热管理。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/ryan-sullivan/research-overview.md">
+                <img src="research-quickview/cmu/profiles/ryan-sullivan-profile.jpg" width="150" style="border-radius: 8px;" alt="Ryan Sullivan"><br>
+                <b>Ryan Sullivan</b>
+            </a>
+            <p>生物医学工程，纳米技术，热管理。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rebecca-taylor/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rebecca-taylor-profile.jpg" width="150" style="border-radius: 8px;" alt="Rebecca Taylor"><br>
+                <b>Rebecca Taylor</b>
+            </a>
+            <p>生物医学工程，纳米材料，生物传感器。</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Robotics](https://www.meche.engineering.cmu.edu/directory/index.html#robotics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/amir-barati-farimani/research-overview.md">
+                <img src="research-quickview/cmu/profiles/amir-barati-farimani-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Barati Farimani"><br>
+                <b>Amir Barati Farimani</b>
+            </a>
+            <p>生物医学工程，生物力学，机器学习，微纳米制造。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/sarah-bergbreiter/research-overview.md">
+                <img src="research-quickview/cmu/profiles/sarah-bergbreiter-profile.jpg" width="150" style="border-radius: 8px;" alt="Sarah Bergbreiter"><br>
+                <b>Sarah Bergbreiter</b>
+            </a>
+            <p>机器人学，机器人控制，机电系统设计。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/howie-choset/research-overview.md">
+                <img src="research-quickview/cmu/profiles/howie-choset-profile.jpg" width="150" style="border-radius: 8px;" alt="Howie Choset"><br>
+                <b>Howie Choset</b>
+            </a>
+            <p>机器人学，自动化系统，动态系统与控制。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/gary-fedder/research-overview.md">
+                <img src="research-quickview/cmu/profiles/gary-fedder-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Fedder"><br>
+                <b>Gary Fedder</b>
+            </a>
+            <p>制造工程，机器人技术，智能系统。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/hartmut-geyer/research-overview.md">
+                <img src="research-quickview/cmu/profiles/hartmut-geyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Hartmut Geyer"><br>
+                <b>Hartmut Geyer</b>
+            </a>
+            <p>机器人学，生物医学工程，动态控制。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/reeja-jayan/research-overview.md">
+                <img src="research-quickview/cmu/profiles/reeja-jayan-profile.jpg" width="150" style="border-radius: 8px;" alt="Reeja Jayan"><br>
+                <b>Reeja Jayan</b>
+            </a>
+            <p>机器人学，材料科学，自动化系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/aaron-johnson/research-overview.md">
+                <img src="research-quickview/cmu/profiles/aaron-johnson-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron Johnson"><br>
+                <b>Aaron Johnson</b>
+            </a>
+            <p>机器人学，电气与计算机工程，机器人系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/inseung-kang/research-overview.md">
+                <img src="research-quickview/cmu/profiles/inseung-kang-profile.jpg" width="150" style="border-radius: 8px;" alt="Inseung Kang"><br>
+                <b>Inseung Kang</b>
+            </a>
+            <p>机器人学，机械工程，动态控制。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/maxim-likhachev/research-overview.md">
+                <img src="research-quickview/cmu/profiles/maxim-likhachev-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Likhachev"><br>
+                <b>Maxim Likhachev</b>
+            </a>
+            <p>机器人规划，控制理论，人工智能。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/changliu-liu/research-overview.md">
+                <img src="research-quickview/cmu/profiles/changliu-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Changliu Liu"><br>
+                <b>Changliu Liu</b>
+            </a>
+            <p>机器人学，智能控制，机器人感知与决策。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/carmel-majidi/research-overview.md">
+                <img src="research-quickview/cmu/profiles/carmel-majidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Carmel Majidi"><br>
+                <b>Carmel Majidi</b>
+            </a>
+            <p>智能材料，机器人技术，软体机器人。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/matthew-mason/research-overview.md">
+                <img src="research-quickview/cmu/profiles/matthew-mason-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Mason"><br>
+                <b>Matthew Mason</b>
+            </a>
+            <p>机器人学，运动学，机械臂控制。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/sneha-prabha-narra/research-overview.md">
+                <img src="research-quickview/cmu/profiles/sneha-prabha-narra-profile.jpg" width="150" style="border-radius: 8px;" alt="Sneha Prabha Narra"><br>
+                <b>Sneha Prabha Narra</b>
+            </a>
+            <p>机器人学，材料科学，人工智能。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/melisa-orta-martinez/research-overview.md">
+                <img src="research-quickview/cmu/profiles/melisa-orta-martinez-profile.jpg" width="150" style="border-radius: 8px;" alt="Melisa Orta Martinez"><br>
+                <b>Melisa Orta Martinez</b>
+            </a>
+            <p>机器人学，机械工程，机器人操作。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rahul-panat/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rahul-panat-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Panat"><br>
+                <b>Rahul Panat</b>
+            </a>
+            <p>纳米制造，机器人技术，智能控制。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/cameron-riviere/research-overview.md">
+                <img src="research-quickview/cmu/profiles/cameron-riviere-profile.jpg" width="150" style="border-radius: 8px;" alt="Cameron Riviere"><br>
+                <b>Cameron Riviere</b>
+            </a>
+            <p>机器人技术，生物医学工程，自动化系统。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/kenji-shimada/research-overview.md">
+                <img src="research-quickview/cmu/profiles/kenji-shimada-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenji Shimada"><br>
+                <b>Kenji Shimada</b>
+            </a>
+            <p>机器人学，机械系统，机器人控制。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/rebecca-taylor/research-overview.md">
+                <img src="research-quickview/cmu/profiles/rebecca-taylor-profile.jpg" width="150" style="border-radius: 8px;" alt="Rebecca Taylor"><br>
+                <b>Rebecca Taylor</b>
+            </a>
+            <p>机器人学，生物医学工程，材料科学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/fatma-zeynep-temel/research-overview.md">
+                <img src="research-quickview/cmu/profiles/fatma-zeynep-temel-profile.jpg" width="150" style="border-radius: 8px;" alt="Fatma Zeynep Temel"><br>
+                <b>Fatma Zeynep Temel</b>
+            </a>
+            <p>机器人学，自动化系统，人工智能。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/matthew-travers/research-overview.md">
+                <img src="research-quickview/cmu/profiles/matthew-travers-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Travers"><br>
+                <b>Matthew Travers</b>
+            </a>
+            <p>机器人技术，系统建模与分析。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cmu/me/victoria-webster-wood/research-overview.md">
+                <img src="research-quickview/cmu/profiles/victoria-webster-wood-profile.jpg" width="150" style="border-radius: 8px;" alt="Victoria Webster-Wood"><br>
+                <b>Victoria Webster-Wood</b>
+            </a>
+            <p>机器人学，生物医学工程，人工智能。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/david-wettergreen/research-overview.md">
+                <img src="research-quickview/cmu/profiles/david-wettergreen-profile.jpg" width="150" style="border-radius: 8px;" alt="David Wettergreen"><br>
+                <b>David Wettergreen</b>
+            </a>
+            <p>机器人技术，教育，机器人系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cmu/me/ding-zhao/research-overview.md">
+                <img src="research-quickview/cmu/profiles/ding-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Ding Zhao"><br>
+                <b>Ding Zhao</b>
+            </a>
+            <p>机器人学，计算机科学，人工智能。</p>
+        </td>
+    </tr>
+</table>
+
+
 ### [Electrical and Computer Engineering](https://www.ece.cmu.edu/)
 
 <table>
