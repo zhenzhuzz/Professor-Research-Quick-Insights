@@ -8420,61 +8420,138 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/ali-adibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Adibi"><br>
                 <b>Ali Adibi</b>
             </a>
-            <p>控制理论、系统动力学、自动化</p>
+            <p>光学与光子学，光子器件，纳米光子学，集成光学。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/john-a-buck/research-overview.md">
-                <img src="research-quickview/gatech/profiles/john-a-buck-profile.jpg" width="150" style="border-radius: 8px;" alt="John A Buck"><br>
-                <b>John A Buck</b>
+                <img src="research-quickview/gatech/profiles/john-a-buck-profile.jpg" width="150" style="border-radius: 8px;" alt="John A. Buck"><br>
+                <b>John A. Buck</b>
             </a>
-            <p>控制系统设计、动态系统分析、系统优化</p>
+            <p>光学系统，光学成像，光电工程。</p>
         </td>
         <td align="center">
-            <a href="research-quickview/gatech/ece/paulo-arratia/research-overview.md">
-                <img src="research-quickview/gatech/profiles/paulo-arratia-profile.jpg" width="150" style="border-radius: 8px;" alt="Paulo Arratia"><br>
-                <b>Paulo Arratia</b>
+            <a href="research-quickview/gatech/ece/wenshan-cai/research-overview.md">
+                <img src="research-quickview/gatech/profiles/wenshan-cai-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenshan Cai"><br>
+                <b>Wenshan Cai</b>
             </a>
-            <p>流体力学、动力系统、控制理论</p>
+            <p>纳米光学，表面等离子体，光学器件设计。</p>
         </td>
         <td align="center">
-            <a href="research-quickview/gatech/ece/david-issadore/research-overview.md">
-                <img src="research-quickview/gatech/profiles/david-issadore-profile.jpg" width="150" style="border-radius: 8px;" alt="David Issadore"><br>
-                <b>David Issadore</b>
+            <a href="research-quickview/gatech/ece/david-s-citrin/research-overview.md">
+                <img src="research-quickview/gatech/profiles/david-s-citrin-profile.jpg" width="150" style="border-radius: 8px;" alt="David S Citrin"><br>
+                <b>David S Citrin</b>
             </a>
-            <p>信号处理、数据分析、控制系统</p>
+            <p>光电材料，量子点，光子学。</p>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/gatech/ece/gary-hodges/research-overview.md">
-                <img src="research-quickview/gatech/profiles/gary-hodges-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary Hodges"><br>
-                <b>Gary Hodges</b>
+            <a href="research-quickview/gatech/ece/russell-dean-dupuis/research-overview.md">
+                <img src="research-quickview/gatech/profiles/russell-dean-dupuis-profile.jpg" width="150" style="border-radius: 8px;" alt="Russell Dean Dupuis"><br>
+                <b>Russell Dean Dupuis</b>
             </a>
-            <p>系统与控制、优化、自动化系统</p>
+            <p>半导体材料，光学电子学，光电器件。</p>
         </td>
         <td align="center">
-            <a href="research-quickview/gatech/ece/philip-penn/research-overview.md">
-                <img src="research-quickview/gatech/profiles/philip-penn-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Penn"><br>
-                <b>Philip Penn</b>
+            <a href="research-quickview/gatech/ece/stanislav-emelianov/research-overview.md">
+                <img src="research-quickview/gatech/profiles/stanislav-emelianov-profile.jpg" width="150" style="border-radius: 8px;" alt="Stanislav Emelianov"><br>
+                <b>Stanislav Emelianov</b>
             </a>
-            <p>控制系统、动态系统分析、运动控制</p>
+            <p>超分辨率成像，光学显微镜，生物光子学。</p>
         </td>
         <td align="center">
-            <a href="research-quickview/gatech/ece/james-d-fellows/research-overview.md">
-                <img src="research-quickview/gatech/profiles/james-d-fellows-profile.jpg" width="150" style="border-radius: 8px;" alt="James D Fellows"><br>
-                <b>James D Fellows</b>
+            <a href="research-quickview/gatech/ece/thomas-k-gaylord/research-overview.md">
+                <img src="research-quickview/gatech/profiles/thomas-k-gaylord-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas K Gaylord"><br>
+                <b>Thomas K Gaylord</b>
             </a>
-            <p>控制理论、机械系统控制</p>
+            <p>光学传感器，光学通信，量子光学。</p>
         </td>
         <td align="center">
-            <a href="research-quickview/gatech/ece/andrew-b-bath/research-overview.md">
-                <img src="research-quickview/gatech/profiles/andrew-b-bath-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew B Bath"><br>
-                <b>Andrew B Bath</b>
+            <a href="research-quickview/gatech/ece/william-d-hunt/research-overview.md">
+                <img src="research-quickview/gatech/profiles/william-d-hunt-profile.jpg" width="150" style="border-radius: 8px;" alt="William D Hunt"><br>
+                <b>William D Hunt</b>
             </a>
-            <p>自动控制、机器人技术、感知控制</p>
+            <p>光学传感技术，光子学，光子传感器。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/bernard-j-kippelen/research-overview.md">
+                <img src="research-quickview/gatech/profiles/bernard-j-kippelen-profile.jpg" width="150" style="border-radius: 8px;" alt="Bernard J Kippelen"><br>
+                <b>Bernard J Kippelen</b>
+            </a>
+            <p>光子学，太阳能电池，量子光学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/benjamin-d-b-klein/research-overview.md">
+                <img src="research-quickview/gatech/profiles/benjamin-d-b-klein-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin D.B. Klein"><br>
+                <b>Benjamin D.B. Klein</b>
+            </a>
+            <p>集成光学，光子学，量子信息处理。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/alexandre-daniel-locquet/research-overview.md">
+                <img src="research-quickview/gatech/profiles/alexandre-daniel-locquet-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexandre Daniel Locquet"><br>
+                <b>Alexandre Daniel Locquet</b>
+            </a>
+            <p>集成光学，量子计算，光子学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/abdallah-ougazzaden/research-overview.md">
+                <img src="research-quickview/gatech/profiles/abdallah-ougazzaden-profile.jpg" width="150" style="border-radius: 8px;" alt="Abdallah Ougazzaden"><br>
+                <b>Abdallah Ougazzaden</b>
+            </a>
+            <p>半导体光学，光子学，量子技术。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/stephen-e-ralph/research-overview.md">
+                <img src="research-quickview/gatech/profiles/stephen-e-ralph-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen E Ralph"><br>
+                <b>Stephen E Ralph</b>
+            </a>
+            <p>量子光学，光子学，光通信。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/ajeet-rohatgi/research-overview.md">
+                <img src="research-quickview/gatech/profiles/ajeet-rohatgi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ajeet Rohatgi"><br>
+                <b>Ajeet Rohatgi</b>
+            </a>
+            <p>太阳能电池，光电子学，量子光学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/glenn-s-smith/research-overview.md">
+                <img src="research-quickview/gatech/profiles/glenn-s-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Glenn S Smith"><br>
+                <b>Glenn S Smith</b>
+            </a>
+            <p>光子学，量子光学，光通信。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/erik-i-verriest/research-overview.md">
+                <img src="research-quickview/gatech/profiles/erik-i-verriest-profile.jpg" width="150" style="border-radius: 8px;" alt="Erik I Verriest"><br>
+                <b>Erik I Verriest</b>
+            </a>
+            <p>光学工程，纳米光学，量子计算。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/paul-l-voss/research-overview.md">
+                <img src="research-quickview/gatech/profiles/paul-l-voss-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul L Voss"><br>
+                <b>Paul L Voss</b>
+            </a>
+            <p>纳米光学，光通信，量子信息。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/gatech/ece/doug-yoder/research-overview.md">
+                <img src="research-quickview/gatech/profiles/doug-yoder-profile.jpg" width="150" style="border-radius: 8px;" alt="Doug Yoder"><br>
+                <b>Doug Yoder</b>
+            </a>
+            <p>光学设计，纳米技术，量子光学。</p>
         </td>
     </tr>
 </table>
+
 
 - **Field**: [Systems and Controls](https://ece.gatech.edu/directory/tig/systems-and-controls)
 
