@@ -8420,28 +8420,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/ali-adibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Adibi"><br>
                 <b>Ali Adibi</b>
             </a>
-            <p>光学与光子学，光子器件，纳米光子学，集成光学。</p>
+            <p>研究方向包括光信息处理、纳米光子学、生物医学成像与传感，重点在光子器件和集成光学。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/john-a-buck/research-overview.md">
                 <img src="research-quickview/gatech/profiles/john-a-buck-profile.jpg" width="150" style="border-radius: 8px;" alt="John A. Buck"><br>
                 <b>John A. Buck</b>
             </a>
-            <p>光学系统，光学成像，光电工程。</p>
+            <p>专注于高分辨率光学成像系统的设计与开发，涉及自适应光学和相干成像技术。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/wenshan-cai/research-overview.md">
                 <img src="research-quickview/gatech/profiles/wenshan-cai-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenshan Cai"><br>
                 <b>Wenshan Cai</b>
             </a>
-            <p>纳米光学，表面等离子体，光学器件设计。</p>
+            <p>研究纳米光学与表面等离子体的相互作用，应用于传感器和超分辨率成像。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/david-s-citrin/research-overview.md">
                 <img src="research-quickview/gatech/profiles/david-s-citrin-profile.jpg" width="150" style="border-radius: 8px;" alt="David S Citrin"><br>
                 <b>David S Citrin</b>
             </a>
-            <p>光电材料，量子点，光子学。</p>
+            <p>重点在太赫兹光谱学、成像系统以及量子点在光电材料中的应用。</p>
         </td>
     </tr>
     <tr>
@@ -8450,28 +8450,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/russell-dean-dupuis-profile.jpg" width="150" style="border-radius: 8px;" alt="Russell Dean Dupuis"><br>
                 <b>Russell Dean Dupuis</b>
             </a>
-            <p>半导体材料，光学电子学，光电器件。</p>
+            <p>III-V族半导体材料的分子束外延生长及其在光电子器件中的应用。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/stanislav-emelianov/research-overview.md">
                 <img src="research-quickview/gatech/profiles/stanislav-emelianov-profile.jpg" width="150" style="border-radius: 8px;" alt="Stanislav Emelianov"><br>
                 <b>Stanislav Emelianov</b>
             </a>
-            <p>超分辨率成像，光学显微镜，生物光子学。</p>
+            <p>研究方向包括光声成像、超分辨率显微镜技术，以及生物分子检测的纳米医学应用。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/thomas-k-gaylord/research-overview.md">
                 <img src="research-quickview/gatech/profiles/thomas-k-gaylord-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas K Gaylord"><br>
                 <b>Thomas K Gaylord</b>
             </a>
-            <p>光学传感器，光学通信，量子光学。</p>
+            <p>研究方向为衍射光学与全息技术，应用于量子光学和光学传感。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/william-d-hunt/research-overview.md">
                 <img src="research-quickview/gatech/profiles/william-d-hunt-profile.jpg" width="150" style="border-radius: 8px;" alt="William D Hunt"><br>
                 <b>William D Hunt</b>
             </a>
-            <p>光学传感技术，光子学，光子传感器。</p>
+            <p>专注于声表面波技术在生物传感器中的应用，具有实时检测特性。</p>
         </td>
     </tr>
     <tr>
@@ -8480,28 +8480,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/bernard-j-kippelen-profile.jpg" width="150" style="border-radius: 8px;" alt="Bernard J Kippelen"><br>
                 <b>Bernard J Kippelen</b>
             </a>
-            <p>光子学，太阳能电池，量子光学。</p>
+            <p>有机光电材料和器件的设计与开发，特别关注高效太阳能电池。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/benjamin-d-b-klein/research-overview.md">
                 <img src="research-quickview/gatech/profiles/benjamin-d-b-klein-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin D.B. Klein"><br>
                 <b>Benjamin D.B. Klein</b>
             </a>
-            <p>集成光学，光子学，量子信息处理。</p>
+            <p>集成光学和非线性光学，应用于光纤激光器和光子集成电路。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/alexandre-daniel-locquet/research-overview.md">
                 <img src="research-quickview/gatech/profiles/alexandre-daniel-locquet-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexandre Daniel Locquet"><br>
                 <b>Alexandre Daniel Locquet</b>
             </a>
-            <p>集成光学，量子计算，光子学。</p>
+            <p>专注于光子集成电路和量子光学器件的研究。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/abdallah-ougazzaden/research-overview.md">
                 <img src="research-quickview/gatech/profiles/abdallah-ougazzaden-profile.jpg" width="150" style="border-radius: 8px;" alt="Abdallah Ougazzaden"><br>
                 <b>Abdallah Ougazzaden</b>
             </a>
-            <p>半导体光学，光子学，量子技术。</p>
+            <p>III族氮化物材料和半导体光学器件在量子技术中的应用。</p>
         </td>
     </tr>
     <tr>
@@ -8510,28 +8510,28 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/stephen-e-ralph-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen E Ralph"><br>
                 <b>Stephen E Ralph</b>
             </a>
-            <p>量子光学，光子学，光通信。</p>
+            <p>专注于超快光学和光纤通信技术，重点在量子光学的基础研究。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/ajeet-rohatgi/research-overview.md">
                 <img src="research-quickview/gatech/profiles/ajeet-rohatgi-profile.jpg" width="150" style="border-radius: 8px;" alt="Ajeet Rohatgi"><br>
                 <b>Ajeet Rohatgi</b>
             </a>
-            <p>太阳能电池，光电子学，量子光学。</p>
+            <p>高效硅太阳能电池的设计和制造，强调低成本与高效率的结合。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/glenn-s-smith/research-overview.md">
                 <img src="research-quickview/gatech/profiles/glenn-s-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Glenn S Smith"><br>
                 <b>Glenn S Smith</b>
             </a>
-            <p>光子学，量子光学，光通信。</p>
+            <p>电磁场理论与天线设计的结合，应用于光子学和光通信领域。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/erik-i-verriest/research-overview.md">
                 <img src="research-quickview/gatech/profiles/erik-i-verriest-profile.jpg" width="150" style="border-radius: 8px;" alt="Erik I Verriest"><br>
                 <b>Erik I Verriest</b>
             </a>
-            <p>光学工程，纳米光学，量子计算。</p>
+            <p>光学控制理论及其在量子计算和光学系统中的应用。</p>
         </td>
     </tr>
     <tr>
@@ -8540,17 +8540,18 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/gatech/profiles/paul-l-voss-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul L Voss"><br>
                 <b>Paul L Voss</b>
             </a>
-            <p>纳米光学，光通信，量子信息。</p>
+            <p>纳米光学和光纤传感器技术，应用于量子信息处理与通信。</p>
         </td>
         <td align="center">
             <a href="research-quickview/gatech/ece/doug-yoder/research-overview.md">
                 <img src="research-quickview/gatech/profiles/doug-yoder-profile.jpg" width="150" style="border-radius: 8px;" alt="Doug Yoder"><br>
                 <b>Doug Yoder</b>
             </a>
-            <p>光学设计，纳米技术，量子光学。</p>
+            <p>光学系统设计与微纳米制造技术，专注于光通信和量子光学应用。</p>
         </td>
     </tr>
 </table>
+
 
 
 - **Field**: [Systems and Controls](https://ece.gatech.edu/directory/tig/systems-and-controls)
