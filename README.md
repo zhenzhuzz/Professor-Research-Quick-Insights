@@ -15,31 +15,288 @@ A repository for quickly accessing research insights into professors' expertise 
 
 - **Field**: Mix
 
-  <table>
+<table>
     <tr>
-      <td align="center">
-        <a href="research-quickview/stanford/me/matthew-edwards/research-overview.md">
-          <img src="research-quickview/stanford/profiles/matthew-edwards-profile.png" width="150" style="border-radius: 8px;" alt="Matthew Edwards"><br>
-          <b>Matthew Edwards</b>
-        </a>
-        <p>超快激光控制、等离子体光学、粒子加速技术</p>
-      </td>
-      <td align="center">
-        <a href="research-quickview/stanford/me/kenneth-goodson/research-overview.md">
-          <img src="research-quickview/stanford/profiles/kenneth-goodson-profile.png" width="150" style="border-radius: 8px;" alt="Kenneth Goodson"><br>
-          <b>Kenneth Goodson</b>
-        </a>
-        <p>微尺度散热、液气双相冷却、高热通量管理</p>
-      </td>
-      <td align="center">
-        <a href="research-quickview/stanford/me/ronald-hanson/research-overview.md">
-          <img src="research-quickview/stanford/profiles/ronald-hanson-profile.png" width="150" style="border-radius: 8px;" alt="Ronald Hanson"><br>
-          <b>Ronald Hanson</b>
-        </a>
-        <p>燃烧动力学、高温光谱诊断、激波管技术（模拟高温高压气体行为）</p>
-      </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/adam-boies/research-overview.md">
+                <img src="research-quickview/stanford/profiles/adam-boies-profile.jpg" width="150" style="border-radius: 8px;" alt="Adam Boies"><br>
+                <b>Adam Boies</b>
+            </a>
+            <p>气溶胶科学、能源系统、能源技术的环境影响</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/wei-cai/research-overview.md">
+                <img src="research-quickview/stanford/profiles/wei-cai-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei Cai"><br>
+                <b>Wei Cai</b>
+            </a>
+            <p>计算材料科学、位错动力学、多尺度建模</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/mark-cappelli/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mark-cappelli-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark A. Cappelli"><br>
+                <b>Mark A. Cappelli</b>
+            </a>
+            <p>等离子体物理、燃烧、电力推进、激光诊断</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/ovijit-chaudhuri/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ovijit-chaudhuri-profile.jpg" width="150" style="border-radius: 8px;" alt="Ovijit Chaudhuri"><br>
+                <b>Ovijit Chaudhuri</b>
+            </a>
+            <p>机械生物学、细胞-基质相互作用、组织工程</p>
+        </td>
     </tr>
-  </table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/steven-collins/research-overview.md">
+                <img src="research-quickview/stanford/profiles/steven-collins-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven Hartley Collins"><br>
+                <b>Steven Hartley Collins</b>
+            </a>
+            <p>仿生机器人、人体辅助装置、步态分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/mark-cutkosky/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mark-cutkosky-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Cutkosky"><br>
+                <b>Mark Cutkosky</b>
+            </a>
+            <p>仿生机器人、触觉传感、可调节材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/eric-darve/research-overview.md">
+                <img src="research-quickview/stanford/profiles/eric-darve-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Darve"><br>
+                <b>Eric Darve</b>
+            </a>
+            <p>计算科学、数值方法、工程模拟</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/scott-delp/research-overview.md">
+                <img src="research-quickview/stanford/profiles/scott-delp-profile.jpg" width="150" style="border-radius: 8px;" alt="Scott L. Delp"><br>
+                <b>Scott L. Delp</b>
+            </a>
+            <p>人类运动科学、生物力学、康复工程</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/matthew-edwards/research-overview.md">
+                <img src="research-quickview/stanford/profiles/matthew-edwards-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew R. Edwards"><br>
+                <b>Matthew R. Edwards</b>
+            </a>
+            <p>超快激光控制、等离子体光学、粒子加速技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/vivian-feig/research-overview.md">
+                <img src="research-quickview/stanford/profiles/vivian-feig-profile.jpg" width="150" style="border-radius: 8px;" alt="Vivian Feig"><br>
+                <b>Vivian Feig</b>
+            </a>
+            <p>动态机械性能的功能性材料和器件，旨在实现低成本、非侵入性且广泛可及的医疗技术，与人体无缝融合</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/sean-follmer/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sean-follmer-profile.jpg" width="150" style="border-radius: 8px;" alt="Sean Follmer"><br>
+                <b>Sean Follmer</b>
+            </a>
+            <p>人机交互、软体机器人、触觉界面</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/kenneth-goodson/research-overview.md">
+                <img src="research-quickview/stanford/profiles/kenneth-goodson-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenneth Goodson"><br>
+                <b>Kenneth Goodson</b>
+            </a>
+            <p>微尺度散热、液气双相冷却、高热通量管理</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/wendy-gu/research-overview.md">
+                <img src="research-quickview/stanford/profiles/wendy-gu-profile.jpg" width="150" style="border-radius: 8px;" alt="Wendy Gu"><br>
+                <b>Wendy Gu</b>
+            </a>
+            <p>纳米材料力学性能、3D打印金属结构、纳米复合材料的力学行为</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/ronald-hanson/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ronald-hanson-profile.jpg" width="150" style="border-radius: 8px;" alt="Ronald Hanson"><br>
+                <b>Ronald Hanson</b>
+            </a>
+            <p>燃烧动力学、高温光谱诊断、激波管技术（模拟高温高压气体行为)、激光吸收光谱技术在高温气体中的应用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/gianluca-iaccarino/research-overview.md">
+                <img src="research-quickview/stanford/profiles/gianluca-iaccarino-profile.jpg" width="150" style="border-radius: 8px;" alt="Gianluca Iaccarino"><br>
+                <b>Gianluca Iaccarino</b>
+            </a>
+            <p>计算流体力学、湍流建模、数值模拟在工程中的应用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/matthias-ihme/research-overview.md">
+                <img src="research-quickview/stanford/profiles/matthias-ihme-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthias Ihme"><br>
+                <b>Matthias Ihme</b>
+            </a>
+            <p>燃烧过程的数值模拟、高效燃烧技术、燃料替代品研究</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/david-kelley/research-overview.md">
+                <img src="research-quickview/stanford/profiles/david-kelley-profile.jpg" width="150" style="border-radius: 8px;" alt="David Kelley"><br>
+                <b>David Kelley</b>
+            </a>
+            <p>设计思维、创新方法、产品开发流程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/monroe-kennedy/research-overview.md">
+                <img src="research-quickview/stanford/profiles/monroe-kennedy-profile.jpg" width="150" style="border-radius: 8px;" alt="Monroe Kennedy III"><br>
+                <b>Monroe Kennedy III</b>
+            </a>
+            <p>机器人技术、人机交互、自动化系统在日常生活中的应用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/thomas-kenny/research-overview.md">
+                <img src="research-quickview/stanford/profiles/thomas-kenny-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Kenny"><br>
+                <b>Thomas Kenny</b>
+            </a>
+            <p>微机电系统（MEMS）、传感器技术、纳米尺度机械系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/ellen-kuhl/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ellen-kuhl-profile.jpg" width="150" style="border-radius: 8px;" alt="Ellen Kuhl"><br>
+                <b>Ellen Kuhl</b>
+            </a>
+            <p>计算生物力学、心血管系统建模、神经退行性疾病力学机制</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/natalie-larson/research-overview.md">
+                <img src="research-quickview/stanford/profiles/natalie-larson-profile.jpg" width="150" style="border-radius: 8px;" alt="Natalie Larson"><br>
+                <b>Natalie Larson</b>
+            </a>
+            <p>材料科学、纳米结构材料的力学性能、先进制造技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/sanjiva-lele/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sanjiva-lele-profile.jpg" width="150" style="border-radius: 8px;" alt="Sanjiva Lele"><br>
+                <b>Sanjiva Lele</b>
+            </a>
+            <p>湍流、流体动力学、计算流体力学在航空航天中的应用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/marc-levenston/research-overview.md">
+                <img src="research-quickview/stanford/profiles/marc-levenston-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Levenston"><br>
+                <b>Marc Levenston</b>
+            </a>
+            <p>生物力学、软骨组织工程、医学影像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/adrian-lew/research-overview.md">
+                <img src="research-quickview/stanford/profiles/adrian-lew-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrian Lew"><br>
+                <b>Adrian Lew</b>
+            </a>
+            <p>计算力学、有限元方法、结构力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/arun-majumdar/research-overview.md">
+                <img src="research-quickview/stanford/profiles/arun-majumdar-profile.jpg" width="150" style="border-radius: 8px;" alt="Dr. Arun Majumdar"><br>
+                <b>Dr. Arun Majumdar</b>
+            </a>
+            <p>能源转换、存储技术、能源政策</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/ali-mani/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ali-mani-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Mani"><br>
+                <b>Ali Mani</b>
+            </a>
+            <p>计算流体力学、湍流、多相流动</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/michaelle-mayalu/research-overview.md">
+                <img src="research-quickview/stanford/profiles/michaelle-mayalu-profile.jpg" width="150" style="border-radius: 8px;" alt="Michaëlle Ntala Mayalu"><br>
+                <b>Michaëlle Ntala Mayalu</b>
+            </a>
+            <p>控制理论、合成生物学、生物系统建模</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/beverley-mckeon/research-overview.md">
+                <img src="research-quickview/stanford/profiles/beverley-mckeon-profile.jpg" width="150" style="border-radius: 8px;" alt="Beverley J McKeon"><br>
+                <b>Beverley J McKeon</b>
+            </a>
+            <p>湍流、流动控制、空气动力学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/parviz-moin/research-overview.md">
+                <img src="research-quickview/stanford/profiles/parviz-moin-profile.jpg" width="150" style="border-radius: 8px;" alt="Parviz Moin"><br>
+                <b>Parviz Moin</b>
+            </a>
+            <p>计算流体力学、湍流</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/allison-okamura/research-overview.md">
+                <img src="research-quickview/stanford/profiles/allison-okamura-profile.jpg" width="150" style="border-radius: 8px;" alt="Allison Okamura"><br>
+                <b>Allison Okamura</b>
+            </a>
+            <p>触觉反馈、机器人手术、人机交互</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/friedrich-prinz/research-overview.md">
+                <img src="research-quickview/stanford/profiles/friedrich-prinz-profile.jpg" width="150" style="border-radius: 8px;" alt="Friedrich Prinz"><br>
+                <b>Friedrich Prinz</b>
+            </a>
+            <p>纳米制造、能源系统、材料科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/juan-santiago/research-overview.md">
+                <img src="research-quickview/stanford/profiles/juan-santiago-profile.jpg" width="150" style="border-radius: 8px;" alt="Juan G. Santiago"><br>
+                <b>Juan G. Santiago</b>
+            </a>
+            <p>流体力学、微流体、分离技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/eric-shaqfeh/research-overview.md">
+                <img src="research-quickview/stanford/profiles/eric-shaqfeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric S.G. Shaqfeh"><br>
+                <b>Eric S.G. Shaqfeh</b>
+            </a>
+            <p>流体力学、聚合物流变学、微流体</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/sindy-tang/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sindy-tang-profile.jpg" width="150" style="border-radius: 8px;" alt="Sindy Tang"><br>
+                <b>Sindy Tang</b>
+            </a>
+            <p>微流体、生物传感器、单细胞分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/hai-wang/research-overview.md">
+                <img src="research-quickview/stanford/profiles/hai-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Hai Wang"><br>
+                <b>Hai Wang</b>
+            </a>
+            <p>燃烧化学、排放控制、燃料替代</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/me/renee-zhao/research-overview.md">
+                <img src="research-quickview/stanford/profiles/renee-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Renee Zhao"><br>
+                <b>Renee Zhao</b>
+            </a>
+            <p>智能材料、柔性机器人、材料特性</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/me/xiaolin-zheng/research-overview.md">
+                <img src="research-quickview/stanford/profiles/xiaolin-zheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaolin Zheng"><br>
+                <b>Xiaolin Zheng</b>
+            </a>
+            <p>纳米材料、能源科学、太阳能技术</p>
+        </td>
+    </tr>
+</table>
+
 
 ### [Electrical Engineering](https://ee.stanford.edu/)
 
