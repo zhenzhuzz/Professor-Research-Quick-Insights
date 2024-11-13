@@ -284,7 +284,7 @@ A repository for quickly accessing research insights into professors' expertise 
                 <img src="research-quickview/ucb/profiles/vassilia-zorba-profile.jpg" width="150" style="border-radius: 8px;" alt="Vassilia Zorba"><br>
                 <b>Vassilia Zorba</b>
             </a>
-            <p>暂无公开的研究兴趣</p>
+            <p>超快激光</p>
         </td>
     </tr>
 </table>
