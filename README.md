@@ -6,7 +6,8 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## Universities
 
-## [Stanford](https://www.stanford.edu/) [Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines)
+## [Stanford](https://www.stanford.edu/) 
+#### [Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines)
 
 <details>
 <summary>Click to expand Stanford Professors</summary>
@@ -1372,7 +1373,8 @@ HTML
 <!-- End of Stanford University Section -->
 <!-- End of Stanford University Section -->
 
-## [UCB](https://www.berkeley.edu/) [Dec, 2(ME) Dec, 9 (EECS)](https://grad.berkeley.edu/admissions/choosing-your-program/list/)
+## [UCB](https://www.berkeley.edu/) 
+#### [Dec, 2 ([ME](https://grad.berkeley.edu/program/mechanical-engineering/)); Dec, 9 ([EECS](https://grad.berkeley.edu/program/eecs/))]; [List](https://grad.berkeley.edu/admissions/choosing-your-program/list/)
 
 <details>
 <summary>Click to expand UCB Professors</summary>
@@ -2457,7 +2459,8 @@ HTML
 
 
 
-## [Caltech](https://www.caltech.edu/) [Dec, 15](https://gradoffice.caltech.edu/admissions/applyonline)
+## [Caltech](https://www.caltech.edu/) 
+#### Dec, 15 ([MCE&EE](https://gradoffice.caltech.edu/admissions/applyonline))
 
 <details>
 <summary>Click to expand Caltech Professors</summary>
@@ -4303,7 +4306,8 @@ HTML
 <!-- End of USC Section -->
 
 
-## [MIT](https://www.mit.edu/) [Dec, 15 (ME)](https://meche.mit.edu/education/prospective-students/graduate/apply), [Dec, 1 (EECS)](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/)
+## [MIT](https://www.mit.edu/) 
+#### Dec, 15 ([ME](https://meche.mit.edu/education/prospective-students/graduate/apply)); Dec, 1 (EECS(https://www.eecs.mit.edu/academics/graduate-programs/admission-process/))
 
 <details>
 <summary>Click to expand MIT Professors</summary>
@@ -5345,7 +5349,8 @@ HTML
 <!-- End of MIT Section -->
 <!-- End of MIT Section -->
 
-## [Harvard](https://www.harvard.edu/) [Dec, 15](https://seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply)
+## [Harvard](https://www.harvard.edu/) 
+#### Dec, 15 ([MME&EE](https://seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply))
 
 <details>
 <summary>Click to expand Harvard Professors</summary>
@@ -6899,7 +6904,7 @@ HTML
 
 
 ## [Duke University](https://duke.edu/)
-
+#### Dec, 12 ([MEMS](https://mems.duke.edu/admissions/phd/)); DEC, 2 ([ECE](https://ece.duke.edu/admissions/phd/#apply)); [Deadline](https://gradschool.duke.edu/admissions/application-deadlines/)
 <details>
 <summary>Click to expand Duke Professors</summary>
 
@@ -7584,7 +7589,7 @@ HTML
 
 
 ## [Upenn](https://www.upenn.edu/)
-
+#### Dec, 16 ([MEAM&ESE](https://gradadm.seas.upenn.edu/doctoral/))
 <details>
 <summary>Click to expand Upenn Professors</summary>
 
@@ -8698,6 +8703,8 @@ HTML
 
 
 ## [Gatech](https://www.gatech.edu/)
+#### Dec, 15 ([ME](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html))
+#### Dec, 16 ([ME](https://grad.gatech.edu/degree-programs/mechanical-engineering) & [ECE](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering))
 
 <details>
 <summary>Click to expand Gatech Professors</summary>
