@@ -6,7 +6,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## Universities
 
-## [Stanford](https://www.stanford.edu/) Dec, 2
+## [Stanford](https://www.stanford.edu/) [Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines)
 
 <details>
 <summary>Click to expand Stanford Professors</summary>
@@ -1372,7 +1372,7 @@ HTML
 <!-- End of Stanford University Section -->
 <!-- End of Stanford University Section -->
 
-## [UCB](https://www.berkeley.edu/) Dec, 2(ME) Dec, 9 (EECS)
+## [UCB](https://www.berkeley.edu/) [Dec, 2(ME) Dec, 9 (EECS)](https://grad.berkeley.edu/admissions/choosing-your-program/list/)
 
 <details>
 <summary>Click to expand UCB Professors</summary>
@@ -2338,7 +2338,7 @@ HTML
 <!-- End of UCB Section -->
 
 
-## [UCLA](https://www.ucla.edu/)
+## [UCLA](https://www.ucla.edu/) Dec, 1 ([ME](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/mechanical-engineering/)&[Aero](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/)) [Dec, 15(ECE)](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/) [Admission Catolog](https://grad.ucla.edu/admissions/calendar/#:~:text=Most%20graduate%20admissions%20applications%20are,some%20have%20multiple%20admissions%20rounds.)
 
 <details>
 <summary>Click to expand UCLA Professors</summary>
@@ -2457,7 +2457,7 @@ HTML
 
 
 
-## [Caltech](https://www.caltech.edu/)
+## [Caltech](https://www.caltech.edu/) [Dec, 15](https://gradoffice.caltech.edu/admissions/applyonline)
 
 <details>
 <summary>Click to expand Caltech Professors</summary>
@@ -4303,7 +4303,7 @@ HTML
 <!-- End of USC Section -->
 
 
-## [MIT](https://www.mit.edu/) Dec, 15 (ME), Dec, 1 (EECS)
+## [MIT](https://www.mit.edu/) [Dec, 15 (ME)](https://meche.mit.edu/education/prospective-students/graduate/apply), [Dec, 1 (EECS)](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/)
 
 <details>
 <summary>Click to expand MIT Professors</summary>
@@ -5345,7 +5345,7 @@ HTML
 <!-- End of MIT Section -->
 <!-- End of MIT Section -->
 
-## [Harvard](https://www.harvard.edu/)
+## [Harvard](https://www.harvard.edu/) [Dec, 15](https://seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply)
 
 <details>
 <summary>Click to expand Harvard Professors</summary>
@@ -6558,7 +6558,7 @@ HTML
 
 
 
-## [Columbia University](https://www.columbia.edu/)
+## [Columbia University](https://www.columbia.edu/) [Dec, 15](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements#accordion0)
 
 <details>
 <summary>Click to expand Columbia Professors</summary>
