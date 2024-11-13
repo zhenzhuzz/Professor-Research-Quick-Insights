@@ -302,7 +302,835 @@ A repository for quickly accessing research insights into professors' expertise 
 
 - **Learn about Professor**: Stanford EE website->People->Faculty->Areas
 
-- **Field**: Nanotechnology, nanofabrication, materials, advanced packaging and manufacturing technologies
+- **Field**: [AI, machine learning, optimization](https://ee.stanford.edu/people/faculty?areas=7ce2fdfb-453a-42c3-9dc9-4e63411895bd&limit=10&sort=asc&type=active&page=2)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/nicholas-bambos/research-overview.md">
+                <img src="research-quickview/stanford/profiles/nicholas-bambos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Bambos"><br>
+                <b>Nicholas Bambos</b>
+            </a>
+            <p>网络系统、无线通信、计算机系统性能分析和控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/stephen-boyd/research-overview.md">
+                <img src="research-quickview/stanford/profiles/stephen-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen P. Boyd"><br>
+                <b>Stephen P. Boyd</b>
+            </a>
+            <p>控制理论、优化算法、信号处理、电路设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/john-duchi/research-overview.md">
+                <img src="research-quickview/stanford/profiles/john-duchi-profile.jpg" width="150" style="border-radius: 8px;" alt="John Duchi"><br>
+                <b>John Duchi</b>
+            </a>
+            <p>机器学习、统计学、优化算法、分布式计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/abbas-el-gamal/research-overview.md">
+                <img src="research-quickview/stanford/profiles/abbas-el-gamal-profile.jpg" width="150" style="border-radius: 8px;" alt="Abbas El Gamal"><br>
+                <b>Abbas El Gamal</b>
+            </a>
+            <p>信息理论、无线网络、图像传感和处理</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/chelsea-finn/research-overview.md">
+                <img src="research-quickview/stanford/profiles/chelsea-finn-profile.jpg" width="150" style="border-radius: 8px;" alt="Chelsea Finn"><br>
+                <b>Chelsea Finn</b>
+            </a>
+            <p>机器人学习、元学习、强化学习、计算机视觉</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/sanjay-lall/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sanjay-lall-profile.jpg" width="150" style="border-radius: 8px;" alt="Sanjay Lall"><br>
+                <b>Sanjay Lall</b>
+            </a>
+            <p>控制理论、优化、航空航天系统、网络化控制系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/thomas-lee/research-overview.md">
+                <img src="research-quickview/stanford/profiles/thomas-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Lee"><br>
+                <b>Thomas Lee</b>
+            </a>
+            <p>射频集成电路设计、无线通信、微波技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/brad-osgood/research-overview.md">
+                <img src="research-quickview/stanford/profiles/brad-osgood-profile.jpg" width="150" style="border-radius: 8px;" alt="Brad Osgood"><br>
+                <b>Brad Osgood</b>
+            </a>
+            <p>信号处理、傅里叶分析、应用数学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/ayfer-ozgur/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ayfer-ozgur-profile.jpg" width="150" style="border-radius: 8px;" alt="Ayfer Ozgur"><br>
+                <b>Ayfer Ozgur</b>
+            </a>
+            <p>信息理论、无线网络、分布式算法、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/mert-pilanci/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mert-pilanci-profile.jpg" width="150" style="border-radius: 8px;" alt="Mert Pilanci"><br>
+                <b>Mert Pilanci</b>
+            </a>
+            <p>优化、机器学习、统计信号处理、大规模数据分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/ram-rajagopal/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ram-rajagopal-profile.jpg" width="150" style="border-radius: 8px;" alt="Ram Rajagopal"><br>
+                <b>Ram Rajagopal</b>
+            </a>
+            <p>智能电网、能源系统、数据分析、传感器网络</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/dorsa-sadigh/research-overview.md">
+                <img src="research-quickview/stanford/profiles/dorsa-sadigh-profile.jpg" width="150" style="border-radius: 8px;" alt="Dorsa Sadigh"><br>
+                <b>Dorsa Sadigh</b>
+            </a>
+            <p>机器人学习、人机交互、自动驾驶、强化学习</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/shuran-song/research-overview.md">
+                <img src="research-quickview/stanford/profiles/shuran-song-profile.jpg" width="150" style="border-radius: 8px;" alt="Shuran Song"><br>
+                <b>Shuran Song</b>
+            </a>
+            <p>计算机视觉、机器人感知、自主系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/david-tse/research-overview.md">
+                <img src="research-quickview/stanford/profiles/david-tse-profile.jpg" width="150" style="border-radius: 8px;" alt="David Tse"><br>
+                <b>David Tse</b>
+            </a>
+            <p>信息理论、无线通信、网络、生物信息学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/benjamin-van-roy/research-overview.md">
+                <img src="research-quickview/stanford/profiles/benjamin-van-roy-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Van Roy"><br>
+                <b>Benjamin Van Roy</b>
+            </a>
+            <p>机器学习、强化学习、最优控制、运营研究</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/gordon-wetzstein/research-overview.md">
+                <img src="research-quickview/stanford/profiles/gordon-wetzstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Gordon Wetzstein"><br>
+                <b>Gordon Wetzstein</b>
+            </a>
+            <p>计算成像、计算视觉、虚拟现实、增强现实</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Biomed devices, sensors, and systems](https://ee.stanford.edu/people/faculty?areas=0f935170-bf99-4238-9a92-20c9493662ef&limit=10&sort=asc&type=active)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/amin-arbabian/research-overview.md">
+                <img src="research-quickview/stanford/profiles/amin-arbabian-profile.jpg" width="150" style="border-radius: 8px;" alt="Amin Arbabian"><br>
+                <b>Amin Arbabian</b>
+            </a>
+            <p>集成电路与系统设计、生物医学传感、物联网应用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/kwabena-boahen/research-overview.md">
+                <img src="research-quickview/stanford/profiles/kwabena-boahen-profile.jpg" width="150" style="border-radius: 8px;" alt="Kwabena Boahen"><br>
+                <b>Kwabena Boahen</b>
+            </a>
+            <p>神经形态工程、神经生物学与电子工程结合、大脑模拟芯片</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/subhasish-mitra/research-overview.md">
+                <img src="research-quickview/stanford/profiles/subhasish-mitra-profile.jpg" width="150" style="border-radius: 8px;" alt="Subhasish Mitra"><br>
+                <b>Subhasish Mitra</b>
+            </a>
+            <p>计算机系统设计与测试、容错设计、纳米技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/john-pauly/research-overview.md">
+                <img src="research-quickview/stanford/profiles/john-pauly-profile.jpg" width="150" style="border-radius: 8px;" alt="John M. Pauly"><br>
+                <b>John M. Pauly</b>
+            </a>
+            <p>磁共振成像（MRI）、成像方法与算法</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/ada-poon/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ada-poon-profile.jpg" width="150" style="border-radius: 8px;" alt="Ada Poon"><br>
+                <b>Ada Poon</b>
+            </a>
+            <p>生物医学电子学、无线植入医疗设备、医疗传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/h-tom-soh/research-overview.md">
+                <img src="research-quickview/stanford/profiles/h-tom-soh-profile.jpg" width="150" style="border-radius: 8px;" alt="H. Tom Soh"><br>
+                <b>H. Tom Soh</b>
+            </a>
+            <p>生物传感器、分子识别、实时生物检测</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/shan-wang/research-overview.md">
+                <img src="research-quickview/stanford/profiles/shan-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Shan X. Wang"><br>
+                <b>Shan X. Wang</b>
+            </a>
+            <p>磁性材料、纳米技术、磁性纳米颗粒在生物医学和信息存储中的应用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/tsachy-weissman/research-overview.md">
+                <img src="research-quickview/stanford/profiles/tsachy-weissman-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsachy Weissman"><br>
+                <b>Tsachy Weissman</b>
+            </a>
+            <p>信息理论、数据压缩、数据传输与存储</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Computational Sensing, Imaging, and Display](https://ee.stanford.edu/people/faculty?areas=a67fd0df-fa94-4996-83de-1969201fd274&limit=10&sort=asc&type=active)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/amin-arbabian/research-overview.md">
+                <img src="research-quickview/stanford/profiles/amin-arbabian-profile.jpg" width="150" style="border-radius: 8px;" alt="Amin Arbabian"><br>
+                <b>Amin Arbabian</b>
+            </a>
+            <p>集成电路与系统设计、生物医学传感、物联网应用</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/shuran-song/research-overview.md">
+                <img src="research-quickview/stanford/profiles/shuran-song-profile.jpg" width="150" style="border-radius: 8px;" alt="Shuran Song"><br>
+                <b>Shuran Song</b>
+            </a>
+            <p>计算机视觉、机器人感知、自主系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/gordon-wetzstein/research-overview.md">
+                <img src="research-quickview/stanford/profiles/gordon-wetzstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Gordon Wetzstein"><br>
+                <b>Gordon Wetzstein</b>
+            </a>
+            <p>计算成像、计算视觉、虚拟现实、增强现实</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Computer architecture, security, hardware/software systems](https://ee.stanford.edu/people/faculty?areas=3db2c0dc-0fbb-46d5-9bea-4aa7609093ea&sort=asc&type=active)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/sara-achour/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sara-achour-profile.jpg" width="150" style="border-radius: 8px;" alt="Sara Achour"><br>
+                <b>Sara Achour</b>
+            </a>
+            <p>编程语言、软件工程、嵌入式系统的软件开发</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/kwabena-boahen/research-overview.md">
+                <img src="research-quickview/stanford/profiles/kwabena-boahen-profile.jpg" width="150" style="border-radius: 8px;" alt="Kwabena Boahen"><br>
+                <b>Kwabena Boahen</b>
+            </a>
+            <p>神经形态工程、神经生物学与电子工程结合、模拟大脑芯片</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/dan-boneh/research-overview.md">
+                <img src="research-quickview/stanford/profiles/dan-boneh-profile.jpg" width="150" style="border-radius: 8px;" alt="Dan Boneh"><br>
+                <b>Dan Boneh</b>
+            </a>
+            <p>计算机安全、密码学、网络安全、区块链技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/john-hennessy/research-overview.md">
+                <img src="research-quickview/stanford/profiles/john-hennessy-profile.jpg" width="150" style="border-radius: 8px;" alt="John L. Hennessy"><br>
+                <b>John L. Hennessy</b>
+            </a>
+            <p>计算机体系结构、精简指令集计算（RISC）、高性能处理器设计</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/mark-horowitz/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mark-horowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark A. Horowitz"><br>
+                <b>Mark A. Horowitz</b>
+            </a>
+            <p>集成电路设计、计算机体系结构、生物医学系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/christos-kozyrakis/research-overview.md">
+                <img src="research-quickview/stanford/profiles/christos-kozyrakis-profile.jpg" width="150" style="border-radius: 8px;" alt="Christos Kozyrakis"><br>
+                <b>Christos Kozyrakis</b>
+            </a>
+            <p>高性能计算、计算机体系结构、云计算系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/thomas-lee/research-overview.md">
+                <img src="research-quickview/stanford/profiles/thomas-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Lee"><br>
+                <b>Thomas Lee</b>
+            </a>
+            <p>射频集成电路设计、无线通信、高频电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/philip-levis/research-overview.md">
+                <img src="research-quickview/stanford/profiles/philip-levis-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Levis"><br>
+                <b>Philip Levis</b>
+            </a>
+            <p>嵌入式系统、无线传感器网络、物联网（IoT）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/subhasish-mitra/research-overview.md">
+                <img src="research-quickview/stanford/profiles/subhasish-mitra-profile.jpg" width="150" style="border-radius: 8px;" alt="Subhasish Mitra"><br>
+                <b>Subhasish Mitra</b>
+            </a>
+            <p>计算机系统设计与测试、容错设计、纳米技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/kunle-olukotun/research-overview.md">
+                <img src="research-quickview/stanford/profiles/kunle-olukotun-profile.jpg" width="150" style="border-radius: 8px;" alt="Kunle A. Olukotun"><br>
+                <b>Kunle A. Olukotun</b>
+            </a>
+            <p>多核处理器、并行计算、高性能计算系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/balaji-prabhakar/research-overview.md">
+                <img src="research-quickview/stanford/profiles/balaji-prabhakar-profile.jpg" width="150" style="border-radius: 8px;" alt="Balaji Prabhakar"><br>
+                <b>Balaji Prabhakar</b>
+            </a>
+            <p>网络系统、随机网络、大规模数据中心性能分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/priyanka-raina/research-overview.md">
+                <img src="research-quickview/stanford/profiles/priyanka-raina-profile.jpg" width="150" style="border-radius: 8px;" alt="Priyanka Raina"><br>
+                <b>Priyanka Raina</b>
+            </a>
+            <p>集成电路设计、低功耗数字电路、高性能电路</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/thierry-tambe/research-overview.md">
+                <img src="research-quickview/stanford/profiles/thierry-tambe-profile.jpg" width="150" style="border-radius: 8px;" alt="Thierry Tambe"><br>
+                <b>Thierry Tambe</b>
+            </a>
+            <p>计算机体系结构与安全、硬件安全、可信计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/fouad-tobagi/research-overview.md">
+                <img src="research-quickview/stanford/profiles/fouad-tobagi-profile.jpg" width="150" style="border-radius: 8px;" alt="Fouad A. Tobagi"><br>
+                <b>Fouad A. Tobagi</b>
+            </a>
+            <p>计算机网络、无线通信、多媒体系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/caroline-trippel/research-overview.md">
+                <img src="research-quickview/stanford/profiles/caroline-trippel-profile.jpg" width="150" style="border-radius: 8px;" alt="Caroline Trippel"><br>
+                <b>Caroline Trippel</b>
+            </a>
+            <p>计算机体系结构、并行计算、内存一致性与并发</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/david-tse/research-overview.md">
+                <img src="research-quickview/stanford/profiles/david-tse-profile.jpg" width="150" style="border-radius: 8px;" alt="David Tse"><br>
+                <b>David Tse</b>
+            </a>
+            <p>信息理论、无线通信、网络编码</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/jennifer-widom/research-overview.md">
+                <img src="research-quickview/stanford/profiles/jennifer-widom-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Widom"><br>
+                <b>Jennifer Widom</b>
+            </a>
+            <p>数据库系统、数据管理、数据科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/hs-philip-wong/research-overview.md">
+                <img src="research-quickview/stanford/profiles/hs-philip-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="H.-S. Philip Wong"><br>
+                <b>H.-S. Philip Wong</b>
+            </a>
+            <p>纳米电子学、半导体器件、新型存储技术</p>
+        </td>
+    </tr>
+</table>
+HTML
+
+- **Field**: [Energy, environment, and sustainability](https://ee.stanford.edu/people/faculty?areas=85b11ac2-93b3-4350-9616-513e2f6e3c6e&limit=10&sort=asc&type=active)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/sara-achour/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sara-achour-profile.jpg" width="150" style="border-radius: 8px;" alt="Sara Achour"><br>
+                <b>Sara Achour</b>
+            </a>
+            <p>编程语言、软件工程、硬件设计与嵌入式系统的软件开发</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/nicholas-bambos/research-overview.md">
+                <img src="research-quickview/stanford/profiles/nicholas-bambos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Bambos"><br>
+                <b>Nicholas Bambos</b>
+            </a>
+            <p>网络系统、无线通信、计算机网络性能分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/stephen-boyd/research-overview.md">
+                <img src="research-quickview/stanford/profiles/stephen-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen P. Boyd"><br>
+                <b>Stephen P. Boyd</b>
+            </a>
+            <p>控制理论、优化、信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/srabanti-chowdhury/research-overview.md">
+                <img src="research-quickview/stanford/profiles/srabanti-chowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Srabanti Chowdhury"><br>
+                <b>Srabanti Chowdhury</b>
+            </a>
+            <p>宽带隙半导体、高功率与高频电子器件</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/daniel-congreve/research-overview.md">
+                <img src="research-quickview/stanford/profiles/daniel-congreve-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Congreve"><br>
+                <b>Daniel Congreve</b>
+            </a>
+            <p>纳米材料、光电器件、新型太阳能电池与发光器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/abbas-el-gamal/research-overview.md">
+                <img src="research-quickview/stanford/profiles/abbas-el-gamal-profile.jpg" width="150" style="border-radius: 8px;" alt="Abbas El Gamal"><br>
+                <b>Abbas El Gamal</b>
+            </a>
+            <p>信息理论、图像传感、无线网络</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/jonathan-fan/research-overview.md">
+                <img src="research-quickview/stanford/profiles/jonathan-fan-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Fan"><br>
+                <b>Jonathan Fan</b>
+            </a>
+            <p>纳米光子学、等离子体学、光学材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/shanhui-fan/research-overview.md">
+                <img src="research-quickview/stanford/profiles/shanhui-fan-profile.jpg" width="150" style="border-radius: 8px;" alt="Shanhui Fan"><br>
+                <b>Shanhui Fan</b>
+            </a>
+            <p>光子学、纳米光子学、光学计算</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/lambertus-hesselink/research-overview.md">
+                <img src="research-quickview/stanford/profiles/lambertus-hesselink-profile.jpg" width="150" style="border-radius: 8px;" alt="Lambertus Hesselink"><br>
+                <b>Lambertus Hesselink</b>
+            </a>
+            <p>光学存储、全息技术、光学信息处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/mark-horowitz/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mark-horowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark A. Horowitz"><br>
+                <b>Mark A. Horowitz</b>
+            </a>
+            <p>集成电路设计、计算机体系结构、生物医学系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/zerina-kapetanovic/research-overview.md">
+                <img src="research-quickview/stanford/profiles/zerina-kapetanovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Zerina Kapetanovic"><br>
+                <b>Zerina Kapetanovic</b>
+            </a>
+            <p>生物医学成像、光学仪器开发</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/philip-levis/research-overview.md">
+                <img src="research-quickview/stanford/profiles/philip-levis-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Levis"><br>
+                <b>Philip Levis</b>
+            </a>
+            <p>嵌入式系统、无线传感器网络、物联网（IoT）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/piero-pianetta/research-overview.md">
+                <img src="research-quickview/stanford/profiles/piero-pianetta-profile.jpg" width="150" style="border-radius: 8px;" alt="Piero A. Pianetta"><br>
+                <b>Piero A. Pianetta</b>
+            </a>
+            <p>同步辐射应用、X射线成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/james-plummer/research-overview.md">
+                <img src="research-quickview/stanford/profiles/james-plummer-profile.jpg" width="150" style="border-radius: 8px;" alt="James D. Plummer"><br>
+                <b>James D. Plummer</b>
+            </a>
+            <p>半导体器件、纳米电子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/eric-pop/research-overview.md">
+                <img src="research-quickview/stanford/profiles/eric-pop-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Pop"><br>
+                <b>Eric Pop</b>
+            </a>
+            <p>纳米电子学、热传导、新型半导体材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/balaji-prabhakar/research-overview.md">
+                <img src="research-quickview/stanford/profiles/balaji-prabhakar-profile.jpg" width="150" style="border-radius: 8px;" alt="Balaji Prabhakar"><br>
+                <b>Balaji Prabhakar</b>
+            </a>
+            <p>网络系统、随机网络、大规模数据中心性能分析</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/ram-rajagopal/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ram-rajagopal-profile.jpg" width="150" style="border-radius: 8px;" alt="Ram Rajagopal"><br>
+                <b>Ram Rajagopal</b>
+            </a>
+            <p>能源系统、智能电网、数据分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/priyanka-raina/research-overview.md">
+                <img src="research-quickview/stanford/profiles/priyanka-raina-profile.jpg" width="150" style="border-radius: 8px;" alt="Priyanka Raina"><br>
+                <b>Priyanka Raina</b>
+            </a>
+            <p>集成电路设计、低功耗数字电路、高性能电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/thierry-tambe/research-overview.md">
+                <img src="research-quickview/stanford/profiles/thierry-tambe-profile.jpg" width="150" style="border-radius: 8px;" alt="Thierry Tambe"><br>
+                <b>Thierry Tambe</b>
+            </a>
+            <p>计算机体系结构与安全、硬件安全、可信计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/fouad-tobagi/research-overview.md">
+                <img src="research-quickview/stanford/profiles/fouad-tobagi-profile.jpg" width="150" style="border-radius: 8px;" alt="Fouad A. Tobagi"><br>
+                <b>Fouad A. Tobagi</b>
+            </a>
+            <p>计算机网络、无线通信、多媒体系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/caroline-trippel/research-overview.md">
+                <img src="research-quickview/stanford/profiles/caroline-trippel-profile.jpg" width="150" style="border-radius: 8px;" alt="Caroline Trippel"><br>
+                <b>Caroline Trippel</b>
+            </a>
+            <p>计算机体系结构、并行计算、内存一致性与并发</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/david-tse/research-overview.md">
+                <img src="research-quickview/stanford/profiles/david-tse-profile.jpg" width="150" style="border-radius: 8px;" alt="David Tse"><br>
+                <b>David Tse</b>
+            </a>
+            <p>信息理论、无线通信、网络编码</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/jennifer-widom/research-overview.md">
+                <img src="research-quickview/stanford/profiles/jennifer-widom-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Widom"><br>
+                <b>Jennifer Widom</b>
+            </a>
+            <p>数据库系统、数据管理、数据科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/hs-philip-wong/research-overview.md">
+                <img src="research-quickview/stanford/profiles/hs-philip-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="H.-S. Philip Wong"><br>
+                <b>H.-S. Philip Wong</b>
+            </a>
+            <p>纳米电子学、半导体器件、新型存储技术</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Information and coding theory, communications, signal processing](https://ee.stanford.edu/people/faculty?areas=36afce97-2b6c-4559-b1dc-85b3c749b007&limit=10&sort=asc&type=active)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/sara-achour/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sara-achour-profile.jpg" width="150" style="border-radius: 8px;" alt="Sara Achour"><br>
+                <b>Sara Achour</b>
+            </a>
+            <p>编程语言、软件工程、硬件设计与嵌入式系统的软件开发</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/nicholas-bambos/research-overview.md">
+                <img src="research-quickview/stanford/profiles/nicholas-bambos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Bambos"><br>
+                <b>Nicholas Bambos</b>
+            </a>
+            <p>网络系统、无线通信、计算机网络性能分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/stephen-boyd/research-overview.md">
+                <img src="research-quickview/stanford/profiles/stephen-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen P. Boyd"><br>
+                <b>Stephen P. Boyd</b>
+            </a>
+            <p>控制理论、优化、信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/srabanti-chowdhury/research-overview.md">
+                <img src="research-quickview/stanford/profiles/srabanti-chowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Srabanti Chowdhury"><br>
+                <b>Srabanti Chowdhury</b>
+            </a>
+            <p>宽带隙半导体、高功率与高频电子器件</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/daniel-congreve/research-overview.md">
+                <img src="research-quickview/stanford/profiles/daniel-congreve-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Congreve"><br>
+                <b>Daniel Congreve</b>
+            </a>
+            <p>纳米材料、光电器件、新型太阳能电池与发光器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/abbas-el-gamal/research-overview.md">
+                <img src="research-quickview/stanford/profiles/abbas-el-gamal-profile.jpg" width="150" style="border-radius: 8px;" alt="Abbas El Gamal"><br>
+                <b>Abbas El Gamal</b>
+            </a>
+            <p>信息理论、图像传感、无线网络</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/joseph-kahn/research-overview.md">
+                <img src="research-quickview/stanford/profiles/joseph-kahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph M. Kahn"><br>
+                <b>Joseph M. Kahn</b>
+            </a>
+            <p>光纤通信、自由空间光通信、光学无线通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/brad-osgood/research-overview.md">
+                <img src="research-quickview/stanford/profiles/brad-osgood-profile.jpg" width="150" style="border-radius: 8px;" alt="Brad Osgood"><br>
+                <b>Brad Osgood</b>
+            </a>
+            <p>数学方法在工程中的应用、信号处理、傅里叶分析</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/ayfer-ozgur/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ayfer-ozgur-profile.jpg" width="150" style="border-radius: 8px;" alt="Ayfer Ozgur"><br>
+                <b>Ayfer Ozgur</b>
+            </a>
+            <p>信息理论、无线网络、分布式算法</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/john-pauly/research-overview.md">
+                <img src="research-quickview/stanford/profiles/john-pauly-profile.jpg" width="150" style="border-radius: 8px;" alt="John M. Pauly"><br>
+                <b>John M. Pauly</b>
+            </a>
+            <p>医学成像、磁共振成像（MRI）、信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/mert-pilanci/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mert-pilanci-profile.jpg" width="150" style="border-radius: 8px;" alt="Mert Pilanci"><br>
+                <b>Mert Pilanci</b>
+            </a>
+            <p>优化、机器学习、统计信号处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/ada-poon/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ada-poon-profile.jpg" width="150" style="border-radius: 8px;" alt="Ada Poon"><br>
+                <b>Ada Poon</b>
+            </a>
+            <p>生物医学设备、无线电能传输、植入式医疗器械</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/balaji-prabhakar/research-overview.md">
+                <img src="research-quickview/stanford/profiles/balaji-prabhakar-profile.jpg" width="150" style="border-radius: 8px;" alt="Balaji Prabhakar"><br>
+                <b>Balaji Prabhakar</b>
+            </a>
+            <p>网络系统、随机网络、大规模数据中心性能分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/dustin-schroeder/research-overview.md">
+                <img src="research-quickview/stanford/profiles/dustin-schroeder-profile.jpg" width="150" style="border-radius: 8px;" alt="Dustin Schroeder"><br>
+                <b>Dustin Schroeder</b>
+            </a>
+            <p>地球物理学、冰川雷达探测、极地科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/david-tse/research-overview.md">
+                <img src="research-quickview/stanford/profiles/david-tse-profile.jpg" width="150" style="border-radius: 8px;" alt="David Tse"><br>
+                <b>David Tse</b>
+            </a>
+            <p>信息理论、无线通信、网络编码</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/benjamin-van-roy/research-overview.md">
+                <img src="research-quickview/stanford/profiles/benjamin-van-roy-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Van Roy"><br>
+                <b>Benjamin Van Roy</b>
+            </a>
+            <p>机器学习、强化学习、最优控制、运营研究</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/tsachy-weissman/research-overview.md">
+                <img src="research-quickview/stanford/profiles/tsachy-weissman-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsachy Weissman"><br>
+                <b>Tsachy Weissman</b>
+            </a>
+            <p>信息理论、数据压缩、数据传输与存储</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/gordon-wetzstein/research-overview.md">
+                <img src="research-quickview/stanford/profiles/gordon-wetzstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Gordon Wetzstein"><br>
+                <b>Gordon Wetzstein</b>
+            </a>
+            <p>计算成像、计算视觉、虚拟现实、增强现实</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/mary-wootters/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mary-wootters-profile.jpg" width="150" style="border-radius: 8px;" alt="Mary Wootters"><br>
+                <b>Mary Wootters</b>
+            </a>
+            <p>算法、编码理论、计算复杂性</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/howard-zebker/research-overview.md">
+                <img src="research-quickview/stanford/profiles/howard-zebker-profile.jpg" width="150" style="border-radius: 8px;" alt="Howard Zebker"><br>
+                <b>Howard Zebker</b>
+            </a>
+            <p>遥感、地球物理学、合成孔径雷达干涉测量</p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Integrated Circuits and Systems](https://ee.stanford.edu/people/faculty?areas=3ebff895-3c4b-4deb-864f-0a5a69b98bb1&limit=10&sort=asc&type=active)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/sara-achour/research-overview.md">
+                <img src="research-quickview/stanford/profiles/sara-achour-profile.jpg" width="150" style="border-radius: 8px;" alt="Sara Achour"><br>
+                <b>Sara Achour</b>
+            </a>
+            <p>编程语言、软件工程、硬件设计与嵌入式系统的软件开发</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/kwabena-boahen/research-overview.md">
+                <img src="research-quickview/stanford/profiles/kwabena-boahen-profile.jpg" width="150" style="border-radius: 8px;" alt="Kwabena Boahen"><br>
+                <b>Kwabena Boahen</b>
+            </a>
+            <p>神经形态工程、计算神经科学、类脑计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/srabanti-chowdhury/research-overview.md">
+                <img src="research-quickview/stanford/profiles/srabanti-chowdhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Srabanti Chowdhury"><br>
+                <b>Srabanti Chowdhury</b>
+            </a>
+            <p>宽带隙半导体、高功率与高频电子器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/mark-horowitz/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mark-horowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark A. Horowitz"><br>
+                <b>Mark A. Horowitz</b>
+            </a>
+            <p>计算机体系结构、数字电路设计、VLSI系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/siddharth-krishnan/research-overview.md">
+                <img src="research-quickview/stanford/profiles/siddharth-krishnan-profile.jpg" width="150" style="border-radius: 8px;" alt="Siddharth Krishnan"><br>
+                <b>Siddharth Krishnan</b>
+            </a>
+            <p>微纳米制造、柔性电子器件、生物集成系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/thomas-lee/research-overview.md">
+                <img src="research-quickview/stanford/profiles/thomas-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Lee"><br>
+                <b>Thomas Lee</b>
+            </a>
+            <p>射频集成电路设计、无线通信系统、硅基毫米波电路</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/subhasish-mitra/research-overview.md">
+                <img src="research-quickview/stanford/profiles/subhasish-mitra-profile.jpg" width="150" style="border-radius: 8px;" alt="Subhasish Mitra"><br>
+                <b>Subhasish Mitra</b>
+            </a>
+            <p>容错计算、纳米级系统设计、硬件安全</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/piero-pianetta/research-overview.md">
+                <img src="research-quickview/stanford/profiles/piero-pianetta-profile.jpg" width="150" style="border-radius: 8px;" alt="Piero A. Pianetta"><br>
+                <b>Piero A. Pianetta</b>
+            </a>
+            <p>同步辐射应用、X射线成像、材料科学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/james-plummer/research-overview.md">
+                <img src="research-quickview/stanford/profiles/james-plummer-profile.jpg" width="150" style="border-radius: 8px;" alt="James D. Plummer"><br>
+                <b>James D. Plummer</b>
+            </a>
+            <p>半导体器件、纳米电子学、集成电路制造</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/ada-poon/research-overview.md">
+                <img src="research-quickview/stanford/profiles/ada-poon-profile.jpg" width="150" style="border-radius: 8px;" alt="Ada Poon"><br>
+                <b>Ada Poon</b>
+            </a>
+            <p>生物医学设备、无线电能传输、植入式医疗器械</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/eric-pop/research-overview.md">
+                <img src="research-quickview/stanford/profiles/eric-pop-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Pop"><br>
+                <b>Eric Pop</b>
+            </a>
+            <p>纳米电子学、热管理、二维材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/priyanka-raina/research-overview.md">
+                <img src="research-quickview/stanford/profiles/priyanka-raina-profile.jpg" width="150" style="border-radius: 8px;" alt="Priyanka Raina"><br>
+                <b>Priyanka Raina</b>
+            </a>
+            <p>集成电路设计、低功耗数字电路、高性能电路</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/juan-rivas/research-overview.md">
+                <img src="research-quickview/stanford/profiles/juan-rivas-profile.jpg" width="150" style="border-radius: 8px;" alt="Juan Rivas"><br>
+                <b>Juan Rivas</b>
+            </a>
+            <p>高效电力电子、无线电能传输、高频转换器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/h-tom-soh/research-overview.md">
+                <img src="research-quickview/stanford/profiles/h-tom-soh-profile.jpg" width="150" style="border-radius: 8px;" alt="H. Tom Soh"><br>
+                <b>H. Tom Soh</b>
+            </a>
+            <p>生物传感器、分子检测、实时生物检测技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/olav-solgaard/research-overview.md">
+                <img src="research-quickview/stanford/profiles/olav-solgaard-profile.jpg" width="150" style="border-radius: 8px;" alt="Olav Solgaard"><br>
+                <b>Olav Solgaard</b>
+            </a>
+            <p>微机电系统（MEMS）、光学系统、光纤传感器</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/shan-wang/research-overview.md">
+                <img src="research-quickview/stanford/profiles/shan-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Shan X. Wang"><br>
+                <b>Shan X. Wang</b>
+            </a>
+            <p>磁性纳米材料、磁传感器、生物磁学</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/hs-philip-wong/research-overview.md">
+                <img src="research-quickview/stanford/profiles/hs-philip-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="H.-S. Philip Wong"><br>
+                <b>H.-S. Philip Wong</b>
+            </a>
+            <p>纳米电子学、半导体器件、新型存储技术</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Nanotechnology, nanofabrication, materials, advanced packaging and manufacturing technologies](https://ee.stanford.edu/people/faculty?areas=0ecb9b20-9136-48fd-a2f8-8b5d603715b5&limit=10&sort=asc&type=active)
 
 <table>
   <tr>
@@ -413,20 +1241,130 @@ A repository for quickly accessing research insights into professors' expertise 
   </tr>
 </table>
 
+- **Field**: [Quantum science and engineering, photonics](https://ee.stanford.edu/people/faculty?areas=ef767b6b-e6c5-47f7-822e-bb80f1960e57&limit=10&sort=asc&type=active)
 
-- **Field**: Quantum science and engineering, Photonics
-
-  <table>
+<table>
     <tr>
-      <td align="center">
-        <a href="research-quickview/stanford/ee/olav-solgaard/research-overview.md">
-          <img src="research-quickview/stanford/profiles/olav-solgaard-profile.png" width="150" style="border-radius: 8px;" alt="Olav Solgaard"><br>
-          <b>Olav Solgaard</b>
-        </a>
-        <p>纳米光学结构、MEMS相移器与空间光调制器、光子区块链与光子计算、介质激光加速</p>
-      </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/joonhee-choi/research-overview.md">
+                <img src="research-quickview/stanford/profiles/joonhee-choi-profile.jpg" width="150" style="border-radius: 8px;" alt="Joonhee Choi"><br>
+                <b>Joonhee Choi</b>
+            </a>
+            <p>量子科学与工程、光子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/daniel-congreve/research-overview.md">
+                <img src="research-quickview/stanford/profiles/daniel-congreve-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Congreve"><br>
+                <b>Daniel Congreve</b>
+            </a>
+            <p>纳米材料、光电器件、新型太阳能电池与发光器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/jonathan-fan/research-overview.md">
+                <img src="research-quickview/stanford/profiles/jonathan-fan-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Fan"><br>
+                <b>Jonathan Fan</b>
+            </a>
+            <p>纳米光子学、光学材料、计算光学设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/shanhui-fan/research-overview.md">
+                <img src="research-quickview/stanford/profiles/shanhui-fan-profile.jpg" width="150" style="border-radius: 8px;" alt="Shanhui Fan"><br>
+                <b>Shanhui Fan</b>
+            </a>
+            <p>纳米光子学、光子晶体、光学材料</p>
+        </td>
     </tr>
-  </table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/lambertus-hesselink/research-overview.md">
+                <img src="research-quickview/stanford/profiles/lambertus-hesselink-profile.jpg" width="150" style="border-radius: 8px;" alt="Lambertus Hesselink"><br>
+                <b>Lambertus Hesselink</b>
+            </a>
+            <p>光学信息处理、光学存储、光学成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/joseph-kahn/research-overview.md">
+                <img src="research-quickview/stanford/profiles/joseph-kahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph M. Kahn"><br>
+                <b>Joseph M. Kahn</b>
+            </a>
+            <p>光纤通信、自由空间光通信、光学无线通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/krishna-saraswat/research-overview.md">
+                <img src="research-quickview/stanford/profiles/krishna-saraswat-profile.jpg" width="150" style="border-radius: 8px;" alt="Krishna Saraswat"><br>
+                <b>Krishna Saraswat</b>
+            </a>
+            <p>纳米电子学、半导体器件、集成电路制造</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/h-tom-soh/research-overview.md">
+                <img src="research-quickview/stanford/profiles/h-tom-soh-profile.jpg" width="150" style="border-radius: 8px;" alt="H. Tom Soh"><br>
+                <b>H. Tom Soh</b>
+            </a>
+            <p>生物传感器、分子检测、实时生物检测技术</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/olav-solgaard/research-overview.md">
+                <img src="research-quickview/stanford/profiles/olav-solgaard-profile.jpg" width="150" style="border-radius: 8px;" alt="Olav Solgaard"><br>
+                <b>Olav Solgaard</b>
+            </a>
+            <p>光纤传感器、纳米光学结构、MEMS相移器与空间光调制器、光子区块链与光子计算、介质激光加速</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/jelena-vuckovic/research-overview.md">
+                <img src="research-quickview/stanford/profiles/jelena-vuckovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Jelena Vuckovic"><br>
+                <b>Jelena Vuckovic</b>
+            </a>
+            <p>纳米光子学、量子信息、光学材料</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Robotics, control](https://ee.stanford.edu/people/faculty?areas=c4c51779-d17a-438e-8139-10d37017544f&limit=10&sort=asc&type=active)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/stephen-boyd/research-overview.md">
+                <img src="research-quickview/stanford/profiles/stephen-boyd-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen P. Boyd"><br>
+                <b>Stephen P. Boyd</b>
+            </a>
+            <p>凸优化、控制理论、信号处理、金融工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/chelsea-finn/research-overview.md">
+                <img src="research-quickview/stanford/profiles/chelsea-finn-profile.jpg" width="150" style="border-radius: 8px;" alt="Chelsea Finn"><br>
+                <b>Chelsea Finn</b>
+            </a>
+            <p>机器学习、机器人控制、元学习、深度强化学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/dorsa-sadigh/research-overview.md">
+                <img src="research-quickview/stanford/profiles/dorsa-sadigh-profile.jpg" width="150" style="border-radius: 8px;" alt="Dorsa Sadigh"><br>
+                <b>Dorsa Sadigh</b>
+            </a>
+            <p>机器人学、机器学习、控制理论、人机交互</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/shuran-song/research-overview.md">
+                <img src="research-quickview/stanford/profiles/shuran-song-profile.jpg" width="150" style="border-radius: 8px;" alt="Shuran Song"><br>
+                <b>Shuran Song</b>
+            </a>
+            <p>计算机视觉、机器人学、人工智能、3D感知</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/stanford/ee/mary-wootters/research-overview.md">
+                <img src="research-quickview/stanford/profiles/mary-wootters-profile.jpg" width="150" style="border-radius: 8px;" alt="Mary Wootters"><br>
+                <b>Mary Wootters</b>
+            </a>
+            <p>算法、编码理论、计算复杂性、信息论</p>
+        </td>
+    </tr>
+</table>
+
 </details>
 
 <!-- End of Stanford University Section -->
