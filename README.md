@@ -186,6 +186,235 @@ A repository for quickly accessing research insights into professors' expertise 
 ### [College of Engineering](https://engineering.berkeley.edu/)
 
 ### [Mechanical Engineering](https://me.berkeley.edu/)
+- **Field**：[MEMS/Nano](https://me.berkeley.edu/faculty/faculty-by-research-area/?tx_subject_area=mems-nano)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/m-reza-alam/research-overview.md">
+                <img src="research-quickview/ucb/profiles/m-reza-alam-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Reza Alam"><br>
+                <b>M. Reza Alam</b>
+            </a>
+            <p>理论流体力学 非线性波力学 海洋与沿海波现象 海洋可再生能源</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/chris-dames/research-overview.md">
+                <img src="research-quickview/ucb/profiles/chris-dames-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris Dames"><br>
+                <b>Chris Dames</b>
+            </a>
+            <p>热传导 纳米材料热物理 热电材料 热管理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/costas-grigoropoulos/research-overview.md">
+                <img src="research-quickview/ucb/profiles/costas-grigoropoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="Costas Grigoropoulos"><br>
+                <b>Costas Grigoropoulos</b>
+            </a>
+            <p>激光材料加工 微纳米制造 热传导 光学诊断</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/roberto-horowitz/research-overview.md">
+                <img src="research-quickview/ucb/profiles/roberto-horowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Roberto Horowitz"><br>
+                <b>Roberto Horowitz</b>
+            </a>
+            <p>控制系统 机电一体化 精密运动控制 智能交通系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/david-horsley/research-overview.md">
+                <img src="research-quickview/ucb/profiles/david-horsley-profile.jpg" width="150" style="border-radius: 8px;" alt="David Horsley"><br>
+                <b>David Horsley</b>
+            </a>
+            <p>微机电系统（MEMS） 传感器和执行器设计 微机械谐振器 微流体</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/kyriakos-komvopoulos/research-overview.md">
+                <img src="research-quickview/ucb/profiles/kyriakos-komvopoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="Kyriakos Komvopoulos"><br>
+                <b>Kyriakos Komvopoulos</b>
+            </a>
+            <p>表面工程 纳米摩擦学 薄膜力学 微纳米制造</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/dorian-liepmann/research-overview.md">
+                <img src="research-quickview/ucb/profiles/dorian-liepmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Dorian Liepmann"><br>
+                <b>Dorian Liepmann</b>
+            </a>
+            <p>生物流体力学 微流体装置 生物医学工程 微机电系统（MEMS）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/liwei-lin/research-overview.md">
+                <img src="research-quickview/ucb/profiles/liwei-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Liwei Lin"><br>
+                <b>Liwei Lin</b>
+            </a>
+            <p>微纳米机电系统（MEMS/NEMS） 微传感器和执行器 纳米材料和纳米制造</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/mohammad-mofrad/research-overview.md">
+                <img src="research-quickview/ucb/profiles/mohammad-mofrad-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammad R. K. Mofrad"><br>
+                <b>Mohammad R. K. Mofrad</b>
+            </a>
+            <p>细胞力学 生物力学 计算生物学 分子动力学模拟</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/ravi-prasher/research-overview.md">
+                <img src="research-quickview/ucb/profiles/ravi-prasher-profile.jpg" width="150" style="border-radius: 8px;" alt="Ravi Prasher"><br>
+                <b>Ravi Prasher</b>
+            </a>
+            <p>热管理 纳米材料热物理 能源转换与存储 热电材料</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/lydia-sohn/research-overview.md">
+                <img src="research-quickview/ucb/profiles/lydia-sohn-profile.jpg" width="150" style="border-radius: 8px;" alt="Lydia Sohn"><br>
+                <b>Lydia Sohn</b>
+            </a>
+            <p>生物物理学 微流体技术 单细胞分析 癌症检测</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/hayden-taylor/research-overview.md">
+                <img src="research-quickview/ucb/profiles/hayden-taylor-profile.jpg" width="150" style="border-radius: 8px;" alt="Hayden Taylor"><br>
+                <b>Hayden Taylor</b>
+            </a>
+            <p>增材制造 光刻技术 微纳米制造 光学工程</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/vassilia-zorba/research-overview.md">
+                <img src="research-quickview/ucb/profiles/vassilia-zorba-profile.jpg" width="150" style="border-radius: 8px;" alt="Vassilia Zorba"><br>
+                <b>Vassilia Zorba</b>
+            </a>
+            <p>暂无公开的研究兴趣</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**：[Biomechanical Engineering](https://me.berkeley.edu/faculty/faculty-by-research-area/?tx_subject_area=bme)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/costas-grigoropoulos/research-overview.md">
+                <img src="research-quickview/ucb/profiles/costas-grigoropoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="Costas Grigoropoulos"><br>
+                <b>Costas Grigoropoulos</b>
+            </a>
+            <p>激光材料加工、微纳米制造、热传导、光学诊断</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/homayoon-kazerooni/research-overview.md">
+                <img src="research-quickview/ucb/profiles/homayoon-kazerooni-profile.jpg" width="150" style="border-radius: 8px;" alt="Homayoon Kazerooni"><br>
+                <b>Homayoon Kazerooni</b>
+            </a>
+            <p>机器人技术、外骨骼系统、人机交互、控制系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/tony-keaveny/research-overview.md">
+                <img src="research-quickview/ucb/profiles/tony-keaveny-profile.jpg" width="150" style="border-radius: 8px;" alt="Tony M. Keaveny"><br>
+                <b>Tony M. Keaveny</b>
+            </a>
+            <p>生物力学、骨骼力学、骨质疏松症、骨折风险评估</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/kyriakos-komvopoulos/research-overview.md">
+                <img src="research-quickview/ucb/profiles/kyriakos-komvopoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="Kyriakos Komvopoulos"><br>
+                <b>Kyriakos Komvopoulos</b>
+            </a>
+            <p>表面工程、纳米摩擦学、薄膜力学、微纳米制造</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/dorian-liepmann/research-overview.md">
+                <img src="research-quickview/ucb/profiles/dorian-liepmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Dorian Liepmann"><br>
+                <b>Dorian Liepmann</b>
+            </a>
+            <p>生物流体力学、微流体装置、生物医学工程、微机电系统（MEMS）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/liwei-lin/research-overview.md">
+                <img src="research-quickview/ucb/profiles/liwei-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Liwei Lin"><br>
+                <b>Liwei Lin</b>
+            </a>
+            <p>微纳米机电系统（MEMS/NEMS）、微传感器和执行器、纳米材料和纳米制造</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/mohammad-mofrad/research-overview.md">
+                <img src="research-quickview/ucb/profiles/mohammad-mofrad-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammad R. K. Mofrad"><br>
+                <b>Mohammad R. K. Mofrad</b>
+            </a>
+            <p>细胞力学、生物力学、计算生物学、分子动力学模拟</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/grace-oconnell/research-overview.md">
+                <img src="research-quickview/ucb/profiles/grace-oconnell-profile.jpg" width="150" style="border-radius: 8px;" alt="Grace D. O’Connell"><br>
+                <b>Grace D. O’Connell</b>
+            </a>
+            <p>软组织力学、脊柱生物力学、组织工程、计算建模</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/oliver-oreilly/research-overview.md">
+                <img src="research-quickview/ucb/profiles/oliver-oreilly-profile.jpg" width="150" style="border-radius: 8px;" alt="Oliver M. O’Reilly"><br>
+                <b>Oliver M. O’Reilly</b>
+            </a>
+            <p>非线性动力学、连续介质力学、振动分析、机械系统建模</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/panayiotis-papadopoulos/research-overview.md">
+                <img src="research-quickview/ucb/profiles/panayiotis-papadopoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="Panayiotis Papadopoulos"><br>
+                <b>Panayiotis Papadopoulos</b>
+            </a>
+            <p>固体力学、计算力学、生物力学、材料行为</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/lisa-pruitt/research-overview.md">
+                <img src="research-quickview/ucb/profiles/lisa-pruitt-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa Pruitt"><br>
+                <b>Lisa Pruitt</b>
+            </a>
+            <p>生物材料、聚合物力学、组织工程、医疗器械设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/omer-savas/research-overview.md">
+                <img src="research-quickview/ucb/profiles/omer-savas-profile.jpg" width="150" style="border-radius: 8px;" alt="Ömer Savaş"><br>
+                <b>Ömer Savaş</b>
+            </a>
+            <p>流体动力学、涡流动力学、湍流流动、实验流体力学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/shawn-shadden/research-overview.md">
+                <img src="research-quickview/ucb/profiles/shawn-shadden-profile.jpg" width="150" style="border-radius: 8px;" alt="Shawn Shadden"><br>
+                <b>Shawn Shadden</b>
+            </a>
+            <p>计算生物流体力学、心血管系统建模、血流动力学、数据驱动建模</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/lydia-sohn/research-overview.md">
+                <img src="research-quickview/ucb/profiles/lydia-sohn-profile.jpg" width="150" style="border-radius: 8px;" alt="Lydia Sohn"><br>
+                <b>Lydia Sohn</b>
+            </a>
+            <p>生物物理学、微流体技术、单细胞分析、癌症检测</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/david-steigmann/research-overview.md">
+                <img src="research-quickview/ucb/profiles/david-steigmann-profile.jpg" width="150" style="border-radius: 8px;" alt="David Steigmann"><br>
+                <b>David Steigmann</b>
+            </a>
+            <p>连续介质力学、弹性理论、计算力学、材料建模</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/tarek-zohdi/research-overview.md">
+                <img src="research-quickview/ucb/profiles/tarek-zohdi-profile.jpg" width="150" style="border-radius: 8px;" alt="Tarek I. Zohdi"><br>
+                <b>Tarek I. Zohdi</b>
+            </a>
+            <p>计算力学、多尺度建模、材料科学、增材制造</p>
+        </td>
+    </tr>
+</table>
+
+ 
+
 
 ### [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/)
 - **Field**：EE
