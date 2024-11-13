@@ -188,6 +188,645 @@ A repository for quickly accessing research insights into professors' expertise 
 ### [Mechanical Engineering](https://me.berkeley.edu/)
 
 ### [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/)
+- **Field**：EE
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/elad-alon/research-overview.md">
+                <img src="research-quickview/ucb/profiles/elad-alon-profile.jpg" width="150" style="border-radius: 8px;" alt="Elad Alon"><br>
+                <b>Elad Alon</b>
+            </a>
+            <p>集成电路设计、建模与分析，信息、数据和网络科学，计算机体系结构与工程。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/venkat-anantharam/research-overview.md">
+                <img src="research-quickview/ucb/profiles/venkat-anantharam-profile.jpg" width="150" style="border-radius: 8px;" alt="Venkat Anantharam"><br>
+                <b>Venkat Anantharam</b>
+            </a>
+            <p>信息理论与编码、人工智能、控制系统与机器人学、信号处理和安全。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/gopala-krishna-anumanchipalli/research-overview.md">
+                <img src="research-quickview/ucb/profiles/gopala-krishna-anumanchipalli-profile.jpg" width="150" style="border-radius: 8px;" alt="Gopala Krishna Anumanchipalli"><br>
+                <b>Gopala Krishna Anumanchipalli</b>
+            </a>
+            <p>人工智能、生物系统与计算生物学、信号处理、人机交互。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/murat-arcak/research-overview.md">
+                <img src="research-quickview/ucb/profiles/murat-arcak-profile.jpg" width="150" style="border-radius: 8px;" alt="Murat Arcak"><br>
+                <b>Murat Arcak</b>
+            </a>
+            <p>控制系统、智能系统与机器人、网络化控制系统、分布式优化、非线性系统。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/ana-claudia-arias/research-overview.md">
+                <img src="research-quickview/ucb/profiles/ana-claudia-arias-profile.jpg" width="150" style="border-radius: 8px;" alt="Ana Claudia Arias"><br>
+                <b>Ana Claudia Arias</b>
+            </a>
+            <p>物理电子学，功率和能源，微纳电子学和材料科学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/david-attwood/research-overview.md">
+                <img src="research-quickview/ucb/profiles/david-attwood-profile.jpg" width="150" style="border-radius: 8px;" alt="David Attwood"><br>
+                <b>David Attwood</b>
+            </a>
+            <p>物理电子学，生物系统与计算生物学，纳米技术。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/babak-ayazifar/research-overview.md">
+                <img src="research-quickview/ucb/profiles/babak-ayazifar-profile.jpg" width="150" style="border-radius: 8px;" alt="Babak Ayazifar"><br>
+                <b>Babak Ayazifar</b>
+            </a>
+            <p>信号处理，教育技术，通信系统和数据分析。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/ruzena-bajcsy/research-overview.md">
+                <img src="research-quickview/ucb/profiles/ruzena-bajcsy-profile.jpg" width="150" style="border-radius: 8px;" alt="Ruzena Bajcsy"><br>
+                <b>Ruzena Bajcsy</b>
+            </a>
+            <p>人工智能、机器人学、人机交互、控制系统、生物系统与计算生物学。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/alexandre-bayen/research-overview.md">
+                <img src="research-quickview/ucb/profiles/alexandre-bayen-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexandre Bayen"><br>
+                <b>Alexandre Bayen</b>
+            </a>
+            <p>控制、智能系统与机器人，网络化控制，电力系统，智能交通系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/jeffrey-bokor/research-overview.md">
+                <img src="research-quickview/ucb/profiles/jeffrey-bokor-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey Bokor"><br>
+                <b>Jeffrey Bokor</b>
+            </a>
+            <p>物理电子学，量子计算，纳米电子学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/jessica-boles/research-overview.md">
+                <img src="research-quickview/ucb/profiles/jessica-boles-profile.jpg" width="150" style="border-radius: 8px;" alt="Jessica Boles"><br>
+                <b>Jessica Boles</b>
+            </a>
+            <p>功率和能源，集成电路，微纳电机械系统，物理电子学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/bernhard-boser/research-overview.md">
+                <img src="research-quickview/ucb/profiles/bernhard-boser-profile.jpg" width="150" style="border-radius: 8px;" alt="Bernhard Boser"><br>
+                <b>Bernhard Boser</b>
+            </a>
+            <p>设计、建模和分析（DMA）、集成电路、物理电子学。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/john-chuang/research-overview.md">
+                <img src="research-quickview/ucb/profiles/john-chuang-profile.jpg" width="150" style="border-radius: 8px;" alt="John Chuang"><br>
+                <b>John Chuang</b>
+            </a>
+            <p>生物系统与计算生物学，信息、数据、网络与通信科学，操作系统与网络，安全。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/steven-conolly/research-overview.md">
+                <img src="research-quickview/ucb/profiles/steven-conolly-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven Conolly"><br>
+                <b>Steven Conolly</b>
+            </a>
+            <p>生物系统与计算生物学，信号处理，医学成像。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/thomas-courtade/research-overview.md">
+                <img src="research-quickview/ucb/profiles/thomas-courtade-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Courtade"><br>
+                <b>Thomas Courtade</b>
+            </a>
+            <p>信息、数据、网络与通信科学，人工智能，控制系统与机器人，生物系统与计算生物学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/trevor-darrell/research-overview.md">
+                <img src="research-quickview/ucb/profiles/trevor-darrell-profile.jpg" width="150" style="border-radius: 8px;" alt="Trevor Darrell"><br>
+                <b>Trevor Darrell</b>
+            </a>
+            <p>人工智能，控制系统与机器人。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/prabal-dutta/research-overview.md">
+                <img src="research-quickview/ucb/profiles/prabal-dutta-profile.jpg" width="150" style="border-radius: 8px;" alt="Prabal Dutta"><br>
+                <b>Prabal Dutta</b>
+            </a>
+            <p>计算机体系结构，网络化控制系统，嵌入式系统，操作系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/alexei-efros/research-overview.md">
+                <img src="research-quickview/ucb/profiles/alexei-efros-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexei Efros"><br>
+                <b>Alexei Efros</b>
+            </a>
+            <p>人工智能，计算机视觉，计算摄影学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/laurent-el-ghaoui/research-overview.md">
+                <img src="research-quickview/ucb/profiles/laurent-el-ghaoui-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurent El Ghaoui"><br>
+                <b>Laurent El Ghaoui</b>
+            </a>
+            <p>控制系统与智能系统，优化与系统理论。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/ronald-fearing/research-overview.md">
+                <img src="research-quickview/ucb/profiles/ronald-fearing-profile.jpg" width="150" style="border-radius: 8px;" alt="Ronald Fearing"><br>
+                <b>Ronald Fearing</b>
+            </a>
+            <p>控制系统与智能系统，生物系统与计算生物学，机器人学。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/robert-full/research-overview.md">
+                <img src="research-quickview/ucb/profiles/robert-full-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Full"><br>
+                <b>Robert Full</b>
+            </a>
+            <p>生物系统与计算生物学，生物学机器人学，生物力学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/paul-gray/research-overview.md">
+                <img src="research-quickview/ucb/profiles/paul-gray-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul R. Gray"><br>
+                <b>Paul R. Gray</b>
+            </a>
+            <p>设计、建模与分析，集成电路。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/t-kenneth-gustafson/research-overview.md">
+                <img src="research-quickview/ucb/profiles/t-kenneth-gustafson-profile.jpg" width="150" style="border-radius: 8px;" alt="T. Kenneth Gustafson"><br>
+                <b>T. Kenneth Gustafson</b>
+            </a>
+            <p>控制系统与智能系统，优化系统理论。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/bjorn-hartmann/research-overview.md">
+                <img src="research-quickview/ucb/profiles/bjorn-hartmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Björn Hartmann"><br>
+                <b>Björn Hartmann</b>
+            </a>
+            <p>人机交互，编程系统，网络化控制系统，图形学。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/chenming-hu/research-overview.md">
+                <img src="research-quickview/ucb/profiles/chenming-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Chenming Hu"><br>
+                <b>Chenming Hu</b>
+            </a>
+            <p>集成电路，物理电子学，半导体技术。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/vikram-jain/research-overview.md">
+                <img src="research-quickview/ucb/profiles/vikram-jain-profile.jpg" width="150" style="border-radius: 8px;" alt="Vikram Jain"><br>
+                <b>Vikram Jain</b>
+            </a>
+            <p>计算机体系结构，集成电路。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/ali-javey/research-overview.md">
+                <img src="research-quickview/ucb/profiles/ali-javey-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Javey"><br>
+                <b>Ali Javey</b>
+            </a>
+            <p>物理电子学，功率和能源，微纳电机械系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/jiantao-jiao/research-overview.md">
+                <img src="research-quickview/ucb/profiles/jiantao-jiao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jiantao Jiao"><br>
+                <b>Jiantao Jiao</b>
+            </a>
+            <p>人工智能，信息、数据、网络与通信科学，控制系统与机器人，信号处理。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/boubacar-kante/research-overview.md">
+                <img src="research-quickview/ucb/profiles/boubacar-kante-profile.jpg" width="150" style="border-radius: 8px;" alt="Boubacar Kanté"><br>
+                <b>Boubacar Kanté</b>
+            </a>
+            <p>物理电子学，功率和能源。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/sagar-karandikar/research-overview.md">
+                <img src="research-quickview/ucb/profiles/sagar-karandikar-profile.jpg" width="150" style="border-radius: 8px;" alt="Sagar Karandikar"><br>
+                <b>Sagar Karandikar</b>
+            </a>
+            <p>计算机体系结构，操作系统与网络，集成电路。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/edward-l-keller/research-overview.md">
+                <img src="research-quickview/ucb/profiles/edward-l-keller-profile.jpg" width="150" style="border-radius: 8px;" alt="Edward L. Keller"><br>
+                <b>Edward L. Keller</b>
+            </a>
+            <p>生物医学工程，医学图像处理。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/kurt-keutzer/research-overview.md">
+                <img src="research-quickview/ucb/profiles/kurt-keutzer-profile.jpg" width="150" style="border-radius: 8px;" alt="Kurt Keutzer"><br>
+                <b>Kurt Keutzer</b>
+            </a>
+            <p>人工智能，计算机体系结构，科学计算。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/preeya-khanna/research-overview.md">
+                <img src="research-quickview/ucb/profiles/preeya-khanna-profile.jpg" width="150" style="border-radius: 8px;" alt="Preeya Khanna"><br>
+                <b>Preeya Khanna</b>
+            </a>
+            <p>生物系统与计算生物学，人机交互，信号处理，人工智能。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/tsu-jae-king-liu/research-overview.md">
+                <img src="research-quickview/ucb/profiles/tsu-jae-king-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Jae King Liu"><br>
+                <b>Tsu-Jae King Liu</b>
+            </a>
+            <p>物理电子学，微纳电机械系统。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/kam-lau/research-overview.md">
+                <img src="research-quickview/ucb/profiles/kam-lau-profile.jpg" width="150" style="border-radius: 8px;" alt="Kam Y. Lau"><br>
+                <b>Kam Y. Lau</b>
+            </a>
+            <p>信息、数据、网络与通信科学（IDNCS）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/edward-lee/research-overview.md">
+                <img src="research-quickview/ucb/profiles/edward-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Edward A. Lee"><br>
+                <b>Edward A. Lee</b>
+            </a>
+            <p>网络物理系统与设计自动化（CPSDA），编程系统（PS），信号处理（SP），计算机体系结构与工程（ARC），信息、数据、网络与通信科学（IDNCS），设计、建模与分析（DMA）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/luke-lee/research-overview.md">
+                <img src="research-quickview/ucb/profiles/luke-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Luke Lee"><br>
+                <b>Luke Lee</b>
+            </a>
+            <p>生物系统与计算生物学（BIO），微纳电子机械系统（MEMS），物理电子学（PHY）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/edwin-lewis/research-overview.md">
+                <img src="research-quickview/ucb/profiles/edwin-lewis-profile.jpg" width="150" style="border-radius: 8px;" alt="Edwin R. Lewis"><br>
+                <b>Edwin R. Lewis</b>
+            </a>
+            <p>生物系统与计算生物学（BIO）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/michael-lieberman/research-overview.md">
+                <img src="research-quickview/ucb/profiles/michael-lieberman-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael A. Lieberman"><br>
+                <b>Michael A. Lieberman</b>
+            </a>
+            <p>电力与能源（ENE）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/chunlei-liu/research-overview.md">
+                <img src="research-quickview/ucb/profiles/chunlei-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Chunlei Liu"><br>
+                <b>Chunlei Liu</b>
+            </a>
+            <p>生物系统与计算生物学（BIO），信号处理（SP）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/michael-lustig/research-overview.md">
+                <img src="research-quickview/ucb/profiles/michael-lustig-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Lustig"><br>
+                <b>Michael Lustig</b>
+            </a>
+            <p>信号处理（SP），医学成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/eric-ma/research-overview.md">
+                <img src="research-quickview/ucb/profiles/eric-ma-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Y. Ma"><br>
+                <b>Eric Y. Ma</b>
+            </a>
+            <p>物理电子学（PHY），电力与能源（ENE），人机交互（HCI）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/yi-ma/research-overview.md">
+                <img src="research-quickview/ucb/profiles/yi-ma-profile.jpg" width="150" style="border-radius: 8px;" alt="Yi Ma"><br>
+                <b>Yi Ma</b>
+            </a>
+            <p>人工智能（AI），控制、智能系统与机器人（CIR），信号处理（SP）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/michel-maharbiz/research-overview.md">
+                <img src="research-quickview/ucb/profiles/michel-maharbiz-profile.jpg" width="150" style="border-radius: 8px;" alt="Michel Maharbiz"><br>
+                <b>Michel Maharbiz</b>
+            </a>
+            <p>生物系统与计算生物学（BIO），微纳电子机械系统（MEMS）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/jitendra-malik/research-overview.md">
+                <img src="research-quickview/ucb/profiles/jitendra-malik-profile.jpg" width="150" style="border-radius: 8px;" alt="Jitendra Malik"><br>
+                <b>Jitendra Malik</b>
+            </a>
+            <p>人工智能（AI），控制、智能系统与机器人（CIR），信号处理（SP）</p>
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/song-mei/research-overview.md">
+                <img src="research-quickview/ucb/profiles/song-mei-profile.jpg" width="150" style="border-radius: 8px;" alt="Song Mei"><br>
+                <b>Song Mei</b>
+            </a>
+            <p>人工智能（AI），信号处理（SP），理论（THY），控制、智能系统与机器人（CIR），信息、数据、网络与通信科学（IDNCS）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/david-messerschmitt/research-overview.md">
+                <img src="research-quickview/ucb/profiles/david-messerschmitt-profile.jpg" width="150" style="border-radius: 8px;" alt="David G. Messerschmitt"><br>
+                <b>David G. Messerschmitt</b>
+            </a>
+            <p>信息、数据、网络与通信科学（IDNCS），信号处理（SP）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/robert-meyer/research-overview.md">
+                <img src="research-quickview/ucb/profiles/robert-meyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert G. Meyer"><br>
+                <b>Robert G. Meyer</b>
+            </a>
+            <p>集成电路（INC）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/nelson-morgan/research-overview.md">
+                <img src="research-quickview/ucb/profiles/nelson-morgan-profile.jpg" width="150" style="border-radius: 8px;" alt="Nelson Morgan"><br>
+                <b>Nelson Morgan</b>
+            </a>
+            <p>信号处理（SP）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/richard-muller/research-overview.md">
+                <img src="research-quickview/ucb/profiles/richard-muller-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard S. Muller"><br>
+                <b>Richard S. Muller</b>
+            </a>
+            <p>集成电路（INC）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/rikky-muller/research-overview.md">
+                <img src="research-quickview/ucb/profiles/rikky-muller-profile.jpg" width="150" style="border-radius: 8px;" alt="Rikky Muller"><br>
+                <b>Rikky Muller</b>
+            </a>
+            <p>集成电路（INC），生物系统与计算生物学（BIO），微纳电子机械系统（MEMS），物理电子学（PHY）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/andrew-neureuther/research-overview.md">
+                <img src="research-quickview/ucb/profiles/andrew-neureuther-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew R. Neureuther"><br>
+                <b>Andrew R. Neureuther</b>
+            </a>
+            <p>集成电路（INC）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/clark-nguyen/research-overview.md">
+                <img src="research-quickview/ucb/profiles/clark-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Clark Nguyen"><br>
+                <b>Clark Nguyen</b>
+            </a>
+            <p>微纳电子机械系统（MEMS），集成电路（INC），物理电子学（PHY），设计、建模与分析（DMA）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/ali-niknejad/research-overview.md">
+                <img src="research-quickview/ucb/profiles/ali-niknejad-profile.jpg" width="150" style="border-radius: 8px;" alt="Ali Niknejad"><br>
+                <b>Ali Niknejad</b>
+            </a>
+            <p>集成电路（INC），物理电子学（PHY），信号处理（SP），信息、数据、网络与通信科学（IDNCS），设计、建模与分析（DMA）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/borivoje-nikolic/research-overview.md">
+                <img src="research-quickview/ucb/profiles/borivoje-nikolic-profile.jpg" width="150" style="border-radius: 8px;" alt="Borivoje Nikolic"><br>
+                <b>Borivoje Nikolic</b>
+            </a>
+            <p>集成电路（INC），信息、数据、网络与通信科学（IDNCS），设计、建模与分析（DMA），计算机体系结构与工程（ARC）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/pierluigi-nuzzo/research-overview.md">
+                <img src="research-quickview/ucb/profiles/pierluigi-nuzzo-profile.jpg" width="150" style="border-radius: 8px;" alt="Pierluigi Nuzzo"><br>
+                <b>Pierluigi Nuzzo</b>
+            </a>
+            <p>网络物理系统与设计自动化（CPSDA），控制、智能系统与机器人（CIR），集成电路（INC），计算机体系结构与工程（ARC），人工智能（AI），电力与能源（ENE），编程系统（PS），安全（SEC），理论（THY）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/william-oldham/research-overview.md">
+                <img src="research-quickview/ucb/profiles/william-oldham-profile.jpg" width="150" style="border-radius: 8px;" alt="William G. Oldham"><br>
+                <b>William G. Oldham</b>
+            </a>
+            <p>无</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/bruno-olshausen/research-overview.md">
+                <img src="research-quickview/ucb/profiles/bruno-olshausen-profile.jpg" width="150" style="border-radius: 8px;" alt="Bruno Olshausen"><br>
+                <b>Bruno Olshausen</b>
+            </a>
+            <p>生物系统与计算生物学（BIO）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/shyam-parekh/research-overview.md">
+                <img src="research-quickview/ucb/profiles/shyam-parekh-profile.jpg" width="150" style="border-radius: 8px;" alt="Shyam Parekh"><br>
+                <b>Shyam Parekh</b>
+            </a>
+            <p>信息、数据、网络与通信科学（IDNCS）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/robert-pilawa-podgurski/research-overview.md">
+                <img src="research-quickview/ucb/profiles/robert-pilawa-podgurski-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Pilawa-Podgurski"><br>
+                <b>Robert Pilawa-Podgurski</b>
+            </a>
+            <p>电力与能源（ENE），集成电路（INC），物理电子学（PHY）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/kristofer-pister/research-overview.md">
+                <img src="research-quickview/ucb/profiles/kristofer-pister-profile.jpg" width="150" style="border-radius: 8px;" alt="Kristofer Pister"><br>
+                <b>Kristofer Pister</b>
+            </a>
+            <p>微纳电子机械系统（MEMS），控制、智能系统与机器人（CIR），集成电路（INC）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/elijah-polak/research-overview.md">
+                <img src="research-quickview/ucb/profiles/elijah-polak-profile.jpg" width="150" style="border-radius: 8px;" alt="Elijah Polak"><br>
+                <b>Elijah Polak</b>
+            </a>
+            <p>控制、智能系统与机器人（CIR）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/kameshwar-poolla/research-overview.md">
+                <img src="research-quickview/ucb/profiles/kameshwar-poolla-profile.jpg" width="150" style="border-radius: 8px;" alt="Kameshwar Poolla"><br>
+                <b>Kameshwar Poolla</b>
+            </a>
+            <p>控制、智能系统与机器人（CIR），设计、建模与分析（DMA），物理电子学（PHY）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/jan-rabaey/research-overview.md">
+                <img src="research-quickview/ucb/profiles/jan-rabaey-profile.jpg" width="150" style="border-radius: 8px;" alt="Jan M. Rabaey"><br>
+                <b>Jan M. Rabaey</b>
+            </a>
+            <p>信息、数据、网络与通信科学（IDNCS），设计、建模与分析（DMA），电力与能源（ENE），集成电路（INC），信号处理（SP）</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/kannan-ramchandran/research-overview.md">
+                <img src="research-quickview/ucb/profiles/kannan-ramchandran-profile.jpg" width="150" style="border-radius: 8px;" alt="Kannan Ramchandran"><br>
+                <b>Kannan Ramchandran</b>
+            </a>
+            <p>信息、数据、网络与通信科学（IDNCS），信号处理（SP），人工智能（AI），控制、智能系统与机器人（CIR）</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/somayeh-sojoudi/research-overview.md">
+                <img src="research-quickview/ucb/profiles/somayeh-sojoudi-profile.jpg" width="150" style="border-radius: 8px;" alt="Somayeh Sojoudi"><br>
+                <b>Somayeh Sojoudi</b>
+            </a>
+            <p>人工智能，控制、智能系统与机器人，电力与能源。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/costas-spanos/research-overview.md">
+                <img src="research-quickview/ucb/profiles/costas-spanos-profile.jpg" width="150" style="border-radius: 8px;" alt="Costas J. Spanos"><br>
+                <b>Costas J. Spanos</b>
+            </a>
+            <p>电力与能源，集成电路，物理电子学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/vladimir-stojanovic/research-overview.md">
+                <img src="research-quickview/ucb/profiles/vladimir-stojanovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Vladimir Stojanovic"><br>
+                <b>Vladimir Stojanovic</b>
+            </a>
+            <p>集成电路，微/纳米机电系统，计算机架构与工程，物理电子学，信息、数据、网络与通信科学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/vivek-subramanian/research-overview.md">
+                <img src="research-quickview/ucb/profiles/vivek-subramanian-profile.jpg" width="150" style="border-radius: 8px;" alt="Vivek Subramanian"><br>
+                <b>Vivek Subramanian</b>
+            </a>
+            <p>物理电子学，电力与能源，集成电路。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/jean-paul-tennant/research-overview.md">
+                <img src="research-quickview/ucb/profiles/jean-paul-tennant-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Paul Tennant"><br>
+                <b>Jean-Paul Tennant</b>
+            </a>
+            <p>暂无公开的研究兴趣。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/grigory-tikhomirov/research-overview.md">
+                <img src="research-quickview/ucb/profiles/grigory-tikhomirov-profile.jpg" width="150" style="border-radius: 8px;" alt="Grigory Tikhomirov"><br>
+                <b>Grigory Tikhomirov</b>
+            </a>
+            <p>生物系统与计算生物学，控制、智能系统与机器人，电力与能源，集成电路，微/纳米机电系统，物理电子学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/claire-tomlin/research-overview.md">
+                <img src="research-quickview/ucb/profiles/claire-tomlin-profile.jpg" width="150" style="border-radius: 8px;" alt="Claire Tomlin"><br>
+                <b>Claire Tomlin</b>
+            </a>
+            <p>控制、智能系统与机器人，生物系统与计算生物学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/alexandra-von-meier/research-overview.md">
+                <img src="research-quickview/ucb/profiles/alexandra-von-meier-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexandra von Meier"><br>
+                <b>Alexandra von Meier</b>
+            </a>
+            <p>电力与能源。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/martin-wainwright/research-overview.md">
+                <img src="research-quickview/ucb/profiles/martin-wainwright-profile.jpg" width="150" style="border-radius: 8px;" alt="Martin Wainwright"><br>
+                <b>Martin Wainwright</b>
+            </a>
+            <p>人工智能，控制、智能系统与机器人，信息、数据、网络与通信科学，信号处理，理论。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/laura-waller/research-overview.md">
+                <img src="research-quickview/ucb/profiles/laura-waller-profile.jpg" width="150" style="border-radius: 8px;" alt="Laura Waller"><br>
+                <b>Laura Waller</b>
+            </a>
+            <p>物理电子学，信号处理，生物系统与计算生物学，图形学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/jean-walrand/research-overview.md">
+                <img src="research-quickview/ucb/profiles/jean-walrand-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean Walrand"><br>
+                <b>Jean Walrand</b>
+            </a>
+            <p>信息、数据、网络与通信科学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/john-wawrzynek/research-overview.md">
+                <img src="research-quickview/ucb/profiles/john-wawrzynek-profile.jpg" width="150" style="border-radius: 8px;" alt="John Wawrzynek"><br>
+                <b>John Wawrzynek</b>
+            </a>
+            <p>计算机架构与工程，设计、建模和分析。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/eugene-wong/research-overview.md">
+                <img src="research-quickview/ucb/profiles/eugene-wong-profile.jpg" width="150" style="border-radius: 8px;" alt="Eugene Wong"><br>
+                <b>Eugene Wong</b>
+            </a>
+            <p>信息、数据、网络与通信科学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/felix-wu/research-overview.md">
+                <img src="research-quickview/ucb/profiles/felix-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Felix F. Wu"><br>
+                <b>Felix F. Wu</b>
+            </a>
+            <p>暂无公开的研究兴趣。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/ming-wu/research-overview.md">
+                <img src="research-quickview/ucb/profiles/ming-wu-profile.jpg" width="150" style="border-radius: 8px;" alt="Ming C. Wu"><br>
+                <b>Ming C. Wu</b>
+            </a>
+            <p>微/纳米机电系统，物理电子学。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/eli-yablonovitch/research-overview.md">
+                <img src="research-quickview/ucb/profiles/eli-yablonovitch-profile.jpg" width="150" style="border-radius: 8px;" alt="Eli Yablonovitch"><br>
+                <b>Eli Yablonovitch</b>
+            </a>
+            <p>物理电子学。</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/bin-yu/research-overview.md">
+                <img src="research-quickview/ucb/profiles/bin-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Bin Yu"><br>
+                <b>Bin Yu</b>
+            </a>
+            <p>信号处理。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/mengjie-yu/research-overview.md">
+                <img src="research-quickview/ucb/profiles/mengjie-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Mengjie Yu"><br>
+                <b>Mengjie Yu</b>
+            </a>
+            <p>物理电子学，人工智能，集成电路，微/纳米机电系统。</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/eecs/avideh-zakhor/research-overview.md">
+                <img src="research-quickview/ucb/profiles/avideh-zakhor-profile.jpg" width="150" style="border-radius: 8px;" alt="Avideh Zakhor"><br>
+                <b>Avideh Zakhor</b>
+            </a>
+            <p>信号处理，人工智能，控制、智能系统与机器人，图形学。</p>
+        </td>
+    </tr>
+</table>
+
+
 
 </details>
 <!-- End of UCB Section -->
