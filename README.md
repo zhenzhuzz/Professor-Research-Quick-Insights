@@ -1609,6 +1609,85 @@ HTML
     </tr>
 </table>
 
+- **Field**：[Robotics](https://me.berkeley.edu/faculty/faculty-by-research-area/?tx_subject_area=robotics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/alice-agogino/research-overview.md">
+                <img src="research-quickview/ucb/profiles/alice-agogino-profile.jpg" width="150" style="border-radius: 8px;" alt="Alice M. Agogino"><br>
+                <b>Alice M. Agogino</b>
+            </a>
+            <p>产品设计、工程教育、可持续技术、人工智能</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/roberto-horowitz/research-overview.md">
+                <img src="research-quickview/ucb/profiles/roberto-horowitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Roberto Horowitz"><br>
+                <b>Roberto Horowitz</b>
+            </a>
+            <p>控制系统、机电一体化、交通系统控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/homayoon-kazerooni/research-overview.md">
+                <img src="research-quickview/ucb/profiles/homayoon-kazerooni-profile.jpg" width="150" style="border-radius: 8px;" alt="Homayoon Kazerooni"><br>
+                <b>Homayoon Kazerooni</b>
+            </a>
+            <p>机器人学、人机系统、外骨骼设计</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/sara-mcmains/research-overview.md">
+                <img src="research-quickview/ucb/profiles/sara-mcmains-profile.jpg" width="150" style="border-radius: 8px;" alt="Sara McMains"><br>
+                <b>Sara McMains</b>
+            </a>
+            <p>计算几何、计算机辅助设计与制造、增材制造</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/negar-mehr/research-overview.md">
+                <img src="research-quickview/ucb/profiles/negar-mehr-profile.jpg" width="150" style="border-radius: 8px;" alt="Negar Mehr"><br>
+                <b>Negar Mehr</b>
+            </a>
+            <p>机器人学、控制理论、博弈论、机器学习</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/mark-mueller/research-overview.md">
+                <img src="research-quickview/ucb/profiles/mark-mueller-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark W. Mueller"><br>
+                <b>Mark W. Mueller</b>
+            </a>
+            <p>无人机、控制系统、动力学与控制</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/shankar-sastry/research-overview.md">
+                <img src="research-quickview/ucb/profiles/shankar-sastry-profile.jpg" width="150" style="border-radius: 8px;" alt="S. Shankar Sastry"><br>
+                <b>S. Shankar Sastry</b>
+            </a>
+            <p>控制理论、机器人学、网络系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/koushil-sreenath/research-overview.md">
+                <img src="research-quickview/ucb/profiles/koushil-sreenath-profile.jpg" width="150" style="border-radius: 8px;" alt="Koushil Sreenath"><br>
+                <b>Koushil Sreenath</b>
+            </a>
+            <p>机器人学、动态系统、控制与优化</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucb/me/hannah-stuart/research-overview.md">
+                <img src="research-quickview/ucb/profiles/hannah-stuart-profile.jpg" width="150" style="border-radius: 8px;" alt="Hannah Stuart"><br>
+                <b>Hannah Stuart</b>
+            </a>
+            <p>机器人学、机械设计、人机交互</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucb/me/masayoshi-tomizuka/research-overview.md">
+                <img src="research-quickview/ucb/profiles/masayoshi-tomizuka-profile.jpg" width="150" style="border-radius: 8px;" alt="Masayoshi Tomizuka"><br>
+                <b>Masayoshi Tomizuka</b>
+            </a>
+            <p>控制系统、机器人学、精密机电系统</p>
+        </td>
+    </tr>
+</table>
 
 
 
