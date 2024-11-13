@@ -380,6 +380,8 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>流体动力学、涡流动力学、湍流流动、实验流体力学</p>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="research-quickview/ucb/me/shawn-shadden/research-overview.md">
                 <img src="research-quickview/ucb/profiles/shawn-shadden-profile.jpg" width="150" style="border-radius: 8px;" alt="Shawn Shadden"><br>
@@ -401,8 +403,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </a>
             <p>连续介质力学、弹性理论、计算力学、材料建模</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="research-quickview/ucb/me/tarek-zohdi/research-overview.md">
                 <img src="research-quickview/ucb/profiles/tarek-zohdi-profile.jpg" width="150" style="border-radius: 8px;" alt="Tarek I. Zohdi"><br>
@@ -413,7 +413,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
 </table>
 
- 
+
 
 
 ### [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/)
