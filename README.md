@@ -6,7 +6,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## Universities
 
-## [Stanford](https://www.stanford.edu/)
+## [Stanford](https://www.stanford.edu/) Dec, 2
 
 <details>
 <summary>Click to expand Stanford Professors</summary>
@@ -1372,7 +1372,7 @@ HTML
 <!-- End of Stanford University Section -->
 <!-- End of Stanford University Section -->
 
-## [UCB](https://www.berkeley.edu/)
+## [UCB](https://www.berkeley.edu/) Dec, 2(ME) Dec, 9 (EECS)
 
 <details>
 <summary>Click to expand UCB Professors</summary>
@@ -4303,7 +4303,7 @@ HTML
 <!-- End of USC Section -->
 
 
-## [MIT](https://www.mit.edu/)
+## [MIT](https://www.mit.edu/) Dec, 15 (ME), Dec, 1 (EECS)
 
 <details>
 <summary>Click to expand MIT Professors</summary>
