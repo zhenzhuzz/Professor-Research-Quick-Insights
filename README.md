@@ -657,7 +657,6 @@ A repository for quickly accessing research insights into professors' expertise 
         </td>
     </tr>
 </table>
-HTML
 
 - **Field**: [Energy, environment, and sustainability](https://ee.stanford.edu/people/faculty?areas=85b11ac2-93b3-4350-9616-513e2f6e3c6e&limit=10&sort=asc&type=active)
 <table>
