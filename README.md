@@ -7,7 +7,7 @@ A repository for quickly accessing research insights into professors' expertise 
 ## Universities
 
 ## [Stanford](https://www.stanford.edu/) 
-### [Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines)
+[ME & EE: Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines)
 
 <details>
 <summary>Click to expand Stanford Professors</summary>
@@ -1374,7 +1374,9 @@ HTML
 <!-- End of Stanford University Section -->
 
 ## [UCB](https://www.berkeley.edu/) 
-### [Dec, 2 ([ME](https://grad.berkeley.edu/program/mechanical-engineering/)); Dec, 9 ([EECS](https://grad.berkeley.edu/program/eecs/))]; [List](https://grad.berkeley.edu/admissions/choosing-your-program/list/)
+[ME: Dec, 2](https://grad.berkeley.edu/program/mechanical-engineering/); 
+[EECS: Dec, 9](https://grad.berkeley.edu/program/eecs/); 
+[List](https://grad.berkeley.edu/admissions/choosing-your-program/list/)
 
 <details>
 <summary>Click to expand UCB Professors</summary>
@@ -2340,7 +2342,11 @@ HTML
 <!-- End of UCB Section -->
 
 
-## [UCLA](https://www.ucla.edu/) Dec, 1 ([ME](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/mechanical-engineering/)&[Aero](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/)) [Dec, 15(ECE)](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/) [Admission Catolog](https://grad.ucla.edu/admissions/calendar/#:~:text=Most%20graduate%20admissions%20applications%20are,some%20have%20multiple%20admissions%20rounds.)
+## [UCLA](https://www.ucla.edu/) 
+[ME: Dec, 1](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/mechanical-engineering/);
+[Aero: Dec, 1](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/); 
+[ECE: Dec, 15](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/);
+[Admission Catolog](https://grad.ucla.edu/admissions/calendar/#:~:text=Most%20graduate%20admissions%20applications%20are,some%20have%20multiple%20admissions%20rounds.)
 
 <details>
 <summary>Click to expand UCLA Professors</summary>
@@ -2460,7 +2466,7 @@ HTML
 
 
 ## [Caltech](https://www.caltech.edu/) 
-### Dec, 15 ([MCE&EE](https://gradoffice.caltech.edu/admissions/applyonline))
+[MCE & EE: Dec, 15] (https://gradoffice.caltech.edu/admissions/applyonline)
 
 <details>
 <summary>Click to expand Caltech Professors</summary>
@@ -5351,7 +5357,7 @@ HTML
 <!-- End of MIT Section -->
 
 ## [Harvard](https://www.harvard.edu/) 
-### Dec, 15 ([MME&EE](https://seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply))
+[MME & EE: Dec, 15] (https://seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply)
 
 <details>
 <summary>Click to expand Harvard Professors</summary>
@@ -6564,7 +6570,8 @@ HTML
 
 
 
-## [Columbia University](https://www.columbia.edu/) [Dec, 15](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements#accordion0)
+## [Columbia University](https://www.columbia.edu/) 
+[ME & EE: Dec, 15](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements#accordion0)
 
 <details>
 <summary>Click to expand Columbia Professors</summary>
@@ -6905,7 +6912,9 @@ HTML
 
 
 ## [Duke University](https://duke.edu/)
-### Dec, 12 ([MEMS](https://mems.duke.edu/admissions/phd/)); DEC, 2 ([ECE](https://ece.duke.edu/admissions/phd/#apply)); [Deadline](https://gradschool.duke.edu/admissions/application-deadlines/)
+[MEMS: Dec, 12](https://mems.duke.edu/admissions/phd/); 
+[ECE: DEC, 2](https://ece.duke.edu/admissions/phd/#apply); 
+[Deadline](https://gradschool.duke.edu/admissions/application-deadlines/)
 <details>
 <summary>Click to expand Duke Professors</summary>
 
@@ -7590,7 +7599,7 @@ HTML
 
 
 ## [Upenn](https://www.upenn.edu/)
-### Dec, 16 ([MEAM&ESE](https://gradadm.seas.upenn.edu/doctoral/))
+[MEAM & ESE: Dec, 16](https://gradadm.seas.upenn.edu/doctoral/)
 <details>
 <summary>Click to expand Upenn Professors</summary>
 
@@ -8704,7 +8713,8 @@ HTML
 
 
 ## [Gatech](https://www.gatech.edu/)
-### Dec, 16 ([ME](https://grad.gatech.edu/degree-programs/mechanical-engineering) & [ECE](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering))
+[ME: Dec, 16](https://grad.gatech.edu/degree-programs/mechanical-engineering);
+[ECE: Dec, 16](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering))
 
 <details>
 <summary>Click to expand Gatech Professors</summary>
@@ -10919,7 +10929,7 @@ HTML
 
 
 ## [CMU](https://www.cmu.edu/)
-### Dec, 15 ([ME](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html))
+[ME: Dec, 15](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html)
 
 <details>
 <summary>Click to expand CMU Professors</summary>
