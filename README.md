@@ -2466,7 +2466,7 @@ HTML
 
 
 ## [Caltech](https://www.caltech.edu/) 
-[MCE & EE: Dec, 15] (https://gradoffice.caltech.edu/admissions/applyonline)
+[MCE & EE: Dec, 15](https://gradoffice.caltech.edu/admissions/applyonline)
 
 <details>
 <summary>Click to expand Caltech Professors</summary>
@@ -5357,7 +5357,7 @@ HTML
 <!-- End of MIT Section -->
 
 ## [Harvard](https://www.harvard.edu/) 
-[MME & EE: Dec, 15] (https://seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply)
+[MME & EE: Dec, 15](https://seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply)
 
 <details>
 <summary>Click to expand Harvard Professors</summary>
@@ -8714,7 +8714,7 @@ HTML
 
 ## [Gatech](https://www.gatech.edu/)
 [ME: Dec, 16](https://grad.gatech.edu/degree-programs/mechanical-engineering);
-[ECE: Dec, 16](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering))
+[ECE: Dec, 16](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering)
 
 <details>
 <summary>Click to expand Gatech Professors</summary>
