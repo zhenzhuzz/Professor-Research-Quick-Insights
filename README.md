@@ -6764,65 +6764,124 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Electrical Engineering](https://www.ee.columbia.edu/)
 
-- **Field**: Nanoscale Structures and Integrated Devices
-
+- **Field**: [Computer Engineering and Computer Systems](https://www.ee.columbia.edu/computer-engineering-and-computer-systems)
 <table>
-  <tr>
-    <td align="center">
-      <a href="research-quickview/columbia/ee/keren-bergman/research-overview.md">
-        <img src="research-quickview/columbia/profiles/keren-bergman-profile.jpg" width="150" style="border-radius: 8px;" alt="Keren Bergman"><br>
-        <b>Keren Bergman</b>
-      </a>
-      <p>集成光子学、光网络、光子设备设计与应用</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/columbia/ee/savannah-eisner/research-overview.md">
-        <img src="research-quickview/columbia/profiles/savannah-eisner-profile.jpg" width="150" style="border-radius: 8px;" alt="Savannah Eisner"><br>
-        <b>Savannah Eisner</b>
-      </a>
-      <p>机器学习算法、计算机架构、能源高效计算</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/columbia/ee/dion-khodagholy/research-overview.md">
-        <img src="research-quickview/columbia/profiles/dion-khodagholy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dion Khodagholy"><br>
-        <b>Dion Khodagholy</b>
-      </a>
-      <p>生物电子学、神经接口、类脑计算</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/columbia/ee/ioannis-kymissis/research-overview.md">
-        <img src="research-quickview/columbia/profiles/ioannis-kymissis-profile.jpg" width="150" style="border-radius: 8px;" alt="Ioannis Kymissis"><br>
-        <b>Ioannis (John) Kymissis</b>
-      </a>
-      <p>能源系统、可再生能源技术、微电网</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="research-quickview/columbia/ee/michal-lipson/research-overview.md">
-        <img src="research-quickview/columbia/profiles/michal-lipson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michal Lipson"><br>
-        <b>Michal Lipson</b>
-      </a>
-      <p>集成/硅基光子学、克尔频率梳、异质集成、量子信息处理</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/columbia/ee/xiang-meng/research-overview.md">
-        <img src="research-quickview/columbia/profiles/xiang-meng-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiang Meng"><br>
-        <b>Xiang Meng</b>
-      </a>
-      <p>应用电气工程、信号处理、创新教学方法</p>
-    </td>
-    <td align="center">
-      <a href="research-quickview/columbia/ee/wen-wang/research-overview.md">
-        <img src="research-quickview/columbia/profiles/wen-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Wen Wang"><br>
-        <b>Wen Wang</b>
-      </a>
-      <p>应用物理、工程力学、纳米技术及其应用</p>
-    </td>
-  </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/keren-bergman/research-overview.md">
+                <img src="research-quickview/columbia/profiles/keren-bergman-profile.jpg" width="150" style="border-radius: 8px;" alt="Keren Bergman"><br>
+                <b>Keren Bergman</b>
+            </a>
+            <p>计算机工程与计算机系统、网络与通信、纳米结构与集成器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/luca-carloni/research-overview.md">
+                <img src="research-quickview/columbia/profiles/luca-carloni-profile.jpg" width="150" style="border-radius: 8px;" alt="Luca Carloni"><br>
+                <b>Luca Carloni</b>
+            </a>
+            <p>计算机工程与计算机系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/asaf-cidon/research-overview.md">
+                <img src="research-quickview/columbia/profiles/asaf-cidon-profile.jpg" width="150" style="border-radius: 8px;" alt="Asaf Cidon"><br>
+                <b>Asaf Cidon</b>
+            </a>
+            <p>计算机工程与计算机系统、网络与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/xiaofan-jiang/research-overview.md">
+                <img src="research-quickview/columbia/profiles/xiaofan-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan (Fred) Jiang"><br>
+                <b>Xiaofan (Fred) Jiang</b>
+            </a>
+            <p>集成电路与系统、网络与通信、智能电能、计算机工程与计算机系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/ethan-katz-bassett/research-overview.md">
+                <img src="research-quickview/columbia/profiles/ethan-katz-bassett-profile.jpg" width="150" style="border-radius: 8px;" alt="Ethan Benjamin Katz-Bassett"><br>
+                <b>Ethan Benjamin Katz-Bassett</b>
+            </a>
+            <p>计算机工程与计算机系统、网络与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/tanvir-khan/research-overview.md">
+                <img src="research-quickview/columbia/profiles/tanvir-khan-profile.jpg" width="150" style="border-radius: 8px;" alt="Tanvir Ahmed Khan"><br>
+                <b>Tanvir Ahmed Khan</b>
+            </a>
+            <p>计算机工程与计算机系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/vishal-misra/research-overview.md">
+                <img src="research-quickview/columbia/profiles/vishal-misra-profile.jpg" width="150" style="border-radius: 8px;" alt="Vishal Misra"><br>
+                <b>Vishal Misra</b>
+            </a>
+            <p>计算机工程与计算机系统、网络与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/brian-plancher/research-overview.md">
+                <img src="research-quickview/columbia/profiles/brian-plancher-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Plancher"><br>
+                <b>Brian Plancher</b>
+            </a>
+            <p>计算机工程与计算机系统、信号、信息与数据</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/henning-schulzrinne/research-overview.md">
+                <img src="research-quickview/columbia/profiles/henning-schulzrinne-profile.jpg" width="150" style="border-radius: 8px;" alt="Henning G. Schulzrinne"><br>
+                <b>Henning G. Schulzrinne</b>
+            </a>
+            <p>计算机工程与计算机系统、网络与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/mingoo-seok/research-overview.md">
+                <img src="research-quickview/columbia/profiles/mingoo-seok-profile.jpg" width="150" style="border-radius: 8px;" alt="Mingoo Seok"><br>
+                <b>Mingoo Seok</b>
+            </a>
+            <p>集成电路与系统、计算机工程与计算机系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/ken-shepard/research-overview.md">
+                <img src="research-quickview/columbia/profiles/ken-shepard-profile.jpg" width="150" style="border-radius: 8px;" alt="Ken Shepard"><br>
+                <b>Ken Shepard</b>
+            </a>
+            <p>集成电路与系统、系统生物学与神经工程、智能电能、计算机工程与计算机系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/charles-zukowski/research-overview.md">
+                <img src="research-quickview/columbia/profiles/charles-zukowski-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles A. Zukowski"><br>
+                <b>Charles A. Zukowski</b>
+            </a>
+            <p>集成电路与系统、计算机工程与计算机系统</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/luca-carloni/research-overview.md">
+                <img src="research-quickview/columbia/profiles/luca-carloni-profile.jpg" width="150" style="border-radius: 8px;" alt="Luca Carloni"><br>
+                <b>Luca Carloni</b>
+            </a>
+            <p>计算机工程与计算机系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/asaf-cidon/research-overview.md">
+                <img src="research-quickview/columbia/profiles/asaf-cidon-profile.jpg" width="150" style="border-radius: 8px;" alt="Asaf Cidon"><br>
+                <b>Asaf Cidon</b>
+            </a>
+            <p>计算机工程、计算机系统、网络与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/xiaofan-jiang/research-overview.md">
+                <img src="research-quickview/columbia/profiles/xiaofan-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan (Fred) Jiang"><br>
+                <b>Xiaofan (Fred) Jiang</b>
+            </a>
+            <p>集成电路与系统、网络</p>
+        </td>
+    </tr>
 </table>
 
-- **Field**: Integrated Circuits and Systems
+ - **Field**: [Integrated Circuits and Systems](https://www.ee.columbia.edu/integrated-circuits-and-systems)
 
 <table>
   <tr>
@@ -6888,6 +6947,111 @@ A repository for quickly accessing research insights into professors' expertise 
 </table>
 
 
+- **Field**: [Nanoscale Structures and Integrated Devices](https://www.ee.columbia.edu/micro-devices-and-physical-principles)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/keren-bergman/research-overview.md">
+        <img src="research-quickview/columbia/profiles/keren-bergman-profile.jpg" width="150" style="border-radius: 8px;" alt="Keren Bergman"><br>
+        <b>Keren Bergman</b>
+      </a>
+      <p>集成光子学、光网络、光子设备设计与应用</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/savannah-eisner/research-overview.md">
+        <img src="research-quickview/columbia/profiles/savannah-eisner-profile.jpg" width="150" style="border-radius: 8px;" alt="Savannah Eisner"><br>
+        <b>Savannah Eisner</b>
+      </a>
+      <p>机器学习算法、计算机架构、能源高效计算</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/dion-khodagholy/research-overview.md">
+        <img src="research-quickview/columbia/profiles/dion-khodagholy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dion Khodagholy"><br>
+        <b>Dion Khodagholy</b>
+      </a>
+      <p>生物电子学、神经接口、类脑计算</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/ioannis-kymissis/research-overview.md">
+        <img src="research-quickview/columbia/profiles/ioannis-kymissis-profile.jpg" width="150" style="border-radius: 8px;" alt="Ioannis Kymissis"><br>
+        <b>Ioannis (John) Kymissis</b>
+      </a>
+      <p>能源系统、可再生能源技术、微电网</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/michal-lipson/research-overview.md">
+        <img src="research-quickview/columbia/profiles/michal-lipson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michal Lipson"><br>
+        <b>Michal Lipson</b>
+      </a>
+      <p>集成/硅基光子学、克尔频率梳、异质集成、量子信息处理</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/xiang-meng/research-overview.md">
+        <img src="research-quickview/columbia/profiles/xiang-meng-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiang Meng"><br>
+        <b>Xiang Meng</b>
+      </a>
+      <p>应用电气工程、信号处理、创新教学方法</p>
+    </td>
+    <td align="center">
+      <a href="research-quickview/columbia/ee/wen-wang/research-overview.md">
+        <img src="research-quickview/columbia/profiles/wen-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Wen Wang"><br>
+        <b>Wen Wang</b>
+      </a>
+      <p>应用物理、工程力学、纳米技术及其应用</p>
+    </td>
+  </tr>
+</table>
+
+
+- **Field**: [Networking and Communications](https://www.ee.columbia.edu/networking-and-communications)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/keren-bergman/research-overview.md">
+                <img src="research-quickview/columbia/profiles/keren-bergman-profile.jpg" width="150" style="border-radius: 8px;" alt="Keren Bergman"><br>
+                <b>Keren Bergman</b>
+            </a>
+            <p>计算机工程与计算机系统、网络与通信、纳米结构与集成器件</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/asaf-cidon/research-overview.md">
+                <img src="research-quickview/columbia/profiles/asaf-cidon-profile.jpg" width="150" style="border-radius: 8px;" alt="Asaf Cidon"><br>
+                <b>Asaf Cidon</b>
+            </a>
+            <p>计算机工程、计算机系统、网络与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/edward-coffman/research-overview.md">
+                <img src="research-quickview/columbia/profiles/edward-coffman-profile.jpg" width="150" style="border-radius: 8px;" alt="Edward G. Coffman"><br>
+                <b>Edward G. Coffman</b>
+            </a>
+            <p>网络与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/javad-ghaderi/research-overview.md">
+                <img src="research-quickview/columbia/profiles/javad-ghaderi-profile.jpg" width="150" style="border-radius: 8px;" alt="Javad Ghaderi"><br>
+                <b>Javad Ghaderi</b>
+            </a>
+            <p>网络与通信、信号、信息与数据</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/predrag-jelenkovic/research-overview.md">
+                <img src="research-quickview/columbia/profiles/predrag-jelenkovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Predrag Jelenkovic"><br>
+                <b>Predrag Jelenkovic</b>
+            </a>
+            <p>网络与通信、系统生物学与神经工程</p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Signals, Information and Data](https://www.ee.columbia.edu/signal-and-information-processing)
+- **Field**: [Smart Electric Energy](https://www.ee.columbia.edu/smart-electric-energy)
+- **Field**: [Systems Biology and Neuroengineering](https://www.ee.columbia.edu/systems-biology-and-neuroengineering)
 
 ### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
 
@@ -7592,9 +7756,9 @@ A repository for quickly accessing research insights into professors' expertise 
 
 </details>
 
-<!-- End of Columbia Section -->
-<!-- End of Columbia Section -->
-<!-- End of Columbia Section -->
+<!-- End of Duke Section -->
+<!-- End of Duke Section -->
+<!-- End of Duke Section -->
 
 
 ## [Upenn](https://www.upenn.edu/)
