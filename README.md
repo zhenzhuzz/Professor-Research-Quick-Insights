@@ -7050,8 +7050,222 @@ A repository for quickly accessing research insights into professors' expertise 
 </table>
 
 - **Field**: [Signals, Information and Data](https://www.ee.columbia.edu/signal-and-information-processing)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/james-anderson/research-overview.md">
+                <img src="research-quickview/columbia/profiles/james-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="James Anderson"><br>
+                <b>James Anderson</b>
+            </a>
+            <p>信号、信息与数据、智能电能</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/homayoon-beigi/research-overview.md">
+                <img src="research-quickview/columbia/profiles/homayoon-beigi-profile.jpg" width="150" style="border-radius: 8px;" alt="Homayoon Beigi"><br>
+                <b>Homayoon Beigi</b>
+            </a>
+            <p>信号、信息与数据</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/shih-fu-chang/research-overview.md">
+                <img src="research-quickview/columbia/profiles/shih-fu-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Shih-Fu Chang"><br>
+                <b>Shih-Fu Chang</b>
+            </a>
+            <p>信号、信息与数据</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/javad-ghaderi/research-overview.md">
+                <img src="research-quickview/columbia/profiles/javad-ghaderi-profile.jpg" width="150" style="border-radius: 8px;" alt="Javad Ghaderi"><br>
+                <b>Javad Ghaderi</b>
+            </a>
+            <p>网络与通信、信号、信息与数据</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/micah-goldblum/research-overview.md">
+                <img src="research-quickview/columbia/profiles/micah-goldblum-profile.jpg" width="150" style="border-radius: 8px;" alt="Micah Goldblum"><br>
+                <b>Micah Goldblum</b>
+            </a>
+            <p>信号、信息与数据</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/zoran-kostic/research-overview.md">
+                <img src="research-quickview/columbia/profiles/zoran-kostic-profile.jpg" width="150" style="border-radius: 8px;" alt="Zoran Kostić"><br>
+                <b>Zoran Kostić</b>
+            </a>
+            <p>信号、信息与数据</p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Smart Electric Energy](https://www.ee.columbia.edu/smart-electric-energy)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/james-anderson/research-overview.md">
+                <img src="research-quickview/columbia/profiles/james-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="James Anderson"><br>
+                <b>James Anderson</b>
+            </a>
+            <p>信号、信息与数据、智能电能</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/daniel-bienstock/research-overview.md">
+                <img src="research-quickview/columbia/profiles/daniel-bienstock-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Bienstock"><br>
+                <b>Daniel Bienstock</b>
+            </a>
+            <p>智能电能、优化方法与计算</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/xiaofan-jiang/research-overview.md">
+                <img src="research-quickview/columbia/profiles/xiaofan-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaofan (Fred) Jiang"><br>
+                <b>Xiaofan (Fred) Jiang</b>
+            </a>
+            <p>集成电路与系统、网络通信、智能电能、计算机工程与计算系统</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/vijay-modi/research-overview.md">
+                <img src="research-quickview/columbia/profiles/vijay-modi-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Modi"><br>
+                <b>Vijay Modi</b>
+            </a>
+            <p>智能电能、可持续能源解决方案</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/matthias-preindl/research-overview.md">
+                <img src="research-quickview/columbia/profiles/matthias-preindl-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthias Preindl"><br>
+                <b>Matthias Preindl</b>
+            </a>
+            <p>智能电能、集成电路与系统、信号、信息与数据</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/ken-shepard/research-overview.md">
+                <img src="research-quickview/columbia/profiles/ken-shepard-profile.jpg" width="150" style="border-radius: 8px;" alt="Ken Shepard"><br>
+                <b>Ken Shepard</b>
+            </a>
+            <p>生物医学工程、集成电路、神经科学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/xiaodong-wang/research-overview.md">
+                <img src="research-quickview/columbia/profiles/xiaodong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaodong Wang"><br>
+                <b>Xiaodong Wang</b>
+            </a>
+            <p>纳米技术、生物电子学</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/bolun-xu/research-overview.md">
+                <img src="research-quickview/columbia/profiles/bolun-xu-profile.jpg" width="150" style="border-radius: 8px;" alt="Bolun Xu"><br>
+                <b>Bolun Xu</b>
+            </a>
+            <p>机器学习、信号处理、数据分析</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/gil-zussman/research-overview.md">
+                <img src="research-quickview/columbia/profiles/gil-zussman-profile.jpg" width="150" style="border-radius: 8px;" alt="Gil Zussman"><br>
+                <b>Gil Zussman</b>
+            </a>
+            <p>网络通信、无线网络、网络优化</p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Systems Biology and Neuroengineering](https://www.ee.columbia.edu/systems-biology-and-neuroengineering)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/dimitris-anastassiou/research-overview.md">
+                <img src="research-quickview/columbia/profiles/dimitris-anastassiou-profile.jpg" width="150" style="border-radius: 8px;" alt="Dimitris Anastassiou"><br>
+                <b>Dimitris Anastassiou</b>
+            </a>
+            <p>生物电气工程、神经信号处理、医学图像处理</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/christine-hendon/research-overview.md">
+                <img src="research-quickview/columbia/profiles/christine-hendon-profile.jpg" width="150" style="border-radius: 8px;" alt="Christine P. Hendon"><br>
+                <b>Christine P. Hendon</b>
+            </a>
+            <p>生物传感器、医学成像、纳米技术、光学成像</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/predrag-jelenkovic/research-overview.md">
+                <img src="research-quickview/columbia/profiles/predrag-jelenkovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Predrag Jelenkovic"><br>
+                <b>Predrag Jelenkovic</b>
+            </a>
+            <p>网络与通信、系统生物学与神经工程</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/dion-khodagholy/research-overview.md">
+                <img src="research-quickview/columbia/profiles/dion-khodagholy-profile.jpg" width="150" style="border-radius: 8px;" alt="Dion Khodagholy"><br>
+                <b>Dion Khodagholy</b>
+            </a>
+            <p>神经科学、神经技术、脑机接口</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/nikolaus-kriegeskorte/research-overview.md">
+                <img src="research-quickview/columbia/profiles/nikolaus-kriegeskorte-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikolaus Kriegeskorte"><br>
+                <b>Nikolaus Kriegeskorte</b>
+            </a>
+            <p>计算神经科学、视觉认知、神经网络模型</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/aurel-lazar/research-overview.md">
+                <img src="research-quickview/columbia/profiles/aurel-lazar-profile.jpg" width="150" style="border-radius: 8px;" alt="Aurel A. Lazar"><br>
+                <b>Aurel A. Lazar</b>
+            </a>
+            <p>电气工程、神经电信号、信号处理与通信</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/nima-mesgarani/research-overview.md">
+                <img src="research-quickview/columbia/profiles/nima-mesgarani-profile.jpg" width="150" style="border-radius: 8px;" alt="Nima Mesgarani"><br>
+                <b>Nima Mesgarani</b>
+            </a>
+            <p>声学信号处理、语音识别、脑神经信号分析</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/paul-sajda/research-overview.md">
+                <img src="research-quickview/columbia/profiles/paul-sajda-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Sajda"><br>
+                <b>Paul Sajda</b>
+            </a>
+            <p>医学成像、计算神经科学、脑-计算机接口</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/ken-shepard/research-overview.md">
+                <img src="research-quickview/columbia/profiles/ken-shepard-profile.jpg" width="150" style="border-radius: 8px;" alt="Ken Shepard"><br>
+                <b>Ken Shepard</b>
+            </a>
+            <p>集成电路、医疗设备、传感器技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/xiaodong-wang/research-overview.md">
+                <img src="research-quickview/columbia/profiles/xiaodong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaodong Wang"><br>
+                <b>Xiaodong Wang</b>
+            </a>
+            <p>纳米技术、电子器件、可穿戴技术</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/bolun-xu/research-overview.md">
+                <img src="research-quickview/columbia/profiles/bolun-xu-profile.jpg" width="150" style="border-radius: 8px;" alt="Bolun Xu"><br>
+                <b>Bolun Xu</b>
+            </a>
+            <p>大数据处理、深度学习、网络优化</p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/columbia/ee/gil-zussman/research-overview.md">
+                <img src="research-quickview/columbia/profiles/gil-zussman-profile.jpg" width="150" style="border-radius: 8px;" alt="Gil Zussman"><br>
+                <b>Gil Zussman</b>
+            </a>
+            <p>网络通信、优化算法、智能交通系统</p>
+        </td>
+    </tr>
+</table>
+
 
 ### [Applied Physics and Applied Mathematics](https://www.apam.columbia.edu/)
 
