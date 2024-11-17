@@ -7,7 +7,9 @@ A repository for quickly accessing research insights into professors' expertise 
 ## Universities
 
 ## [Stanford](https://www.stanford.edu/) 
-[ME & EE: Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines)
+[ME & EE: Dec, 2](https://gradadmissions.stanford.edu/apply/dates-and-deadlines);
+[$125](https://gradadmissions.stanford.edu/apply/application-fee);
+[Apply Now](https://gradadmissions.stanford.edu/apply/apply-now)
 
 <details>
 <summary>Click to expand Stanford Professors</summary>
