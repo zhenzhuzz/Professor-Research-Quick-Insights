@@ -2461,7 +2461,34 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of UCLA Section -->
 <!-- End of UCLA Section -->
 
+## [UCSD](https://ucsd.edu/)
+[ME: Dec, 4](https://maeweb.ucsd.edu/grad/graduate-admissions);
+[ECE: Dec, 16](https://www.ece.ucsd.edu/graduate/graduate-admissions)
+[$155](https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/)
+[Apply now](https://grad.ucsd.edu/admissions/)
 
+<details>
+<summary>Click to expand UCSD Professors</summary>
+
+## [University of California San Diego--UCSD](https://ucsd.edu/)
+### [Colleges and Schools](https://ucsd.edu/academics/)
+### [All Departments](https://grad.ucsd.edu/admissions/programs.html)
+### [School of Engineering](https://jacobsschool.ucsd.edu/)
+### [Departments in UCSD Engineering](https://jacobsschool.ucsd.edu/departments)
+
+### [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/)
+
+- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+
+### [Electrical and Computer Engineering](https://ece.ucsd.edu/)
+
+
+</details>
+
+
+<!-- End of UCSD Section -->
+<!-- End of UCSD Section -->
+<!-- End of UCSD Section -->
 
 
 ## [Caltech](https://www.caltech.edu/) 
@@ -3024,6 +3051,7 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of Caltech Section -->
 <!-- End of Caltech Section -->
 <!-- End of Caltech Section -->
+
 
 ## [USC](https://www.usc.edu/)
 
@@ -12357,6 +12385,7 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand UIUC Professors</summary>
 
+## [University of Illinois Urbana-Champaign--UIUC](https://illinois.edu/)
 ### [Colleges and Schools](https://illinois.edu/academics/academics.html)
 ### [All Departments](https://directory.illinois.edu/departmentsUnits)
 ### [College of Engineering](https://grainger.illinois.edu/)
@@ -12382,8 +12411,9 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## [Princeton](https://www.princeton.edu/)
 [ME: Dec, 1](https://gradschool.princeton.edu/admission-onboarding/prepare/deadlines-and-fees);
-[ECE: Dec, 15](https://gradschool.princeton.edu/admission-onboarding/prepare/deadlines-and-fees)
-$75
+[ECE: Dec, 15](https://gradschool.princeton.edu/admission-onboarding/prepare/deadlines-and-fees);
+[$75](https://gradschool.princeton.edu/admission-onboarding/prepare/deadlines-and-fees);
+[Apply Now](https://gradschool.princeton.edu/admission-onboarding/apply)
 
 <details>
 <summary>Click to expand Princeton Professors</summary>
