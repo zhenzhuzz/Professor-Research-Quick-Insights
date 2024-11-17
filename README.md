@@ -8014,7 +8014,9 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 ## [Upenn](https://www.upenn.edu/)
-[MEAM & ESE: Dec, 16](https://gradadm.seas.upenn.edu/doctoral/)
+[MEAM & ESE: Dec, 16](https://gradadm.seas.upenn.edu/doctoral/);
+[$90](https://gradadm.seas.upenn.edu/how-to-apply/);
+[Apply now](https://gradadm.seas.upenn.edu/how-to-apply/);
 <details>
 <summary>Click to expand Upenn Professors</summary>
 
