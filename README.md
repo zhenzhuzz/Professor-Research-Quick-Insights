@@ -12347,3 +12347,113 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of CMU Section -->
 <!-- End of CMU Section -->
 <!-- End of CMU Section -->
+
+## [UIUC](https://illinois.edu/)
+[ME: Dec, 15](https://mechse.illinois.edu/graduate/applying-mechse-graduate-programs);
+[ECE: Dec, 15](https://ece.illinois.edu/admissions/graduate/graduate-dates-and-deadlines)
+[$90](https://grad.illinois.edu/application-fee)
+[Apply now](https://grad.illinois.edu/admissions/apply)
+
+<details>
+<summary>Click to expand UIUC Professors</summary>
+
+### [Colleges and Schools](https://illinois.edu/academics/academics.html)
+### [All Departments](https://directory.illinois.edu/departmentsUnits)
+### [College of Engineering](https://grainger.illinois.edu/)
+### [Departments in UIUC Engineering](https://grainger.illinois.edu/about#tile37226)
+
+### [Mechanical Science and Engineering](https://mechse.illinois.edu/)
+
+- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+
+### [Electrical and Computer Engineering](https://ece.illinois.edu/)
+
+### [Physics](https://physics.illinois.edu/)
+
+### [Aerospace Engineering](https://aerospace.illinois.edu/)
+
+</details>
+
+
+<!-- End of UIUC Section -->
+<!-- End of UIUC Section -->
+<!-- End of UIUC Section -->
+
+
+## [Princeton](https://www.princeton.edu/)
+[ME: Dec, 1](https://gradschool.princeton.edu/admission-onboarding/prepare/deadlines-and-fees);
+[ECE: Dec, 15](https://gradschool.princeton.edu/admission-onboarding/prepare/deadlines-and-fees)
+$75
+
+<details>
+<summary>Click to expand Princeton Professors</summary>
+  
+### [Departments](https://admission.princeton.edu/academics/degrees-departments)
+### [Schools of the College of Engineering](https://engineering.princeton.edu/)
+
+### [Mechanical and Aerospace Engineering](https://mae.princeton.edu/)
+
+- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+
+### [Electrical and Computer Engineering](https://ece.princeton.edu/)
+
+</details>
+
+
+<!-- End of Princeton Section -->
+<!-- End of Princeton Section -->
+<!-- End of Princeton Section -->
+
+## [Yale](https://www.yale.edu/)
+[ME: Dec, 15](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines);
+[ECE: Dec, 15](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines)
+[$105](https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers)
+
+<details>
+<summary>Click to expand Yale Professors</summary>
+
+### [Colleges and Schools](https://yale2020.yale.edu/graduate-professional-schools)
+### [School of Engineering & Applied Science](https://seas.yale.edu/)
+### [Departments in Yale Engineering](https://seas.yale.edu/departments)
+
+### [Mechanical Engineering and Materials Science](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science)
+
+- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+
+### [Electrical and Computer Engineering](https://seas.yale.edu/departments/electrical-engineering)
+
+### [Applied Physics](https://appliedphysics.yale.edu/)
+</details>
+
+
+<!-- End of Yale Section -->
+<!-- End of Yale Section -->
+<!-- End of Yale Section -->
+
+## [Cornell](https://www.cornell.edu/)
+[ME: Dec, 1](https://www.mae.cornell.edu/mae/programs/graduate-programs/phd-degree/admissions);
+[ECE: Dec, 15](https://www.ece.cornell.edu/ece/programs/graduate-programs/phd-program/phd-admission-process)
+[$105](https://gradschool.cornell.edu/admissions/apply/application-fees/)
+[Apply now](https://gradschool.cornell.edu/admissions/apply/apply-now/)
+
+<details>
+<summary>Click to expand Cornell Professors</summary>
+
+### [Colleges and Schools](https://www.cornell.edu/academics/colleges.cfm)
+### [All Departments](https://www.cornell.edu/academics/departments.cfm)
+### [College of Engineering](https://www.engineering.cornell.edu/)
+### [Departments in Cornell Engineering](https://www.engineering.cornell.edu/programs-departments)
+
+### [Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae)
+
+- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+
+### [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece)
+
+### [Applied and Engineering Physics](https://www.aep.cornell.edu/aep)
+</details>
+
+
+<!-- End of Cornell Section -->
+<!-- End of Cornell Section -->
+<!-- End of Cornell Section -->
