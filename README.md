@@ -2347,7 +2347,9 @@ A repository for quickly accessing research insights into professors' expertise 
 [ME: Dec, 1](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/mechanical-engineering/);
 [Aero: Dec, 1](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/); 
 [ECE: Dec, 15](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/);
-[Admission Catolog](https://grad.ucla.edu/admissions/calendar/#:~:text=Most%20graduate%20admissions%20applications%20are,some%20have%20multiple%20admissions%20rounds.)
+[Admission Catolog](https://grad.ucla.edu/admissions/calendar/#:~:text=Most%20graduate%20admissions%20applications%20are,some%20have%20multiple%20admissions%20rounds.);
+[$155](https://grad.ucla.edu/admissions/faqs/);
+[Apply Now](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/)
 
 <details>
 <summary>Click to expand UCLA Professors</summary>
