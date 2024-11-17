@@ -4342,8 +4342,11 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 ## [MIT](https://www.mit.edu/) 
-[ME: Dec, 15](https://meche.mit.edu/education/prospective-students/graduate/apply)
-[EECS: Dec, 1](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/)
+[ME: Dec, 15](https://meche.mit.edu/education/prospective-students/graduate/apply);
+[EECS: Dec, 1](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/);
+[$90](https://oge.mit.edu/graduate-admissions/frequently-asked-questions/);
+[Apply Now ME](https://meche.mit.edu/education/prospective-students/graduate/graduate-admissions-faq#more_depts);
+[Apply Now EECS](https://gradapply.mit.edu/eecs/apply/login/)
 
 <details>
 <summary>Click to expand MIT Professors</summary>
