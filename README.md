@@ -15021,6 +15021,232 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Applied and Engineering Physics](https://www.aep.cornell.edu/aep)
 </details>
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/nicole-a-benedek/research-overview.md">
+                <img src="research-quickview/cornell/profiles/nicole-a-benedek-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicole A. Benedek"><br>
+                <b>Nicole A. Benedek</b>
+            </a>
+            <p>
+                材料科学, 纳米材料, 量子物理, 电子结构, 光电学, 量子计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/itai-cohen/research-overview.md">
+                <img src="research-quickview/cornell/profiles/itai-cohen-profile.jpg" width="150" style="border-radius: 8px;" alt="Itai Cohen"><br>
+                <b>Itai Cohen</b>
+            </a>
+            <p>
+                生物物理, 软物质, 物理学, 自组装, 聚合物, 生物材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/david-erickson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/david-erickson-profile.jpg" width="150" style="border-radius: 8px;" alt="David Erickson"><br>
+                <b>David Erickson</b>
+            </a>
+            <p>
+                微流控, 生物传感器, 医学应用, 生物工程, 生物电子学, 纳米技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/emmanuel-p-giannelis/research-overview.md">
+                <img src="research-quickview/cornell/profiles/emmanuel-p-giannelis-profile.jpg" width="150" style="border-radius: 8px;" alt="Emmanuel P. Giannelis"><br>
+                <b>Emmanuel P. Giannelis</b>
+            </a>
+            <p>
+                材料科学, 纳米材料, 聚合物, 复合材料, 高分子, 电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/david-a-hammer/research-overview.md">
+                <img src="research-quickview/cornell/profiles/david-a-hammer-profile.jpg" width="150" style="border-radius: 8px;" alt="David A. Hammer"><br>
+                <b>David A. Hammer</b>
+            </a>
+            <p>
+                凝聚态物理, 量子信息, 材料物理, 自旋电子学, 超导, 纳米材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/melissa-a-hines/research-overview.md">
+                <img src="research-quickview/cornell/profiles/melissa-a-hines-profile.jpg" width="150" style="border-radius: 8px;" alt="Melissa A. Hines"><br>
+                <b>Melissa A. Hines</b>
+            </a>
+            <p>
+                纳米材料, 量子计算, 材料科学, 半导体, 量子物理, 纳米技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/debdeep-jena/research-overview.md">
+                <img src="research-quickview/cornell/profiles/debdeep-jena-profile.jpg" width="150" style="border-radius: 8px;" alt="Debdeep Jena"><br>
+                <b>Debdeep Jena</b>
+            </a>
+            <p>
+                半导体物理, 电子器件, 纳米电子学, 光电子学, 量子计算, 电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/amit-lal/research-overview.md">
+                <img src="research-quickview/cornell/profiles/amit-lal-profile.jpg" width="150" style="border-radius: 8px;" alt="Amit Lal"><br>
+                <b>Amit Lal</b>
+            </a>
+            <p>
+                纳米技术, 微纳米传感器, 微机电系统, 生物传感器, 微流控, 材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/karan-mehta/research-overview.md">
+                <img src="research-quickview/cornell/profiles/karan-mehta-profile.jpg" width="150" style="border-radius: 8px;" alt="Karan Mehta"><br>
+                <b>Karan Mehta</b>
+            </a>
+            <p>
+                量子信息, 量子光学, 光电子学, 纳米光学, 量子计算, 光通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/daniel-ralph/research-overview.md">
+                <img src="research-quickview/cornell/profiles/daniel-ralph-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Ralph"><br>
+                <b>Daniel Ralph</b>
+            </a>
+            <p>
+                自旋电子学, 纳米材料, 量子物理, 超导, 量子计算, 磁性材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/richard-douglas-robinson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/richard-douglas-robinson-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Douglas Robinson"><br>
+                <b>Richard Douglas Robinson</b>
+            </a>
+            <p>
+                人工智能, 机器学习, 强化学习, 自适应控制, 数学优化, 大数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/chris-roh/research-overview.md">
+                <img src="research-quickview/cornell/profiles/chris-roh-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris Roh"><br>
+                <b>Chris Roh</b>
+            </a>
+            <p>
+                纳米材料, 电子物理, 光电学, 量子物理, 硅光电子学, 量子计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/chris-schaffer/research-overview.md">
+                <img src="research-quickview/cornell/profiles/chris-schaffer-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris Schaffer"><br>
+                <b>Chris Schaffer</b>
+            </a>
+            <p>
+                医学影像, 生物成像, 微创手术, 激光技术, 生物物理, 细胞成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/darrell-schlom/research-overview.md">
+                <img src="research-quickview/cornell/profiles/darrell-schlom-profile.jpg" width="150" style="border-radius: 8px;" alt="Darrell Schlom"><br>
+                <b>Darrell Schlom</b>
+            </a>
+            <p>
+                材料科学, 电子学, 纳米材料, 超导, 自旋电子学, 量子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/charles-eugene-seyler/research-overview.md">
+                <img src="research-quickview/cornell/profiles/charles-eugene-seyler-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles Eugene Seyler"><br>
+                <b>Charles Eugene Seyler</b>
+            </a>
+            <p>
+                量子材料, 超导, 自旋电子学, 纳米技术, 纳米光学, 量子物理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/kyle-shen/research-overview.md">
+                <img src="research-quickview/cornell/profiles/kyle-shen-profile.jpg" width="150" style="border-radius: 8px;" alt="Kyle Shen"><br>
+                <b>Kyle Shen</b>
+            </a>
+            <p>
+                材料物理, 超导, 量子物理, 电子材料, 纳米材料, 自旋电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/michael-thompson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/michael-thompson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Thompson"><br>
+                <b>Michael Thompson</b>
+            </a>
+            <p>
+                纳米光学, 量子光学, 纳米技术, 自旋电子学, 量子计算, 材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/sandip-tiwari/research-overview.md">
+                <img src="research-quickview/cornell/profiles/sandip-tiwari-profile.jpg" width="150" style="border-radius: 8px;" alt="Sandip Tiwari"><br>
+                <b>Sandip Tiwari</b>
+            </a>
+            <p>
+                纳米技术, 半导体器件, 电子学, 量子计算, 材料科学, 微电子学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/r-b-van-dover/research-overview.md">
+                <img src="research-quickview/cornell/profiles/r-b-van-dover-profile.jpg" width="150" style="border-radius: 8px;" alt="R. B. van Dover"><br>
+                <b>R. B. van Dover</b>
+            </a>
+            <p>
+                材料科学, 超导, 纳米技术, 磁性材料, 量子物理, 光电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/jane-wang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/jane-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Jane Wang"><br>
+                <b>Jane Wang</b>
+            </a>
+            <p>
+                生物力学, 纳米力学, 粒子物理学, 纳米材料, 自组装, 微观结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/michelle-wang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/michelle-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Michelle Wang"><br>
+                <b>Michelle Wang</b>
+            </a>
+            <p>
+                生物物理, 纳米技术, DNA力学, 分子机器, 生物成像, 药物递送
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/mark-wilde/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mark-wilde-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Wilde"><br>
+                <b>Mark Wilde</b>
+            </a>
+            <p>
+                量子信息, 量子计算, 量子理论, 信息论, 量子通信, 量子纠缠
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/aep/warren-r-zipfel/research-overview.md">
+                <img src="research-quickview/cornell/profiles/warren-r-zipfel-profile.jpg" width="150" style="border-radius: 8px;" alt="Warren R. Zipfel"><br>
+                <b>Warren R. Zipfel</b>
+            </a>
+            <p>
+                生物成像, 激光成像, 近红外成像, 高分辨率成像, 药物递送, 细胞成像
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 
 <!-- End of Cornell Section -->
