@@ -14647,6 +14647,378 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece)
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/steven-graham-adie/research-overview.md">
+                <img src="research-quickview/cornell/profiles/steven-graham-adie-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven Graham Adie"><br>
+                <b>Steven Graham Adie</b>
+            </a>
+            <p>
+                生物医学影像, 微观成像技术, 机器学习, 计算成像, 成像处理, 定量生物学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/c-lindsay-anderson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/c-lindsay-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="C. Lindsay Anderson"><br>
+                <b>C. Lindsay Anderson</b>
+            </a>
+            <p>
+                电力系统, 电力电子, 控制系统, 网络优化, 可再生能源, 智能电网
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/dieter-ast/research-overview.md">
+                <img src="research-quickview/cornell/profiles/dieter-ast-profile.jpg" width="150" style="border-radius: 8px;" alt="Dieter Ast"><br>
+                <b>Dieter Ast</b>
+            </a>
+            <p>
+                无线通信, 信号处理, 网络编码, 多址接入, 自适应信号处理, 无线网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/sid-banerjee/research-overview.md">
+                <img src="research-quickview/cornell/profiles/sid-banerjee-profile.jpg" width="150" style="border-radius: 8px;" alt="Sid Banerjee"><br>
+                <b>Sid Banerjee</b>
+            </a>
+            <p>
+                数据科学, 高性能计算, 机器学习, 数学优化, 大数据分析, 自然语言处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/carl-batt/research-overview.md">
+                <img src="research-quickview/cornell/profiles/carl-batt-profile.jpg" width="150" style="border-radius: 8px;" alt="Carl Batt"><br>
+                <b>Carl Batt</b>
+            </a>
+            <p>
+                微电子学, 纳米技术, 量子电子学, 半导体器件, 集成电路, 纳米制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/serge-belongie/research-overview.md">
+                <img src="research-quickview/cornell/profiles/serge-belongie-profile.jpg" width="150" style="border-radius: 8px;" alt="Serge Belongie"><br>
+                <b>Serge Belongie</b>
+            </a>
+            <p>
+                计算机视觉, 图像识别, 机器学习, 深度学习, 视觉感知, 图像处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/tapomayukh-bhattacharjee/research-overview.md">
+                <img src="research-quickview/cornell/profiles/tapomayukh-bhattacharjee-profile.jpg" width="150" style="border-radius: 8px;" alt="Tapomayukh Bhattacharjee"><br>
+                <b>Tapomayukh Bhattacharjee</b>
+            </a>
+            <p>
+                数据科学, 强化学习, 网络系统, 分布式计算, 网络优化, 云计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/mark-campbell/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mark-campbell-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Campbell"><br>
+                <b>Mark Campbell</b>
+            </a>
+            <p>
+                机器人学, 自动化, 动力学控制, 多机器人系统, 人机交互, 自适应控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/thomas-cleland/research-overview.md">
+                <img src="research-quickview/cornell/profiles/thomas-cleland-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Cleland"><br>
+                <b>Thomas Cleland</b>
+            </a>
+            <p>
+                神经科学, 神经计算, 神经网络, 计算神经科学, 大脑建模, 机器学习
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/harold-g-craighead/research-overview.md">
+                <img src="research-quickview/cornell/profiles/harold-g-craighead-profile.jpg" width="150" style="border-radius: 8px;" alt="Harold G. Craighead"><br>
+                <b>Harold G. Craighead</b>
+            </a>
+            <p>
+                纳米技术, 微型传感器, 微流体, 分子电子学, 纳米制造, 电子设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/chris-de-sa/research-overview.md">
+                <img src="research-quickview/cornell/profiles/chris-de-sa-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris De Sa"><br>
+                <b>Chris De Sa</b>
+            </a>
+            <p>
+                机器学习, 算法设计, 优化理论, 分布式计算, 高效计算, 数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/sarah-dean/research-overview.md">
+                <img src="research-quickview/cornell/profiles/sarah-dean-profile.jpg" width="150" style="border-radius: 8px;" alt="Sarah Dean"><br>
+                <b>Sarah Dean</b>
+            </a>
+            <p>
+                网络协议, 网络安全, 数据加密, 信号处理, 网络优化, 网络分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/david-erickson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/david-erickson-profile.jpg" width="150" style="border-radius: 8px;" alt="David Erickson"><br>
+                <b>David Erickson</b>
+            </a>
+            <p>
+                微流控, 生命科学, 生物医学工程, 医疗设备, 微型传感器, 流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/nate-foster/research-overview.md">
+                <img src="research-quickview/cornell/profiles/nate-foster-profile.jpg" width="150" style="border-radius: 8px;" alt="Nate Foster"><br>
+                <b>Nate Foster</b>
+            </a>
+            <p>
+                编程语言, 形式化方法, 程序分析, 分布式系统, 高级计算, 系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/joseph-y-halpern/research-overview.md">
+                <img src="research-quickview/cornell/profiles/joseph-y-halpern-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph Y. Halpern"><br>
+                <b>Joseph Y. Halpern</b>
+            </a>
+            <p>
+                计算机科学, 信息理论, 形式化逻辑, 系统设计, 博弈论, 计算复杂性
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/james-hwang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/james-hwang-profile.jpg" width="150" style="border-radius: 8px;" alt="James Hwang"><br>
+                <b>James Hwang</b>
+            </a>
+            <p>
+                计算机视觉, 机器人学, 多传感器融合, 增强现实, 图像处理, 人机交互
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/david-lee-hysell/research-overview.md">
+                <img src="research-quickview/cornell/profiles/david-lee-hysell-profile.jpg" width="150" style="border-radius: 8px;" alt="David Lee Hysell"><br>
+                <b>David Lee Hysell</b>
+            </a>
+            <p>
+                大气科学, 卫星遥感, 气候变化, 空间天气, 数据分析, 流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/yu-jiang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/yu-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu Jiang"><br>
+                <b>Yu Jiang</b>
+            </a>
+            <p>
+                计算机视觉, 图像识别, 深度学习, 语义分割, 自动驾驶, 视频分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/cindy-hsin-liu-kao/research-overview.md">
+                <img src="research-quickview/cornell/profiles/cindy-hsin-liu-kao-profile.jpg" width="150" style="border-radius: 8px;" alt="Cindy (Hsin-Liu) Kao"><br>
+                <b>Cindy (Hsin-Liu) Kao</b>
+            </a>
+            <p>
+                无线通信, 网络协议, 网络安全, IoT, 协同系统, 无线网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/hadas-kress-gazit/research-overview.md">
+                <img src="research-quickview/cornell/profiles/hadas-kress-gazit-profile.jpg" width="150" style="border-radius: 8px;" alt="Hadas Kress-Gazit"><br>
+                <b>Hadas Kress-Gazit</b>
+            </a>
+            <p>
+                机器人学, 自动化, 动态系统, 自适应控制, 自主机器人, 嵌入式系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/amy-kuceyeski/research-overview.md">
+                <img src="research-quickview/cornell/profiles/amy-kuceyeski-profile.jpg" width="150" style="border-radius: 8px;" alt="Amy Kuceyeski"><br>
+                <b>Amy Kuceyeski</b>
+            </a>
+            <p>
+                神经网络, 计算神经科学, 脑-机接口, 医学影像, 数据科学, 人脑连接组
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/bruce-raymond-kusse/research-overview.md">
+                <img src="research-quickview/cornell/profiles/bruce-raymond-kusse-profile.jpg" width="150" style="border-radius: 8px;" alt="Bruce Raymond Kusse"><br>
+                <b>Bruce Raymond Kusse</b>
+            </a>
+            <p>
+                无线通信, 网络理论, 无线协议, 无线传感器网络, 通信优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/andreas-malikopoulos/research-overview.md">
+                <img src="research-quickview/cornell/profiles/andreas-malikopoulos-profile.jpg" width="150" style="border-radius: 8px;" alt="Andreas Malikopoulos"><br>
+                <b>Andreas Malikopoulos</b>
+            </a>
+            <p>
+                电动汽车, 能源管理, 交通系统, 机器人学, 自适应控制, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/stephen-robert-marschner/research-overview.md">
+                <img src="research-quickview/cornell/profiles/stephen-robert-marschner-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Robert Marschner"><br>
+                <b>Stephen Robert Marschner</b>
+            </a>
+            <p>
+                计算机图形学, 光照模型, 渲染算法, 三维建模, 可视化, 计算几何学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/paul-mceuen/research-overview.md">
+                <img src="research-quickview/cornell/profiles/paul-mceuen-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul McEuen"><br>
+                <b>Paul McEuen</b>
+            </a>
+            <p>
+                纳米技术, 量子物理, 电子器件, 纳米传感器, 半导体, 量子计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/peter-mcmahon/research-overview.md">
+                <img src="research-quickview/cornell/profiles/peter-mcmahon-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter McMahon"><br>
+                <b>Peter McMahon</b>
+            </a>
+            <p>
+                量子计算, 量子光学, 信息处理, 纳米技术, 量子算法, 量子通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/andrew-c-myers/research-overview.md">
+                <img src="research-quickview/cornell/profiles/andrew-c-myers-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew C. Myers"><br>
+                <b>Andrew C. Myers</b>
+            </a>
+            <p>
+                编程语言, 安全计算, 系统架构, 信息安全, 嵌入式系统, 分布式计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/cara-m-nunez/research-overview.md">
+                <img src="research-quickview/cornell/profiles/cara-m-nunez-profile.jpg" width="150" style="border-radius: 8px;" alt="Cara M. Nunez"><br>
+                <b>Cara M. Nunez</b>
+            </a>
+            <p>
+                可穿戴设备, 健康监测, 生物传感器, 医疗设备, 人机交互, 无线通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/richard-douglas-robinson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/richard-douglas-robinson-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Douglas Robinson"><br>
+                <b>Richard Douglas Robinson</b>
+            </a>
+            <p>
+                人工智能, 机器学习, 强化学习, 自适应控制, 数学优化, 大数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/adrian-sampson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/adrian-sampson-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrian Sampson"><br>
+                <b>Adrian Sampson</b>
+            </a>
+            <p>
+                编程语言, 系统架构, 数据科学, 高效计算, 优化算法, 软件工程
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/gennady-shvets/research-overview.md">
+                <img src="research-quickview/cornell/profiles/gennady-shvets-profile.jpg" width="150" style="border-radius: 8px;" alt="Gennady Shvets"><br>
+                <b>Gennady Shvets</b>
+            </a>
+            <p>
+                纳米光子学, 光通信, 量子光学, 纳米材料, 光学传感器, 量子计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/keith-noah-snavely/research-overview.md">
+                <img src="research-quickview/cornell/profiles/keith-noah-snavely-profile.jpg" width="150" style="border-radius: 8px;" alt="Keith Noah Snavely"><br>
+                <b>Keith Noah Snavely</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 深度学习, 三维建模, 多视角图像, 计算机图形学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/michelle-wang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/michelle-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Michelle Wang"><br>
+                <b>Michelle Wang</b>
+            </a>
+            <p>
+                生物物理, 蛋白质结构, 药物设计, 生物分子, 分子生物学, 基因组学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/yi-wang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/yi-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yi Wang"><br>
+                <b>Yi Wang</b>
+            </a>
+            <p>
+                生物医学工程, 神经科学, 计算成像, 医学影像, 神经影像, 生命科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/hakim-weatherspoon/research-overview.md">
+                <img src="research-quickview/cornell/profiles/hakim-weatherspoon-profile.jpg" width="150" style="border-radius: 8px;" alt="Hakim Weatherspoon"><br>
+                <b>Hakim Weatherspoon</b>
+            </a>
+            <p>
+                网络协议, 计算机网络, 无线通信, 网络安全, 分布式计算, 云计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/simone-angela-winkler/research-overview.md">
+                <img src="research-quickview/cornell/profiles/simone-angela-winkler-profile.jpg" width="150" style="border-radius: 8px;" alt="Simone Angela Winkler"><br>
+                <b>Simone Angela Winkler</b>
+            </a>
+            <p>
+                计算生物学, 生物信息学, 数据科学, 神经科学, 脑科学, 生物统计学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/fengqi-you/research-overview.md">
+                <img src="research-quickview/cornell/profiles/fengqi-you-profile.jpg" width="150" style="border-radius: 8px;" alt="Fengqi You"><br>
+                <b>Fengqi You</b>
+            </a>
+            <p>
+                数据分析, 大数据, 机器学习, 优化算法, 数值计算, 系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/ece/ramin-zabih/research-overview.md">
+                <img src="research-quickview/cornell/profiles/ramin-zabih-profile.jpg" width="150" style="border-radius: 8px;" alt="Ramin Zabih"><br>
+                <b>Ramin Zabih</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 深度学习, 计算图形学, 模式识别, 图像理解
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 ### [Applied and Engineering Physics](https://www.aep.cornell.edu/aep)
 </details>
 
