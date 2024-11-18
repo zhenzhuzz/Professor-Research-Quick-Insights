@@ -13992,7 +13992,658 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae)
 
-- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+- **Field**: [Advanced Manufacturing and Materials](https://www.mae.cornell.edu/node/16232)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/nelly-andarawis-puri/research-overview.md">
+                <img src="research-quickview/cornell/profiles/nelly-andarawis-puri-profile.jpg" width="150" style="border-radius: 8px;" alt="Nelly Andarawis-Puri"><br>
+                <b>Nelly Andarawis-Puri</b>
+            </a>
+            <p>
+                机械与航空工程, 生物力学与组织工程, 材料行为与失效, 计算力学, 生物医学应用, 创伤力学与损伤分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/lawrence-bonassar/research-overview.md">
+                <img src="research-quickview/cornell/profiles/lawrence-bonassar-profile.jpg" width="150" style="border-radius: 8px;" alt="Lawrence Bonassar"><br>
+                <b>Lawrence Bonassar</b>
+            </a>
+            <p>
+                生物力学与组织工程, 软组织与骨骼组织建模, 3D打印与生物制造, 干细胞与组织修复, 临床应用研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/nikolaos-bouklas/research-overview.md">
+                <img src="research-quickview/cornell/profiles/nikolaos-bouklas-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikolaos Bouklas"><br>
+                <b>Nikolaos Bouklas</b>
+            </a>
+            <p>
+                机械行为与材料力学, 材料模拟与计算力学, 结构与多尺度建模, 硬脆材料与微观失效, 断裂力学与疲劳分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/paul-dawson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/paul-dawson-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Dawson"><br>
+                <b>Paul Dawson</b>
+            </a>
+            <p>
+                机械设计与力学分析, 工程教育与教学方法, 动力学与振动控制, 系统与控制理论
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mostafa-hassani/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mostafa-hassani-profile.jpg" width="150" style="border-radius: 8px;" alt="Mostafa Hassani"><br>
+                <b>Mostafa Hassani</b>
+            </a>
+            <p>
+                材料科学与工程, 纳米材料与微电子学, 材料失效与故障诊断, 高性能复合材料, 计算材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/herbert-hui/research-overview.md">
+                <img src="research-quickview/cornell/profiles/herbert-hui-profile.jpg" width="150" style="border-radius: 8px;" alt="Herbert Hui"><br>
+                <b>Herbert Hui</b>
+            </a>
+            <p>
+                热力学与传热学, 固体力学与结构分析, 工程力学, 气动学与流体力学, 固体与流体相互作用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/brian-kirby/research-overview.md">
+                <img src="research-quickview/cornell/profiles/brian-kirby-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Kirby"><br>
+                <b>Brian Kirby</b>
+            </a>
+            <p>
+                微型流体学, 纳米流体学, 微流控设备, 生物医学传感器, 流体力学实验与模拟
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/matthew-miller/research-overview.md">
+                <img src="research-quickview/cornell/profiles/matthew-miller-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Miller"><br>
+                <b>Matthew Miller</b>
+            </a>
+            <p>
+                热力学与能源转换, 气动学, 流体力学与传热, 高效能源存储, 可持续能源技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/atieh-moridi/research-overview.md">
+                <img src="research-quickview/cornell/profiles/atieh-moridi-profile.jpg" width="150" style="border-radius: 8px;" alt="Atieh Moridi"><br>
+                <b>Atieh Moridi</b>
+            </a>
+            <p>
+                材料力学与行为, 多尺度建模与仿真, 纳米材料, 失效分析与材料优化, 高性能计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/stuart-phoenix/research-overview.md">
+                <img src="research-quickview/cornell/profiles/stuart-phoenix-profile.jpg" width="150" style="border-radius: 8px;" alt="Stuart Phoenix"><br>
+                <b>Stuart Phoenix</b>
+            </a>
+            <p>
+                材料设计与应用, 金属与复合材料, 材料疲劳与损伤, 断裂力学, 微观结构与失效机制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/fabien-royer/research-overview.md">
+                <img src="research-quickview/cornell/profiles/fabien-royer-profile.jpg" width="150" style="border-radius: 8px;" alt="Fabien Royer"><br>
+                <b>Fabien Royer</b>
+            </a>
+            <p>
+                机器人与自动化, 微型机器人, 生物医学应用, 人机交互, 传感器与执行器设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/andy-ruina/research-overview.md">
+                <img src="research-quickview/cornell/profiles/andy-ruina-profile.jpg" width="150" style="border-radius: 8px;" alt="Andy Ruina"><br>
+                <b>Andy Ruina</b>
+            </a>
+            <p>
+                机器人学, 动力学与控制, 机械系统建模, 运动学与力学分析, 运动控制与优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/robert-shepherd/research-overview.md">
+                <img src="research-quickview/cornell/profiles/robert-shepherd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Shepherd"><br>
+                <b>Robert Shepherd</b>
+            </a>
+            <p>
+                柔性机器人, 人机交互, 智能材料, 可穿戴设备, 生物启发式设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/meredith-silberstein/research-overview.md">
+                <img src="research-quickview/cornell/profiles/meredith-silberstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Meredith Silberstein"><br>
+                <b>Meredith Silberstein</b>
+            </a>
+            <p>
+                计算力学, 流体力学, 传热与多物理场问题, 结构与流体相互作用, 燃烧与能源转化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/sadaf-sobhani/research-overview.md">
+                <img src="research-quickview/cornell/profiles/sadaf-sobhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Sadaf Sobhani"><br>
+                <b>Sadaf Sobhani</b>
+            </a>
+            <p>
+                材料力学与工程, 纳米力学, 多尺度模拟, 力学失效与强度分析, 材料优化与实验设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/zhiting-tian/research-overview.md">
+                <img src="research-quickview/cornell/profiles/zhiting-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhiting Tian"><br>
+                <b>Zhiting Tian</b>
+            </a>
+            <p>
+                计算力学, 数值模拟, 力学系统建模, 结构力学, 多物理场问题, 断裂力学与疲劳分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/marjolein-van-der-meulen/research-overview.md">
+                <img src="research-quickview/cornell/profiles/marjolein-van-der-meulen-profile.jpg" width="150" style="border-radius: 8px;" alt="Marjolein van der Meulen"><br>
+                <b>Marjolein van der Meulen</b>
+            </a>
+            <p>
+                生物力学与组织工程, 骨骼与软组织修复, 临床生物力学, 组织工程, 骨质疏松研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/jingjie-yeo/research-overview.md">
+                <img src="research-quickview/cornell/profiles/jingjie-yeo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jingjie Yeo"><br>
+                <b>Jingjie Yeo</b>
+            </a>
+            <p>
+                机器人学, 微型机器人, 无人机, 机电一体化, 自动化与控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/alan-zehnder/research-overview.md">
+                <img src="research-quickview/cornell/profiles/alan-zehnder-profile.jpg" width="150" style="border-radius: 8px;" alt="Alan Taylor Zehnder"><br>
+                <b>Alan Taylor Zehnder</b>
+            </a>
+            <p>
+                机器人学, 生物医学工程, 自动化, 动力学与控制, 机器人视觉
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Biomechanics](https://www.mae.cornell.edu/node/678)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/nelly-andarawis-puri/research-overview.md">
+                <img src="research-quickview/cornell/profiles/nelly-andarawis-puri-profile.jpg" width="150" style="border-radius: 8px;" alt="Nelly Andarawis-Puri"><br>
+                <b>Nelly Andarawis-Puri</b>
+            </a>
+            <p>
+                机械与航空工程, 生物力学与组织工程, 材料行为与失效, 计算力学, 生物医学应用, 创伤力学与损伤分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/lawrence-bonassar/research-overview.md">
+                <img src="research-quickview/cornell/profiles/lawrence-bonassar-profile.jpg" width="150" style="border-radius: 8px;" alt="Lawrence Bonassar"><br>
+                <b>Lawrence Bonassar</b>
+            </a>
+            <p>
+                生物力学与组织工程, 软组织与骨骼组织建模, 3D打印与生物制造, 干细胞与组织修复, 临床应用研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/nikolaos-bouklas/research-overview.md">
+                <img src="research-quickview/cornell/profiles/nikolaos-bouklas-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikolaos Bouklas"><br>
+                <b>Nikolaos Bouklas</b>
+            </a>
+            <p>
+                机械行为与材料力学, 材料模拟与计算力学, 结构与多尺度建模, 硬脆材料与微观失效, 断裂力学与疲劳分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mahdi-hasani/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mahdi-hasani-profile.jpg" width="150" style="border-radius: 8px;" alt="Mahdi Hasani"><br>
+                <b>Mahdi Hasani</b>
+            </a>
+            <p>
+                材料科学与工程, 纳米材料与微电子学, 材料失效与故障诊断, 高性能复合材料, 计算材料科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/negin-majedi/research-overview.md">
+                <img src="research-quickview/cornell/profiles/negin-majedi-profile.jpg" width="150" style="border-radius: 8px;" alt="Negin Majedi"><br>
+                <b>Negin Majedi</b>
+            </a>
+            <p>
+                高性能材料与纳米技术, 材料界面与失效机制, 纳米流体力学, 能源转化, 绿色材料开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/marjolein-van-der-meulen/research-overview.md">
+                <img src="research-quickview/cornell/profiles/marjolein-van-der-meulen-profile.jpg" width="150" style="border-radius: 8px;" alt="Marjolein van der Meulen"><br>
+                <b>Marjolein van der Meulen</b>
+            </a>
+            <p>
+                生物力学与组织工程, 骨骼与软组织修复, 临床生物力学, 组织工程, 骨质疏松研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/jane-wang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/jane-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Jane Wang"><br>
+                <b>Jane Wang</b>
+            </a>
+            <p>
+                流体力学与湍流, 大气科学与气候建模, 高速气动学, 湍流控制与实验, 复杂流动现象
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/jian-xun-wang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/jian-xun-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Jian-Xun Wang"><br>
+                <b>Jian-Xun Wang</b>
+            </a>
+            <p>
+                计算流体力学, 大气湍流与气动学, 颗粒物与多相流, 科学计算与数值方法, 复杂系统模拟
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/jingjie-yeo/research-overview.md">
+                <img src="research-quickview/cornell/profiles/jingjie-yeo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jingjie Yeo"><br>
+                <b>Jingjie Yeo</b>
+            </a>
+            <p>
+                机器人学, 微型机器人, 无人机, 机电一体化, 自动化与控制
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Bioengineering and Healthcare](https://www.mae.cornell.edu/node/16231)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/nelly-andarawis-puri/research-overview.md">
+                <img src="research-quickview/cornell/profiles/nelly-andarawis-puri-profile.jpg" width="150" style="border-radius: 8px;" alt="Nelly Andarawis-Puri"><br>
+                <b>Nelly Andarawis-Puri</b>
+            </a>
+            <p>
+                机械与航空工程, 生物力学与组织工程, 材料行为与失效, 计算力学, 生物医学应用, 创伤力学与损伤分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/lawrence-bonassar/research-overview.md">
+                <img src="research-quickview/cornell/profiles/lawrence-bonassar-profile.jpg" width="150" style="border-radius: 8px;" alt="Lawrence Bonassar"><br>
+                <b>Lawrence Bonassar</b>
+            </a>
+            <p>
+                生物力学与组织工程, 软组织与骨骼组织建模, 3D打印与生物制造, 干细胞与组织修复, 临床应用研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/david-erickson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/david-erickson-profile.jpg" width="150" style="border-radius: 8px;" alt="David Erickson"><br>
+                <b>David Erickson</b>
+            </a>
+            <p>
+                微流体学, 生物传感器, 微型芯片, 便携式诊断技术, 纳米材料, 临床诊断应用
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mahdi-hasani/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mahdi-hasani-profile.jpg" width="150" style="border-radius: 8px;" alt="Mahdi Hasani"><br>
+                <b>Mahdi Hasani</b>
+            </a>
+            <p>
+                材料科学与工程, 纳米材料与微电子学, 材料失效与故障诊断, 高性能复合材料, 计算材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/brian-kirby/research-overview.md">
+                <img src="research-quickview/cornell/profiles/brian-kirby-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Kirby"><br>
+                <b>Brian Kirby</b>
+            </a>
+            <p>
+                微流控技术, 生物力学, 细胞力学, 材料动力学, 颗粒物体研究, 实验室自动化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/negin-majedi/research-overview.md">
+                <img src="research-quickview/cornell/profiles/negin-majedi-profile.jpg" width="150" style="border-radius: 8px;" alt="Negin Majedi"><br>
+                <b>Negin Majedi</b>
+            </a>
+            <p>
+                高性能材料与纳米技术, 材料界面与失效机制, 纳米流体力学, 能源转化, 绿色材料开发
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/marjolein-van-der-meulen/research-overview.md">
+                <img src="research-quickview/cornell/profiles/marjolein-van-der-meulen-profile.jpg" width="150" style="border-radius: 8px;" alt="Marjolein van der Meulen"><br>
+                <b>Marjolein van der Meulen</b>
+            </a>
+            <p>
+                生物力学与组织工程, 骨骼与软组织修复, 临床生物力学, 组织工程, 骨质疏松研究
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Energy and Sustainability](https://www.mae.cornell.edu/node/1955)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/tom-avedisian/research-overview.md">
+                <img src="research-quickview/cornell/profiles/tom-avedisian-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Avedisian"><br>
+                <b>Tom Avedisian</b>
+            </a>
+            <p>
+                机械系统建模与优化, 控制系统设计, 动力学分析, 自动化与机器人, 智能控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/rebecca-j-barthelmie/research-overview.md">
+                <img src="research-quickview/cornell/profiles/rebecca-j-barthelmie-profile.jpg" width="150" style="border-radius: 8px;" alt="Rebecca J. Barthelmie"><br>
+                <b>Rebecca J. Barthelmie</b>
+            </a>
+            <p>
+                风能工程, 气象学与环境力学, 风力涡轮机性能评估, 风能资源评估, 风能优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/olivier-desjardins/research-overview.md">
+                <img src="research-quickview/cornell/profiles/olivier-desjardins-profile.jpg" width="150" style="border-radius: 8px;" alt="Olivier Desjardins"><br>
+                <b>Olivier Desjardins</b>
+            </a>
+            <p>
+                计算流体力学, 多相流, 湍流建模, 微流体力学, 热流体与传热
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/david-erickson/research-overview.md">
+                <img src="research-quickview/cornell/profiles/david-erickson-profile.jpg" width="150" style="border-radius: 8px;" alt="David Erickson"><br>
+                <b>David Erickson</b>
+            </a>
+            <p>
+                微流体学, 生物传感器, 微型芯片, 便携式诊断技术, 纳米材料, 临床诊断应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mahdi-hasani/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mahdi-hasani-profile.jpg" width="150" style="border-radius: 8px;" alt="Mahdi Hasani"><br>
+                <b>Mahdi Hasani</b>
+            </a>
+            <p>
+                材料科学与工程, 纳米材料与微电子学, 材料失效与故障诊断, 高性能复合材料, 计算材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/douglas-macmartin/research-overview.md">
+                <img src="research-quickview/cornell/profiles/douglas-macmartin-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas MacMartin"><br>
+                <b>Douglas MacMartin</b>
+            </a>
+            <p>
+                风能优化, 风能气候建模, 气候工程, 气候变化建模, 环境科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/perrine-pepiot/research-overview.md">
+                <img src="research-quickview/cornell/profiles/perrine-pepiot-profile.jpg" width="150" style="border-radius: 8px;" alt="Perrine Pepiot"><br>
+                <b>Perrine Pepiot</b>
+            </a>
+            <p>
+                热力学, 计算流体力学, 能源转化, 燃烧学, 多相流动
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/zhiting-tian/research-overview.md">
+                <img src="research-quickview/cornell/profiles/zhiting-tian-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhiting Tian"><br>
+                <b>Zhiting Tian</b>
+            </a>
+            <p>
+                纳米技术, 材料科学, 微电子学, 能源存储, 量子材料, 光电材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/k-max-zhang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/k-max-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="K. Max Zhang"><br>
+                <b>K. Max Zhang</b>
+            </a>
+            <p>
+                建筑环境, 能源管理, 空气质量建模, 环境影响评估, 智能建筑
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/lenan-zhang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/lenan-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Lenan Zhang"><br>
+                <b>Lenan Zhang</b>
+            </a>
+            <p>
+                纳米材料, 计算材料科学, 能源转化, 材料失效, 先进制造技术
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Robotics and Autonomy](https://www.mae.cornell.edu/node/4289)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mark-campbell/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mark-campbell-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Campbell"><br>
+                <b>Mark Campbell</b>
+            </a>
+            <p>
+                机器人学, 自动化, 动力学控制, 多机器人系统, 人机交互, 自适应控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/gregory-falco/research-overview.md">
+                <img src="research-quickview/cornell/profiles/gregory-falco-profile.jpg" width="150" style="border-radius: 8px;" alt="Gregory Falco"><br>
+                <b>Gregory Falco</b>
+            </a>
+            <p>
+                航天工程, 网络安全, 空间技术, 数据科学, 高风险创新, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/silvia-ferrari/research-overview.md">
+                <img src="research-quickview/cornell/profiles/silvia-ferrari-profile.jpg" width="150" style="border-radius: 8px;" alt="Silvia Ferrari"><br>
+                <b>Silvia Ferrari</b>
+            </a>
+            <p>
+                控制理论, 机器人学, 智能系统, 强化学习, 数据驱动建模, 自适应控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/keith-evan-green/research-overview.md">
+                <img src="research-quickview/cornell/profiles/keith-evan-green-profile.jpg" width="150" style="border-radius: 8px;" alt="Keith Evan Green"><br>
+                <b>Keith Evan Green</b>
+            </a>
+            <p>
+                机器人学, 机械设计, 智能控制, 多机器人协作, 自适应算法, 控制系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/guy-hoffman/research-overview.md">
+                <img src="research-quickview/cornell/profiles/guy-hoffman-profile.jpg" width="150" style="border-radius: 8px;" alt="Guy Hoffman"><br>
+                <b>Guy Hoffman</b>
+            </a>
+            <p>
+                机器人学, 人机交互, 社会机器人, 情感计算, 机器学习, 人类与机器协作
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/hadas-kress-gazit/research-overview.md">
+                <img src="research-quickview/cornell/profiles/hadas-kress-gazit-profile.jpg" width="150" style="border-radius: 8px;" alt="Hadas Kress-Gazit"><br>
+                <b>Hadas Kress-Gazit</b>
+            </a>
+            <p>
+                机器人学, 自动化, 强化学习, 安全控制, 机器人决策, 机器人感知
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mason-peck/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mason-peck-profile.jpg" width="150" style="border-radius: 8px;" alt="Mason Peck"><br>
+                <b>Mason Peck</b>
+            </a>
+            <p>
+                航天工程, 微型卫星, 空间系统, 小型化技术, 卫星通信, 轨道力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/andy-ruina/research-overview.md">
+                <img src="research-quickview/cornell/profiles/andy-ruina-profile.jpg" width="150" style="border-radius: 8px;" alt="Andy Ruina"><br>
+                <b>Andy Ruina</b>
+            </a>
+            <p>
+                动力学, 机器人学, 运动学, 非线性力学, 自适应系统, 控制理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/timothy-sands/research-overview.md">
+                <img src="research-quickview/cornell/profiles/timothy-sands-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy Sands"><br>
+                <b>Timothy Sands</b>
+            </a>
+            <p>
+                材料科学, 纳米技术, 半导体工程, 电子设备, 微电子制造, 能源转化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/robert-f-shepherd/research-overview.md">
+                <img src="research-quickview/cornell/profiles/robert-f-shepherd-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert F. Shepherd"><br>
+                <b>Robert F. Shepherd</b>
+            </a>
+            <p>
+                机器人学, 可变形机器人, 软体机器人, 智能材料, 自适应控制, 生物仿生学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/jane-wang/research-overview.md">
+                <img src="research-quickview/cornell/profiles/jane-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Jane Wang"><br>
+                <b>Jane Wang</b>
+            </a>
+            <p>
+                流体力学, 生物力学, 升力与推进, 微流体, 自然界中的流动现象, 气动学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Space Science and Engineering](https://www.mae.cornell.edu/node/4560)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mark-campbell/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mark-campbell-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Campbell"><br>
+                <b>Mark Campbell</b>
+            </a>
+            <p>
+                机器人学, 自动化, 动力学控制, 多机器人系统, 人机交互, 自适应控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/gregory-falco/research-overview.md">
+                <img src="research-quickview/cornell/profiles/gregory-falco-profile.jpg" width="150" style="border-radius: 8px;" alt="Gregory Falco"><br>
+                <b>Gregory Falco</b>
+            </a>
+            <p>
+                航天工程, 网络安全, 空间技术, 数据科学, 高风险创新, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/douglas-macmartin/research-overview.md">
+                <img src="research-quickview/cornell/profiles/douglas-macmartin-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas MacMartin"><br>
+                <b>Douglas MacMartin</b>
+            </a>
+            <p>
+                气候变化, 空气动力学, 气候建模, 风能, 气候调节, 地球系统工程
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/mason-peck/research-overview.md">
+                <img src="research-quickview/cornell/profiles/mason-peck-profile.jpg" width="150" style="border-radius: 8px;" alt="Mason Peck"><br>
+                <b>Mason Peck</b>
+            </a>
+            <p>
+                航天工程, 微型卫星, 空间系统, 小型化技术, 卫星通信, 轨道力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/elaine-petro/research-overview.md">
+                <img src="research-quickview/cornell/profiles/elaine-petro-profile.jpg" width="150" style="border-radius: 8px;" alt="Elaine Petro"><br>
+                <b>Elaine Petro</b>
+            </a>
+            <p>
+                材料工程, 结构健康监测, 无损检测, 机械行为, 动力学, 声学传感
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/fabien-royer/research-overview.md">
+                <img src="research-quickview/cornell/profiles/fabien-royer-profile.jpg" width="150" style="border-radius: 8px;" alt="Fabien Royer"><br>
+                <b>Fabien Royer</b>
+            </a>
+            <p>
+                控制理论, 机器人学, 自适应控制, 机电系统, 学习算法, 动态建模
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/timothy-sands/research-overview.md">
+                <img src="research-quickview/cornell/profiles/timothy-sands-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy Sands"><br>
+                <b>Timothy Sands</b>
+            </a>
+            <p>
+                材料科学, 纳米技术, 半导体工程, 电子设备, 微电子制造, 能源转化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/dmitry-savransky/research-overview.md">
+                <img src="research-quickview/cornell/profiles/dmitry-savransky-profile.jpg" width="150" style="border-radius: 8px;" alt="Dmitry Savransky"><br>
+                <b>Dmitry Savransky</b>
+            </a>
+            <p>
+                精密工程, 自适应光学, 量子传感, 精密仪器, 测量技术, 光学成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/cornell/mae/sadaf-sobhani/research-overview.md">
+                <img src="research-quickview/cornell/profiles/sadaf-sobhani-profile.jpg" width="150" style="border-radius: 8px;" alt="Sadaf Sobhani"><br>
+                <b>Sadaf Sobhani</b>
+            </a>
+            <p>
+                材料科学, 结构工程, 损伤与疲劳, 纳米材料, 传感技术, 计算力学
+            </p>
+        </td>
+    </tr>
+</table>
 
 ### [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece)
 
