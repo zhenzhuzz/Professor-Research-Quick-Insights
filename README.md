@@ -15020,7 +15020,6 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 ### [Applied and Engineering Physics](https://www.aep.cornell.edu/aep)
-</details>
 <table>
     <tr>
         <td align="center">
@@ -15247,6 +15246,7 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
 </table>
 
+</details>
 
 
 <!-- End of Cornell Section -->
