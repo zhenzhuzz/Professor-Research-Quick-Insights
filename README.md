@@ -7344,7 +7344,9 @@ A repository for quickly accessing research insights into professors' expertise 
 ## [Duke University](https://duke.edu/)
 [MEMS: Dec, 12](https://mems.duke.edu/admissions/phd/); 
 [ECE: DEC, 2](https://ece.duke.edu/admissions/phd/#apply); 
-[Deadline](https://gradschool.duke.edu/admissions/application-deadlines/)
+[Deadline](https://gradschool.duke.edu/admissions/application-deadlines/);
+[$95](https://gradschool.duke.edu/admissions/application-instructions/application-fee/);
+[Apply Now](https://gradschool.duke.edu/admissions/application-instructions/)
 <details>
 <summary>Click to expand Duke Professors</summary>
 
