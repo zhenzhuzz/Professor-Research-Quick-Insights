@@ -1379,6 +1379,7 @@ A repository for quickly accessing research insights into professors' expertise 
 [EECS: Dec, 9](https://grad.berkeley.edu/program/eecs/); 
 [List](https://grad.berkeley.edu/admissions/choosing-your-program/list/);
 [$155](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/#panel-1-7);
+[Only one program](https://grad.berkeley.edu/admissions/steps-to-apply/apply/);
 [Apply Now](https://grad.berkeley.edu/admissions/steps-to-apply/apply/)
 
 <details>
