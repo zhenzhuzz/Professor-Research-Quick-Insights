@@ -2490,18 +2490,1737 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Electrical and Computer Engineering](https://ece.ucsd.edu/)
 - **Field**: [Applied Electromagnetics](https://ece.ucsd.edu/faculty-research/ece-research-areas/applied-electromagnetics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/eric-fullerton/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/eric-fullerton-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Fullerton"><br>
+                <b>Eric Fullerton</b>
+            </a>
+            <p>
+                磁性材料, 纳米技术, 量子力学, 自旋电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/zhaowei-liu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/zhaowei-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaowei Liu"><br>
+                <b>Zhaowei Liu</b>
+            </a>
+            <p>
+                电子工程, 微波工程, 光电子学, 纳米技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vitaliy-lomakin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vitaliy-lomakin-profile.jpg" width="150" style="border-radius: 8px;" alt="Vitaliy Lomakin"><br>
+                <b>Vitaliy Lomakin</b>
+            </a>
+            <p>
+                微波工程, 信号处理, 雷达系统, 电磁波
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/shayan-mookherjea/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/shayan-mookherjea-profile.jpg" width="150" style="border-radius: 8px;" alt="Shayan Mookherjea"><br>
+                <b>Shayan Mookherjea</b>
+            </a>
+            <p>
+                光通信, 光子学, 非线性光学, 微波工程
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/gabriel-rebeiz/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/gabriel-rebeiz-profile.jpg" width="150" style="border-radius: 8px;" alt="Gabriel M. Rebeiz"><br>
+                <b>Gabriel M. Rebeiz</b>
+            </a>
+            <p>
+                微波技术, 无线通信, 雷达系统, 天线设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/dan-sievenpiper/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/dan-sievenpiper-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel F. Sievenpiper"><br>
+                <b>Daniel F. Sievenpiper</b>
+            </a>
+            <p>
+                电磁波, 纳米材料, 电子器件, 光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/prabhakar-bandaru/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/prabhakar-bandaru-profile.jpg" width="150" style="border-radius: 8px;" alt="Prabhakar R. Bandaru"><br>
+                <b>Prabhakar R. Bandaru</b>
+            </a>
+            <p>
+                纳米材料, 纳米技术, 半导体材料, 电子学
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 - **Field**: [Applied Ocean Sciences](https://ece.ucsd.edu/faculty-research/ece-research-areas/applied-ocean-sciences)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/florian-meyer/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/florian-meyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Florian Meyer"><br>
+                <b>Florian Meyer</b>
+            </a>
+            <p>
+                信号处理, 数据分析, 机器学习, 自适应系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/piya-pal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/piya-pal-profile.jpg" width="150" style="border-radius: 8px;" alt="Piya Pal"><br>
+                <b>Piya Pal</b>
+            </a>
+            <p>
+                通信网络, 无线传感器网络, 物联网, 随机过程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/peter-gerstoft/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/peter-gerstoft-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Gerstoft"><br>
+                <b>Peter Gerstoft</b>
+            </a>
+            <p>
+                海洋学, 声学, 信号处理, 环境监测
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/john-hildebrand/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-hildebrand-profile.jpg" width="150" style="border-radius: 8px;" alt="John A. Hildebrand"><br>
+                <b>John A. Hildebrand</b>
+            </a>
+            <p>
+                神经科学, 生物电子学, 传感器技术, 生物声学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/william-hodgkiss/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/william-hodgkiss-profile.jpg" width="150" style="border-radius: 8px;" alt="William S. Hodgkiss"><br>
+                <b>William S. Hodgkiss</b>
+            </a>
+            <p>
+                声学, 无线通信, 传感器网络, 环境监测
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Applied Physics- Electronic Devices & Materials](https://ece.ucsd.edu/faculty-research/ece-research-areas/applied-physics-electronic-devices-materials)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/shadi-dayeh/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/shadi-dayeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Shadi A. Dayeh"><br>
+                <b>Shadi A. Dayeh</b>
+            </a>
+            <p>
+                纳米技术, 半导体器件, 光电学, 嵌入式系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/y-shaya-fainman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/y-shaya-fainman-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Shaya Fainman"><br>
+                <b>Y. Shaya Fainman</b>
+            </a>
+            <p>
+                光子学, 集成光学, 光通信, 纳米光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/eric-fullerton/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/eric-fullerton-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Fullerton"><br>
+                <b>Eric Fullerton</b>
+            </a>
+            <p>
+                磁性材料, 磁性存储器, 量子计算, 纳米技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/duygu-kuzum/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/duygu-kuzum-profile.jpg" width="150" style="border-radius: 8px;" alt="Duygu Kuzum"><br>
+                <b>Duygu Kuzum</b>
+            </a>
+            <p>
+                神经工程, 生物电子学, 神经接口, 传感器技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/zhaowei-liu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/zhaowei-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaowei Liu"><br>
+                <b>Zhaowei Liu</b>
+            </a>
+            <p>
+                计算成像, 光学成像, 超分辨率成像, 纳米光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yuwah-lo/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yuwah-lo-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu-Hwa Lo"><br>
+                <b>Yu-Hwa Lo</b>
+            </a>
+            <p>
+                生物传感器, 微流控, 纳米技术, 医疗设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vitaliy-lomakin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vitaliy-lomakin-profile.jpg" width="150" style="border-radius: 8px;" alt="Vitaliy Lomakin"><br>
+                <b>Vitaliy Lomakin</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 机器学习, 人工智能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/shayan-mookherjea/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/shayan-mookherjea-profile.jpg" width="150" style="border-radius: 8px;" alt="Shayan Mookherjea"><br>
+                <b>Shayan Mookherjea</b>
+            </a>
+            <p>
+                光电子学, 集成光学, 光通信, 微波光子学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/abdoulaye-ndao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abdoulaye-ndao-profile.jpg" width="150" style="border-radius: 8px;" alt="Abdoulaye Ndao"><br>
+                <b>Abdoulaye Ndao</b>
+            </a>
+            <p>
+                生物电子学, 纳米传感器, 环境监测, 健康监测
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/tse-nga-ng/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tse-nga-ng-profile.jpg" width="150" style="border-radius: 8px;" alt="Tse Nga Ng"><br>
+                <b>Tse Nga Ng</b>
+            </a>
+            <p>
+                微波工程, 电磁波传输, 无线电频谱管理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/kenji-nomura/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kenji-nomura-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenji Nomura"><br>
+                <b>Kenji Nomura</b>
+            </a>
+            <p>
+                半导体器件, 微纳制造, 量子计算, 光电子学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/gabriel-rebeiz/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/gabriel-rebeiz-profile.jpg" width="150" style="border-radius: 8px;" alt="Gabriel M. Rebeiz"><br>
+                <b>Gabriel M. Rebeiz</b>
+            </a>
+            <p>
+                微波工程, 无线通信, 天线设计, 电子系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yuan-taur/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yuan-taur-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Taur"><br>
+                <b>Yuan Taur</b>
+            </a>
+            <p>
+                半导体物理, 纳米电子学, 集成电路设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/paul-yu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/paul-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul K. Yu"><br>
+                <b>Paul K. Yu</b>
+            </a>
+            <p>
+                信息技术, 电路设计, 微电子学, 嵌入式系统
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Communication Theory & Systems](https://ece.ucsd.edu/faculty-research/ece-research-areas/communication-theory-systems)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/dinesh-bharadia/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/dinesh-bharadia-profile.jpg" width="150" style="border-radius: 8px;" alt="Dinesh Bharadia"><br>
+                <b>Dinesh Bharadia</b>
+            </a>
+            <p>
+                无线通信, 物联网, 移动网络, 网络协议
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/pamela-cosman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/pamela-cosman-profile.jpg" width="150" style="border-radius: 8px;" alt="Pamela C. Cosman"><br>
+                <b>Pamela C. Cosman</b>
+            </a>
+            <p>
+                图像处理, 信号压缩, 信息论, 通信系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/sujit-dey/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sujit-dey-profile.jpg" width="150" style="border-radius: 8px;" alt="Sujit Dey"><br>
+                <b>Sujit Dey</b>
+            </a>
+            <p>
+                嵌入式系统, 物联网, 无线通信, 电力系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/massimo-franceschetti/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/massimo-franceschetti-profile.jpg" width="150" style="border-radius: 8px;" alt="Massimo Franceschetti"><br>
+                <b>Massimo Franceschetti</b>
+            </a>
+            <p>
+                随机过程, 网络优化, 信息论, 无线通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuria-gonzalez-prelcic/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuria-gonzalez-prelcic-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuria Gonzalez-Prelcic"><br>
+                <b>Nuria Gonzalez-Prelcic</b>
+            </a>
+            <p>
+                无线通信, 大规模MIMO, 信号处理, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/robert-heath/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-heath-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert W. Heath Jr"><br>
+                <b>Robert W. Heath Jr</b>
+            </a>
+            <p>
+                无线通信, 5G, MIMO, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/tara-javidi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tara-javidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Tara Javidi"><br>
+                <b>Tara Javidi</b>
+            </a>
+            <p>
+                信息论, 无线通信, 机器学习, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/bill-lin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/bill-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Bill Lin"><br>
+                <b>Bill Lin</b>
+            </a>
+            <p>
+                无线通信, 5G, 网络测量, 信号处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/laurence-milstein/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/laurence-milstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurence B. Milstein"><br>
+                <b>Laurence B. Milstein</b>
+            </a>
+            <p>
+                无线通信, 频谱管理, 信息理论, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/alon-orlitsky/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/alon-orlitsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Alon Orlitsky"><br>
+                <b>Alon Orlitsky</b>
+            </a>
+            <p>
+                信息论, 随机过程, 编码理论, 数据压缩
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/piya-pal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/piya-pal-profile.jpg" width="150" style="border-radius: 8px;" alt="Piya Pal"><br>
+                <b>Piya Pal</b>
+            </a>
+            <p>
+                通信网络, 无线传感器网络, 物联网, 随机过程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/ramesh-rao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/ramesh-rao-profile.jpg" width="150" style="border-radius: 8px;" alt="Ramesh R. Rao"><br>
+                <b>Ramesh R. Rao</b>
+            </a>
+            <p>
+                信息理论, 网络优化, 计算机网络, 无线通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yuanyuan-shi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yuanyuan-shi-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuanyuan Shi"><br>
+                <b>Yuanyuan Shi</b>
+            </a>
+            <p>
+                机器学习, 大数据, 无线网络, 信息论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/paul-siegel/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/paul-siegel-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul H. Siegel"><br>
+                <b>Paul H. Siegel</b>
+            </a>
+            <p>
+                编码理论, 信息理论, 传感器网络, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/behrouz-touri/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/behrouz-touri-profile.jpg" width="150" style="border-radius: 8px;" alt="Behrouz Touri"><br>
+                <b>Behrouz Touri</b>
+            </a>
+            <p>
+                随机过程, 网络优化, 信息论, 网络理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuno-vasconcelos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuno-vasconcelos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuno M. Vasconcelos"><br>
+                <b>Nuno M. Vasconcelos</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 深度学习, 机器学习
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/kenneth-zeger/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kenneth-zeger-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenneth A. Zeger"><br>
+                <b>Kenneth A. Zeger</b>
+            </a>
+            <p>
+                无线通信, 网络测量, 信号处理, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/xinyu-zhang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/xinyu-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xinyu Zhang"><br>
+                <b>Xinyu Zhang</b>
+            </a>
+            <p>
+                无线通信, 网络协议, 网络优化, 5G
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yang-zheng/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yang-zheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Zheng"><br>
+                <b>Yang Zheng</b>
+            </a>
+            <p>
+                网络优化, 无线通信, 信号处理, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/james-zeidler/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-zeidler-profile.jpg" width="150" style="border-radius: 8px;" alt="James R. Zeidler"><br>
+                <b>James R. Zeidler</b>
+            </a>
+            <p>
+                网络科学, 信号处理, 传感器网络, 数字通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/robert-lugannani/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-lugannani-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Lugannani"><br>
+                <b>Robert Lugannani</b>
+            </a>
+            <p>
+                信息理论, 数字通信, 信号处理
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Computer Engineering (Impacted)](https://ece.ucsd.edu/faculty-research/ece-research-areas/computer-engineering-impacted)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/sujit-dey/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sujit-dey-profile.jpg" width="150" style="border-radius: 8px;" alt="Sujit Dey"><br>
+                <b>Sujit Dey</b>
+            </a>
+            <p>
+                嵌入式系统, 物联网, 无线通信, 电力系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/andrew-kahng/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/andrew-kahng-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew B. Kahng"><br>
+                <b>Andrew B. Kahng</b>
+            </a>
+            <p>
+                VLSI设计, 半导体, 集成电路, 系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/mingu-kang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/mingu-kang-profile.jpg" width="150" style="border-radius: 8px;" alt="Mingu Kang"><br>
+                <b>Mingu Kang</b>
+            </a>
+            <p>
+                嵌入式系统, 电源管理, 硬件加速, 系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/farinaz-koushanfar/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/farinaz-koushanfar-profile.jpg" width="150" style="border-radius: 8px;" alt="Farinaz Koushanfar"><br>
+                <b>Farinaz Koushanfar</b>
+            </a>
+            <p>
+                计算机架构, 机器学习, 电力优化, 物联网
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/bill-lin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/bill-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Bill Lin"><br>
+                <b>Bill Lin</b>
+            </a>
+            <p>
+                无线通信, 5G, 网络测量, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/ramesh-rao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/ramesh-rao-profile.jpg" width="150" style="border-radius: 8px;" alt="Ramesh R. Rao"><br>
+                <b>Ramesh R. Rao</b>
+            </a>
+            <p>
+                信息理论, 网络优化, 计算机网络, 无线通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yatish-turakhia/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yatish-turakhia-profile.jpg" width="150" style="border-radius: 8px;" alt="Yatish G. Turakhia"><br>
+                <b>Yatish G. Turakhia</b>
+            </a>
+            <p>
+                无线通信, 机器学习, 计算机网络, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/chung-cheng/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/chung-cheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Chung K. Cheng"><br>
+                <b>Chung K. Cheng</b>
+            </a>
+            <p>
+                集成电路, 嵌入式系统, 传感器技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/rajesh-gupta/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/rajesh-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajesh Gupta"><br>
+                <b>Rajesh Gupta</b>
+            </a>
+            <p>
+                计算机架构, 嵌入式系统, 物联网, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/tajana-rosing/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tajana-rosing-profile.jpg" width="150" style="border-radius: 8px;" alt="Tajana S. Rosing"><br>
+                <b>Tajana S. Rosing</b>
+            </a>
+            <p>
+                嵌入式系统, 电源管理, 芯片设计, 低功耗设计
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Electronic Circuits & Systems (Impacted)](https://ece.ucsd.edu/faculty-research/ece-research-areas/electronic-circuits-systems-impacted)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/ian-galton/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/ian-galton-profile.jpg" width="150" style="border-radius: 8px;" alt="Ian A. Galton"><br>
+                <b>Ian A. Galton</b>
+            </a>
+            <p>
+                数字信号处理, 无线通信, 数字通信系统, 信号传输
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/drew-hall/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/drew-hall-profile.jpg" width="150" style="border-radius: 8px;" alt="Drew A. Hall"><br>
+                <b>Drew A. Hall</b>
+            </a>
+            <p>
+                无线通信, 信号处理, 微波工程, 电磁学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/tzu-chien-hsueh/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tzu-chien-hsueh-profile.jpg" width="150" style="border-radius: 8px;" alt="Tzu-Chien Hsueh"><br>
+                <b>Tzu-Chien Hsueh</b>
+            </a>
+            <p>
+                集成电路, 微电子学, 嵌入式系统, 传感器技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/hanh-phuc-le/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/hanh-phuc-le-profile.jpg" width="150" style="border-radius: 8px;" alt="Hanh-Phuc Le"><br>
+                <b>Hanh-Phuc Le</b>
+            </a>
+            <p>
+                集成电路设计, 信号处理, 电源管理, 嵌入式系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/patrick-mercier/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/patrick-mercier-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick P. Mercier"><br>
+                <b>Patrick P. Mercier</b>
+            </a>
+            <p>
+                嵌入式系统, 低功耗设计, 计算机架构, 物联网
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/gabriel-rebeiz/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/gabriel-rebeiz-profile.jpg" width="150" style="border-radius: 8px;" alt="Gabriel M. Rebeiz"><br>
+                <b>Gabriel M. Rebeiz</b>
+            </a>
+            <p>
+                微波工程, 传感器技术, 无线通信, 电子系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/dan-sievenpiper/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/dan-sievenpiper-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel F. Sievenpiper"><br>
+                <b>Daniel F. Sievenpiper</b>
+            </a>
+            <p>
+                微波工程, 天线设计, 电磁学, 无线通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/prasad-gudem/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/prasad-gudem-profile.jpg" width="150" style="border-radius: 8px;" alt="Prasad Gudem"><br>
+                <b>Prasad Gudem</b>
+            </a>
+            <p>
+                集成电路设计, 嵌入式系统, 硬件加速
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/madhu-gupta/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/madhu-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Madhu S. Gupta"><br>
+                <b>Madhu S. Gupta</b>
+            </a>
+            <p>
+                集成电路, 数字信号处理, 计算机工程
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Intelligent Systems, Robotics & Control (Impacted)](https://ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nikolay-atanasov/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nikolay-atanasov-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikolay A. Atanasov"><br>
+                <b>Nikolay A. Atanasov</b>
+            </a>
+            <p>
+                强化学习, 多智能体系统, 自适应控制, 决策与优化, 智能交通系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/pamela-cosman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/pamela-cosman-profile.jpg" width="150" style="border-radius: 8px;" alt="Pamela C. Cosman"><br>
+                <b>Pamela C. Cosman</b>
+            </a>
+            <p>
+                图像处理, 视频编码, 无线通信, 信号处理, 压缩感知, 误差控制编码
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vikash-gilja/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vikash-gilja-profile.jpg" width="150" style="border-radius: 8px;" alt="Vikash Gilja"><br>
+                <b>Vikash Gilja</b>
+            </a>
+            <p>
+                神经工程, 脑机接口, 神经科学, 医学设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/pradeep-khosla/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/pradeep-khosla-profile.jpg" width="150" style="border-radius: 8px;" alt="Pradeep K. Khosla"><br>
+                <b>Pradeep K. Khosla</b>
+            </a>
+            <p>
+                人工智能, 自适应系统, 智能网络, 计算机科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/siavash-mirarab/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/siavash-mirarab-profile.jpg" width="150" style="border-radius: 8px;" alt="Siavash Mirarab"><br>
+                <b>Siavash Mirarab</b>
+            </a>
+            <p>
+                机器学习, 统计建模, 生物信息学, 数据科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/parinaz-naghizadeh/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/parinaz-naghizadeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Parinaz Naghizadeh"><br>
+                <b>Parinaz Naghizadeh</b>
+            </a>
+            <p>
+                网络安全, 机器学习, 数据隐私, 加密算法
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/truong-nguyen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/truong-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Truong Nguyen"><br>
+                <b>Truong Nguyen</b>
+            </a>
+            <p>
+                无线通信, 网络架构, 5G, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/jorge-poveda/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jorge-poveda-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Poveda"><br>
+                <b>Jorge Poveda</b>
+            </a>
+            <p>
+                计算机视觉, 增强现实, 机器学习, 数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yuanyuan-shi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yuanyuan-shi-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuanyuan Shi"><br>
+                <b>Yuanyuan Shi</b>
+            </a>
+            <p>
+                网络安全, 物联网, 数据隐私, 加密算法
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/david-sworder/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-sworder-profile.jpg" width="150" style="border-radius: 8px;" alt="David D. Sworder"><br>
+                <b>David D. Sworder</b>
+            </a>
+            <p>
+                信号处理, 自适应滤波, 无线通信, 传感器网络
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/behrouz-touri/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/behrouz-touri-profile.jpg" width="150" style="border-radius: 8px;" alt="Behrouz Touri"><br>
+                <b>Behrouz Touri</b>
+            </a>
+            <p>
+                网络优化, 无线通信, 机器学习, 系统工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuno-vasconcelos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuno-vasconcelos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuno M. Vasconcelos"><br>
+                <b>Nuno M. Vasconcelos</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 机器学习, 人工智能
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/xiaolong-wang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/xiaolong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaolong Wang"><br>
+                <b>Xiaolong Wang</b>
+            </a>
+            <p>
+                计算机视觉, 深度学习, 图像分析, 人工智能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/pengtao-xie/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/pengtao-xie-profile.jpg" width="150" style="border-radius: 8px;" alt="Pengtao Xie"><br>
+                <b>Pengtao Xie</b>
+            </a>
+            <p>
+                机器学习, 数据科学, 人工智能, 推荐系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/michael-yip/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-yip-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Yip"><br>
+                <b>Michael Yip</b>
+            </a>
+            <p>
+                机器人学, 控制系统, 自适应系统, 强化学习
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Machine Learning & Data Science (Impacted)](https://ece.ucsd.edu/faculty-research/ece-research-areas/machine-learning-data-science-impacted)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nikolay-atanasov/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nikolay-atanasov-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikolay A. Atanasov"><br>
+                <b>Nikolay A. Atanasov</b>
+            </a>
+            <p>
+                强化学习, 多智能体系统, 自适应控制, 决策与优化, 智能交通系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/sujit-dey/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sujit-dey-profile.jpg" width="150" style="border-radius: 8px;" alt="Sujit Dey"><br>
+                <b>Sujit Dey</b>
+            </a>
+            <p>
+                无线通信, 网络架构, 物联网, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/massimo-franceschetti/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/massimo-franceschetti-profile.jpg" width="150" style="border-radius: 8px;" alt="Massimo Franceschetti"><br>
+                <b>Massimo Franceschetti</b>
+            </a>
+            <p>
+                信号处理, 随机过程, 通信理论, 统计学习
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vikash-gilja/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vikash-gilja-profile.jpg" width="150" style="border-radius: 8px;" alt="Vikash Gilja"><br>
+                <b>Vikash Gilja</b>
+            </a>
+            <p>
+                神经工程, 脑机接口, 神经科学, 医学设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuria-gonzalez-prelcic/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuria-gonzalez-prelcic-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuria Gonzalez-Prelcic"><br>
+                <b>Nuria Gonzalez-Prelcic</b>
+            </a>
+            <p>
+                无线通信, 信道估计, 移动通信, 5G网络
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/robert-heath/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-heath-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert W. Heath Jr"><br>
+                <b>Robert W. Heath Jr</b>
+            </a>
+            <p>
+                无线通信, MIMO系统, 网络优化, 5G通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/tara-javidi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tara-javidi-profile.jpg" width="150" style="border-radius: 8px;" alt="Tara Javidi"><br>
+                <b>Tara Javidi</b>
+            </a>
+            <p>
+                随机优化, 机器学习, 网络算法, 无线通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/andrew-kahng/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/andrew-kahng-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew B. Kahng"><br>
+                <b>Andrew B. Kahng</b>
+            </a>
+            <p>
+                半导体制造, 电路设计, 低功耗设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/farinaz-koushanfar/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/farinaz-koushanfar-profile.jpg" width="150" style="border-radius: 8px;" alt="Farinaz Koushanfar"><br>
+                <b>Farinaz Koushanfar</b>
+            </a>
+            <p>
+                计算机安全, 物联网, 嵌入式系统, 数据隐私
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/duygu-kuzum/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/duygu-kuzum-profile.jpg" width="150" style="border-radius: 8px;" alt="Duygu Kuzum"><br>
+                <b>Duygu Kuzum</b>
+            </a>
+            <p>
+                神经工程, 神经接口, 脑神经科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/bill-lin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/bill-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Bill Lin"><br>
+                <b>Bill Lin</b>
+            </a>
+            <p>
+                嵌入式系统, 信号处理, 无线网络, 微电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/siavash-mirarab/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/siavash-mirarab-profile.jpg" width="150" style="border-radius: 8px;" alt="Siavash Mirarab"><br>
+                <b>Siavash Mirarab</b>
+            </a>
+            <p>
+                机器学习, 统计建模, 生物信息学, 数据科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/parinaz-naghizadeh/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/parinaz-naghizadeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Parinaz Naghizadeh"><br>
+                <b>Parinaz Naghizadeh</b>
+            </a>
+            <p>
+                网络安全, 机器学习, 数据隐私, 加密算法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/truong-nguyen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/truong-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Truong Nguyen"><br>
+                <b>Truong Nguyen</b>
+            </a>
+            <p>
+                无线通信, 网络架构, 5G, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/alon-orlitsky/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/alon-orlitsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Alon Orlitsky"><br>
+                <b>Alon Orlitsky</b>
+            </a>
+            <p>
+                信息论, 机器学习, 数据科学, 统计学习
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/piya-pal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/piya-pal-profile.jpg" width="150" style="border-radius: 8px;" alt="Piya Pal"><br>
+                <b>Piya Pal</b>
+            </a>
+            <p>
+                无线通信, 多天线系统, 网络理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/rahul-parhi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/rahul-parhi-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Parhi"><br>
+                <b>Rahul Parhi</b>
+            </a>
+            <p>
+                信号处理, 图像处理, 噪声抑制, 语音识别
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yuanyuan-shi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yuanyuan-shi-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuanyuan Shi"><br>
+                <b>Yuanyuan Shi</b>
+            </a>
+            <p>
+                网络安全, 物联网, 数据隐私, 加密算法
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/paul-siegel/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/paul-siegel-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul H. Siegel"><br>
+                <b>Paul H. Siegel</b>
+            </a>
+            <p>
+                信息理论, 编码理论, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/behrouz-touri/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/behrouz-touri-profile.jpg" width="150" style="border-radius: 8px;" alt="Behrouz Touri"><br>
+                <b>Behrouz Touri</b>
+            </a>
+            <p>
+                网络优化, 无线通信, 机器学习, 系统工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuno-vasconcelos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuno-vasconcelos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuno M. Vasconcelos"><br>
+                <b>Nuno M. Vasconcelos</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 机器学习, 人工智能
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/xiaolong-wang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/xiaolong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaolong Wang"><br>
+                <b>Xiaolong Wang</b>
+            </a>
+            <p>
+                计算机视觉, 深度学习, 图像分析, 人工智能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/pengtao-xie/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/pengtao-xie-profile.jpg" width="150" style="border-radius: 8px;" alt="Pengtao Xie"><br>
+                <b>Pengtao Xie</b>
+            </a>
+            <p>
+                机器学习, 数据科学, 人工智能, 推荐系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/michael-yip/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-yip-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Yip"><br>
+                <b>Michael Yip</b>
+            </a>
+            <p>
+                机器人学, 控制系统, 自适应系统, 强化学习
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Medical Devices & Systems](https://ece.ucsd.edu/faculty-research/ece-research-areas/medical-devices-systems)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/shadi-dayeh/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/shadi-dayeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Shadi A. Dayeh"><br>
+                <b>Shadi A. Dayeh</b>
+            </a>
+            <p>
+                半导体器件, 纳米技术, 微电子学, 可穿戴技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/sujit-dey/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sujit-dey-profile.jpg" width="150" style="border-radius: 8px;" alt="Sujit Dey"><br>
+                <b>Sujit Dey</b>
+            </a>
+            <p>
+                无线通信, 网络架构, 物联网, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yfainman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yfainman-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Shaya Fainman"><br>
+                <b>Y. Shaya Fainman</b>
+            </a>
+            <p>
+                光电子学, 纳米光学, 激光与光通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vikash-gilja/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vikash-gilja-profile.jpg" width="150" style="border-radius: 8px;" alt="Vikash Gilja"><br>
+                <b>Vikash Gilja</b>
+            </a>
+            <p>
+                神经工程, 脑机接口, 神经科学, 医学设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/drew-hall/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/drew-hall-profile.jpg" width="150" style="border-radius: 8px;" alt="Drew A. Hall"><br>
+                <b>Drew A. Hall</b>
+            </a>
+            <p>
+                嵌入式系统, 低功耗设计, 集成电路, 无线通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/duygu-kuzum/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/duygu-kuzum-profile.jpg" width="150" style="border-radius: 8px;" alt="Duygu Kuzum"><br>
+                <b>Duygu Kuzum</b>
+            </a>
+            <p>
+                神经工程, 神经接口, 脑神经科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/zhaowei-liu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/zhaowei-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaowei Liu"><br>
+                <b>Zhaowei Liu</b>
+            </a>
+            <p>
+                光学成像, 纳米光学, 超分辨成像, 量子光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yu-hwa-lo/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yu-hwa-lo-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu-Hwa Lo"><br>
+                <b>Yu-Hwa Lo</b>
+            </a>
+            <p>
+                电路设计, 微电子学, 系统集成, 纳米传感器
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/patrick-mercier/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/patrick-mercier-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick P. Mercier"><br>
+                <b>Patrick P. Mercier</b>
+            </a>
+            <p>
+                无线通信, 信号处理, 嵌入式系统, 物联网
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/abdoulaye-ndao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abdoulaye-ndao-profile.jpg" width="150" style="border-radius: 8px;" alt="Abdoulaye Ndao"><br>
+                <b>Abdoulaye Ndao</b>
+            </a>
+            <p>
+                信号处理, 计算机视觉, 机器学习, 深度学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/truong-nguyen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/truong-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Truong Nguyen"><br>
+                <b>Truong Nguyen</b>
+            </a>
+            <p>
+                无线通信, 网络架构, 5G, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/ramesh-rao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/ramesh-rao-profile.jpg" width="150" style="border-radius: 8px;" alt="Ramesh R. Rao"><br>
+                <b>Ramesh R. Rao</b>
+            </a>
+            <p>
+                信号处理, 信息理论, 无线通信, 量化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/paul-siegel/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/paul-siegel-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul H. Siegel"><br>
+                <b>Paul H. Siegel</b>
+            </a>
+            <p>
+                信息理论, 编码理论, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/dan-sievenpiper/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/dan-sievenpiper-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel F. Sievenpiper"><br>
+                <b>Daniel F. Sievenpiper</b>
+            </a>
+            <p>
+                无线通信, 5G网络, 光子学, 电磁学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuno-vasconcelos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuno-vasconcelos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuno M. Vasconcelos"><br>
+                <b>Nuno M. Vasconcelos</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 机器学习, 人工智能
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/edward-wang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/edward-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Edward Wang"><br>
+                <b>Edward Wang</b>
+            </a>
+            <p>
+                机器学习, 神经网络, 数据分析, 数据隐私
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/michael-yip/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-yip-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Yip"><br>
+                <b>Michael Yip</b>
+            </a>
+            <p>
+                机器人学, 控制系统, 自适应系统, 强化学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/kenneth-zeger/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kenneth-zeger-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenneth A. Zeger"><br>
+                <b>Kenneth A. Zeger</b>
+            </a>
+            <p>
+                信号处理, 数据科学, 网络优化
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Medical Imaging](https://ece.ucsd.edu/faculty-research/ece-research-areas/medical-imaging)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/dinesh-bharadia/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/dinesh-bharadia-profile.jpg" width="150" style="border-radius: 8px;" alt="Dinesh Bharadia"><br>
+                <b>Dinesh Bharadia</b>
+            </a>
+            <p>
+                无线通信, 嵌入式系统, 信号处理, 频谱管理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/pamela-cosman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/pamela-cosman-profile.jpg" width="150" style="border-radius: 8px;" alt="Pamela C. Cosman"><br>
+                <b>Pamela C. Cosman</b>
+            </a>
+            <p>
+                图像处理, 信号处理, 图像恢复, 数据压缩
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/zhaowei-liu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/zhaowei-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaowei Liu"><br>
+                <b>Zhaowei Liu</b>
+            </a>
+            <p>
+                光学成像, 超分辨成像, 纳米光学, 量子光学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yu-hwa-lo/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yu-hwa-lo-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu-Hwa Lo"><br>
+                <b>Yu-Hwa Lo</b>
+            </a>
+            <p>
+                微电子学, 电路设计, 系统集成, 纳米传感器
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/abdoulaye-ndao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abdoulaye-ndao-profile.jpg" width="150" style="border-radius: 8px;" alt="Abdoulaye Ndao"><br>
+                <b>Abdoulaye Ndao</b>
+            </a>
+            <p>
+                信号处理, 计算机视觉, 机器学习, 深度学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/truong-nguyen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/truong-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Truong Nguyen"><br>
+                <b>Truong Nguyen</b>
+            </a>
+            <p>
+                无线通信, 网络架构, 5G, 网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/piya-pal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/piya-pal-profile.jpg" width="150" style="border-radius: 8px;" alt="Piya Pal"><br>
+                <b>Piya Pal</b>
+            </a>
+            <p>
+                无线通信, 物联网, 智能系统, 机器学习
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Nanoscale Devices & Systems](https://ece.ucsd.edu/faculty-research/ece-research-areas/nanoscale-devices-systems)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/shadi-a-dayeh/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/shadi-a-dayeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Shadi A. Dayeh"><br>
+                <b>Shadi A. Dayeh</b>
+            </a>
+            <p>
+                纳米技术, 半导体器件, 光电材料, 量子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/y-shaya-fainman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/y-shaya-fainman-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Shaya Fainman"><br>
+                <b>Y. Shaya Fainman</b>
+            </a>
+            <p>
+                光学通信, 纳米光学, 超分辨率成像, 微纳米光学结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/eric-fullerton/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/eric-fullerton-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Fullerton"><br>
+                <b>Eric Fullerton</b>
+            </a>
+            <p>
+                磁性材料, 自旋电子学, 纳米磁性, 信息存储技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/drew-a-hall/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/drew-a-hall-profile.jpg" width="150" style="border-radius: 8px;" alt="Drew A. Hall"><br>
+                <b>Drew A. Hall</b>
+            </a>
+            <p>
+                微电子学, 模拟电路, 器件建模, 集成电路设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/duygu-kuzum/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/duygu-kuzum-profile.jpg" width="150" style="border-radius: 8px;" alt="Duygu Kuzum"><br>
+                <b>Duygu Kuzum</b>
+            </a>
+            <p>
+                神经工程, 生物医学电路, 脑机接口, 神经科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/zhaowei-liu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/zhaowei-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaowei Liu"><br>
+                <b>Zhaowei Liu</b>
+            </a>
+            <p>
+                光学成像, 超分辨成像, 纳米光学, 量子光学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yu-hwa-lo/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yu-hwa-lo-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu-Hwa Lo"><br>
+                <b>Yu-Hwa Lo</b>
+            </a>
+            <p>
+                微电子学, 电路设计, 系统集成, 纳米传感器
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vitaliy-lomakin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vitaliy-lomakin-profile.jpg" width="150" style="border-radius: 8px;" alt="Vitaliy Lomakin"><br>
+                <b>Vitaliy Lomakin</b>
+            </a>
+            <p>
+                量子计算, 量子传感器, 纳米电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/shayan-mookherjea/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/shayan-mookherjea-profile.jpg" width="150" style="border-radius: 8px;" alt="Shayan Mookherjea"><br>
+                <b>Shayan Mookherjea</b>
+            </a>
+            <p>
+                光电学, 半导体光学, 量子光学, 量子信息
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/abdoulaye-ndao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abdoulaye-ndao-profile.jpg" width="150" style="border-radius: 8px;" alt="Abdoulaye Ndao"><br>
+                <b>Abdoulaye Ndao</b>
+            </a>
+            <p>
+                信号处理, 计算机视觉, 机器学习, 深度学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/tse-nga-ng/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tse-nga-ng-profile.jpg" width="150" style="border-radius: 8px;" alt="Tse Nga Ng"><br>
+                <b>Tse Nga Ng</b>
+            </a>
+            <p>
+                微电子学, 集成电路设计, 电磁学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/kenji-nomura/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kenji-nomura-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenji Nomura"><br>
+                <b>Kenji Nomura</b>
+            </a>
+            <p>
+                电路设计, 嵌入式系统, 数字信号处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/dan-sievenpiper/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/dan-sievenpiper-profile.jpg" width="150" style="border-radius: 8px;" alt="Dan Sievenpiper"><br>
+                <b>Dan Sievenpiper</b>
+            </a>
+            <p>
+                微波工程, 电磁波传播, 天线技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/yuan-taur/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/yuan-taur-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuan Taur"><br>
+                <b>Yuan Taur</b>
+            </a>
+            <p>
+                半导体器件, 纳米电子学, 量子器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/paul-k-yu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/paul-k-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul K. Yu"><br>
+                <b>Paul K. Yu</b>
+            </a>
+            <p>
+                教育领导, 高等教育管理
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Photonics](https://ece.ucsd.edu/faculty-research/ece-research-areas/photonics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nick-antipa/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nick-antipa-profile.jpg" width="150" style="border-radius: 8px;" alt="Nick Antipa"><br>
+                <b>Nick Antipa</b>
+            </a>
+            <p>
+                半导体器件, 纳米材料, 器件物理, 量子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/y-shaya-fainman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/y-shaya-fainman-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Shaya Fainman"><br>
+                <b>Y. Shaya Fainman</b>
+            </a>
+            <p>
+                光学通信, 纳米光学, 超分辨率成像, 微纳米光学结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/zhaowei-liu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/zhaowei-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaowei Liu"><br>
+                <b>Zhaowei Liu</b>
+            </a>
+            <p>
+                光学成像, 超分辨成像, 纳米光学, 量子光学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vitaliy-lomakin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vitaliy-lomakin-profile.jpg" width="150" style="border-radius: 8px;" alt="Vitaliy Lomakin"><br>
+                <b>Vitaliy Lomakin</b>
+            </a>
+            <p>
+                量子计算, 量子传感器, 纳米电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/shayan-mookherjea/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/shayan-mookherjea-profile.jpg" width="150" style="border-radius: 8px;" alt="Shayan Mookherjea"><br>
+                <b>Shayan Mookherjea</b>
+            </a>
+            <p>
+                光电学, 半导体光学, 量子光学, 量子信息
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/abdoulaye-ndao/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abdoulaye-ndao-profile.jpg" width="150" style="border-radius: 8px;" alt="Abdoulaye Ndao"><br>
+                <b>Abdoulaye Ndao</b>
+            </a>
+            <p>
+                信号处理, 计算机视觉, 机器学习, 深度学习
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/noah-rubin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/noah-rubin-profile.jpg" width="150" style="border-radius: 8px;" alt="Noah Rubin"><br>
+                <b>Noah Rubin</b>
+            </a>
+            <p>
+                网络安全, 深度学习, 自适应信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/paul-k-yu/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/paul-k-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul K. Yu"><br>
+                <b>Paul K. Yu</b>
+            </a>
+            <p>
+                教育领导, 高等教育管理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nasser-peyghambarian/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nasser-peyghambarian-profile.jpg" width="150" style="border-radius: 8px;" alt="Nasser Peyghambarian"><br>
+                <b>Nasser Peyghambarian</b>
+            </a>
+            <p>
+                光学, 激光, 3D 显示技术, 虚拟现实
+            </p>
+        </td>
+    </tr>
+</table>
+
 - **Field**: [Signal & Image Processing](https://ece.ucsd.edu/faculty-research/ece-research-areas/signal-image-processing)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nick-antipa/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nick-antipa-profile.jpg" width="150" style="border-radius: 8px;" alt="Nick Antipa"><br>
+                <b>Nick Antipa</b>
+            </a>
+            <p>
+                半导体器件, 纳米材料, 器件物理, 量子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nikolay-atanasov/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nikolay-atanasov-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikolay A. Atanasov"><br>
+                <b>Nikolay A. Atanasov</b>
+            </a>
+            <p>
+                智能系统, 数据融合, 无人驾驶, 机器人控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/pamela-cosman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/pamela-cosman-profile.jpg" width="150" style="border-radius: 8px;" alt="Pamela C. Cosman"><br>
+                <b>Pamela C. Cosman</b>
+            </a>
+            <p>
+                图像处理, 计算成像, 信号处理, 通信系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/y-shaya-fainman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/y-shaya-fainman-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Shaya Fainman"><br>
+                <b>Y. Shaya Fainman</b>
+            </a>
+            <p>
+                光学通信, 纳米光学, 超分辨率成像, 微纳米光学结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/vikash-gilja/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vikash-gilja-profile.jpg" width="150" style="border-radius: 8px;" alt="Vikash Gilja"><br>
+                <b>Vikash Gilja</b>
+            </a>
+            <p>
+                神经工程, 计算神经科学, 脑机接口
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuria-gonzalez-prelcic/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuria-gonzalez-prelcic-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuria Gonzalez-Prelcic"><br>
+                <b>Nuria Gonzalez-Prelcic</b>
+            </a>
+            <p>
+                无线通信, 信号处理, 5G 和毫米波通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/robert-heath/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-heath-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert W. Heath Jr"><br>
+                <b>Robert W. Heath Jr</b>
+            </a>
+            <p>
+                无线通信, 移动通信, MIMO 系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/florian-meyer/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/florian-meyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Florian Meyer"><br>
+                <b>Florian Meyer</b>
+            </a>
+            <p>
+                电磁学, 射频设计, 纳米电子学, 纳米光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/siavash-mirarabbaygi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/siavash-mirarabbaygi-profile.jpg" width="150" style="border-radius: 8px;" alt="Siavash Mirarab (Mir Arabbaygi)"><br>
+                <b>Siavash Mirarab</b>
+            </a>
+            <p>
+                计算生物学, 机器学习, 数据分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/truong-nguyen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/truong-nguyen-profile.jpg" width="150" style="border-radius: 8px;" alt="Truong Nguyen"><br>
+                <b>Truong Nguyen</b>
+            </a>
+            <p>
+                信号处理, 图像处理, 通信系统, 多用户通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/piya-pal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/piya-pal-profile.jpg" width="150" style="border-radius: 8px;" alt="Piya Pal"><br>
+                <b>Piya Pal</b>
+            </a>
+            <p>
+                机器学习, 统计信号处理, 数据科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/rahul-parhi/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/rahul-parhi-profile.jpg" width="150" style="border-radius: 8px;" alt="Rahul Parhi"><br>
+                <b>Rahul Parhi</b>
+            </a>
+            <p>
+                无线通信, 5G, 多天线系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/david-sworder/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-sworder-profile.jpg" width="150" style="border-radius: 8px;" alt="David D. Sworder"><br>
+                <b>David D. Sworder</b>
+            </a>
+            <p>
+                无线通信, MIMO 系统, 通信网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/nuno-vasconcelos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nuno-vasconcelos-profile.jpg" width="150" style="border-radius: 8px;" alt="Nuno M. Vasconcelos"><br>
+                <b>Nuno M. Vasconcelos</b>
+            </a>
+            <p>
+                计算机视觉, 机器学习, 深度学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/xiaolong-wang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/xiaolong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaolong Wang"><br>
+                <b>Xiaolong Wang</b>
+            </a>
+            <p>
+                深度学习, 计算机视觉, 图像处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/michael-yip/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-yip-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Yip"><br>
+                <b>Michael Yip</b>
+            </a>
+            <p>
+                机器人学, 人机交互, 计算机视觉
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/kenneth-zeger/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kenneth-zeger-profile.jpg" width="150" style="border-radius: 8px;" alt="Kenneth A. Zeger"><br>
+                <b>Kenneth A. Zeger</b>
+            </a>
+            <p>
+                无线通信, 多天线技术, 信号处理
+            </p>
+        </td>
+                <td align="center">
+            <a href="research-quickview/ucsd/ece/peter-gerstoft/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/peter-gerstoft-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Gerstoft"><br>
+                <b>Peter Gerstoft</b>
+            </a>
+            <p>
+                信号处理, 声学, 海洋学, 地震学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/fredric-j-harris/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/fredric-j-harris-profile.jpg" width="150" style="border-radius: 8px;" alt="Fredric J. Harris"><br>
+                <b>Fredric J. Harris</b>
+            </a>
+            <p>
+                信号处理, 自适应滤波, 统计信号处理, 数字信号处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/ece/mingxiong-huang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/mingxiong-huang-profile.jpg" width="150" style="border-radius: 8px;" alt="Mingxiong Huang"><br>
+                <b>Mingxiong Huang</b>
+            </a>
+            <p>
+                医学影像, 放射学, 计算成像, 医疗信号处理
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 </details>
