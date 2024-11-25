@@ -2486,6 +2486,1700 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/)
 
+- **Field**: [Aerospace](https://mae.ucsd.edu/research-area/aerospace)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/mark-anderson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/mark-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Anderson"><br>
+                <b>Mark Anderson</b>
+            </a>
+            <p>
+                工程教育, 航空航天工程, 设计工程, 数字制造, 工程项目管理, 创新设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/thomas-bewley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/thomas-bewley-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Bewley"><br>
+                <b>Thomas Bewley</b>
+            </a>
+            <p>
+                控制理论, 流体力学, 高性能计算, 机器人技术, 数据驱动控制, 智能系统, 非线性动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nicholas-boechler/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nicholas-boechler-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Boechler"><br>
+                <b>Nicholas Boechler</b>
+            </a>
+            <p>
+                材料力学, 声学超材料, 非线性动力学, 弹性波传播, 动态材料行为, 纳米力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-hwang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-hwang-profile.jpg" width="150" style="border-radius: 8px;" alt="John Hwang"><br>
+                <b>John Hwang</b>
+            </a>
+            <p>
+                航空航天系统设计, 多学科优化, 计算方法, 机器学习在设计中的应用, 系统建模, 复杂系统优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/alicia-kim/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/alicia-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Alicia Kim"><br>
+                <b>Alicia Kim</b>
+            </a>
+            <p>
+                结构优化, 航空航天结构, 复合材料, 生物启发设计, 多材料优化, 加强轻量化设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-kosmatka/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-kosmatka-profile.jpg" width="150" style="border-radius: 8px;" alt="John Kosmatka"><br>
+                <b>John Kosmatka</b>
+            </a>
+            <p>
+                飞机设计, 航空结构分析, 可持续设计, 复合材料结构, 动力学与控制, 高效制造方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/boris-kramer/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/boris-kramer-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kramer"><br>
+                <b>Boris Kramer</b>
+            </a>
+            <p>
+                系统建模, 动力系统控制, 数值优化, 减阶建模, 数据驱动模拟, 稳健控制设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/zahra-sadeghizadeh/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/zahra-sadeghizadeh-profile.jpg" width="150" style="border-radius: 8px;" alt="Zahra Sadeghizadeh"><br>
+                <b>Zahra Sadeghizadeh</b>
+            </a>
+            <p>
+                工程教学, 工程设计方法, 多学科工程, 可持续制造, STEM教育, 创新设计教学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Controls](https://mae.ucsd.edu/research-area/controls)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/thomas-bewley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/thomas-bewley-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Bewley"><br>
+                <b>Thomas Bewley</b>
+            </a>
+            <p>
+                控制理论, 流体力学, 高性能计算, 机器人技术, 数据驱动控制, 智能系统, 非线性动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/robert-bitmead/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-bitmead-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Bitmead"><br>
+                <b>Robert Bitmead</b>
+            </a>
+            <p>
+                动态系统, 最优控制, 数据驱动建模, 系统识别, 随机过程, 自动控制应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jorge-cortes/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jorge-cortes-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Cortes"><br>
+                <b>Jorge Cortes</b>
+            </a>
+            <p>
+                自治系统, 分布式控制, 网络化控制系统, 协同控制, 最优控制, 多智能体系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/raymond-de-callafon/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/raymond-de-callafon-profile.jpg" width="150" style="border-radius: 8px;" alt="Raymond de Callafon"><br>
+                <b>Raymond de Callafon</b>
+            </a>
+            <p>
+                控制系统设计, 反馈控制, 信号处理, 预测控制, 系统建模, 振动控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sylvia-herbert/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sylvia-herbert-profile.jpg" width="150" style="border-radius: 8px;" alt="Sylvia Herbert"><br>
+                <b>Sylvia Herbert</b>
+            </a>
+            <p>
+                控制理论, 自动驾驶系统, 安全关键控制, 人机交互, 强化学习, 分布式控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/patricia-hidalgo-gonzalez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/patricia-hidalgo-gonzalez-profile.jpg" width="150" style="border-radius: 8px;" alt="Patricia Hidalgo-Gonzalez"><br>
+                <b>Patricia Hidalgo-Gonzalez</b>
+            </a>
+            <p>
+                能源系统控制, 可再生能源集成, 智能电网, 优化与调度, 电力市场, 系统动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-hwang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-hwang-profile.jpg" width="150" style="border-radius: 8px;" alt="John Hwang"><br>
+                <b>John Hwang</b>
+            </a>
+            <p>
+                多学科优化, 航空航天系统设计, 系统建模, 机器学习优化, 复杂系统控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/boris-kramer/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/boris-kramer-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kramer"><br>
+                <b>Boris Kramer</b>
+            </a>
+            <p>
+                系统建模, 动力系统控制, 减阶建模, 稳健控制设计, 数据驱动模拟, 数值优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/miroslav-krstic/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/miroslav-krstic-profile.jpg" width="150" style="border-radius: 8px;" alt="Miroslav Krstic"><br>
+                <b>Miroslav Krstic</b>
+            </a>
+            <p>
+                非线性控制, 自适应控制, 分布参数系统控制, 并网控制, 分数阶系统, 创新控制方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sonia-martinez-diaz/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sonia-martinez-diaz-profile.jpg" width="150" style="border-radius: 8px;" alt="Sonia Martinez Diaz"><br>
+                <b>Sonia Martinez Diaz</b>
+            </a>
+            <p>
+                分布式控制, 网络化系统, 最优资源分配, 非线性系统, 协同控制, 智能交通系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/william-mceneaney/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/william-mceneaney-profile.jpg" width="150" style="border-radius: 8px;" alt="William McEneaney"><br>
+                <b>William McEneaney</b>
+            </a>
+            <p>
+                动态规划, 最优控制, 随机系统, 稳健控制, 决策理论, 自主系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/tania-morimoto/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tania-morimoto-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Morimoto"><br>
+                <b>Tania Morimoto</b>
+            </a>
+            <p>
+                生物启发控制, 仿生机器人, 人机交互, 柔性机器人控制, 医疗机器人, 微型机械系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jorge-poveda/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jorge-poveda-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Poveda"><br>
+                <b>Jorge Poveda</b>
+            </a>
+            <p>
+                混合动力系统, 强化学习, 自主系统, 智能电网控制, 动态系统分析, 网络化控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-tolley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-tolley-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Tolley"><br>
+                <b>Michael Tolley</b>
+            </a>
+            <p>
+                自主机器人, 软体机器人, 机器人设计与制造, 多材料制造, 智能系统控制, 环境适应性
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Design](https://mae.ucsd.edu/research-area/design)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/mark-anderson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/mark-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Anderson"><br>
+                <b>Mark Anderson</b>
+            </a>
+            <p>
+                工程教育, 航空航天工程, 设计工程, 数字制造, 工程项目管理, 创新设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/thomas-bewley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/thomas-bewley-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Bewley"><br>
+                <b>Thomas Bewley</b>
+            </a>
+            <p>
+                控制理论, 流体力学, 高性能计算, 机器人技术, 数据驱动控制, 智能系统, 非线性动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nicholas-boechler/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nicholas-boechler-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Boechler"><br>
+                <b>Nicholas Boechler</b>
+            </a>
+            <p>
+                材料力学, 声学超材料, 非线性动力学, 弹性波传播, 动态材料行为, 纳米力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/raymond-de-callafon/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/raymond-de-callafon-profile.jpg" width="150" style="border-radius: 8px;" alt="Raymond de Callafon"><br>
+                <b>Raymond de Callafon</b>
+            </a>
+            <p>
+                控制系统设计, 反馈控制, 信号处理, 预测控制, 系统建模, 振动控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nathan-delson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nathan-delson-profile.jpg" width="150" style="border-radius: 8px;" alt="Nathan Delson"><br>
+                <b>Nathan Delson</b>
+            </a>
+            <p>
+                机械设计, 工程教育, 人机界面设计, 医疗设备设计, 快速原型制造, 创新工程实践
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/james-friend/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-friend-profile.jpg" width="150" style="border-radius: 8px;" alt="James Friend"><br>
+                <b>James Friend</b>
+            </a>
+            <p>
+                微机电系统, 超声技术, 纳米工程, 医疗器械, 流体动力学, 能量转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-hwang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-hwang-profile.jpg" width="150" style="border-radius: 8px;" alt="John Hwang"><br>
+                <b>John Hwang</b>
+            </a>
+            <p>
+                多学科优化, 航空航天系统设计, 系统建模, 机器学习优化, 复杂系统控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/alicia-kim/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/alicia-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Alicia Kim"><br>
+                <b>Alicia Kim (Hyunsun Kim)</b>
+            </a>
+            <p>
+                结构优化, 航空航天结构, 复合材料, 生物启发设计, 多材料优化, 加强轻量化设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-kosmatka/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-kosmatka-profile.jpg" width="150" style="border-radius: 8px;" alt="John Kosmatka"><br>
+                <b>John Kosmatka</b>
+            </a>
+            <p>
+                飞机设计, 航空结构分析, 可持续设计, 复合材料结构, 动力学与控制, 高效制造方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/boris-kramer/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/boris-kramer-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kramer"><br>
+                <b>Boris Kramer</b>
+            </a>
+            <p>
+                系统建模, 动力系统控制, 减阶建模, 稳健控制设计, 数据驱动模拟, 数值优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/tania-morimoto/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tania-morimoto-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Morimoto"><br>
+                <b>Tania Morimoto</b>
+            </a>
+            <p>
+                生物启发控制, 仿生机器人, 人机交互, 柔性机器人控制, 医疗机器人, 微型机械系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jennifer-mullin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jennifer-mullin-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Mullin"><br>
+                <b>Jennifer Mullin</b>
+            </a>
+            <p>
+                工程教育, 课程开发, STEM教育, 学生学习成果评估, 创新教学方法, 团队协作技能培养
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/frank-talke/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/frank-talke-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Talke"><br>
+                <b>Frank Talke</b>
+            </a>
+            <p>
+                磁存储技术, 精密机械, 生物力学, 微流体, 传感器技术, 数据存储系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-tolley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-tolley-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Tolley"><br>
+                <b>Michael Tolley</b>
+            </a>
+            <p>
+                自主机器人, 软体机器人, 机器人设计与制造, 多材料制造, 智能系统控制, 环境适应性
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Engineering Education](https://mae.ucsd.edu/research-area/engineering-education)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/mark-anderson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/mark-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Anderson"><br>
+                <b>Mark Anderson</b>
+            </a>
+            <p>
+                工程教育, 航空航天工程, 设计工程, 数字制造, 工程项目管理, 创新设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nathan-delson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nathan-delson-profile.jpg" width="150" style="border-radius: 8px;" alt="Nathan Delson"><br>
+                <b>Nathan Delson</b>
+            </a>
+            <p>
+                机械设计, 工程教育, 人机界面设计, 医疗设备设计, 快速原型制造, 创新工程实践
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/james-friend/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-friend-profile.jpg" width="150" style="border-radius: 8px;" alt="James Friend"><br>
+                <b>James Friend</b>
+            </a>
+            <p>
+                微机电系统, 超声技术, 纳米工程, 医疗器械, 流体动力学, 能量转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/tania-morimoto/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tania-morimoto-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Morimoto"><br>
+                <b>Tania Morimoto</b>
+            </a>
+            <p>
+                生物启发控制, 仿生机器人, 人机交互, 柔性机器人控制, 医疗机器人, 微型机械系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jennifer-mullin/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jennifer-mullin-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Mullin"><br>
+                <b>Jennifer Mullin</b>
+            </a>
+            <p>
+                工程教育, 课程开发, STEM教育, 学生学习成果评估, 创新教学方法, 团队协作技能培养
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Environmental](https://mae.ucsd.edu/research-area/environmental)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/robert-cattolica/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-cattolica-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Cattolica"><br>
+                <b>Robert Cattolica</b>
+            </a>
+            <p>
+                可再生能源, 燃烧科学, 能源系统分析, 温室气体排放控制, 工业污染控制, 高效能源技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/carlos-coimbra/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/carlos-coimbra-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Coimbra"><br>
+                <b>Carlos Coimbra</b>
+            </a>
+            <p>
+                能源建模, 可再生能源集成, 天气预测, 数据驱动能源分析, 热力学, 动态系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/patricia-hidalgo-gonzalez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/patricia-hidalgo-gonzalez-profile.jpg" width="150" style="border-radius: 8px;" alt="Patricia Hidalgo-Gonzalez"><br>
+                <b>Patricia Hidalgo-Gonzalez</b>
+            </a>
+            <p>
+                能源系统控制, 可再生能源集成, 智能电网, 优化与调度, 电力市场, 系统动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jan-kleissl/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jan-kleissl-profile.jpg" width="150" style="border-radius: 8px;" alt="Jan Kleissl"><br>
+                <b>Jan Kleissl</b>
+            </a>
+            <p>
+                可再生能源, 太阳能技术, 大气科学, 风能, 建筑能源效率, 环境模拟
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/stefan-llewellyn-smith/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/stefan-llewellyn-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Stefan Llewellyn Smith"><br>
+                <b>Stefan Llewellyn Smith</b>
+            </a>
+            <p>
+                流体动力学, 海洋工程, 环境流体力学, 数值模拟, 波动力学, 水下流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/keiko-nomura/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/keiko-nomura-profile.jpg" width="150" style="border-radius: 8px;" alt="Keiko Nomura"><br>
+                <b>Keiko Nomura</b>
+            </a>
+            <p>
+                湍流, 流体力学, 多相流, 动力学模拟, 热流体系统, 环境力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/eugene-pawlak/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/eugene-pawlak-profile.jpg" width="150" style="border-radius: 8px;" alt="Eugene Pawlak"><br>
+                <b>Eugene Pawlak</b>
+            </a>
+            <p>
+                海洋工程, 海洋流体动力学, 环境流体力学, 水下湍流, 海洋能量转换, 水动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sutanu-sarkar/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sutanu-sarkar-profile.jpg" width="150" style="border-radius: 8px;" alt="Sutanu Sarkar"><br>
+                <b>Sutanu Sarkar</b>
+            </a>
+            <p>
+                湍流建模, 流体力学, 海洋湍流, 大气科学, 数值模拟, 能量系统动力学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Fluid Mechanics/Heat Transfer](https://mae.ucsd.edu/research-area/fluid-mechanics-%26-heat-transfer)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/thomas-bewley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/thomas-bewley-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Bewley"><br>
+                <b>Thomas Bewley</b>
+            </a>
+            <p>
+                控制理论, 流体力学, 高性能计算, 机器人技术, 数据驱动控制, 智能系统, 非线性动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/robert-cattolica/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-cattolica-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Cattolica"><br>
+                <b>Robert Cattolica</b>
+            </a>
+            <p>
+                可再生能源, 燃烧科学, 能源系统分析, 温室气体排放控制, 工业污染控制, 高效能源技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/carlos-coimbra/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/carlos-coimbra-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Coimbra"><br>
+                <b>Carlos Coimbra</b>
+            </a>
+            <p>
+                能源建模, 可再生能源集成, 天气预测, 数据驱动能源分析, 热力学, 动态系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/james-friend/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-friend-profile.jpg" width="150" style="border-radius: 8px;" alt="James Friend"><br>
+                <b>James Friend</b>
+            </a>
+            <p>
+                微机电系统, 超声技术, 纳米工程, 医疗器械, 流体动力学, 能量转换
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/carl-gibson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/carl-gibson-profile.jpg" width="150" style="border-radius: 8px;" alt="Carl Gibson"><br>
+                <b>Carl Gibson</b>
+            </a>
+            <p>
+                湍流, 流体力学, 气候变化, 海洋学, 宇宙学中的流体动力学, 大气动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/joe-goddard/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/joe-goddard-profile.jpg" width="150" style="border-radius: 8px;" alt="Joe Goddard"><br>
+                <b>Joe Goddard</b>
+            </a>
+            <p>
+                多相流, 材料力学, 粒子动力学, 非牛顿流体, 化学工程中的流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jan-kleissl/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jan-kleissl-profile.jpg" width="150" style="border-radius: 8px;" alt="Jan Kleissl"><br>
+                <b>Jan Kleissl</b>
+            </a>
+            <p>
+                可再生能源, 太阳能技术, 大气科学, 风能, 建筑能源效率, 环境模拟
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/boris-kramer/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/boris-kramer-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kramer"><br>
+                <b>Boris Kramer</b>
+            </a>
+            <p>
+                系统建模, 动力系统控制, 减阶建模, 稳健控制设计, 数据驱动模拟, 数值优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/stephanie-lindsey/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/stephanie-lindsey-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephanie Lindsey"><br>
+                <b>Stephanie Lindsey</b>
+            </a>
+            <p>
+                生物力学, 血液动力学, 心血管建模, 生物流体力学, 计算生物医学工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/stefan-llewellyn-smith/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/stefan-llewellyn-smith-profile.jpg" width="150" style="border-radius: 8px;" alt="Stefan Llewellyn Smith"><br>
+                <b>Stefan Llewellyn Smith</b>
+            </a>
+            <p>
+                流体动力学, 海洋工程, 环境流体力学, 数值模拟, 波动力学, 水下流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-miller/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-miller-profile.jpg" width="150" style="border-radius: 8px;" alt="David Miller"><br>
+                <b>David Miller</b>
+            </a>
+            <p>
+                动力学与控制, 飞行器设计, 自适应控制, 航天器系统, 轨道动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/keiko-nomura/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/keiko-nomura-profile.jpg" width="150" style="border-radius: 8px;" alt="Keiko Nomura"><br>
+                <b>Keiko Nomura</b>
+            </a>
+            <p>
+                湍流, 流体力学, 多相流, 动力学模拟, 热流体系统, 环境力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/eugene-pawlak/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/eugene-pawlak-profile.jpg" width="150" style="border-radius: 8px;" alt="Eugene Pawlak"><br>
+                <b>Eugene Pawlak</b>
+            </a>
+            <p>
+                海洋工程, 海洋流体动力学, 环境流体力学, 水下湍流, 海洋能量转换, 水动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/padmini-rangamani/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/padmini-rangamani-profile.jpg" width="150" style="border-radius: 8px;" alt="Padmini Rangamani"><br>
+                <b>Padmini Rangamani</b>
+            </a>
+            <p>
+                系统生物学, 细胞生物力学, 计算建模, 信号转导, 生物物理学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/abhishek-saha/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abhishek-saha-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhishek Saha"><br>
+                <b>Abhishek Saha</b>
+            </a>
+            <p>
+                液滴动力学, 喷雾燃烧, 燃料雾化, 可再生能源燃烧, 流体流动稳定性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-saintillan/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-saintillan-profile.jpg" width="150" style="border-radius: 8px;" alt="David Saintillan"><br>
+                <b>David Saintillan</b>
+            </a>
+            <p>
+                微流体, 活性物质动力学, 复杂流体, 多相流, 非平衡现象
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/antonio-sanchez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/antonio-sanchez-profile.jpg" width="150" style="border-radius: 8px;" alt="Antonio Sanchez"><br>
+                <b>Antonio Sanchez</b>
+            </a>
+            <p>
+                流体动力学, 湍流建模, 大气科学, 能源动力学, 计算流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sutanu-sarkar/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sutanu-sarkar-profile.jpg" width="150" style="border-radius: 8px;" alt="Sutanu Sarkar"><br>
+                <b>Sutanu Sarkar</b>
+            </a>
+            <p>
+                湍流建模, 流体力学, 海洋湍流, 大气科学, 数值模拟, 能量系统动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/oliver-schmidt/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/oliver-schmidt-profile.jpg" width="150" style="border-radius: 8px;" alt="Oliver Schmidt"><br>
+                <b>Oliver Schmidt</b>
+            </a>
+            <p>
+                空气动力学, 声学, 流体不稳定性, 涡流动力学, 计算模拟
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/kalyanasundaram-seshadri/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kalyanasundaram-seshadri-profile.jpg" width="150" style="border-radius: 8px;" alt="Kalyanasundaram Seshadri"><br>
+                <b>Kalyanasundaram Seshadri</b>
+            </a>
+            <p>
+                燃烧科学, 化学反应动力学, 燃料燃烧效率, 火焰稳定性, 能源系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/forman-williams/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/forman-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Forman Williams"><br>
+                <b>Forman Williams</b>
+            </a>
+            <p>
+                燃烧理论, 火焰动力学, 能量转换, 可再生能源燃烧, 化学动力学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Mechanics & Materials](https://mae.ucsd.edu/research-area/mechanics-%26-materials)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/prabhakar-bandaru/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/prabhakar-bandaru-profile.jpg" width="150" style="border-radius: 8px;" alt="Prabhakar Bandaru"><br>
+                <b>Prabhakar Bandaru</b>
+            </a>
+            <p>
+                纳米技术, 能量存储, 热电材料, 碳纳米管, 功能材料, 可持续能源系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nicholas-boechler/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nicholas-boechler-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Boechler"><br>
+                <b>Nicholas Boechler</b>
+            </a>
+            <p>
+                材料力学, 声学超材料, 非线性动力学, 弹性波传播, 动态材料行为, 纳米力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jiun-shyan-chen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jiun-shyan-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jiun-Shyan Chen"><br>
+                <b>Jiun-Shyan Chen</b>
+            </a>
+            <p>
+                计算力学, 材料建模, 岩土工程, 数值分析, 生物材料, 多尺度建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/renkun-chen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/renkun-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Renkun Chen"><br>
+                <b>Renkun Chen</b>
+            </a>
+            <p>
+                热传导, 热电材料, 纳米结构材料, 能量转换, 热管理, 高效能源系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-frazier/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-frazier-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Frazier"><br>
+                <b>Michael Frazier</b>
+            </a>
+            <p>
+                材料科学, 表面工程, 微纳米制造, 薄膜材料, 材料表征, 纳米复合材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/james-friend/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-friend-profile.jpg" width="150" style="border-radius: 8px;" alt="James Friend"><br>
+                <b>James Friend</b>
+            </a>
+            <p>
+                微机电系统, 超声技术, 纳米工程, 医疗器械, 流体动力学, 能量转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/javier-garay/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/javier-garay-profile.jpg" width="150" style="border-radius: 8px;" alt="Javier Garay"><br>
+                <b>Javier Garay</b>
+            </a>
+            <p>
+                纳米材料, 陶瓷材料, 热力学, 材料合成, 材料力学, 先进制造技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/joe-goddard/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/joe-goddard-profile.jpg" width="150" style="border-radius: 8px;" alt="Joe Goddard"><br>
+                <b>Joe Goddard</b>
+            </a>
+            <p>
+                多相流, 材料力学, 粒子动力学, 非牛顿流体, 化学工程中的流体力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/olivia-graeve/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/olivia-graeve-profile.jpg" width="150" style="border-radius: 8px;" alt="Olivia Graeve"><br>
+                <b>Olivia Graeve</b>
+            </a>
+            <p>
+                材料合成, 纳米复合材料, 先进陶瓷, 能量存储材料, 环境友好材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-hwang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-hwang-profile.jpg" width="150" style="border-radius: 8px;" alt="John Hwang"><br>
+                <b>John Hwang</b>
+            </a>
+            <p>
+                多学科优化, 航空航天系统设计, 系统建模, 机器学习优化, 复杂系统控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/hyunsun-kim/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/hyunsun-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyunsun Kim"><br>
+                <b>Hyunsun Kim</b>
+            </a>
+            <p>
+                结构优化, 航空航天结构, 复合材料, 生物启发设计, 多材料优化, 加强轻量化设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-kosmatka/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-kosmatka-profile.jpg" width="150" style="border-radius: 8px;" alt="John Kosmatka"><br>
+                <b>John Kosmatka</b>
+            </a>
+            <p>
+                飞机设计, 航空结构分析, 可持续设计, 复合材料结构, 动力学与控制, 高效制造方法
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/ratneshwar-lal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/ratneshwar-lal-profile.jpg" width="150" style="border-radius: 8px;" alt="Ratneshwar Lal"><br>
+                <b>Ratneshwar Lal</b>
+            </a>
+            <p>
+                生物力学, 纳米生物技术, 生物材料, 细胞力学, 纳米诊断, 纳米药物递送
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/xanthippi-markenscoff/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/xanthippi-markenscoff-profile.jpg" width="150" style="border-radius: 8px;" alt="Xanthippi Markenscoff"><br>
+                <b>Xanthippi Markenscoff</b>
+            </a>
+            <p>
+                弹性力学, 微纳米力学, 应力集中, 材料科学, 动态裂纹传播
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/marc-meyers/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/marc-meyers-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Meyers"><br>
+                <b>Marc Meyers</b>
+            </a>
+            <p>
+                材料科学, 生物启发材料, 冲击物理, 动态材料行为, 先进材料加工
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/vitali-nesterenko/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/vitali-nesterenko-profile.jpg" width="150" style="border-radius: 8px;" alt="Vitali Nesterenko"><br>
+                <b>Vitali Nesterenko</b>
+            </a>
+            <p>
+                高压物理, 冲击波, 动态材料, 颗粒材料, 纳米结构材料
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/lisa-poulikakos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/lisa-poulikakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa Poulikakos"><br>
+                <b>Lisa Poulikakos</b>
+            </a>
+            <p>
+                纳米光学, 热管理, 能量转换, 材料设计, 微纳制造, 光热效应
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-tolley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-tolley-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Tolley"><br>
+                <b>Michael Tolley</b>
+            </a>
+            <p>
+                自主机器人, 软体机器人, 机器人设计与制造, 多材料制造, 智能系统控制, 环境适应性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/antonio-sanchez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/antonio-sanchez-profile.jpg" width="150" style="border-radius: 8px;" alt="Antonio Sanchez"><br>
+                <b>Antonio Sanchez</b>
+            </a>
+            <p>
+                流体动力学, 湍流建模, 大气科学, 能源动力学, 计算流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/padmini-rangamani/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/padmini-rangamani-profile.jpg" width="150" style="border-radius: 8px;" alt="Padmini Rangamani"><br>
+                <b>Padmini Rangamani</b>
+            </a>
+            <p>
+                系统生物学, 细胞生物力学, 计算建模, 信号转导, 生物物理学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/abhishek-saha/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abhishek-saha-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhishek Saha"><br>
+                <b>Abhishek Saha</b>
+            </a>
+            <p>
+                液滴动力学, 喷雾燃烧, 燃料雾化, 可再生能源燃烧, 流体流动稳定性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-saintillan/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-saintillan-profile.jpg" width="150" style="border-radius: 8px;" alt="David Saintillan"><br>
+                <b>David Saintillan</b>
+            </a>
+            <p>
+                微流体, 活性物质动力学, 复杂流体, 多相流, 非平衡现象
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Robotics](https://mae.ucsd.edu/research-area/robotics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/thomas-bewley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/thomas-bewley-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Bewley"><br>
+                <b>Thomas Bewley</b>
+            </a>
+            <p>
+                控制理论, 流体力学, 高性能计算, 机器人技术, 数据驱动控制, 智能系统, 非线性动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jorge-cortes/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jorge-cortes-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Cortes"><br>
+                <b>Jorge Cortes</b>
+            </a>
+            <p>
+                自治系统, 分布式控制, 网络化控制系统, 协同控制, 最优控制, 多智能体系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/raymond-de-callafon/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/raymond-de-callafon-profile.jpg" width="150" style="border-radius: 8px;" alt="Raymond de Callafon"><br>
+                <b>Raymond de Callafon</b>
+            </a>
+            <p>
+                控制系统设计, 反馈控制, 信号处理, 预测控制, 系统建模, 振动控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nathan-delson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nathan-delson-profile.jpg" width="150" style="border-radius: 8px;" alt="Nathan Delson"><br>
+                <b>Nathan Delson</b>
+            </a>
+            <p>
+                机械设计, 工程教育, 人机界面设计, 医疗设备设计, 快速原型制造, 创新工程实践
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/james-friend/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-friend-profile.jpg" width="150" style="border-radius: 8px;" alt="James Friend"><br>
+                <b>James Friend</b>
+            </a>
+            <p>
+                微机电系统, 超声技术, 纳米工程, 医疗器械, 流体动力学, 能量转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nicholas-gravish/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nicholas-gravish-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Gravish"><br>
+                <b>Nicholas Gravish</b>
+            </a>
+            <p>
+                仿生机器人, 生物力学, 机器人设计, 群体行为, 机器人运动学, 环境适应性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sylvia-herbert/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sylvia-herbert-profile.jpg" width="150" style="border-radius: 8px;" alt="Sylvia Herbert"><br>
+                <b>Sylvia Herbert</b>
+            </a>
+            <p>
+                控制理论, 自动驾驶系统, 安全关键控制, 人机交互, 强化学习, 分布式控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/john-hwang/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/john-hwang-profile.jpg" width="150" style="border-radius: 8px;" alt="John Hwang"><br>
+                <b>John Hwang</b>
+            </a>
+            <p>
+                多学科优化, 航空航天系统设计, 系统建模, 机器学习优化, 复杂系统控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/miroslav-krstic/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/miroslav-krstic-profile.jpg" width="150" style="border-radius: 8px;" alt="Miroslav Krstic"><br>
+                <b>Miroslav Krstic</b>
+            </a>
+            <p>
+                非线性控制, 自适应控制, 分布参数系统控制, 并网控制, 分数阶系统, 创新控制方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sonia-martinez-diaz/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sonia-martinez-diaz-profile.jpg" width="150" style="border-radius: 8px;" alt="Sonia Martinez Diaz"><br>
+                <b>Sonia Martinez Diaz</b>
+            </a>
+            <p>
+                分布式控制, 网络化系统, 最优资源分配, 非线性系统, 协同控制, 智能交通系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/tania-morimoto/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tania-morimoto-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Morimoto"><br>
+                <b>Tania Morimoto</b>
+            </a>
+            <p>
+                生物启发控制, 仿生机器人, 人机交互, 柔性机器人控制, 医疗机器人, 微型机械系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jorge-poveda/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jorge-poveda-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Poveda"><br>
+                <b>Jorge Poveda</b>
+            </a>
+            <p>
+                混合动力系统, 强化学习, 自主系统, 智能电网控制, 动态系统分析, 网络化控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jack-silberman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jack-silberman-profile.jpg" width="150" style="border-radius: 8px;" alt="Jack Silberman"><br>
+                <b>Jack Silberman</b>
+            </a>
+            <p>
+                机器人技术, 医疗机器人, 机器人控制, 系统建模, 自动化设计, 人机界面
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-tolley/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-tolley-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Tolley"><br>
+                <b>Michael Tolley</b>
+            </a>
+            <p>
+                自主机器人, 软体机器人, 机器人设计与制造, 多材料制造, 智能系统控制, 环境适应性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-yip/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-yip-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Yip"><br>
+                <b>Michael Yip</b>
+            </a>
+            <p>
+                医疗机器人, 人机协作, 机器人控制, 深度学习, 动力学建模, 自主系统
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Systems Engineering](https://mae.ucsd.edu/research-area/systems-engineering)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/carlos-coimbra/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/carlos-coimbra-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Coimbra"><br>
+                <b>Carlos Coimbra</b>
+            </a>
+            <p>
+                能源建模, 可再生能源集成, 天气预测, 数据驱动能源分析, 热力学, 动态系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jorge-cortes/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jorge-cortes-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Cortes"><br>
+                <b>Jorge Cortes</b>
+            </a>
+            <p>
+                自治系统, 分布式控制, 网络化控制系统, 协同控制, 最优控制, 多智能体系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-davidson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-davidson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Davidson"><br>
+                <b>Michael Davidson</b>
+            </a>
+            <p>
+                能源政策, 电力系统, 可再生能源, 全球能源经济, 技术评估, 环境可持续性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sylvia-herbert/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sylvia-herbert-profile.jpg" width="150" style="border-radius: 8px;" alt="Sylvia Herbert"><br>
+                <b>Sylvia Herbert</b>
+            </a>
+            <p>
+                控制理论, 自动驾驶系统, 安全关键控制, 人机交互, 强化学习, 分布式控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/patricia-hidalgo-gonzalez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/patricia-hidalgo-gonzalez-profile.jpg" width="150" style="border-radius: 8px;" alt="Patricia Hidalgo-Gonzalez"><br>
+                <b>Patricia Hidalgo-Gonzalez</b>
+            </a>
+            <p>
+                能源系统控制, 可再生能源集成, 智能电网, 优化与调度, 电力市场, 系统动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/boris-kramer/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/boris-kramer-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Kramer"><br>
+                <b>Boris Kramer</b>
+            </a>
+            <p>
+                系统建模, 动力系统控制, 减阶建模, 稳健控制设计, 数据驱动模拟, 数值优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/miroslav-krstic/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/miroslav-krstic-profile.jpg" width="150" style="border-radius: 8px;" alt="Miroslav Krstic"><br>
+                <b>Miroslav Krstic</b>
+            </a>
+            <p>
+                非线性控制, 自适应控制, 分布参数系统控制, 并网控制, 分数阶系统, 创新控制方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sonia-martinez-diaz/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sonia-martinez-diaz-profile.jpg" width="150" style="border-radius: 8px;" alt="Sonia Martinez Diaz"><br>
+                <b>Sonia Martinez Diaz</b>
+            </a>
+            <p>
+                分布式控制, 网络化系统, 最优资源分配, 非线性系统, 协同控制, 智能交通系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-whelan/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-whelan-profile.jpg" width="150" style="border-radius: 8px;" alt="David Whelan"><br>
+                <b>David Whelan</b>
+            </a>
+            <p>
+                系统工程, 航空航天技术, 系统设计与分析, 空间系统开发, 创新技术应用
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Biomedical](https://mae.ucsd.edu/research-area/biomedical)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/claire-acevedo/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/claire-acevedo-profile.jpg" width="150" style="border-radius: 8px;" alt="Claire Acevedo"><br>
+                <b>Claire Acevedo</b>
+            </a>
+            <p>
+                生物力学, 骨骼与组织工程, 生物材料, 骨生物学, 生物物理建模, 力学在生物医学中的应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/ratneshwar-lal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/ratneshwar-lal-profile.jpg" width="150" style="border-radius: 8px;" alt="Ratneshwar Lal"><br>
+                <b>Ratneshwar Lal</b>
+            </a>
+            <p>
+                生物力学, 纳米生物技术, 生物材料, 细胞力学, 纳米诊断, 纳米药物递送
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Biomaterials](https://mae.ucsd.edu/research-area/biomaterials)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nicholas-boechler/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nicholas-boechler-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Boechler"><br>
+                <b>Nicholas Boechler</b>
+            </a>
+            <p>
+                材料力学, 声学超材料, 非线性动力学, 弹性波传播, 动态材料行为, 纳米力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jiun-shyan-chen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jiun-shyan-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jiun-Shyan Chen"><br>
+                <b>Jiun-Shyan Chen</b>
+            </a>
+            <p>
+                计算力学, 材料建模, 岩土工程, 数值分析, 生物材料, 多尺度建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/marc-meyers/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/marc-meyers-profile.jpg" width="150" style="border-radius: 8px;" alt="Marc Meyers"><br>
+                <b>Marc Meyers</b>
+            </a>
+            <p>
+                材料科学, 生物启发材料, 冲击物理, 动态材料行为, 先进材料加工
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/padmini-rangamani/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/padmini-rangamani-profile.jpg" width="150" style="border-radius: 8px;" alt="Padmini Rangamani"><br>
+                <b>Padmini Rangamani</b>
+            </a>
+            <p>
+                系统生物学, 细胞生物力学, 计算建模, 信号转导, 生物物理学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-saintillan/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-saintillan-profile.jpg" width="150" style="border-radius: 8px;" alt="David Saintillan"><br>
+                <b>David Saintillan</b>
+            </a>
+            <p>
+                微流体, 活性物质动力学, 复杂流体, 多相流, 非平衡现象
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/daniela-valdez-jasso/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/daniela-valdez-jasso-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniela Valdez-Jasso"><br>
+                <b>Daniela Valdez-Jasso</b>
+            </a>
+            <p>
+                生物材料, 心血管生物力学, 数学建模, 组织工程, 血液动力学, 生物系统分析
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Biomechanics](https://mae.ucsd.edu/research-area/biomechanics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/claire-acevedo/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/claire-acevedo-profile.jpg" width="150" style="border-radius: 8px;" alt="Claire Acevedo"><br>
+                <b>Claire Acevedo</b>
+            </a>
+            <p>
+                生物力学, 骨骼与组织工程, 生物材料, 骨生物学, 生物物理建模, 力学在生物医学中的应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jiun-shyan-chen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jiun-shyan-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jiun-Shyan Chen"><br>
+                <b>Jiun-Shyan Chen</b>
+            </a>
+            <p>
+                计算力学, 材料建模, 岩土工程, 数值分析, 生物材料, 多尺度建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/james-friend/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-friend-profile.jpg" width="150" style="border-radius: 8px;" alt="James Friend"><br>
+                <b>James Friend</b>
+            </a>
+            <p>
+                微机电系统, 超声技术, 纳米工程, 医疗器械, 流体动力学, 能量转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/hyunsun-kim/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/hyunsun-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyunsun Kim"><br>
+                <b>Hyunsun Kim</b>
+            </a>
+            <p>
+                结构优化, 航空航天结构, 复合材料, 生物启发设计, 多材料优化, 加强轻量化设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/ratneshwar-lal/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/ratneshwar-lal-profile.jpg" width="150" style="border-radius: 8px;" alt="Ratneshwar Lal"><br>
+                <b>Ratneshwar Lal</b>
+            </a>
+            <p>
+                生物力学, 纳米生物技术, 生物材料, 细胞力学, 纳米诊断, 纳米药物递送
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/stephanie-lindsey/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/stephanie-lindsey-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephanie Lindsey"><br>
+                <b>Stephanie Lindsey</b>
+            </a>
+            <p>
+                生物力学, 血液动力学, 心血管建模, 生物流体力学, 计算生物医学工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/lisa-poulikakos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/lisa-poulikakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa Poulikakos"><br>
+                <b>Lisa Poulikakos</b>
+            </a>
+            <p>
+                纳米光学, 热管理, 能量转换, 材料设计, 微纳制造, 光热效应
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/padmini-rangamani/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/padmini-rangamani-profile.jpg" width="150" style="border-radius: 8px;" alt="Padmini Rangamani"><br>
+                <b>Padmini Rangamani</b>
+            </a>
+            <p>
+                系统生物学, 细胞生物力学, 计算建模, 信号转导, 生物物理学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-saintillan/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-saintillan-profile.jpg" width="150" style="border-radius: 8px;" alt="David Saintillan"><br>
+                <b>David Saintillan</b>
+            </a>
+            <p>
+                微流体, 活性物质动力学, 复杂流体, 多相流, 非平衡现象
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/daniela-valdez-jasso/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/daniela-valdez-jasso-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniela Valdez-Jasso"><br>
+                <b>Daniela Valdez-Jasso</b>
+            </a>
+            <p>
+                生物材料, 心血管生物力学, 数学建模, 组织工程, 血液动力学, 生物系统分析
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Medical Devices](https://mae.ucsd.edu/research-area/medical-devices)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/nathan-delson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/nathan-delson-profile.jpg" width="150" style="border-radius: 8px;" alt="Nathan Delson"><br>
+                <b>Nathan Delson</b>
+            </a>
+            <p>
+                机械设计, 工程教育, 人机界面设计, 医疗设备设计, 快速原型制造, 创新工程实践
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/james-friend/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/james-friend-profile.jpg" width="150" style="border-radius: 8px;" alt="James Friend"><br>
+                <b>James Friend</b>
+            </a>
+            <p>
+                微机电系统, 超声技术, 纳米工程, 医疗器械, 流体动力学, 能量转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/stephanie-lindsey/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/stephanie-lindsey-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephanie Lindsey"><br>
+                <b>Stephanie Lindsey</b>
+            </a>
+            <p>
+                生物力学, 血液动力学, 心血管建模, 生物流体力学, 计算生物医学工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/tania-morimoto/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/tania-morimoto-profile.jpg" width="150" style="border-radius: 8px;" alt="Tania Morimoto"><br>
+                <b>Tania Morimoto</b>
+            </a>
+            <p>
+                生物启发控制, 仿生机器人, 人机交互, 柔性机器人控制, 医疗机器人, 微型机械系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/lisa-poulikakos/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/lisa-poulikakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa Poulikakos"><br>
+                <b>Lisa Poulikakos</b>
+            </a>
+            <p>
+                纳米光学, 热管理, 能量转换, 材料设计, 微纳制造, 光热效应
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/padmini-rangamani/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/padmini-rangamani-profile.jpg" width="150" style="border-radius: 8px;" alt="Padmini Rangamani"><br>
+                <b>Padmini Rangamani</b>
+            </a>
+            <p>
+                系统生物学, 细胞生物力学, 计算建模, 信号转导, 生物物理学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jack-silberman/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jack-silberman-profile.jpg" width="150" style="border-radius: 8px;" alt="Jack Silberman"><br>
+                <b>Jack Silberman</b>
+            </a>
+            <p>
+                机器人技术, 医疗机器人, 机器人控制, 系统建模, 自动化设计, 人机界面
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/frank-talke/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/frank-talke-profile.jpg" width="150" style="border-radius: 8px;" alt="Frank Talke"><br>
+                <b>Frank Talke</b>
+            </a>
+            <p>
+                磁存储技术, 精密机械, 生物力学, 微流体, 传感器技术, 数据存储系统
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Combustion](https://mae.ucsd.edu/research-area/combustion)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/robert-cattolica/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-cattolica-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Cattolica"><br>
+                <b>Robert Cattolica</b>
+            </a>
+            <p>
+                可再生能源, 燃烧科学, 能源系统分析, 温室气体排放控制, 工业污染控制, 高效能源技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/abhishek-saha/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abhishek-saha-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhishek Saha"><br>
+                <b>Abhishek Saha</b>
+            </a>
+            <p>
+                液滴动力学, 喷雾燃烧, 燃料雾化, 可再生能源燃烧, 流体流动稳定性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/antonio-sanchez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/antonio-sanchez-profile.jpg" width="150" style="border-radius: 8px;" alt="Antonio Sanchez"><br>
+                <b>Antonio Sanchez</b>
+            </a>
+            <p>
+                流体动力学, 湍流建模, 大气科学, 能源动力学, 计算流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/kalyanasundaram-seshadri/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kalyanasundaram-seshadri-profile.jpg" width="150" style="border-radius: 8px;" alt="Kalyanasundaram Seshadri"><br>
+                <b>Kalyanasundaram Seshadri</b>
+            </a>
+            <p>
+                燃烧科学, 化学反应动力学, 燃料燃烧效率, 火焰稳定性, 能源系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/forman-williams/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/forman-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Forman Williams"><br>
+                <b>Forman Williams</b>
+            </a>
+            <p>
+                燃烧理论, 火焰动力学, 能量转换, 可再生能源燃烧, 化学动力学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Plasma & Fusion](https://mae.ucsd.edu/research-area/plasma-%26-fusion)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/alexey-arefiev/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/alexey-arefiev-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexey Arefiev"><br>
+                <b>Alexey Arefiev</b>
+            </a>
+            <p>
+                等离子体物理, 激光等离子体相互作用, 高能量密度物理, 粒子加速, 核聚变研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/farhat-beg/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/farhat-beg-profile.jpg" width="150" style="border-radius: 8px;" alt="Farhat Beg"><br>
+                <b>Farhat Beg</b>
+            </a>
+            <p>
+                高能量密度物理, 等离子体物理, 激光驱动核聚变, 等离子体诊断, 快电子动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sergei-krasheninnikov/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sergei-krasheninnikov-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergei Krasheninnikov"><br>
+                <b>Sergei Krasheninnikov</b>
+            </a>
+            <p>
+                核聚变等离子体, 边界等离子体物理, 等离子体-壁相互作用, 等离子体湍流, 热输运
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/alessandro-marinoni/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/alessandro-marinoni-profile.jpg" width="150" style="border-radius: 8px;" alt="Alessandro Marinoni"><br>
+                <b>Alessandro Marinoni</b>
+            </a>
+            <p>
+                等离子体诊断, 核聚变装置, 等离子体不稳定性, 磁约束聚变, 高能量密度实验
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-whelan/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-whelan-profile.jpg" width="150" style="border-radius: 8px;" alt="David Whelan"><br>
+                <b>David Whelan</b>
+            </a>
+            <p>
+                系统工程, 航空航天技术, 核聚变能源系统设计, 高能粒子物理, 创新技术开发
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Energy, Energy Systems, and Renewables](https://mae.ucsd.edu/research-area/energy%2C%20energy%20systems%2C%20and%20renewables)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/prabhakar-bandaru/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/prabhakar-bandaru-profile.jpg" width="150" style="border-radius: 8px;" alt="Prabhakar Bandaru"><br>
+                <b>Prabhakar Bandaru</b>
+            </a>
+            <p>
+                纳米技术, 能量存储, 热电材料, 碳纳米管, 功能材料, 可持续能源系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/robert-cattolica/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/robert-cattolica-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Cattolica"><br>
+                <b>Robert Cattolica</b>
+            </a>
+            <p>
+                可再生能源, 燃烧科学, 能源系统分析, 温室气体排放控制, 工业污染控制, 高效能源技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/renkun-chen/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/renkun-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Renkun Chen"><br>
+                <b>Renkun Chen</b>
+            </a>
+            <p>
+                热传导, 热电材料, 纳米结构材料, 能量转换, 热管理, 高效能源系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/carlos-coimbra/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/carlos-coimbra-profile.jpg" width="150" style="border-radius: 8px;" alt="Carlos Coimbra"><br>
+                <b>Carlos Coimbra</b>
+            </a>
+            <p>
+                能源建模, 可再生能源集成, 天气预测, 数据驱动能源分析, 热力学, 动态系统建模
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/michael-davidson/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/michael-davidson-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Davidson"><br>
+                <b>Michael Davidson</b>
+            </a>
+            <p>
+                能源政策, 电力系统, 可再生能源, 全球能源经济, 技术评估, 环境可持续性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/olivia-graeve/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/olivia-graeve-profile.jpg" width="150" style="border-radius: 8px;" alt="Olivia Graeve"><br>
+                <b>Olivia Graeve</b>
+            </a>
+            <p>
+                材料合成, 纳米复合材料, 先进陶瓷, 能量存储材料, 环境友好材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/patricia-hidalgo-gonzalez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/patricia-hidalgo-gonzalez-profile.jpg" width="150" style="border-radius: 8px;" alt="Patricia Hidalgo-Gonzalez"><br>
+                <b>Patricia Hidalgo-Gonzalez</b>
+            </a>
+            <p>
+                能源系统控制, 可再生能源集成, 智能电网, 优化与调度, 电力市场, 系统动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jan-kleissl/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jan-kleissl-profile.jpg" width="150" style="border-radius: 8px;" alt="Jan Kleissl"><br>
+                <b>Jan Kleissl</b>
+            </a>
+            <p>
+                可再生能源, 太阳能技术, 大气科学, 风能, 建筑能源效率, 环境模拟
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/sergei-krasheninnikov/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/sergei-krasheninnikov-profile.jpg" width="150" style="border-radius: 8px;" alt="Sergei Krasheninnikov"><br>
+                <b>Sergei Krasheninnikov</b>
+            </a>
+            <p>
+                核聚变等离子体, 边界等离子体物理, 等离子体-壁相互作用, 等离子体湍流, 热输运
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/miroslav-krstic/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/miroslav-krstic-profile.jpg" width="150" style="border-radius: 8px;" alt="Miroslav Krstic"><br>
+                <b>Miroslav Krstic</b>
+            </a>
+            <p>
+                非线性控制, 自适应控制, 分布参数系统控制, 并网控制, 分数阶系统, 创新控制方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jorge-poveda/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jorge-poveda-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Poveda"><br>
+                <b>Jorge Poveda</b>
+            </a>
+            <p>
+                混合动力系统, 强化学习, 自主系统, 智能电网控制, 动态系统分析, 网络化控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/abhishek-saha/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/abhishek-saha-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhishek Saha"><br>
+                <b>Abhishek Saha</b>
+            </a>
+            <p>
+                液滴动力学, 喷雾燃烧, 燃料雾化, 可再生能源燃烧, 流体流动稳定性
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/antonio-sanchez/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/antonio-sanchez-profile.jpg" width="150" style="border-radius: 8px;" alt="Antonio Sanchez"><br>
+                <b>Antonio Sanchez</b>
+            </a>
+            <p>
+                流体动力学, 湍流建模, 大气科学, 能源动力学, 计算流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/kalyanasundaram-seshadri/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/kalyanasundaram-seshadri-profile.jpg" width="150" style="border-radius: 8px;" alt="Kalyanasundaram Seshadri"><br>
+                <b>Kalyanasundaram Seshadri</b>
+            </a>
+            <p>
+                燃烧科学, 化学反应动力学, 燃料燃烧效率, 火焰稳定性, 能源系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/george-tynan/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/george-tynan-profile.jpg" width="150" style="border-radius: 8px;" alt="George Tynan"><br>
+                <b>George Tynan</b>
+            </a>
+            <p>
+                核聚变等离子体, 可再生能源系统, 等离子体湍流, 高能量密度物理, 能源转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/david-victor/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/david-victor-profile.jpg" width="150" style="border-radius: 8px;" alt="David Victor"><br>
+                <b>David Victor</b>
+            </a>
+            <p>
+                能源政策, 气候变化经济学, 全球能源市场, 环境法律, 可持续能源解决方案
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/jon-wade/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/jon-wade-profile.jpg" width="150" style="border-radius: 8px;" alt="Jon Wade"><br>
+                <b>Jon Wade</b>
+            </a>
+            <p>
+                系统工程, 可持续能源系统, 技术开发, 创新策略, 能源经济学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucsd/mae/forman-williams/research-overview.md">
+                <img src="research-quickview/ucsd/profiles/forman-williams-profile.jpg" width="150" style="border-radius: 8px;" alt="Forman Williams"><br>
+                <b>Forman Williams</b>
+            </a>
+            <p>
+                燃烧理论, 火焰动力学, 能量转换, 可再生能源燃烧, 化学动力学
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 
 ### [Electrical and Computer Engineering](https://ece.ucsd.edu/)
