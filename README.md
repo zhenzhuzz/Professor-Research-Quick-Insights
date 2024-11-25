@@ -2359,6 +2359,590 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand UCLA Professors</summary>
 
+### [Mechanical & Aerospace Engineering](https://www.mae.ucla.edu/)
+
+- **Field**: [Design, Robotics, and Manufacturing](https://www.mae.ucla.edu/faculty-research/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/greg-carman/research-overview.md">
+                <img src="research-quickview/ucla/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
+                <b>Greg Carman</b>
+            </a>
+            <p>
+                纳米级多铁材料, 压电材料, 磁致伸缩材料, 薄膜形状记忆合金, 光纤传感器, 智能材料与结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/tyler-clites/research-overview.md">
+                <img src="research-quickview/ucla/profiles/tyler-clites-profile.jpg" width="150" style="border-radius: 8px;" alt="Tyler Clites"><br>
+                <b>Tyler Clites</b>
+            </a>
+            <p>
+                仿生系统, 神经接口与控制, 骨科与整形外科手术技术, 人体功能增强与康复, 软体机器人
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/anushri-dixit/research-overview.md">
+                <img src="research-quickview/ucla/profiles/anushri-dixit-profile.jpg" width="150" style="border-radius: 8px;" alt="Anushri Dixit"><br>
+                <b>Anushri Dixit</b>
+            </a>
+            <p>
+                自主性, 机器人学, 安全关键决策, 随机控制, 模型预测控制, 风险感知规划
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/elisa-franco/research-overview.md">
+                <img src="research-quickview/ucla/profiles/elisa-franco-profile.jpg" width="150" style="border-radius: 8px;" alt="Elisa Franco"><br>
+                <b>Elisa Franco</b>
+            </a>
+            <p>
+                结构生物学, 动态与控制, 生物分子框架, 合成生物学, 智能材料
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/rajit-gadh/research-overview.md">
+                <img src="research-quickview/ucla/profiles/rajit-gadh-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajit Gadh"><br>
+                <b>Rajit Gadh</b>
+            </a>
+            <p>
+                智能电网, 电动汽车与电网集成, 微电网, 分布式能源资源, 可再生能源, 自动化设计, 物联网
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/dennis-hong/research-overview.md">
+                <img src="research-quickview/ucla/profiles/dennis-hong-profile.jpg" width="150" style="border-radius: 8px;" alt="Dennis Hong"><br>
+                <b>Dennis Hong</b>
+            </a>
+            <p>
+                仿生机器人, 人形机器人, 机器人操控, 软驱动器, 机器人平台, 机械设计与运动学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/jonathan-hopkins/research-overview.md">
+                <img src="research-quickview/ucla/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
+                <b>Jonathan B. Hopkins</b>
+            </a>
+            <p>
+                柔性结构设计, 精密制造, 微结构分析, 智能材料, 高效折叠结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/m-khalid-jawed/research-overview.md">
+                <img src="research-quickview/ucla/profiles/m-khalid-jawed-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Khalid Jawed"><br>
+                <b>M. Khalid Jawed</b>
+            </a>
+            <p>
+                数据驱动建模, 软体机器人, 流固耦合, 自动化, 计算力学, 仿生学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/xiaochun-li/research-overview.md">
+                <img src="research-quickview/ucla/profiles/xiaochun-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaochun Li"><br>
+                <b>Xiaochun Li</b>
+            </a>
+            <p>
+                科学驱动制造, 纳米颗粒分散超金属, 智能制造, 增材制造, 纳米制造, 工业应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/brett-lopez/research-overview.md">
+                <img src="research-quickview/ucla/profiles/brett-lopez-profile.jpg" width="150" style="border-radius: 8px;" alt="Brett Lopez"><br>
+                <b>Brett Lopez</b>
+            </a>
+            <p>
+                航空航天机器人, 自主系统, 非线性控制, 轨迹规划, 本地化与建图, 智能系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/jacob-rosen/research-overview.md">
+                <img src="research-quickview/ucla/profiles/jacob-rosen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jacob Rosen"><br>
+                <b>Jacob Rosen</b>
+            </a>
+            <p>
+                医疗机器人, 外骨骼, 手术机器人, 生物力学, 虚拟现实, 人机交互与神经控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/veronica-santos/research-overview.md">
+                <img src="research-quickview/ucla/profiles/veronica-santos-profile.jpg" width="150" style="border-radius: 8px;" alt="Veronica Santos"><br>
+                <b>Veronica Santos</b>
+            </a>
+            <p>
+                触觉传感, 假肢设计, 手部生物力学, 人机系统, 机器人力学, 随机建模
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/tsu-chin-tsao/research-overview.md">
+                <img src="research-quickview/ucla/profiles/tsu-chin-tsao-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Chin Tsao"><br>
+                <b>Tsu-Chin Tsao</b>
+            </a>
+            <p>
+                动态系统建模, 精密控制, 机械系统控制, 数字控制, 自适应与优化控制, 机电一体化
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Fluid Mechanics](https://www.mae.ucla.edu/faculty-research/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/artur-davoyan/research-overview.md">
+                <img src="research-quickview/ucla/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
+                <b>Artur Davoyan</b>
+            </a>
+            <p>
+                空间、能源和通信中的先进材料与系统, 突破性推进技术, 高功率与高能量激光, 纳米材料与二维材料, 超材料, 等离子体光学, 光子器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/jeff-eldredge/research-overview.md">
+                <img src="research-quickview/ucla/profiles/jeff-eldredge-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeff Eldredge"><br>
+                <b>Jeff Eldredge</b>
+            </a>
+            <p>
+                流体动力学计算与理论研究, 包括非定常气动力学, 仿生运动, 流固耦合, 生物医学流体
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/ann-karagozian/research-overview.md">
+                <img src="research-quickview/ucla/profiles/ann-karagozian-profile.jpg" width="150" style="border-radius: 8px;" alt="Ann Karagozian"><br>
+                <b>Ann Karagozian</b>
+            </a>
+            <p>
+                流体力学与燃烧, 改进发动机效率, 减少排放, 替代燃料, 高速空气动力与火箭推进
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/pirouz-kavehpour/research-overview.md">
+                <img src="research-quickview/ucla/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
+                <b>Pirouz Kavehpour</b>
+            </a>
+            <p>
+                微流体与生物流体, 生物燃料电池, 心血管流动, 复杂流体, 界面物理, 微型摩擦学, 非等温流, 药物输送与人工器官
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/mitchell-spearrin/research-overview.md">
+                <img src="research-quickview/ucla/profiles/mitchell-spearrin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell Spearrin"><br>
+                <b>Mitchell Spearrin</b>
+            </a>
+            <p>
+                光谱学与气体动力学, 激光吸收与荧光传感器, 推进系统与能源系统实验应用, 反应流场研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/kunihiko-taira/research-overview.md">
+                <img src="research-quickview/ucla/profiles/kunihiko-taira-profile.jpg" width="150" style="border-radius: 8px;" alt="Kunihiko Taira"><br>
+                <b>Kunihiko Taira</b>
+            </a>
+            <p>
+                流体流动的分析、建模与控制, 使用高性能计算, 流体力学、动力系统理论、网络科学与数据科学的结合
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/xiaolin-zhong/research-overview.md">
+                <img src="research-quickview/ucla/profiles/xiaolin-zhong-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaolin Zhong"><br>
+                <b>Xiaolin Zhong</b>
+            </a>
+            <p>
+                计算流体动力学, 高超音速流, 高阶数值方法开发, 高超音速边界层感受性、稳定性与过渡, 湍流冲击波相互作用的直接数值模拟, 波能捕获装置的模拟研究
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Micro-Nano Engineering](https://www.mae.ucla.edu/faculty-research/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/greg-carman/research-overview.md">
+                <img src="research-quickview/ucla/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
+                <b>Greg Carman</b>
+            </a>
+            <p>
+                纳米级多铁材料, 压电材料, 磁致伸缩材料, 薄膜形状记忆合金, 光纤传感器, 智能材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/yong-chen/research-overview.md">
+                <img src="research-quickview/ucla/profiles/yong-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yong Chen"><br>
+                <b>Yong Chen</b>
+            </a>
+            <p>
+                纳米制造, 纳米电子材料与器件, 微纳电子/光学/生物/机械系统, 超空间和时间分辨表征
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/pei-yu-chiou/research-overview.md">
+                <img src="research-quickview/ucla/profiles/pei-yu-chiou-profile.jpg" width="150" style="border-radius: 8px;" alt="Pei-Yu Chiou"><br>
+                <b>Pei-Yu Chiou</b>
+            </a>
+            <p>
+                生物光子学, 纳米光子学, BioMEMS/NEMS, 电动流体学, 微流体, 引导自组装, 高通量单细胞分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/artur-davoyan/research-overview.md">
+                <img src="research-quickview/ucla/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
+                <b>Artur Davoyan</b>
+            </a>
+            <p>
+                空间、能源和通信中的先进材料与系统, 高功率与高能激光, 激光材料相互作用, 纳米和二维材料, 超材料, 等离子体光学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/tim-fisher/research-overview.md">
+                <img src="research-quickview/ucla/profiles/tim-fisher-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Fisher"><br>
+                <b>Tim Fisher</b>
+            </a>
+            <p>
+                电子、声子、光子和流体的传输过程, 能源传输、转换和存储中的应用, 微纳电子、传感器工业
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/vijay-gupta/research-overview.md">
+                <img src="research-quickview/ucla/profiles/vijay-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Gupta"><br>
+                <b>Vijay Gupta</b>
+            </a>
+            <p>
+                实验力学, 工程固体的断裂, 薄膜和界面的力学, 复合材料的失效机理, 冰力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/yongjie-hu/research-overview.md">
+                <img src="research-quickview/ucla/profiles/yongjie-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjie Hu"><br>
+                <b>Yongjie Hu</b>
+            </a>
+            <p>
+                纳米结构中的热传导与电子传输, 热电设备, 能量转换与热管理, 超快光学光谱
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/lihua-jin/research-overview.md">
+                <img src="research-quickview/ucla/profiles/lihua-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihua Jin"><br>
+                <b>Lihua Jin</b>
+            </a>
+            <p>
+                软材料力学, 不稳定性与断裂, 响应性材料, 连续力学, 添加剂制造, 软体机器人
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/sungtaek-ju/research-overview.md">
+                <img src="research-quickview/ucla/profiles/sungtaek-ju-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Sungtaek Ju"><br>
+                <b>Y. Sungtaek Ju</b>
+            </a>
+            <p>
+                微纳尺度热科学, 能源, BioMEMS/NEMS, 纳米制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/pirouz-kavehpour/research-overview.md">
+                <img src="research-quickview/ucla/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
+                <b>Pirouz Kavehpour</b>
+            </a>
+            <p>
+                微流体与生物流体, 复杂流体, 界面物理, 微型摩擦学, 药物输送与人工器官
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/chang-jin-kim/research-overview.md">
+                <img src="research-quickview/ucla/profiles/chang-jin-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Chang-Jin Kim"><br>
+                <b>Chang-Jin Kim</b>
+            </a>
+            <p>
+                微机电系统 (MEMS), 表面张力驱动微致动器, 纳米技术表面控制, 微流体设备, 微机加工技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/xiaochun-li/research-overview.md">
+                <img src="research-quickview/ucla/profiles/xiaochun-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiaochun Li"><br>
+                <b>Xiaochun Li</b>
+            </a>
+            <p>
+                科学驱动制造, 纳米颗粒分散超金属, 智能制造, 增材制造, 纳米制造, 工业应用
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/neil-lin/research-overview.md">
+                <img src="research-quickview/ucla/profiles/neil-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Neil Lin"><br>
+                <b>Neil Lin</b>
+            </a>
+            <p>
+                3D打印组织, 模拟人类器官的几何结构与功能, 药物筛选复杂模型组织, 人造器官移植应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/laurent-pilon/research-overview.md">
+                <img src="research-quickview/ucla/profiles/laurent-pilon-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurent Pilon"><br>
+                <b>Laurent Pilon</b>
+            </a>
+            <p>
+                辐射传递, 应用光学, 界面与传输现象, 纳米结构材料在能源中的应用, 热电能源转换, 生物燃料光合生产
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Structural and Solid Mechanics](https://www.mae.ucla.edu/faculty-research/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/greg-carman/research-overview.md">
+                <img src="research-quickview/ucla/profiles/greg-carman-profile.jpg" width="150" style="border-radius: 8px;" alt="Greg Carman"><br>
+                <b>Greg Carman</b>
+            </a>
+            <p>
+                纳米级多铁材料, 压电材料, 磁致伸缩材料, 薄膜形状记忆合金, 光纤传感器, 智能材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/artur-davoyan/research-overview.md">
+                <img src="research-quickview/ucla/profiles/artur-davoyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Artur Davoyan"><br>
+                <b>Artur Davoyan</b>
+            </a>
+            <p>
+                空间、能源和通信中的先进材料与系统, 高功率与高能量激光, 激光材料相互作用, 纳米和二维材料, 超材料, 等离子体光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/vijay-gupta/research-overview.md">
+                <img src="research-quickview/ucla/profiles/vijay-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Gupta"><br>
+                <b>Vijay Gupta</b>
+            </a>
+            <p>
+                实验力学, 工程固体的断裂, 薄膜和界面的力学, 复合材料的失效机理, 冰力学, 高频声学脉冲应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/jonathan-hopkins/research-overview.md">
+                <img src="research-quickview/ucla/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
+                <b>Jonathan B. Hopkins</b>
+            </a>
+            <p>
+                柔性结构的设计与分析, 复杂机制的制造, 精密结构, 创新结构的机械性能
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/m-khalid-jawed/research-overview.md">
+                <img src="research-quickview/ucla/profiles/m-khalid-jawed-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Khalid Jawed"><br>
+                <b>M. Khalid Jawed</b>
+            </a>
+            <p>
+                数据驱动结构力学建模, 流固耦合, 机器人与自动化, 计算与机器学习在力学中的应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/lihua-jin/research-overview.md">
+                <img src="research-quickview/ucla/profiles/lihua-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Lihua Jin"><br>
+                <b>Lihua Jin</b>
+            </a>
+            <p>
+                软材料力学, 材料不稳定性与断裂, 响应性材料, 添加剂制造, 软体机器人, 可拉伸电子产品, 生物力学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Systems and Control](https://www.mae.ucla.edu/faculty-research/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/anushri-dixit/research-overview.md">
+                <img src="research-quickview/ucla/profiles/anushri-dixit-profile.jpg" width="150" style="border-radius: 8px;" alt="Anushri Dixit"><br>
+                <b>Anushri Dixit</b>
+            </a>
+            <p>
+                自主性, 机器人学, 安全关键决策, 随机控制, 模型预测控制, 风险感知规划
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/elisa-franco/research-overview.md">
+                <img src="research-quickview/ucla/profiles/elisa-franco-profile.jpg" width="150" style="border-radius: 8px;" alt="Elisa Franco"><br>
+                <b>Elisa Franco</b>
+            </a>
+            <p>
+                结构生物学, 动态与控制, 生物分子框架, 合成生物学, 智能材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/jonathan-hopkins/research-overview.md">
+                <img src="research-quickview/ucla/profiles/jonathan-hopkins-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan B. Hopkins"><br>
+                <b>Jonathan B. Hopkins</b>
+            </a>
+            <p>
+                柔性结构的设计与分析, 复杂机制的制造, 精密结构, 创新结构的机械性能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/tetsuya-iwasaki/research-overview.md">
+                <img src="research-quickview/ucla/profiles/tetsuya-iwasaki-profile.jpg" width="150" style="border-radius: 8px;" alt="Tetsuya Iwasaki"><br>
+                <b>Tetsuya Iwasaki</b>
+            </a>
+            <p>
+                动物运动的神经控制机制, 非线性振荡器, 鲁棒与非线性控制理论及其机械、航空航天和电气系统的应用
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/brett-lopez/research-overview.md">
+                <img src="research-quickview/ucla/profiles/brett-lopez-profile.jpg" width="150" style="border-radius: 8px;" alt="Brett Lopez"><br>
+                <b>Brett Lopez</b>
+            </a>
+            <p>
+                自主系统, 航空航天机器人, 非线性与自适应控制, 预测控制, 轨迹规划, 本地化与建图
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/robert-mcloskey/research-overview.md">
+                <img src="research-quickview/ucla/profiles/robert-mcloskey-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert M’Closkey"><br>
+                <b>Robert M’Closkey</b>
+            </a>
+            <p>
+                非线性控制理论与设计, 机械与航空航天系统的实时实施, 动态控制系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/jacob-rosen/research-overview.md">
+                <img src="research-quickview/ucla/profiles/jacob-rosen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jacob Rosen"><br>
+                <b>Jacob Rosen</b>
+            </a>
+            <p>
+                医疗机器人, 人机交互, 手术机器人, 外骨骼机器人, 神经控制, 生物力学, 虚拟现实与触觉技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/veronica-santos/research-overview.md">
+                <img src="research-quickview/ucla/profiles/veronica-santos-profile.jpg" width="150" style="border-radius: 8px;" alt="Veronica Santos"><br>
+                <b>Veronica Santos</b>
+            </a>
+            <p>
+                人机系统, 机器人假肢, 触觉传感器, 手部生物力学, 神经运动控制, 随机建模
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/jason-speyer/research-overview.md">
+                <img src="research-quickview/ucla/profiles/jason-speyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Jason L. Speyer"><br>
+                <b>Jason L. Speyer</b>
+            </a>
+            <p>
+                随机与确定性最优控制与估计, 航空航天系统的导航与控制, 飞行力学, 指南与优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/tsu-chin-tsao/research-overview.md">
+                <img src="research-quickview/ucla/profiles/tsu-chin-tsao-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Chin Tsao"><br>
+                <b>Tsu-Chin Tsao</b>
+            </a>
+            <p>
+                动态系统建模与控制, 机械系统的数字与重复控制, 学习控制, 自适应与最优控制, 机电一体化
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field**: [Thermal Science and Engineering](https://www.mae.ucla.edu/faculty-research/)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/vijay-dhir/research-overview.md">
+                <img src="research-quickview/ucla/profiles/vijay-dhir-profile.jpg" width="150" style="border-radius: 8px;" alt="Vijay Dhir"><br>
+                <b>Vijay Dhir</b>
+            </a>
+            <p>
+                两相传热, 沸腾与冷凝, 热稳定性与流体稳定性, 核反应堆的热水力学, 微重力传热, 土壤修复
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/tim-fisher/research-overview.md">
+                <img src="research-quickview/ucla/profiles/tim-fisher-profile.jpg" width="150" style="border-radius: 8px;" alt="Tim Fisher"><br>
+                <b>Tim Fisher</b>
+            </a>
+            <p>
+                电子、声子、光子和流体的传输过程, 能源传输、转换与存储的工业应用, 包括航空航天、微纳电子与传感器
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/yongjie-hu/research-overview.md">
+                <img src="research-quickview/ucla/profiles/yongjie-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yongjie Hu"><br>
+                <b>Yongjie Hu</b>
+            </a>
+            <p>
+                纳米结构中的热传递与电子传输, 热电设备与系统, 能量转换与热管理, 超快光学光谱与高频电子, 纳米材料设计与制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/sungtaek-ju/research-overview.md">
+                <img src="research-quickview/ucla/profiles/sungtaek-ju-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Sungtaek Ju"><br>
+                <b>Y. Sungtaek Ju</b>
+            </a>
+            <p>
+                微纳热科学, 能源, BioMEMS/NEMS, 纳米制造
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/pirouz-kavehpour/research-overview.md">
+                <img src="research-quickview/ucla/profiles/pirouz-kavehpour-profile.jpg" width="150" style="border-radius: 8px;" alt="Pirouz Kavehpour"><br>
+                <b>Pirouz Kavehpour</b>
+            </a>
+            <p>
+                微流体与生物流体, 生物燃料电池, 心血管流动, 复杂流体, 界面物理, 药物输送与人工器官
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/adrienne-lavine/research-overview.md">
+                <img src="research-quickview/ucla/profiles/adrienne-lavine-profile.jpg" width="150" style="border-radius: 8px;" alt="Adrienne Lavine"><br>
+                <b>Adrienne Lavine</b>
+            </a>
+            <p>
+                太阳能热储存, 热能收集, 纳米制造的热控制, 形状记忆合金的热机械行为, 加工过程的热效应
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/laurent-pilon/research-overview.md">
+                <img src="research-quickview/ucla/profiles/laurent-pilon-profile.jpg" width="150" style="border-radius: 8px;" alt="Laurent Pilon"><br>
+                <b>Laurent Pilon</b>
+            </a>
+            <p>
+                辐射传递, 应用光学, 界面与传输现象, 纳米结构材料在能源中的应用, 热电能源转换, 生物燃料光合生产
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/ucla/mae/mitchell-spearrin/research-overview.md">
+                <img src="research-quickview/ucla/profiles/mitchell-spearrin-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell Spearrin"><br>
+                <b>Mitchell Spearrin</b>
+            </a>
+            <p>
+                光谱学与气体动力学, 高级光学传感器, 包括激光吸收与荧光, 推进与能源系统实验应用, 反应流场研究
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+
 ### [Electrical & Computer Engineering](https://www.ee.ucla.edu/ucla-ee-research/)
 
 - **Field**: Semiconductors and Packaging Technology
