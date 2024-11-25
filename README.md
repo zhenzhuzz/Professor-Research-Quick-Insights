@@ -2353,6 +2353,7 @@ A repository for quickly accessing research insights into professors' expertise 
 [ECE: Dec, 15](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/);
 [Admission Catolog](https://grad.ucla.edu/admissions/calendar/#:~:text=Most%20graduate%20admissions%20applications%20are,some%20have%20multiple%20admissions%20rounds.);
 [$155](https://grad.ucla.edu/admissions/faqs/);
+[Only one program](https://grad.ucla.edu/admissions/faqs/);
 [Apply Now](https://grad.ucla.edu/admissions/admission-application-for-graduate-admission/)
 
 <details>
@@ -2471,8 +2472,9 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## [UCSD](https://ucsd.edu/)
 [ME: Dec, 4](https://maeweb.ucsd.edu/grad/graduate-admissions);
-[ECE: Dec, 16](https://www.ece.ucsd.edu/graduate/graduate-admissions)
-[$155](https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/)
+[ECE: Dec, 16](https://www.ece.ucsd.edu/graduate/graduate-admissions);
+[$155](https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/);
+[More than one program in different departments](https://grad.ucsd.edu/admissions/admission-faq/faq-general-application.html#Can-I-apply-to-more-than-one-pr);
 [Apply now](https://grad.ucsd.edu/admissions/)
 
 <details>
