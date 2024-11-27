@@ -10132,6 +10132,7 @@ A repository for quickly accessing research insights into professors' expertise 
 [EECS: Dec, 1](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/);
 [$90](https://oge.mit.edu/graduate-admissions/frequently-asked-questions/);
 [SoP](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/);
+[SoP2](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/);
 [Apply Now ME](https://meche.mit.edu/education/prospective-students/graduate/graduate-admissions-faq/);
 [Apply Now EECS](https://gradapply.mit.edu/eecs/apply/login/)
 
