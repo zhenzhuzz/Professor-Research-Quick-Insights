@@ -18436,7 +18436,7 @@ A repository for quickly accessing research insights into professors' expertise 
 </table>
 
 
-- **Field**: [Chemistry]([https://ee.stanford.edu/people/faculty?areas=7ce2fdfb-453a-42c3-9dc9-4e63411895bd&limit=10&sort=asc&type=active&page=2](https://mechse.illinois.edu/research/fundamental-areas/chemistry))
+- **Field**: [Chemistry](https://ee.stanford.edu/people/faculty?areas=7ce2fdfb-453a-42c3-9dc9-4e63411895bd&limit=10&sort=asc&type=active&page=2](https://mechse.illinois.edu/research/fundamental-areas/chemistry)
 
 <table>
     <tr>
