@@ -18191,7 +18191,251 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Mechanical Science and Engineering](https://mechse.illinois.edu/)
 
-- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+- **Field**: [Applied-Physics](https://mechse.illinois.edu/research/fundamental-areas/applied-physics)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bahl/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bahl-profile.jpg" width="150" style="border-radius: 8px;" alt="G. Bahl"><br>
+                <b>G. Bahl</b>
+            </a>
+            <p>
+                固体力学, 动力学与控制, 计算力学, 声学, 波传播
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/cai/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/cai-profile.jpg" width="150" style="border-radius: 8px;" alt="L. Cai"><br>
+                <b>L. Cai</b>
+            </a>
+            <p>
+                纳米材料, 微机电系统 (MEMS), 生物材料, 界面工程, 材料加工
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ertekin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ertekin-profile.jpg" width="150" style="border-radius: 8px;" alt="E. Ertekin"><br>
+                <b>E. Ertekin</b>
+            </a>
+            <p>
+                材料科学, 计算材料学, 纳米技术, 原子模拟, 高性能材料开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/feng/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/feng-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Feng"><br>
+                <b>J. Feng</b>
+            </a>
+            <p>
+                微流控技术, 纳米流体, 热力学, 能源转换, 传热学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/gazzola/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gazzola-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Gazzola"><br>
+                <b>M. Gazzola</b>
+            </a>
+            <p>
+                生物力学, 医用机器人, 控制系统, 微型机器人, 仿生学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jasiuk/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jasiuk-profile.jpg" width="150" style="border-radius: 8px;" alt="I. Jasiuk"><br>
+                <b>I. Jasiuk</b>
+            </a>
+            <p>
+                复合材料, 多尺度建模, 纳米力学, 碳基材料, 结构健康监测
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/johnson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/johnson-profile.jpg" width="150" style="border-radius: 8px;" alt="H.T. Johnson"><br>
+                <b>H.T. Johnson</b>
+            </a>
+            <p>
+                结构优化, 动力学控制, 材料力学, 高效能源设备, 机械振动
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/king/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/king-profile.jpg" width="150" style="border-radius: 8px;" alt="B. King"><br>
+                <b>B. King</b>
+            </a>
+            <p>
+                机械学, 纳米力学, 传热学, 材料力学, 能源转换
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/matalon/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/matalon-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Matalon"><br>
+                <b>M. Matalon</b>
+            </a>
+            <p>
+                高温气体动力学, 流体力学, 热力学, 多相流, 高温环境下的材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/matlack/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/matlack-profile.jpg" width="150" style="border-radius: 8px;" alt="K. Matlack"><br>
+                <b>K. Matlack</b>
+            </a>
+            <p>
+                材料科学, 燃烧过程, 燃料改进, 纳米材料, 复杂流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/miljkovic/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/miljkovic-profile.jpg" width="150" style="border-radius: 8px;" alt="N. Miljkovic"><br>
+                <b>N. Miljkovic</b>
+            </a>
+            <p>
+                热管理, 微流控, 纳米流体, 动态传热, 能源系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sehitoglu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sehitoglu-profile.jpg" width="150" style="border-radius: 8px;" alt="H. Sehitoglu"><br>
+                <b>H. Sehitoglu</b>
+            </a>
+            <p>
+                材料力学, 磁性材料, 材料疲劳, 固体力学, 纳米技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sinha/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sinha-profile.jpg" width="150" style="border-radius: 8px;" alt="S. Sinha"><br>
+                <b>S. Sinha</b>
+            </a>
+            <p>
+                机械工程, 材料科学, 纳米材料, 碳基纳米材料, 传感器技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/smith/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/smith-profile.jpg" width="150" style="border-radius: 8px;" alt="K. C. Smith"><br>
+                <b>K. C. Smith</b>
+            </a>
+            <p>
+                纳米制造, 机械力学, 微流控, 电子器件优化, 自适应结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/stephani/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephani-profile.jpg" width="150" style="border-radius: 8px;" alt="K. C. Stephani"><br>
+                <b>K. C. Stephani</b>
+            </a>
+            <p>
+                动力学与控制, 微型机械系统, 自适应控制, 纳米技术, 复杂流体力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/vakakis/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/vakakis-profile.jpg" width="150" style="border-radius: 8px;" alt="A. F. Vakakis"><br>
+                <b>A. F. Vakakis</b>
+            </a>
+            <p>
+                材料动力学, 波动传播, 计算力学, 结构优化, 高性能材料
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/van-der-zande/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/van-der-zande-profile.jpg" width="150" style="border-radius: 8px;" alt="P. van der Zande"><br>
+                <b>P. van der Zande</b>
+            </a>
+            <p>
+                纳米材料, 低维材料, 电子学, 光子学, 材料设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/juarez/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/juarez-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Juarez"><br>
+                <b>M. Juarez</b>
+            </a>
+            <p>
+                流体力学, 材料科学, 动力学, 纳米技术, 多物理场耦合
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/han/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/han-profile.jpg" width="150" style="border-radius: 8px;" alt="H. Han"><br>
+                <b>H. Han</b>
+            </a>
+            <p>
+                材料力学, 结构健康监测, 损伤与断裂, 纳米结构, 自愈合材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hilgenfeldt/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hilgenfeldt-profile.jpg" width="150" style="border-radius: 8px;" alt="D. Hilgenfeldt"><br>
+                <b>D. Hilgenfeldt</b>
+            </a>
+            <p>
+                生物物理学, 纳米流体力学, 微型机械, 计算力学, 复杂流体系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hu-profile.jpg" width="150" style="border-radius: 8px;" alt="H. Hu"><br>
+                <b>H. Hu</b>
+            </a>
+            <p>
+                材料科学, 高温合金, 燃料电池, 氢能技术, 新型能源系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/luetkemeyer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/luetkemeyer-profile.jpg" width="150" style="border-radius: 8px;" alt="S. Luetkemeyer"><br>
+                <b>S. Luetkemeyer</b>
+            </a>
+            <p>
+                控制理论, 自适应系统, 微型机器人, 机械振动, 复杂系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Z. Wang"><br>
+                <b>Z. Wang</b>
+            </a>
+            <p>
+                材料科学, 纳米技术, 微流体, 生物传感器, 电子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/saif/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/saif-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Saif"><br>
+                <b>M. Saif</b>
+            </a>
+            <p>
+                生物力学, 生物材料, 微型机械, 生物传感器, 机械工程
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/tawfick/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tawfick-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Tawfick"><br>
+                <b>M. Tawfick</b>
+            </a>
+            <p>
+                纳米材料, 复合材料, 先进制造, 纳米传感器, 生物材料
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 
 ### [Electrical and Computer Engineering](https://ece.illinois.edu/)
 
