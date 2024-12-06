@@ -20619,6 +20619,146 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 ### [Electrical and Computer Engineering](https://seas.yale.edu/departments/electrical-engineering)
+
+- **Field:** [Computer Engineering](https://seas.yale.edu/faculty-research/research-areas/computer-engineering)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/rajit-manohar/research-overview.md">
+                <img src="research-quickview/yale/profiles/rajit-manohar-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajit Manohar"><br>
+                <b>Rajit Manohar</b>
+            </a>
+            <p>
+                异步电路, 自定时电路设计, 系统架构, 电路理论, 自动化设计与实现
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/jakub-szefer/research-overview.md">
+                <img src="research-quickview/yale/profiles/jakub-szefer-profile.jpg" width="150" style="border-radius: 8px;" alt="Jakub Szefer"><br>
+                <b>Jakub Szefer</b>
+            </a>
+            <p>
+                安全硬件-软件架构, 服务器与移动设备的多核处理器架构, 硬件信任证据, 安全性与能效设计, 云计算安全, 数据中心安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/priyadarshini-panda/research-overview.md">
+                <img src="research-quickview/yale/profiles/priyadarshini-panda-profile.jpg" width="150" style="border-radius: 8px;" alt="Priyadarshini Panda"><br>
+                <b>Priyadarshini Panda</b>
+            </a>
+            <p>
+                神经形态计算, 能效深度学习网络设计, 突触神经网络学习算法, 新型神经网络架构, 终身学习与生成模型, 对抗攻击研究
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Systems](https://seas.yale.edu/faculty-research/research-areas/systems)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/roman-kuc/research-overview.md">
+                <img src="research-quickview/yale/profiles/roman-kuc-profile.jpg" width="150" style="border-radius: 8px;" alt="Roman Kuc"><br>
+                <b>Roman Kuc</b>
+            </a>
+            <p>
+                仿生传感, 基于生物学的传感器与信号策略, 数据分析与预测, 随机搜索模型参数估计, 自主机器人感知与处理能力极限
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/a-stephen-morse/research-overview.md">
+                <img src="research-quickview/yale/profiles/a-stephen-morse-profile.jpg" width="150" style="border-radius: 8px;" alt="A. Stephen Morse"><br>
+                <b>A. Stephen Morse</b>
+            </a>
+            <p>
+                传感器网络, 协作与分布式控制, 自适应控制, 图刚性理论在队形控制中的应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/lawrence-staib/research-overview.md">
+                <img src="research-quickview/yale/profiles/lawrence-staib-profile.jpg" width="150" style="border-radius: 8px;" alt="Lawrence Staib"><br>
+                <b>Lawrence Staib</b>
+            </a>
+            <p>
+                生物医学图像分析与处理, 结构与功能生物标志物的几何与统计模型, 神经影像学应用, 磁共振扩散加权图像分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/hemant-tagare/research-overview.md">
+                <img src="research-quickview/yale/profiles/hemant-tagare-profile.jpg" width="150" style="border-radius: 8px;" alt="Hemant Tagare"><br>
+                <b>Hemant Tagare</b>
+            </a>
+            <p>
+                生物医学图像处理与分析, 图像分割的贝叶斯与信息论方法, 非刚性图像配准与形状空间分析, 冷冻电子显微学的三维蛋白质结构分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/sekhar-tatikonda/research-overview.md">
+                <img src="research-quickview/yale/profiles/sekhar-tatikonda-profile.jpg" width="150" style="border-radius: 8px;" alt="Sekhar Tatikonda"><br>
+                <b>Sekhar Tatikonda</b>
+            </a>
+            <p>
+                在现实通信环境下的控制问题, 多代理协作控制, 网络信息理论与反馈容量, 存储通道的纠错编码与网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/y-richard-yang/research-overview.md">
+                <img src="research-quickview/yale/profiles/y-richard-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Richard Yang"><br>
+                <b>Y. Richard Yang</b>
+            </a>
+            <p>
+                高效、稳健、公平的互联网网络设计与运行, 网络分析与调试的虚拟网络, 无线网络中的大规模网络推断与监控
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Electronics, Photonic & Nanodeviced](https://seas.yale.edu/faculty-research/research-areas/electronic-photonic-nanodevices)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/jung-han/research-overview.md">
+                <img src="research-quickview/yale/profiles/jung-han-profile.jpg" width="150" style="border-radius: 8px;" alt="Jung Han"><br>
+                <b>Jung Han</b>
+            </a>
+            <p>
+                微电子学与纳米技术, 无线通信系统, MEMS传感器, 微纳电子器件的物理, 集成电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/hong-tang/research-overview.md">
+                <img src="research-quickview/yale/profiles/hong-tang-profile.jpg" width="150" style="border-radius: 8px;" alt="Hong Tang"><br>
+                <b>Hong Tang</b>
+            </a>
+            <p>
+                光电子学, 纳米光子学, 微型激光器, 集成光学电路, 光子晶体
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/fengnian-xia/research-overview.md">
+                <img src="research-quickview/yale/profiles/fengnian-xia-profile.jpg" width="150" style="border-radius: 8px;" alt="Fengnian Xia"><br>
+                <b>Fengnian Xia</b>
+            </a>
+            <p>
+                量子材料, 纳米电子学, 自旋电子学, 光电器件, 半导体材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/frederick-sigworth/research-overview.md">
+                <img src="research-quickview/yale/profiles/frederick-sigworth-profile.jpg" width="150" style="border-radius: 8px;" alt="Frederick Sigworth"><br>
+                <b>Frederick Sigworth</b>
+            </a>
+            <p>
+                生物医学工程, 细胞生物学, 生物分子结构, 生物传感器, 电生理学
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+- [**All Faculty:**](https://seas.yale.edu/departments/electrical-engineering/faculty)
 <table>
     <tr>
         <td align="center">
