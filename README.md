@@ -21013,6 +21013,213 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Applied Physics](https://appliedphysics.yale.edu/)
 
+- **Field:** [Physics and Devices from Novel Materials](https://appliedphysics.yale.edu/physics-novel-materials)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ap/charles-ahn/research-overview.md">
+                <img src="research-quickview/yale/profiles/charles-ahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles Ahn"><br>
+                <b>Charles Ahn</b>
+            </a>
+            <p>
+                自旋电子学, 材料物理, 纳米电子学, 量子信息科学, 磁性材料与器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/yu-he/research-overview.md">
+                <img src="research-quickview/yale/profiles/yu-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu He"><br>
+                <b>Yu He</b>
+            </a>
+            <p>
+                量子材料, 光学性质, 纳米光子学, 低维材料, 量子计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/sohrab-ismail-beigi/research-overview.md">
+                <img src="research-quickview/yale/profiles/sohrab-ismail-beigi-profile.jpg" width="150" style="border-radius: 8px;" alt="Sohrab Ismail-Beigi"><br>
+                <b>Sohrab Ismail-Beigi</b>
+            </a>
+            <p>
+                纳米材料的理论, 量子力学, 材料设计, 高性能材料, 固态物理学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/vidvuds-ozolins/research-overview.md">
+                <img src="research-quickview/yale/profiles/vidvuds-ozolins-profile.jpg" width="150" style="border-radius: 8px;" alt="Vidvuds Ozolins"><br>
+                <b>Vidvuds Ozolins</b>
+            </a>
+            <p>
+                计算材料学, 固态物理, 半导体物理, 材料工程, 多体物理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ap/john-sous/research-overview.md">
+                <img src="research-quickview/yale/profiles/john-sous-profile.jpg" width="150" style="border-radius: 8px;" alt="John Sous"><br>
+                <b>John Sous</b>
+            </a>
+            <p>
+                纳米材料, 磁性材料, 硅光子学, 集成电路, 微电子学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Optical Physics and Devices](https://appliedphysics.yale.edu/optical-physics-and-devices)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ap/hui-cao/research-overview.md">
+                <img src="research-quickview/yale/profiles/hui-cao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hui Cao"><br>
+                <b>Hui Cao</b>
+            </a>
+            <p>
+                纳米光学, 光子学, 光子晶体, 表面等离激元, 光学测量与成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/owen-miller/research-overview.md">
+                <img src="research-quickview/yale/profiles/owen-miller-profile.jpg" width="150" style="border-radius: 8px;" alt="Owen Miller"><br>
+                <b>Owen Miller</b>
+            </a>
+            <p>
+                光量子学, 量子计算, 光学与电子器件, 固态物理, 纳米光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/simon-mochrie/research-overview.md">
+                <img src="research-quickview/yale/profiles/simon-mochrie-profile.jpg" width="150" style="border-radius: 8px;" alt="Simon Mochrie"><br>
+                <b>Simon Mochrie</b>
+            </a>
+            <p>
+                生物物理学, 软物质物理, 自组装, 量子材料, 统计力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ap/peter-rakich/research-overview.md">
+                <img src="research-quickview/yale/profiles/peter-rakich-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Rakich"><br>
+                <b>Peter Rakich</b>
+            </a>
+            <p>
+                量子光学, 微波与光子学, 声光学, 非线性光学, 量子信息科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/douglas-stone/research-overview.md">
+                <img src="research-quickview/yale/profiles/douglas-stone-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas Stone"><br>
+                <b>Douglas Stone</b>
+            </a>
+            <p>
+                量子物理学, 光子学, 光电学, 表面等离激元, 纳米光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/logan-wright/research-overview.md">
+                <img src="research-quickview/yale/profiles/logan-wright-profile.jpg" width="150" style="border-radius: 8px;" alt="Logan Wright"><br>
+                <b>Logan Wright</b>
+            </a>
+            <p>
+                纳米光子学, 量子光学, 生物光学, 光电器件, 光子晶体
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Quantum Information and Device Physics](https://appliedphysics.yale.edu/quantum-information-and-device-physics)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ap/michel-devoret/research-overview.md">
+                <img src="research-quickview/yale/profiles/michel-devoret-profile.jpg" width="150" style="border-radius: 8px;" alt="Michel Devoret"><br>
+                <b>Michel Devoret</b>
+            </a>
+            <p>
+                量子计算, 超导量子比特, 量子电路, 量子信息, 量子物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/daniel-prober/research-overview.md">
+                <img src="research-quickview/yale/profiles/daniel-prober-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Prober"><br>
+                <b>Daniel Prober</b>
+            </a>
+            <p>
+                超导物理, 磁性材料, 纳米电子学, 量子传感, 低温物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/shruti-puri/research-overview.md">
+                <img src="research-quickview/yale/profiles/shruti-puri-profile.jpg" width="150" style="border-radius: 8px;" alt="Shruti Puri"><br>
+                <b>Shruti Puri</b>
+            </a>
+            <p>
+                量子信息, 量子多体物理, 量子模拟, 量子算法, 量子计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ap/peter-rakich/research-overview.md">
+                <img src="research-quickview/yale/profiles/peter-rakich-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Rakich"><br>
+                <b>Peter Rakich</b>
+            </a>
+            <p>
+                量子光学, 微波与光子学, 声光学, 非线性光学, 量子信息科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/nicholas-read/research-overview.md">
+                <img src="research-quickview/yale/profiles/nicholas-read-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicholas Read"><br>
+                <b>Nicholas Read</b>
+            </a>
+            <p>
+                量子物理学, 统计物理, 量子多体系统, 量子统计力学, 自旋量子计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/rob-schoelkopf/research-overview.md">
+                <img src="research-quickview/yale/profiles/rob-schoelkopf-profile.jpg" width="150" style="border-radius: 8px;" alt="Rob Schoelkopf"><br>
+                <b>Rob Schoelkopf</b>
+            </a>
+            <p>
+                超导量子比特, 量子计算, 量子传感, 量子电路, 超导电子学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ap/john-sous/research-overview.md">
+                <img src="research-quickview/yale/profiles/john-sous-profile.jpg" width="150" style="border-radius: 8px;" alt="John Sous"><br>
+                <b>John Sous</b>
+            </a>
+            <p>
+                超导量子比特, 量子电路, 量子信息, 量子计算, 纳米技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/douglas-stone/research-overview.md">
+                <img src="research-quickview/yale/profiles/douglas-stone-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas Stone"><br>
+                <b>Douglas Stone</b>
+            </a>
+            <p>
+                量子物理学, 光子学, 光电学, 表面等离激元, 纳米光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ap/logan-wright/research-overview.md">
+                <img src="research-quickview/yale/profiles/logan-wright-profile.jpg" width="150" style="border-radius: 8px;" alt="Logan Wright"><br>
+                <b>Logan Wright</b>
+            </a>
+            <p>
+                纳米光子学, 量子光学, 生物光学, 光电器件, 光子晶体
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 </details>
 
 
