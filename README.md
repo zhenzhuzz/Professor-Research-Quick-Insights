@@ -19725,7 +19725,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## [Yale](https://www.yale.edu/)
 [ME: Dec, 15](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines);
-[ECE: Dec, 15](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines)
+[ECE: Dec, 15](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines);
 [$105](https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers)
 
 <details>
@@ -19737,11 +19737,1142 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Mechanical Engineering and Materials Science](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science)
 
-- **Field**: [Acoustics/Dynamics](https://ece.princeton.edu/)
+- **Field:** [Combustion](https://seas.yale.edu/faculty-research/research-areas/combustion)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/drew-gentner/research-overview.md">
+                <img src="research-quickview/yale/profiles/drew-gentner-profile.jpg" width="150" style="border-radius: 8px;" alt="Drew R. Gentner"><br>
+                <b>Drew R. Gentner</b>
+            </a>
+            <p>
+                环境化学工程, 空气污染控制, 持久性有机污染物, 环境传感器, 可持续发展技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/alessandro-gomez/research-overview.md">
+                <img src="research-quickview/yale/profiles/alessandro-gomez-profile.jpg" width="150" style="border-radius: 8px;" alt="Alessandro Gomez"><br>
+                <b>Alessandro Gomez</b>
+            </a>
+            <p>
+                燃烧科学, 能源转换, 喷雾技术, 纳米材料合成, 环境工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/marshall-long/research-overview.md">
+                <img src="research-quickview/yale/profiles/marshall-long-profile.jpg" width="150" style="border-radius: 8px;" alt="Marshall B. Long"><br>
+                <b>Marshall B. Long</b>
+            </a>
+            <p>
+                工程声学, 振动控制, 声场建模, 噪声抑制, 能源系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/lisa-pfefferle/research-overview.md">
+                <img src="research-quickview/yale/profiles/lisa-pfefferle-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa D. Pfefferle"><br>
+                <b>Lisa D. Pfefferle</b>
+            </a>
+            <p>
+                纳米材料, 高效燃烧, 先进能源材料, 催化剂设计, 可再生能源
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/daniel-rosner/research-overview.md">
+                <img src="research-quickview/yale/profiles/daniel-rosner-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel E. Rosner"><br>
+                <b>Daniel E. Rosner</b>
+            </a>
+            <p>
+                热流体科学, 能源转化, 化学反应动力学, 颗粒燃烧, 传热优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/mitchell-smooke/research-overview.md">
+                <img src="research-quickview/yale/profiles/mitchell-smooke-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell D. Smooke"><br>
+                <b>Mitchell D. Smooke</b>
+            </a>
+            <p>
+                燃烧建模, 能源系统, 化学反应动力学, 流体热力学, 数值模拟
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/beth-bennett/research-overview.md">
+                <img src="research-quickview/yale/profiles/beth-bennett-profile.jpg" width="150" style="border-radius: 8px;" alt="Beth Anne V. Bennett"><br>
+                <b>Beth Anne V. Bennett</b>
+            </a>
+            <p>
+                工程教育, 材料科学教学, 实验力学, 机械设计, 创新教学方法
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Robotics, Mechatronics, and Human Machine Interface](https://seas.yale.edu/faculty-research/research-areas/robotics-mechatronics-and-human-machine-interface)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/ian-abraham/research-overview.md">
+                <img src="research-quickview/yale/profiles/ian-abraham-profile.jpg" width="150" style="border-radius: 8px;" alt="Ian Abraham"><br>
+                <b>Ian Abraham</b>
+            </a>
+            <p>
+                控制理论, 机器人系统, 多智能体系统, 最优控制, 自适应系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/aaron-dollar/research-overview.md">
+                <img src="research-quickview/yale/profiles/aaron-dollar-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron Dollar"><br>
+                <b>Aaron Dollar</b>
+            </a>
+            <p>
+                机器人学, 柔性机械手, 人机交互, 仿生工程, 机械设计优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/tesca-fitzgerald/research-overview.md">
+                <img src="research-quickview/yale/profiles/tesca-fitzgerald-profile.jpg" width="150" style="border-radius: 8px;" alt="Tesca Fitzgerald"><br>
+                <b>Tesca Fitzgerald</b>
+            </a>
+            <p>
+                机器人学习, 人机协作, 数据驱动模型, 感知与规划, 自然语言交互
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/rebecca-kramer-bottiglio/research-overview.md">
+                <img src="research-quickview/yale/profiles/rebecca-kramer-bottiglio-profile.jpg" width="150" style="border-radius: 8px;" alt="Rebecca Kramer-Bottiglio"><br>
+                <b>Rebecca Kramer-Bottiglio</b>
+            </a>
+            <p>
+                软体机器人, 可拉伸电子器件, 响应性材料, 软材料制造, 自适应系统设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/daniel-rakita/research-overview.md">
+                <img src="research-quickview/yale/profiles/daniel-rakita-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Rakita"><br>
+                <b>Daniel Rakita</b>
+            </a>
+            <p>
+                人机协作, 机器人感知, 动态规划, 机器人控制, 自然语言机器人交互
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/brian-scassellati/research-overview.md">
+                <img src="research-quickview/yale/profiles/brian-scassellati-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Scassellati"><br>
+                <b>Brian Scassellati</b>
+            </a>
+            <p>
+                社会机器人, 人工智能, 认知科学, 教育技术, 仿生设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/marynel-vazquez/research-overview.md">
+                <img src="research-quickview/yale/profiles/marynel-vazquez-profile.jpg" width="150" style="border-radius: 8px;" alt="Marynel Vázquez"><br>
+                <b>Marynel Vázquez</b>
+            </a>
+            <p>
+                人机交互, 机器人社会行为, 群体互动设计, 自然语言处理, 感知与行动协调
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/madhusudhan-venkadesan/research-overview.md">
+                <img src="research-quickview/yale/profiles/madhusudhan-venkadesan-profile.jpg" width="150" style="border-radius: 8px;" alt="Madhusudhan Venkadesan"><br>
+                <b>Madhusudhan Venkadesan</b>
+            </a>
+            <p>
+                生物力学, 动物运动, 仿生设计, 人类运动动力学, 灵活性分析
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Amorphous Materials](https://seas.yale.edu/faculty-research/research-areas/amorphous-materials)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/jan-schroers/research-overview.md">
+                <img src="research-quickview/yale/profiles/jan-schroers-profile.jpg" width="150" style="border-radius: 8px;" alt="Jan Schroers"><br>
+                <b>Jan Schroers</b>
+            </a>
+            <p>
+                金属玻璃, 材料加工, 高性能材料设计, 纳米制造技术, 先进制造工艺
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/corey-ohern/research-overview.md">
+                <img src="research-quickview/yale/profiles/corey-ohern-profile.jpg" width="150" style="border-radius: 8px;" alt="Corey O'Hern"><br>
+                <b>Corey O'Hern</b>
+            </a>
+            <p>
+                软物质物理, 颗粒材料, 非平衡态物理, 计算材料科学, 生物物理学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Soft Matter & Complex Fluids](https://seas.yale.edu/faculty-research/research-areas/soft-matter-and-complex-fluids)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/menachem-elimelech/research-overview.md">
+                <img src="research-quickview/yale/profiles/menachem-elimelech-profile.jpg" width="150" style="border-radius: 8px;" alt="Menachem Elimelech"><br>
+                <b>Menachem Elimelech</b>
+            </a>
+            <p>
+                水处理技术, 膜分离技术, 环境纳米技术, 水资源可持续利用, 环境工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/thierry-emonet/research-overview.md">
+                <img src="research-quickview/yale/profiles/thierry-emonet-profile.jpg" width="150" style="border-radius: 8px;" alt="Thierry Emonet"><br>
+                <b>Thierry Emonet</b>
+            </a>
+            <p>
+                生物物理学, 细胞信号传导, 定量生物学, 微生物运动, 细胞行为建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/amir-haji-akbari/research-overview.md">
+                <img src="research-quickview/yale/profiles/amir-haji-akbari-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Haji-Akbari"><br>
+                <b>Amir Haji-Akbari</b>
+            </a>
+            <p>
+                软物质动力学, 分子模拟, 纳米材料, 水相反应, 生物物理化学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/michael-loewenberg/research-overview.md">
+                <img src="research-quickview/yale/profiles/michael-loewenberg-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Loewenberg"><br>
+                <b>Michael Loewenberg</b>
+            </a>
+            <p>
+                多相流体力学, 微流控, 分子动力学, 液滴与气泡动力学, 复杂流体系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/simon-mochrie/research-overview.md">
+                <img src="research-quickview/yale/profiles/simon-mochrie-profile.jpg" width="150" style="border-radius: 8px;" alt="Simon Mochrie"><br>
+                <b>Simon Mochrie</b>
+            </a>
+            <p>
+                统计物理, 生物物理, X射线散射, 蛋白质动力学, 高级物理实验
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/corey-ohern/research-overview.md">
+                <img src="research-quickview/yale/profiles/corey-ohern-profile.jpg" width="150" style="border-radius: 8px;" alt="Corey O'Hern"><br>
+                <b>Corey O'Hern</b>
+            </a>
+            <p>
+                软物质物理, 颗粒材料, 非平衡态物理, 计算材料科学, 生物物理学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/amir-pahlavan/research-overview.md">
+                <img src="research-quickview/yale/profiles/amir-pahlavan-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Pahlavan"><br>
+                <b>Amir Pahlavan</b>
+            </a>
+            <p>
+                多相流体力学, 多孔介质流动, 地球物理流体动力学, 环境流体动力学, 能源相关过程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/paul-van-tassel/research-overview.md">
+                <img src="research-quickview/yale/profiles/paul-van-tassel-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Van Tassel"><br>
+                <b>Paul Van Tassel</b>
+            </a>
+            <p>
+                生物材料科学, 纳米技术, 分子动力学, 表面科学, 组织工程
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/kyle-vanderlick/research-overview.md">
+                <img src="research-quickview/yale/profiles/kyle-vanderlick-profile.jpg" width="150" style="border-radius: 8px;" alt="T. Kyle Vanderlick"><br>
+                <b>T. Kyle Vanderlick</b>
+            </a>
+            <p>
+                界面科学, 膜技术, 软物质物理, 表面化学, 能源材料
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Physical and Engineering Biology](https://seas.yale.edu/faculty-research/research-areas/physical-and-engineering-biology)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/john-carlson/research-overview.md">
+                <img src="research-quickview/yale/profiles/john-carlson-profile.jpg" width="150" style="border-radius: 8px;" alt="John Carlson"><br>
+                <b>John Carlson</b>
+            </a>
+            <p>
+                神经生物学, 细胞信号传导, 神经系统发育, 感觉系统, 行为学研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/enrique-de-la-cruz/research-overview.md">
+                <img src="research-quickview/yale/profiles/enrique-de-la-cruz-profile.jpg" width="150" style="border-radius: 8px;" alt="Enrique De La Cruz"><br>
+                <b>Enrique De La Cruz</b>
+            </a>
+            <p>
+                分子生物学, 细胞骨架, 蛋白质工程, 细胞动态学, 细胞生物学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/thierry-emonet/research-overview.md">
+                <img src="research-quickview/yale/profiles/thierry-emonet-profile.jpg" width="150" style="border-radius: 8px;" alt="Thierry Emonet"><br>
+                <b>Thierry Emonet</b>
+            </a>
+            <p>
+                生物物理学, 细胞信号传导, 定量生物学, 微生物运动, 细胞行为建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/rong-fan/research-overview.md">
+                <img src="research-quickview/yale/profiles/rong-fan-profile.jpg" width="150" style="border-radius: 8px;" alt="Rong Fan"><br>
+                <b>Rong Fan</b>
+            </a>
+            <p>
+                生物医学工程, 微流控技术, 单细胞分析, 传感器技术, 生物芯片
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/paul-forscher/research-overview.md">
+                <img src="research-quickview/yale/profiles/paul-forscher-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Forscher"><br>
+                <b>Paul Forscher</b>
+            </a>
+            <p>
+                神经科学, 细胞迁移, 神经元生长锥, 细胞骨架, 细胞行为
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/mark-gerstein/research-overview.md">
+                <img src="research-quickview/yale/profiles/mark-gerstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Gerstein"><br>
+                <b>Mark Gerstein</b>
+            </a>
+            <p>
+                计算生物学, 生物信息学, 蛋白质结构与功能, 基因组学, 系统生物学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/amir-haji-akbari/research-overview.md">
+                <img src="research-quickview/yale/profiles/amir-haji-akbari-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Haji-Akbari"><br>
+                <b>Amir Haji-Akbari</b>
+            </a>
+            <p>
+                软物质动力学, 分子模拟, 纳米材料, 水相反应, 生物物理化学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/jay-humphrey/research-overview.md">
+                <img src="research-quickview/yale/profiles/jay-humphrey-profile.jpg" width="150" style="border-radius: 8px;" alt="Jay Humphrey"><br>
+                <b>Jay Humphrey</b>
+            </a>
+            <p>
+                生物医学工程, 血流动力学, 软物质物理, 细胞生物学, 计算生物力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/christine-jacobs-wagner/research-overview.md">
+                <img src="research-quickview/yale/profiles/christine-jacobs-wagner-profile.jpg" width="150" style="border-radius: 8px;" alt="Christine Jacobs-Wagner"><br>
+                <b>Christine Jacobs-Wagner</b>
+            </a>
+            <p>
+                微生物学, 细胞分裂, 细胞周期, 微生物形态学, 细胞生物学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/tony-koleske/research-overview.md">
+                <img src="research-quickview/yale/profiles/tony-koleske-profile.jpg" width="150" style="border-radius: 8px;" alt="Tony Koleske"><br>
+                <b>Tony Koleske</b>
+            </a>
+            <p>
+                神经科学, 神经突触发育, 神经元生长, 蛋白质功能研究, 神经系统研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/kathryn-miller-jensen/research-overview.md">
+                <img src="research-quickview/yale/profiles/kathryn-miller-jensen-profile.jpg" width="150" style="border-radius: 8px;" alt="Kathryn Miller-Jensen"><br>
+                <b>Kathryn Miller-Jensen</b>
+            </a>
+            <p>
+                生物医学工程, 系统生物学, 信号传导, 动态建模, 生物系统调控
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/andrew-miranker/research-overview.md">
+                <img src="research-quickview/yale/profiles/andrew-miranker-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Miranker"><br>
+                <b>Andrew Miranker</b>
+            </a>
+            <p>
+                蛋白质折叠, 蛋白质相互作用, 糖尿病研究, 生物物理学, 分子动力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/simon-mochrie/research-overview.md">
+                <img src="research-quickview/yale/profiles/simon-mochrie-profile.jpg" width="150" style="border-radius: 8px;" alt="Simon Mochrie"><br>
+                <b>Simon Mochrie</b>
+            </a>
+            <p>
+                统计物理, 生物物理, X射线散射, 蛋白质动力学, 高级物理实验
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/corey-ohern/research-overview.md">
+                <img src="research-quickview/yale/profiles/corey-ohern-profile.jpg" width="150" style="border-radius: 8px;" alt="Corey O'Hern"><br>
+                <b>Corey O'Hern</b>
+            </a>
+            <p>
+                软物质物理, 颗粒材料, 非平衡态物理, 计算材料科学, 生物物理学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/tom-pollard/research-overview.md">
+                <img src="research-quickview/yale/profiles/tom-pollard-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Pollard"><br>
+                <b>Tom Pollard</b>
+            </a>
+            <p>
+                细胞生物学, 细胞骨架, 微管动力学, 细胞迁移, 细胞周期
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/anna-pyle/research-overview.md">
+                <img src="research-quickview/yale/profiles/anna-pyle-profile.jpg" width="150" style="border-radius: 8px;" alt="Anna Pyle"><br>
+                <b>Anna Pyle</b>
+            </a>
+            <p>
+                RNA生物学, 核酸折叠, 生物化学, 分子生物学, RNA结构
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/patrick-sung/research-overview.md">
+                <img src="research-quickview/yale/profiles/patrick-sung-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick Sung"><br>
+                <b>Patrick Sung</b>
+            </a>
+            <p>
+                DNA修复, 蛋白质功能, 分子生物学, 细胞周期, DNA结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/madhusudhan-venkadesan/research-overview.md">
+                <img src="research-quickview/yale/profiles/madhusudhan-venkadesan-profile.jpg" width="150" style="border-radius: 8px;" alt="Madhusudhan Venkadesan"><br>
+                <b>Madhusudhan Venkadesan</b>
+            </a>
+            <p>
+                生物力学, 动物运动, 仿生设计, 人类运动动力学, 灵活性分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/steven-zucker/research-overview.md">
+                <img src="research-quickview/yale/profiles/steven-zucker-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven Zucker"><br>
+                <b>Steven Zucker</b>
+            </a>
+            <p>
+                计算机科学, 计算医学, 图像处理, 神经科学, 医学影像
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field:** [Nanomaterials](https://seas.yale.edu/faculty-research/research-areas/nanomaterials)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/menachem-elimelech/research-overview.md">
+                <img src="research-quickview/yale/profiles/menachem-elimelech-profile.jpg" width="150" style="border-radius: 8px;" alt="Menachem Elimelech"><br>
+                <b>Menachem Elimelech</b>
+            </a>
+            <p>
+                水处理技术, 有机纳米材料, 膜分离技术, 环境工程, 可持续发展
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/young-kim/research-overview.md">
+                <img src="research-quickview/yale/profiles/young-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Young Kim"><br>
+                <b>Young Kim</b>
+            </a>
+            <p>
+                有机纳米材料, 表面科学, 高效能量转化, 纳米光学, 材料物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/tarek-fahmy/research-overview.md">
+                <img src="research-quickview/yale/profiles/tarek-fahmy-profile.jpg" width="150" style="border-radius: 8px;" alt="Tarek Fahmy"><br>
+                <b>Tarek Fahmy</b>
+            </a>
+            <p>
+                生物纳米材料, 药物输送, 免疫工程, 纳米生物界面, 细胞治疗
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/paul-van-tassel/research-overview.md">
+                <img src="research-quickview/yale/profiles/paul-van-tassel-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Van Tassel"><br>
+                <b>Paul Van Tassel</b>
+            </a>
+            <p>
+                纳米材料科学, 生物材料, 界面物理, 纳米结构设计, 生物工程
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/sohrab-ismail-beigi/research-overview.md">
+                <img src="research-quickview/yale/profiles/sohrab-ismail-beigi-profile.jpg" width="150" style="border-radius: 8px;" alt="Sohrab Ismail-Beigi"><br>
+                <b>Sohrab Ismail-Beigi</b>
+            </a>
+            <p>
+                有机与无机纳米材料, 计算材料科学, 电子结构计算, 能源应用材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/edward-haller/research-overview.md">
+                <img src="research-quickview/yale/profiles/edward-haller-profile.jpg" width="150" style="border-radius: 8px;" alt="Edward Haller"><br>
+                <b>Edward Haller</b>
+            </a>
+            <p>
+                无机纳米材料, 半导体技术, 纳米晶体, 光电材料, 材料开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/lisa-pfefferle/research-overview.md">
+                <img src="research-quickview/yale/profiles/lisa-pfefferle-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa D. Pfefferle"><br>
+                <b>Lisa D. Pfefferle</b>
+            </a>
+            <p>
+                无机纳米材料, 生物纳米材料, 纳米催化剂, 高效能量材料, 燃烧科学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Physics of Novel Materials](https://seas.yale.edu/faculty-research/research-areas/physics-novel-materials)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/sohrab-ismail-beigi/research-overview.md">
+                <img src="research-quickview/yale/profiles/sohrab-ismail-beigi-profile.jpg" width="150" style="border-radius: 8px;" alt="Sohrab Ismail-Beigi"><br>
+                <b>Sohrab Ismail-Beigi</b>
+            </a>
+            <p>
+                应用物理, 材料科学, 电子结构计算, 纳米材料, 能源材料开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/charles-ahn/research-overview.md">
+                <img src="research-quickview/yale/profiles/charles-ahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles Ahn"><br>
+                <b>Charles Ahn</b>
+            </a>
+            <p>
+                应用物理, 界面现象, 高性能材料, 纳米技术, 量子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/udo-schwarz/research-overview.md">
+                <img src="research-quickview/yale/profiles/udo-schwarz-profile.jpg" width="150" style="border-radius: 8px;" alt="Udo Schwarz"><br>
+                <b>Udo Schwarz</b>
+            </a>
+            <p>
+                表面科学, 原子力显微镜, 纳米材料, 接触力学, 材料表面分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/eric-altman/research-overview.md">
+                <img src="research-quickview/yale/profiles/eric-altman-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Altman"><br>
+                <b>Eric Altman</b>
+            </a>
+            <p>
+                化学工程, 表面科学, 催化剂设计, 反应动力学, 材料化学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- **Field:** [Interfacial Phenomena](https://seas.yale.edu/faculty-research/research-areas/interfacial-phenomena)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/eric-altman/research-overview.md">
+                <img src="research-quickview/yale/profiles/eric-altman-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Altman"><br>
+                <b>Eric Altman</b>
+            </a>
+            <p>
+                化学工程, 表面科学, 催化剂设计, 反应动力学, 材料化学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/menachem-elimelech/research-overview.md">
+                <img src="research-quickview/yale/profiles/menachem-elimelech-profile.jpg" width="150" style="border-radius: 8px;" alt="Menachem Elimelech"><br>
+                <b>Menachem Elimelech</b>
+            </a>
+            <p>
+                水处理技术, 膜分离技术, 环境纳米技术, 水资源可持续利用, 环境工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/paul-van-tassel/research-overview.md">
+                <img src="research-quickview/yale/profiles/paul-van-tassel-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Van Tassel"><br>
+                <b>Paul Van Tassel</b>
+            </a>
+            <p>
+                纳米材料科学, 生物材料, 界面物理, 纳米结构设计, 生物工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/lisa-pfefferle/research-overview.md">
+                <img src="research-quickview/yale/profiles/lisa-pfefferle-profile.jpg" width="150" style="border-radius: 8px;" alt="Lisa Pfefferle"><br>
+                <b>Lisa D. Pfefferle</b>
+            </a>
+            <p>
+                无机纳米材料, 生物纳米材料, 纳米催化剂, 高效能量材料, 燃烧科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/udo-schwarz/research-overview.md">
+                <img src="research-quickview/yale/profiles/udo-schwarz-profile.jpg" width="150" style="border-radius: 8px;" alt="Udo Schwarz"><br>
+                <b>Udo Schwarz</b>
+            </a>
+            <p>
+                表面科学, 原子力显微镜, 纳米材料, 接触力学, 材料表面分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/sohrab-ismail-beigi/research-overview.md">
+                <img src="research-quickview/yale/profiles/sohrab-ismail-beigi-profile.jpg" width="150" style="border-radius: 8px;" alt="Sohrab Ismail-Beigi"><br>
+                <b>Sohrab Ismail-Beigi</b>
+            </a>
+            <p>
+                应用物理, 材料科学, 电子结构计算, 纳米材料, 能源材料开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/shu-hu/research-overview.md">
+                <img src="research-quickview/yale/profiles/shu-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Shu Hu"><br>
+                <b>Shu Hu</b>
+            </a>
+            <p>
+                环境工程, 纳米材料开发, 可再生能源, 水处理技术, 气候工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/amir-haji-akbari/research-overview.md">
+                <img src="research-quickview/yale/profiles/amir-haji-akbari-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir Haji-Akbari"><br>
+                <b>Amir Haji-Akbari</b>
+            </a>
+            <p>
+                软物质动力学, 分子模拟, 纳米材料, 水相反应, 生物物理化学
+            </p>
+        </td>
+    </tr>
+</table>
+
+- [**All Faculty:**](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science/faculty)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/ian-abraham/research-overview.md">
+                <img src="research-quickview/yale/profiles/ian-abraham-profile.jpg" width="150" style="border-radius: 8px;" alt="Ian Abraham"><br>
+                <b>Ian Abraham</b>
+            </a>
+            <p>
+                控制理论, 机器人学, 人机交互, 智能系统, 机器学习在工程中的应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/charles-ahn/research-overview.md">
+                <img src="research-quickview/yale/profiles/charles-ahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles Ahn"><br>
+                <b>Charles Ahn</b>
+            </a>
+            <p>
+                界面结构与现象, 材料科学, 应用物理, 纳米技术, 量子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/juan-fernandez-de-la-mora/research-overview.md">
+                <img src="research-quickview/yale/profiles/juan-fernandez-de-la-mora-profile.jpg" width="150" style="border-radius: 8px;" alt="Juan Fernandez de la Mora"><br>
+                <b>Juan Fernandez de la Mora</b>
+            </a>
+            <p>
+                流体力学, 气溶胶科学, 电喷雾技术, 纳米粒子生成, 质谱分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/aaron-dollar/research-overview.md">
+                <img src="research-quickview/yale/profiles/aaron-dollar-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron M. Dollar"><br>
+                <b>Aaron M. Dollar</b>
+            </a>
+            <p>
+                机器人学, 人机交互, 机械设计, 柔性机械手, 仿生工程
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/alessandro-gomez/research-overview.md">
+                <img src="research-quickview/yale/profiles/alessandro-gomez-profile.jpg" width="150" style="border-radius: 8px;" alt="Alessandro Gomez"><br>
+                <b>Alessandro Gomez</b>
+            </a>
+            <p>
+                燃烧科学, 能源转换, 喷雾技术, 纳米材料合成, 环境工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/rebecca-kramer-bottiglio/research-overview.md">
+                <img src="research-quickview/yale/profiles/rebecca-kramer-bottiglio-profile.jpg" width="150" style="border-radius: 8px;" alt="Rebecca Kramer-Bottiglio"><br>
+                <b>Rebecca Kramer-Bottiglio</b>
+            </a>
+            <p>
+                软体机器人, 可拉伸电子器件, 响应性材料致动器, 软材料制造, 软体控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/yimin-luo/research-overview.md">
+                <img src="research-quickview/yale/profiles/yimin-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Yimin Luo"><br>
+                <b>Yimin Luo</b>
+            </a>
+            <p>
+                图像分析与重建, 高通量实验设计, 细胞-材料相互作用, 生物物理学, 液晶与液晶弹性体
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/corey-ohern/research-overview.md">
+                <img src="research-quickview/yale/profiles/corey-ohern-profile.jpg" width="150" style="border-radius: 8px;" alt="Corey S. O'Hern"><br>
+                <b>Corey S. O'Hern</b>
+            </a>
+            <p>
+                软物质物理, 计算材料科学, 非平衡系统, 颗粒材料, 生物物理学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/amir-pahlavan/research-overview.md">
+                <img src="research-quickview/yale/profiles/amir-pahlavan-profile.jpg" width="150" style="border-radius: 8px;" alt="Amir A. Pahlavan"><br>
+                <b>Amir A. Pahlavan</b>
+            </a>
+            <p>
+                多相流体力学, 多孔介质中的流动与传输, 地球物理流体动力学, 环境流体力学, 能源相关过程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/bauyrzhan-primkulov/research-overview.md">
+                <img src="research-quickview/yale/profiles/bauyrzhan-primkulov-profile.jpg" width="150" style="border-radius: 8px;" alt="Bauyrzhan Primkulov"><br>
+                <b>Bauyrzhan Primkulov</b>
+            </a>
+            <p>
+                流体力学, 软物质物理, 生物流体力学, 微流控, 复杂流体系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/diana-qiu/research-overview.md">
+                <img src="research-quickview/yale/profiles/diana-qiu-profile.jpg" width="150" style="border-radius: 8px;" alt="Diana Qiu"><br>
+                <b>Diana Qiu</b>
+            </a>
+            <p>
+                量子材料, 激子动力学, 非线性光学, 二维材料, 材料缺陷
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/jan-schroers/research-overview.md">
+                <img src="research-quickview/yale/profiles/jan-schroers-profile.jpg" width="150" style="border-radius: 8px;" alt="Jan Schroers"><br>
+                <b>Jan Schroers</b>
+            </a>
+            <p>
+                金属玻璃, 材料加工, 高性能材料设计, 纳米制造, 新型材料开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/udo-schwarz/research-overview.md">
+                <img src="research-quickview/yale/profiles/udo-schwarz-profile.jpg" width="150" style="border-radius: 8px;" alt="Udo D. Schwarz"><br>
+                <b>Udo D. Schwarz</b>
+            </a>
+            <p>
+                原子力显微镜, 表面物理学, 纳米材料, 接触力学, 材料表面分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/mitchell-smooke/research-overview.md">
+                <img src="research-quickview/yale/profiles/mitchell-smooke-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitchell Smooke"><br>
+                <b>Mitchell Smooke</b>
+            </a>
+            <p>
+                燃烧建模, 能源系统, 化学反应动力学, 流体热力学, 数值模拟
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/cong-su/research-overview.md">
+                <img src="research-quickview/yale/profiles/cong-su-profile.jpg" width="150" style="border-radius: 8px;" alt="Cong Su"><br>
+                <b>Cong Su</b>
+            </a>
+            <p>
+                动力学与控制, 机器人系统, 多体系统动力学, 智能机械设计, 航天器控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/madhusudhan-venkadesan/research-overview.md">
+                <img src="research-quickview/yale/profiles/madhusudhan-venkadesan-profile.jpg" width="150" style="border-radius: 8px;" alt="Madhusudhan Venkadesan"><br>
+                <b>Madhusudhan Venkadesan</b>
+            </a>
+            <p>
+                生物力学, 人体运动, 机器人灵感设计, 动物运动力学, 力与运动控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/sohrab-ismail-beigi/research-overview.md">
+                <img src="research-quickview/yale/profiles/sohrab-ismail-beigi-profile.jpg" width="150" style="border-radius: 8px;" alt="Sohrab Ismail-Beigi"><br>
+                <b>Sohrab Ismail-Beigi</b>
+            </a>
+            <p>
+                计算材料科学, 量子力学, 电子结构计算, 能源材料, 纳米技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/shun-ichiro-karato/research-overview.md">
+                <img src="research-quickview/yale/profiles/shun-ichiro-karato-profile.jpg" width="150" style="border-radius: 8px;" alt="Shun-Ichiro Karato"><br>
+                <b>Shun-Ichiro Karato</b>
+            </a>
+            <p>
+                地球动力学, 岩石物理学, 地震学, 高压实验, 地球内部结构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/vidvuds-ozolins/research-overview.md">
+                <img src="research-quickview/yale/profiles/vidvuds-ozolins-profile.jpg" width="150" style="border-radius: 8px;" alt="Vidvuds Ozolins"><br>
+                <b>Vidvuds Ozolins</b>
+            </a>
+            <p>
+                计算材料科学, 热电材料, 能源储存, 材料理论, 智能设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/brian-scassellati/research-overview.md">
+                <img src="research-quickview/yale/profiles/brian-scassellati-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Scassellati"><br>
+                <b>Brian Scassellati</b>
+            </a>
+            <p>
+                社会机器人, 人工智能, 认知科学, 人机交互, 教育技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/daniel-wiznia/research-overview.md">
+                <img src="research-quickview/yale/profiles/daniel-wiznia-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Wiznia"><br>
+                <b>Daniel Wiznia</b>
+            </a>
+            <p>
+                医疗工程, 人工关节设计, 生物材料, 临床力学, 医疗器械开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/beth-anne-bennett/research-overview.md">
+                <img src="research-quickview/yale/profiles/beth-anne-bennett-profile.jpg" width="150" style="border-radius: 8px;" alt="Beth Anne Bennett"><br>
+                <b>Beth Anne Bennett</b>
+            </a>
+            <p>
+                工程教育, 机械设计, 材料科学教学, 实验力学, 创新教学方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/mems/joran-booth/research-overview.md">
+                <img src="research-quickview/yale/profiles/joran-booth-profile.jpg" width="150" style="border-radius: 8px;" alt="Joran Booth"><br>
+                <b>Joran Booth</b>
+            </a>
+            <p>
+                产品设计, 工程教育, 创新思维, 制造系统优化, 交互设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/mems/marshall-long/research-overview.md">
+                <img src="research-quickview/yale/profiles/marshall-long-profile.jpg" width="150" style="border-radius: 8px;" alt="Marshall Long"><br>
+                <b>Marshall Long</b>
+            </a>
+            <p>
+                声学工程, 振动控制, 噪声治理, 工程声学, 机械系统噪声分析, Emeritus
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 ### [Electrical and Computer Engineering](https://seas.yale.edu/departments/electrical-engineering)
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/tara-boroushaki/research-overview.md">
+                <img src="research-quickview/yale/profiles/tara-boroushaki-profile.jpg" width="150" style="border-radius: 8px;" alt="Tara Boroushaki"><br>
+                <b>Tara Boroushaki</b>
+            </a>
+            <p>
+                数据驱动信号处理, 机器学习, 生物医学信号分析, 系统建模, 人机交互
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/ronald-coifman/research-overview.md">
+                <img src="research-quickview/yale/profiles/ronald-coifman-profile.jpg" width="150" style="border-radius: 8px;" alt="Ronald Coifman"><br>
+                <b>Ronald Coifman</b>
+            </a>
+            <p>
+                应用数学, 数据压缩, 高维数据分析, 小波变换, 谱图像处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/anna-gilbert/research-overview.md">
+                <img src="research-quickview/yale/profiles/anna-gilbert-profile.jpg" width="150" style="border-radius: 8px;" alt="Anna C. Gilbert"><br>
+                <b>Anna C. Gilbert</b>
+            </a>
+            <p>
+                随机信号处理, 算法设计, 高效编码, 数据流计算, 稀疏表示
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/jung-han/research-overview.md">
+                <img src="research-quickview/yale/profiles/jung-han-profile.jpg" width="150" style="border-radius: 8px;" alt="Jung Han"><br>
+                <b>Jung Han</b>
+            </a>
+            <p>
+                半导体材料, 纳米技术, 高性能LED, 化合物半导体, 微电子制造
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/liangbing-hu/research-overview.md">
+                <img src="research-quickview/yale/profiles/liangbing-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Liangbing Hu"><br>
+                <b>Liangbing Hu</b>
+            </a>
+            <p>
+                纳米材料, 高效能源存储, 光电材料, 可持续材料, 超导研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/dionysis-kalogerias/research-overview.md">
+                <img src="research-quickview/yale/profiles/dionysis-kalogerias-profile.jpg" width="150" style="border-radius: 8px;" alt="Dionysis Kalogerias"><br>
+                <b>Dionysis Kalogerias</b>
+            </a>
+            <p>
+                无线通信, 信息论, 随机控制, 强化学习, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/amin-karbasi/research-overview.md">
+                <img src="research-quickview/yale/profiles/amin-karbasi-profile.jpg" width="150" style="border-radius: 8px;" alt="Amin Karbasi"><br>
+                <b>Amin Karbasi</b>
+            </a>
+            <p>
+                机器学习, 大数据分析, 网络科学, 最优化理论, 信息获取
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/roman-kuc/research-overview.md">
+                <img src="research-quickview/yale/profiles/roman-kuc-profile.jpg" width="150" style="border-radius: 8px;" alt="Roman Kuc"><br>
+                <b>Roman Kuc</b>
+            </a>
+            <p>
+                机器人感知, 生物声学, 人工智能, 信号处理, 仿生系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/boris-landa/research-overview.md">
+                <img src="research-quickview/yale/profiles/boris-landa-profile.jpg" width="150" style="border-radius: 8px;" alt="Boris Landa"><br>
+                <b>Boris Landa</b>
+            </a>
+            <p>
+                计算成像, 数字信号处理, 稀疏建模, 图像重建, 数据处理优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/mengxia-liu/research-overview.md">
+                <img src="research-quickview/yale/profiles/mengxia-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Mengxia Liu"><br>
+                <b>Mengxia Liu</b>
+            </a>
+            <p>
+                纳米光学, 量子材料, 非线性光学, 超快光谱学, 纳米器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/rajit-manohar/research-overview.md">
+                <img src="research-quickview/yale/profiles/rajit-manohar-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajit Manohar"><br>
+                <b>Rajit Manohar</b>
+            </a>
+            <p>
+                异步电路设计, 低功耗计算, 可扩展计算架构, 高效芯片设计, 集成系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/a-stephen-morse/research-overview.md">
+                <img src="research-quickview/yale/profiles/a-stephen-morse-profile.jpg" width="150" style="border-radius: 8px;" alt="A. Stephen Morse"><br>
+                <b>A. Stephen Morse</b>
+            </a>
+            <p>
+                控制理论, 自动化系统, 分布式算法, 系统动力学, 多智能体协同
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/priyadarshini-panda/research-overview.md">
+                <img src="research-quickview/yale/profiles/priyadarshini-panda-profile.jpg" width="150" style="border-radius: 8px;" alt="Priyadarshini Panda"><br>
+                <b>Priyadarshini Panda</b>
+            </a>
+            <p>
+                低功耗神经网络, 硬件加速人工智能, 计算神经科学, 模拟退火, 自适应计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/jakub-szefer/research-overview.md">
+                <img src="research-quickview/yale/profiles/jakub-szefer-profile.jpg" width="150" style="border-radius: 8px;" alt="Jakub Szefer"><br>
+                <b>Jakub Szefer</b>
+            </a>
+            <p>
+                计算机安全, 硬件信任, 高性能计算, 隐私保护, 可扩展架构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/hong-tang/research-overview.md">
+                <img src="research-quickview/yale/profiles/hong-tang-profile.jpg" width="150" style="border-radius: 8px;" alt="Hong Tang"><br>
+                <b>Hong Tang</b>
+            </a>
+            <p>
+                光子学, 集成光电, 量子计算, 光波导, 纳米材料光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/leandros-tassiulas/research-overview.md">
+                <img src="research-quickview/yale/profiles/leandros-tassiulas-profile.jpg" width="150" style="border-radius: 8px;" alt="Leandros Tassiulas"><br>
+                <b>Leandros Tassiulas</b>
+            </a>
+            <p>
+                网络优化, 无线通信, 算法设计, 分布式系统, 动态资源分配
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/fengnian-xia/research-overview.md">
+                <img src="research-quickview/yale/profiles/fengnian-xia-profile.jpg" width="150" style="border-radius: 8px;" alt="Fengnian Xia"><br>
+                <b>Fengnian Xia</b>
+            </a>
+            <p>
+                纳米电子学, 二维材料, 半导体器件, 光电集成, 能量转换
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/hui-cao/research-overview.md">
+                <img src="research-quickview/yale/profiles/hui-cao-profile.jpg" width="150" style="border-radius: 8px;" alt="Hui Cao"><br>
+                <b>Hui Cao</b>
+            </a>
+            <p>
+                光子学, 随机激光, 非线性光学, 纳米光子器件, 波动现象
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/james-duncan/research-overview.md">
+                <img src="research-quickview/yale/profiles/james-duncan-profile.jpg" width="150" style="border-radius: 8px;" alt="James S. Duncan"><br>
+                <b>James S. Duncan</b>
+            </a>
+            <p>
+                医学图像处理, 生物医学信号分析, 计算机辅助诊断, 动态医学图像建模, 机器学习在医学中的应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/owen-miller/research-overview.md">
+                <img src="research-quickview/yale/profiles/owen-miller-profile.jpg" width="150" style="border-radius: 8px;" alt="Owen Miller"><br>
+                <b>Owen Miller</b>
+            </a>
+            <p>
+                纳米光学, 光子材料, 热辐射控制, 光波导设计, 量子光学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/dan-prober/research-overview.md">
+                <img src="research-quickview/yale/profiles/dan-prober-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel E. Prober"><br>
+                <b>Daniel E. Prober</b>
+            </a>
+            <p>
+                超导技术, 纳米级传感器, 量子测量, 超导电子学, 纳米器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/robert-soule/research-overview.md">
+                <img src="research-quickview/yale/profiles/robert-soule-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Soulé"><br>
+                <b>Robert Soulé</b>
+            </a>
+            <p>
+                分布式系统, 数据中心网络, 可编程网络, 云计算架构, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/lawrence-staib/research-overview.md">
+                <img src="research-quickview/yale/profiles/lawrence-staib-profile.jpg" width="150" style="border-radius: 8px;" alt="Lawrence H. Staib"><br>
+                <b>Lawrence H. Staib</b>
+            </a>
+            <p>
+                医学图像处理, 生物医学信号建模, 统计形状分析, 人体解剖学建模, 机器学习应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/hemant-tagare/research-overview.md">
+                <img src="research-quickview/yale/profiles/hemant-tagare-profile.jpg" width="150" style="border-radius: 8px;" alt="Hemant D. Tagare"><br>
+                <b>Hemant D. Tagare</b>
+            </a>
+            <p>
+                图像重建, 医学成像, 生物信号分析, 统计图像建模, 计算影像处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/yale/ece/sekhar-tatikonda/research-overview.md">
+                <img src="research-quickview/yale/profiles/sekhar-tatikonda-profile.jpg" width="150" style="border-radius: 8px;" alt="Sekhar Tatikonda"><br>
+                <b>Sekhar Tatikonda</b>
+            </a>
+            <p>
+                信息理论, 机器学习, 随机过程, 分布式算法, 动态系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/yale/ece/richard-yang/research-overview.md">
+                <img src="research-quickview/yale/profiles/richard-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Y. Richard Yang"><br>
+                <b>Y. Richard Yang</b>
+            </a>
+            <p>
+                网络系统, 网络协议设计, 网络安全, 云计算, 分布式系统优化
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 ### [Applied Physics](https://appliedphysics.yale.edu/)
+
 </details>
 
 
