@@ -26835,16 +26835,14 @@ No ME PhD
 [$95](https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/fee.html);
 [Only one program](https://www.tgs.northwestern.edu/admission/application-procedures/help-applicants/faqs.html);
 [Apply Now](https://www.tgs.northwestern.edu/admission/)
+
+
 <details>
 <summary>Click to expand Northwestern Professors</summary>
 
 ### [Colleges and Schools](https://admissions.northwestern.edu/academics/)
 ### [All Graduate Programs](https://www.northwestern.edu/academics/graduate-a-to-z.html)
-
-
 ### [School of Engineering and Applied Science](https://www.mccormick.northwestern.edu/)
-
-
 ### [Departments in NU Engineering](https://www.mccormick.northwestern.edu/academics/departments.html)
 
 
