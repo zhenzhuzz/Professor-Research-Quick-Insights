@@ -26840,12 +26840,22 @@ No ME PhD
 
 ### [Colleges and Schools](https://admissions.northwestern.edu/academics/)
 ### [All Graduate Programs](https://www.northwestern.edu/academics/graduate-a-to-z.html)
+
+
 ### [School of Engineering and Applied Science](https://www.mccormick.northwestern.edu/)
+
+
 ### [Departments in NU Engineering](https://www.mccormick.northwestern.edu/academics/departments.html)
+
+
 
 ### [Mechanical Engineering](https://www.mccormick.northwestern.edu/mechanical/research/areas/core-disciplines.html)
 
 - **Field**: [Advanced Manufacturing](https://www.mccormick.northwestern.edu/mechanical/research/areas/advanced-manufacturing.html)
+
+
+
+
 
 - **Field**: [AI and Design](https://www.mccormick.northwestern.edu/mechanical/research/areas/ai-design.html)
 
