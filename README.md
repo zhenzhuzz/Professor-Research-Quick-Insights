@@ -26823,3 +26823,139 @@ No ME PhD
 <!-- End of Brown Section -->
 <!-- End of Brown Section -->
 <!-- End of Brown Section -->
+
+
+
+
+
+
+## [Northwestern University](https://www.northwestern.edu/)
+[ME: Dec, 15](https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/faq.html); 
+[ECE: Dec, 15](https://www.mccormick.northwestern.edu/academics/graduate/admissions/#application); 
+[$95](https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/fee.html);
+[Only one program](https://www.tgs.northwestern.edu/admission/application-procedures/help-applicants/faqs.html);
+[Apply Now](https://www.tgs.northwestern.edu/admission/)
+<details>
+<summary>Click to expand Northwestern Professors</summary>
+
+### [Colleges and Schools](https://admissions.northwestern.edu/academics/)
+### [All Graduate Programs](https://www.northwestern.edu/academics/graduate-a-to-z.html)
+### [School of Engineering and Applied Science](https://www.mccormick.northwestern.edu/)
+### [Departments in NU Engineering](https://www.mccormick.northwestern.edu/academics/departments.html)
+
+### [Mechanical Engineering](https://www.mccormick.northwestern.edu/mechanical/research/areas/core-disciplines.html)
+
+- **Field**: [Advanced Manufacturing](https://www.mccormick.northwestern.edu/mechanical/research/areas/advanced-manufacturing.html)
+
+- **Field**: [AI and Design](https://www.mccormick.northwestern.edu/mechanical/research/areas/ai-design.html)
+
+- **Field**: [Biosystems and Health](https://www.mccormick.northwestern.edu/mechanical/research/areas/biosystems-health.html)
+
+- **Field**: [Computational Engineering](https://www.mccormick.northwestern.edu/mechanical/research/areas/computational-engineering.html)
+
+- **Field**: [Energy and Sustainability](https://www.mccormick.northwestern.edu/mechanical/research/areas/energy-sustainability.html)
+
+- **Field**: [Micro/ Nanoengineering](https://www.mccormick.northwestern.edu/mechanical/research/areas/micro-nanoengineering.html)
+
+- **Field**: [Robotics and Autonomy](https://www.mccormick.northwestern.edu/mechanical/research/areas/robotics-autonomy.html)
+
+
+### [Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/)
+
+- **Field**: [Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/computer-engineering.html)
+- **Field**: [Signals and Systems](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/signals-systems.html)
+- **Field**: [Solid State, Photonic, and Quantum Technologies](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/solid-state-photonics.html)
+
+
+</details>
+
+<!-- End of NU Section -->
+<!-- End of NU Section -->
+<!-- End of NU Section -->
+
+## [Rice University](https://www.rice.edu/)
+[ME: Dec, 15](https://mech.rice.edu/academics/graduate-programs/graduate-admissions); 
+[ECE: Dec, 15](https://eceweb.rice.edu/academics/graduate-programs/graduate-admissions); 
+[$85](https://graduate.rice.edu/admissions/qualifications);
+[More than one](https://eceweb.rice.edu/academics/graduate-programs/graduate-faqs);
+[Apply Now](https://mech.rice.edu/academics/graduate-programs/graduate-admissions)
+<details>
+<summary>Click to expand Rice Professors</summary>
+
+### [Colleges and Schools](https://www.rice.edu/academics)
+### [All Graduate Programs](https://graduate.rice.edu/programs-study)
+### [School of Engineering and Computing](https://engineering.rice.edu/)
+### [Departments in Rice Engineering](https://engineering.rice.edu/academics/departments)
+
+### [Mechanical Engineering](https://mech.rice.edu/research/research-focus-areas)
+
+- **Field**: [Aerospace Engineering](https://mech.rice.edu/aerospace)
+- **Field**: [Biomedical Systems]()
+- **Field**: [Computational Fluid Dynamics]()
+- **Field**: [Energy & the Environment]()
+- **Field**: [Fluid-Structure Interaction]()
+- **Field**: [Mechanics, Dynamics, & Controls]()
+- **Field**: [Mechanical Design & Robotics]()
+- **Field**: [Thermo-fluid Sciences]()
+- **Field**: [Tribology]()
+
+
+### [Electrical and Computer Engineering](https://www.ece.rice.edu/research/key-research-areas)
+
+- **Field**: [Computer Engineering]()
+- **Field**: [Data Science]()
+- **Field**: [Neuroengineering]()
+- **Field**: [Optics and Photonics]()
+- **Field**: [Wireless Networking, Sensing and Security]()
+- **Field**: [Digital Health]()
+- **Field**: [Quantum Engineering]()
+
+
+</details>
+
+<!-- End of Rice Section -->
+<!-- End of Rice Section -->
+<!-- End of Rice Section -->
+
+## [UC Davis](https://www.ucdavis.edu/)
+[ME: Dec, 15](https://mae.ucdavis.edu/graduate/admissions); 
+[ECE: Jan, 15](https://ece.ucdavis.edu/graduate-admissions); 
+[$155](https://grad.ucdavis.edu/international-applicants);
+[More than one](https://grad.ucdavis.edu/admissions-process-overview);
+[Apply Now](https://grad.ucdavis.edu/apply)
+<details>
+<summary>Click to expand UC Davis Professors</summary>
+
+### [Colleges and Schools](https://www.ucdavis.edu/academics/colleges-and-schools)
+### [All Graduate Programs](https://grad.ucdavis.edu/graduate-programs)
+### [College of Engineering](https://engineering.ucdavis.edu/)
+### [Departments in UC Davis Engineering](https://engineering.ucdavis.edu/about/departments)
+
+### [Mechanical and Aerospace Engineering](https://mae.ucdavis.edu/faculty-research)
+
+- **Field**: [Design, Manufacturing, MEMS and Nanostructures](https://mae.ucdavis.edu/design-manufacturing-mems-and-nano)
+- **Field**: [Fluid Mechanics and Aerodynamics](https://mae.ucdavis.edu/dynamics-controls-vehicles-and-robotics)
+- **Field**: [Dynamics, Controls, Vehicles and Robotics](https://mae.ucdavis.edu/energy-propulsion-and-environment)
+- **Field**: [Human-Systems Engineering](https://mae.ucdavis.edu/fluid-mechanics-and-aerodynamics)
+- **Field**: [Energy, Propulsion and Environment](https://mae.ucdavis.edu/biology-medicine-and-biomechanics)
+- **Field**: [Mechanics of Solids, Structures and Materials](https://mae.ucdavis.edu/mechanics-solids-structures-and-materials)
+
+
+### [Electrical and Computer Engineering](https://ece.ucdavis.edu/faculty-research)
+
+- **Field**: [Computer Engineering](https://ece.ucdavis.edu/faculty-research/computer-engineering)
+- **Field**: [Quantum, Photonic and Electronic Devices](https://ece.ucdavis.edu/faculty-research/photonic-and-electronic-devices)
+- **Field**: [Bio, Ag and Health Technologies](https://ece.ucdavis.edu/faculty-research/bio-ag-health-technologies)
+- **Field**: [Information Systems](https://ece.ucdavis.edu/faculty-research/information-systems)
+- **Field**: [RF-to-THz Electronics and Waves](https://ece.ucdavis.edu/faculty-research/rf-thz-electronics-waves)
+- **Field**: [Integrated Circuits and Systems](https://ece.ucdavis.edu/faculty-research/integrated-circuits-systems)
+
+
+</details>
+
+<!-- End of UC Davis Section -->
+<!-- End of UC Davis Section -->
+<!-- End of UC Davis Section -->
+
+
+
