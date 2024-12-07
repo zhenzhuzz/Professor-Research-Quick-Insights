@@ -26851,11 +26851,411 @@ No ME PhD
 
 - **Field**: [Advanced Manufacturing](https://www.mccormick.northwestern.edu/mechanical/research/areas/advanced-manufacturing.html)
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jian-cao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jian-cao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jian Cao"><br>
+                <b>Jian Cao</b>
+            </a>
+            <p>
+                先进制造工艺，智能制造系统，材料成形技术，数字化制造，制造过程建模与控制
+            </p>
+        </td>
+        <td align="="center">
+            <a href="research-quickview/uiuc/mems/wei-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wei-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei Chen"><br>
+                <b>Wei Chen</b>
+            </a>
+            <p>
+                工程设计方法，设计优化，不确定性量化，计算机辅助设计，产品设计与开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/j-edward-colgate/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/j-edward-colgate-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Edward Colgate"><br>
+                <b>J. Edward Colgate</b>
+            </a>
+            <p>
+                人机交互，触觉界面设计，机器人技术，机械设计，控制系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kornel-ehmann/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kornel-ehmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Kornel Ehmann"><br>
+                <b>Kornel Ehmann</b>
+            </a>
+            <p>
+                精密加工技术，增材制造，微纳米加工，先进制造设备设计与控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ping-guo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ping-guo-profile.jpg" width="150" style="border-radius: 8px;" alt="Ping Guo"><br>
+                <b>Ping Guo</b>
+            </a>
+            <p>
+                高性能材料，材料力学，热处理工艺，材料疲劳与断裂
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sridhar-krishnaswamy/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sridhar-krishnaswamy-profile.jpg" width="150" style="border-radius: 8px;" alt="Sridhar Krishnaswamy"><br>
+                <b>Sridhar Krishnaswamy</b>
+            </a>
+            <p>
+                结构健康监测，非破坏性检测，光纤传感器技术，超声波测试
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wing-liu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wing-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Wing Liu"><br>
+                <b>Wing Liu</b>
+            </a>
+            <p>
+                流体力学，计算流体动力学，气动优化，热流动建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kevin-lynch/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kevin-lynch-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin Lynch"><br>
+                <b>Kevin Lynch</b>
+            </a>
+            <p>
+                机器人与自动化，控制系统，动态建模与仿真，机器学习在制造中的应用
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kc-kenneth-park/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kc-kenneth-park-profile.jpg" width="150" style="border-radius: 8px;" alt="K.-C. Kenneth Park"><br>
+                <b>K.-C. Kenneth Park</b>
+            </a>
+            <p>
+                材料设计，先进成形工艺，智能制造，热传递研究
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-rubenstein/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-rubenstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Rubenstein"><br>
+                <b>Michael Rubenstein</b>
+            </a>
+            <p>
+                群体机器人，自组织系统，分布式控制，多机器人系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/cheng-sun/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/cheng-sun-profile.jpg" width="150" style="border-radius: 8px;" alt="Cheng Sun"><br>
+                <b>Cheng Sun</b>
+            </a>
+            <p>
+                微纳米制造技术，先进光刻技术，三维打印，柔性电子器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ryan-truby/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ryan-truby-profile.jpg" width="150" style="border-radius: 8px;" alt="Ryan Truby"><br>
+                <b>Ryan Truby</b>
+            </a>
+            <p>
+                软机器人，生物启发设计，智能材料与结构，3D打印制造
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/gregory-wagner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gregory-wagner-profile.jpg" width="150" style="border-radius: 8px;" alt="Gregory Wagner"><br>
+                <b>Gregory Wagner</b>
+            </a>
+            <p>
+                计算工程，先进制造，热流体科学，数值模拟，界面现象
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/q-jane-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/q-jane-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Q. Jane Wang"><br>
+                <b>Q. Jane Wang</b>
+            </a>
+            <p>
+                摩擦学，接触力学，润滑理论，微观力学，固态电池
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yip-wah-chung/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yip-wah-chung-profile.jpg" width="150" style="border-radius: 8px;" alt="Yip-Wah Chung"><br>
+                <b>Yip-Wah Chung</b>
+            </a>
+            <p>
+                材料科学，表面工程，薄膜沉积，纳米材料，腐蚀与磨损
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jennifer-dunn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jennifer-dunn-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Dunn"><br>
+                <b>Jennifer Dunn</b>
+            </a>
+            <p>
+                可持续工程，生命周期分析，能源系统，环境影响评估，资源管理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/julio-ottino/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/julio-ottino-profile.jpg" width="150" style="border-radius: 8px;" alt="Julio Ottino"><br>
+                <b>Julio Ottino</b>
+            </a>
+            <p>
+                复杂系统，非线性动力学，混沌理论，流体力学，化学反应工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/aaron-packman/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/aaron-packman-profile.jpg" width="150" style="border-radius: 8px;" alt="Aaron Packman"><br>
+                <b>Aaron Packman</b>
+            </a>
+            <p>
+                水资源工程，环境流体力学，沉积物运输，生态水文学，污染物迁移
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/john-rogers/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/john-rogers-profile.jpg" width="150" style="border-radius: 8px;" alt="John Rogers"><br>
+                <b>John Rogers</b>
+            </a>
+            <p>
+                柔性电子学，生物集成设备，纳米制造，光电子学，材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/petia-vlahovska/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/petia-vlahovska-profile.jpg" width="150" style="border-radius: 8px;" alt="Petia Vlahovska"><br>
+                <b>Petia Vlahovska</b>
+            </a>
+            <p>
+                软物质物理，界面现象，微流体力学，胶体与界面科学，生物物理学
+            </p>
+        </td>
+    </tr>
+</table>
+
 
 
 
 
 - **Field**: [AI and Design](https://www.mccormick.northwestern.edu/mechanical/research/areas/ai-design.html)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/brenna-argall/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brenna-argall-profile.jpg" width="150" style="border-radius: 8px;" alt="Brenna Argall"><br>
+                <b>Brenna Argall</b>
+            </a>
+            <p>
+                自主轮椅，机器人学习，人机交互，康复机器人，辅助技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jian-cao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jian-cao-profile.jpg" width="150" style="border-radius: 8px;" alt="Jian Cao"><br>
+                <b>Jian Cao</b>
+            </a>
+            <p>
+                先进制造工艺，智能制造系统，材料成形技术，数字化制造，制造过程建模与控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wei-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wei-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei Chen"><br>
+                <b>Wei Chen</b>
+            </a>
+            <p>
+                工程设计方法，设计优化，不确定性量化，计算机辅助设计，产品设计与开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/j-edward-colgate/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/j-edward-colgate-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Edward Colgate"><br>
+                <b>J. Edward Colgate</b>
+            </a>
+            <p>
+                人机交互，触觉界面设计，机器人技术，机械设计，控制系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kornel-ehmann/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kornel-ehmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Kornel Ehmann"><br>
+                <b>Kornel Ehmann</b>
+            </a>
+            <p>
+                精密加工技术，增材制造，微纳米加工，先进制造设备设计与控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/horacio-espinosa/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/horacio-espinosa-profile.jpg" width="150" style="border-radius: 8px;" alt="Horacio Espinosa"><br>
+                <b>Horacio Espinosa</b>
+            </a>
+            <p>
+                纳米力学，材料表征，微机电系统，生物力学，先进制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/elizabeth-gerber/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/elizabeth-gerber-profile.jpg" width="150" style="border-radius: 8px;" alt="Elizabeth Gerber"><br>
+                <b>Elizabeth Gerber</b>
+            </a>
+            <p>
+                设计创新，协作设计，众包，社会计算，用户体验
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mitra-hartmann/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mitra-hartmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Mitra Hartmann"><br>
+                <b>Mitra Hartmann</b>
+            </a>
+            <p>
+                神经工程，感觉运动系统，机器人感知，生物启发设计，触觉传感
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sinan-keten/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sinan-keten-profile.jpg" width="150" style="border-radius: 8px;" alt="Sinan Keten"><br>
+                <b>Sinan Keten</b>
+            </a>
+            <p>
+                计算材料科学，纳米结构聚合物，生物材料，分子动力学模拟，材料设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sridhar-krishnaswamy/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sridhar-krishnaswamy-profile.jpg" width="150" style="border-radius: 8px;" alt="Sridhar Krishnaswamy"><br>
+                <b>Sridhar Krishnaswamy</b>
+            </a>
+            <p>
+                结构健康监测，非破坏性检测，光纤传感器技术，超声波测试
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wing-liu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wing-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Wing Liu"><br>
+                <b>Wing Liu</b>
+            </a>
+            <p>
+                流体力学，计算流体动力学，气动优化，热流动建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kevin-lynch/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kevin-lynch-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin Lynch"><br>
+                <b>Kevin Lynch</b>
+            </a>
+            <p>
+                机器人与自动化，控制系统，动态建模与仿真，机器学习在制造中的应用
+            </p>
+        </td>
+    </tr>
+        <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/malcolm-maciver/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/malcolm-maciver-profile.jpg" width="150" style="border-radius: 8px;" alt="Malcolm MacIver"><br>
+                <b>Malcolm MacIver</b>
+            </a>
+            <p>
+                神经工程，感觉运动系统，机器人感知，生物启发设计，触觉传感
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/todd-murphey/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/todd-murphey-profile.jpg" width="150" style="border-radius: 8px;" alt="Todd Murphey"><br>
+                <b>Todd Murphey</b>
+            </a>
+            <p>
+                机器人与自动化，控制系统，动态建模与仿真，机器学习在制造中的应用
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-peshkin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-peshkin-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Peshkin"><br>
+                <b>Michael Peshkin</b>
+            </a>
+            <p>
+                人机交互，触觉界面设计，机器人技术，机械设计，控制系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-rubenstein/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-rubenstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Rubenstein"><br>
+                <b>Michael Rubenstein</b>
+            </a>
+            <p>
+                分布式机器人，群体智能，自组织系统，机器人控制，集群机器人
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/cheng-sun/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/cheng-sun-profile.jpg" width="150" style="border-radius: 8px;" alt="Cheng Sun"><br>
+                <b>Cheng Sun</b>
+            </a>
+            <p>
+                纳米制造，光子学，微纳米光学器件，三维打印，先进制造技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ryan-truby/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ryan-truby-profile.jpg" width="150" style="border-radius: 8px;" alt="Ryan Truby"><br>
+                <b>Ryan Truby</b>
+            </a>
+            <p>
+                软体机器人，增材制造，材料设计，生物启发工程，智能系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/q-jane-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/q-jane-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Q. Jane Wang"><br>
+                <b>Q. Jane Wang</b>
+            </a>
+            <p>
+                摩擦学，接触力学，润滑理论，微观力学，固态电池
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jennifer-dunn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jennifer-dunn-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Dunn"><br>
+                <b>Jennifer Dunn</b>
+            </a>
+            <p>
+                可持续工程，生命周期分析，能源系统，环境影响评估，资源管理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/julio-ottino/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/julio-ottino-profile.jpg" width="150" style="border-radius: 8px;" alt="Julio Ottino"><br>
+                <b>Julio Ottino</b>
+            </a>
+            <p>
+                复杂系统，非线性动力学，混沌理论，流体力学，化学反应工程
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 
 - **Field**: [Biosystems and Health](https://www.mccormick.northwestern.edu/mechanical/research/areas/biosystems-health.html)
 
