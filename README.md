@@ -28122,8 +28122,434 @@ No ME PhD
 ### [Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/)
 
 - **Field**: [Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/computer-engineering.html)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nivedita-arora/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nivedita-arora-profile.jpg" width="150" style="border-radius: 8px;" alt="Nivedita Arora"><br>
+                <b>Nivedita Arora</b>
+            </a>
+            <p>
+                可持续计算材料, 环保制造, 无电池系统设计, 设备生命周期管理, 低功耗系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/simone-campanoni/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/simone-campanoni-profile.jpg" width="150" style="border-radius: 8px;" alt="Simone Campanoni"><br>
+                <b>Simone Campanoni</b>
+            </a>
+            <p>
+                编译器设计, 计算机体系结构, 运行时系统, 操作系统, 编程语言
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/alok-choudhary/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/alok-choudhary-profile.jpg" width="150" style="border-radius: 8px;" alt="Alok Choudhary"><br>
+                <b>Alok Choudhary</b>
+            </a>
+            <p>
+                大数据分析, 高性能计算, 数据挖掘, 机器学习, 存储系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/peter-dinda/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/peter-dinda-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Dinda"><br>
+                <b>Peter Dinda</b>
+            </a>
+            <p>
+                分布式系统, 虚拟化技术, 资源管理, 计算机网络, 并行计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jie-gu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jie-gu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jie Gu"><br>
+                <b>Jie Gu</b>
+            </a>
+            <p>
+                集成电路设计, 低功耗电子学, 模拟与混合信号电路, 电源管理, 片上系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nikos-hardavellas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nikos-hardavellas-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikos Hardavellas"><br>
+                <b>Nikos Hardavellas</b>
+            </a>
+            <p>
+                计算机体系结构, 存储系统, 并行计算, 高性能计算, 数据中心设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/josiah-hester/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/josiah-hester-profile.jpg" width="150" style="border-radius: 8px;" alt="Josiah Hester"><br>
+                <b>Josiah Hester</b>
+            </a>
+            <p>
+                可持续计算, 无电池设备, 嵌入式系统, 物联网, 低功耗设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/russell-joseph/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/russell-joseph-profile.jpg" width="150" style="border-radius: 8px;" alt="Russell Joseph"><br>
+                <b>Russell Joseph</b>
+            </a>
+            <p>
+                计算机体系结构, 嵌入式系统, 性能优化, 低功耗设计, 硬件加速
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/seda-ogrenci/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/seda-ogrenci-profile.jpg" width="150" style="border-radius: 8px;" alt="Seda Ogrenci"><br>
+                <b>Seda Ogrenci</b>
+            </a>
+            <p>
+                无线通信, 信号处理, 网络安全, 物联网, 数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/stephen-xia/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephen-xia-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Xia"><br>
+                <b>Stephen Xia</b>
+            </a>
+            <p>
+                集成电路设计, 模拟电路, 混合信号系统, 低功耗电子学, 生物医学电子
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hai-zhou/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hai-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Hai Zhou"><br>
+                <b>Hai Zhou</b>
+            </a>
+            <p>
+                电子设计自动化, 计算机辅助设计, 算法优化, 集成电路验证, 时序分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/qi-zhu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/qi-zhu-profile.jpg" width="150" style="border-radius: 8px;" alt="Qi Zhu"><br>
+                <b>Qi Zhu</b>
+            </a>
+            <p>
+                嵌入式系统, 控制系统设计, 物联网安全, 智能交通系统, 软件硬件协同设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nabil-alshurafa/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nabil-alshurafa-profile.jpg" width="150" style="border-radius: 8px;" alt="Nabil Alshurafa"><br>
+                <b>Nabil Alshurafa</b>
+            </a>
+            <p>
+                数字健康, 生物信号处理, 可穿戴技术, 行为监测, 健康数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yan-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yan-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yan Chen"><br>
+                <b>Yan Chen</b>
+            </a>
+            <p>
+                网络安全, 数据分析, 云计算, 机器学习, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/branden-ghena/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/branden-ghena-profile.jpg" width="150" style="border-radius: 8px;" alt="Branden Ghena"><br>
+                <b>Branden Ghena</b>
+            </a>
+            <p>
+                物联网, 嵌入式系统, 网络协议, 无线通信, 低功耗设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/alan-sahakian/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/alan-sahakian-profile.jpg" width="150" style="border-radius: 8px;" alt="Alan Sahakian"><br>
+                <b>Alan Sahakian</b>
+            </a>
+            <p>
+                生物医学工程, 信号处理, 医疗电子, 无线传感器, 数据分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wei-keng-liao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wei-keng-liao-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei-keng Liao"><br>
+                <b>Wei-keng Liao</b>
+            </a>
+            <p>
+                高性能计算, 并行存储, 数据压缩, 大数据分析, 分布式系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ankit-agrawal/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ankit-agrawal-profile.jpg" width="150" style="border-radius: 8px;" alt="Ankit Agrawal"><br>
+                <b>Ankit Agrawal</b>
+            </a>
+            <p>
+                数据科学, 人工智能, 机器学习, 数据挖掘, 科学计算
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 - **Field**: [Signals and Systems](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/signals-systems.html)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/berry-randall.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/berry-randall.jpg" width="150" style="border-radius: 8px;" alt="Randall Berry"><br>
+                <b>Randall Berry</b>
+            </a>
+            <p>
+                无线通信, 频谱共享, 网络经济学, 信息论, 博弈论
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/butz-arthur.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/butz-arthur.jpg" width="150" style="border-radius: 8px;" alt="Arthur Butz"><br>
+                <b>Arthur Butz</b>
+            </a>
+            <p>
+                控制系统, 数字信号处理, 电力系统, 计算机工程, 工程教育
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cossairt-oliver.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/cossairt-oliver.jpg" width="150" style="border-radius: 8px;" alt="Oliver Cossairt"><br>
+                <b>Oliver Cossairt</b>
+            </a>
+            <p>
+                计算摄影学, 计算成像, 计算机视觉, 光学设计, 图像处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/freeman-randy.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/freeman-randy.jpg" width="150" style="border-radius: 8px;" alt="Randy Freeman"><br>
+                <b>Randy Freeman</b>
+            </a>
+            <p>
+                控制理论, 非线性系统, 分布式控制, 协同控制, 机器人学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/guo-dongning.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/guo-dongning.jpg" width="150" style="border-radius: 8px;" alt="Dongning Guo"><br>
+                <b>Dongning Guo</b>
+            </a>
+            <p>
+                信息论, 无线通信, 网络编码, 随机过程, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/honig-michael.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/honig-michael.jpg" width="150" style="border-radius: 8px;" alt="Michael Honig"><br>
+                <b>Michael Honig</b>
+            </a>
+            <p>
+                通信网络, 无线资源管理, 认知无线电, 博弈论应用, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/katsaggelos-aggelos.jpg" width="150" style="border-radius: 8px;" alt="Aggelos Katsaggelos"><br>
+                <b>Aggelos Katsaggelos</b>
+            </a>
+            <p>
+                图像和视频处理, 压缩技术, 机器学习, 计算成像, 多媒体信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/lee-chung-chieh.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/lee-chung-chieh.jpg" width="150" style="border-radius: 8px;" alt="Chung-Chieh Lee"><br>
+                <b>Chung-Chieh Lee</b>
+            </a>
+            <p>
+                生物医学信号处理, 神经工程, 生物系统建模, 医疗设备设计, 生物信息学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mikhelson-ilya.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/mikhelson-ilya.jpg" width="150" style="border-radius: 8px;" alt="Ilya Mikhelson"><br>
+                <b>Ilya Mikhelson</b>
+            </a>
+            <p>
+                电力电子, 可再生能源系统, 电机设计, 能量转换, 智能电网
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/pappas-thrasyvoulos.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/pappas-thrasyvoulos.jpg" width="150" style="border-radius: 8px;" alt="Thrasyvoulos (Thrasos) Pappas"><br>
+                <b>Thrasyvoulos (Thrasos) Pappas</b>
+            </a>
+            <p>
+                图像质量评估, 感知编码, 多媒体通信, 视觉感知, 信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/sahakian-alan.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/sahakian-alan.jpg" width="150" style="border-radius: 8px;" alt="Alan Sahakian"><br>
+                <b>Alan Sahakian</b>
+            </a>
+            <p>
+                生物医学工程, 信号处理, 医疗设备, 生物传感器, 数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wei-ermin.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/wei-ermin.jpg" width="150" style="border-radius: 8px;" alt="Ermin Wei"><br>
+                <b>Ermin Wei</b>
+            </a>
+            <p>
+                分布式优化, 网络化系统, 智能电网, 博弈论, 机器学习
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wu-ying.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/wu-ying.jpg" width="150" style="border-radius: 8px;" alt="Ying Wu"><br>
+                <b>Ying Wu</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 深度学习, 模式识别, 多媒体分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kadota-igor.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/kadota-igor.jpg" width="150" style="border-radius: 8px;" alt="Igor Kadota"><br>
+                <b>Igor Kadota</b>
+            </a>
+            <p>
+                无线网络, 边缘计算, 通信协议, 时延优化, 网络可靠性
+            </p>
+        </td>
+    </tr>
+</table>
+
+
 - **Field**: [Solid State, Photonic, and Quantum Technologies](https://www.mccormick.northwestern.edu/electrical-computer/research/areas/solid-state-photonics.html)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/aydin-koray.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/aydin-koray.jpg" width="150" style="border-radius: 8px;" alt="Koray Aydin"><br>
+                <b>Koray Aydin</b>
+            </a>
+            <p>
+                纳米光子学, 等离子体学, 超材料, 光学天线, 能量收集
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/grayson-matthew.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/grayson-matthew.jpg" width="150" style="border-radius: 8px;" alt="Matthew Grayson"><br>
+                <b>Matthew Grayson</b>
+            </a>
+            <p>
+                半导体器件, 纳米电子学, 量子霍尔效应, 热电材料, 低温物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ho-seng-tiong.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/ho-seng-tiong.jpg" width="150" style="border-radius: 8px;" alt="Seng-Tiong Ho"><br>
+                <b>Seng-Tiong Ho</b>
+            </a>
+            <p>
+                光子学, 集成光学, 激光物理, 光通信, 非线性光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khalili-pedram.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/khalili-pedram.jpg" width="150" style="border-radius: 8px;" alt="Pedram Khalili"><br>
+                <b>Pedram Khalili</b>
+            </a>
+            <p>
+                自旋电子学, 磁性材料, 非易失性存储器, 量子计算, 纳米器件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/kumar-prem.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/kumar-prem.jpg" width="150" style="border-radius: 8px;" alt="Prem Kumar"><br>
+                <b>Prem Kumar</b>
+            </a>
+            <p>
+                量子光学, 光子学, 量子通信, 非线性光学, 光纤通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/mohseni-hooman.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/mohseni-hooman.jpg" width="150" style="border-radius: 8px;" alt="Hooman Mohseni"><br>
+                <b>Hooman Mohseni</b>
+            </a>
+            <p>
+                纳米光子学, 红外探测器, 生物传感器, 微机电系统, 光电器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/plonus-martin.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/plonus-martin.jpg" width="150" style="border-radius: 8px;" alt="Martin Plonus"><br>
+                <b>Martin Plonus</b>
+            </a>
+            <p>
+                电磁学, 光学, 电路设计, 工程教育, 应用物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/razeghi-manijeh.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/razeghi-manijeh.jpg" width="150" style="border-radius: 8px;" alt="Manijeh Razeghi"><br>
+                <b>Manijeh Razeghi</b>
+            </a>
+            <p>
+                半导体器件, 纳米技术, 红外成像, 激光器, 光电探测器
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/shahriar-selim.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/shahriar-selim.jpg" width="150" style="border-radius: 8px;" alt="Selim Shahriar"><br>
+                <b>Selim Shahriar</b>
+            </a>
+            <p>
+                量子信息处理, 光学陀螺仪, 激光干涉仪, 原子钟, 光学成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/yuen-horace.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/yuen-horace.jpg" width="150" style="border-radius: 8px;" alt="Horace Yuen"><br>
+                <b>Horace Yuen</b>
+            </a>
+            <p>
+                量子密码学, 量子通信, 激光理论, 光子学, 信息安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hosseini-mahdi.html">
+                <img src="https://www.mccormick.northwestern.edu/images/faculty/hosseini-mahdi.jpg" width="150" style="border-radius: 8px;" alt="Mahdi Hosseini"><br>
+                <b>Mahdi Hosseini</b>
+            </a>
+            <p>
+                量子光学, 光子器件, 量子存储, 非线性光学, 量子网络
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 </details>
