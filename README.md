@@ -20699,6 +20699,1293 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
 </table>
 
+- **Field**: [Quantum Information Science](https://physics.illinois.edu/research/groups-and-centers/qis)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/peter-abbamonte/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/peter-abbamonte-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Abbamonte"><br>
+                <b>Peter Abbamonte</b>
+            </a>
+            <p>
+                固体物理, 超导体, 纳米材料, 电子学, 量子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/douglas-beck/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/douglas-beck-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas Beck"><br>
+                <b>Douglas Beck</b>
+            </a>
+            <p>
+                原子物理, 激光物理, 量子光学, 超冷原子, 量子信息
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/alexey-bezryadin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/alexey-bezryadin-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexey Bezryadin"><br>
+                <b>Alexey Bezryadin</b>
+            </a>
+            <p>
+                超导, 纳米材料, 量子力学, 量子计算, 粒子物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/barry-bradlyn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/barry-bradlyn-profile.jpg" width="150" style="border-radius: 8px;" alt="Barry Bradlyn"><br>
+                <b>Barry Bradlyn</b>
+            </a>
+            <p>
+                固体物理, 拓扑量子态, 材料科学, 量子材料, 拓扑物理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/david-ceperley/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/david-ceperley-profile.jpg" width="150" style="border-radius: 8px;" alt="David Ceperley"><br>
+                <b>David Ceperley</b>
+            </a>
+            <p>
+                量子物理, 宇宙学, 量子气体, 强关联系统, 统计物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/bryan-clark/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bryan-clark-profile.jpg" width="150" style="border-radius: 8px;" alt="Bryan Clark"><br>
+                <b>Bryan Clark</b>
+            </a>
+            <p>
+                量子计算, 量子信息, 粒子物理, 量子态控制, 量子系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/offir-cohen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/offir-cohen-profile.jpg" width="150" style="border-radius: 8px;" alt="Offir Cohen"><br>
+                <b>Offir Cohen</b>
+            </a>
+            <p>
+                宇宙学, 高能物理, 量子场论, 粒子加速器, 天体物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jacob-covey/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jacob-covey-profile.jpg" width="150" style="border-radius: 8px;" alt="Jacob Covey"><br>
+                <b>Jacob Covey</b>
+            </a>
+            <p>
+                量子物理, 量子信息, 粒子物理, 量子计算, 材料科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/brian-demarco/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brian-demarco-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian DeMarco"><br>
+                <b>Brian DeMarco</b>
+            </a>
+            <p>
+                量子气体, 超冷原子, 量子物理, 非平衡物理, 强关联系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/patrick-draper/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/patrick-draper-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick Draper"><br>
+                <b>Patrick Draper</b>
+            </a>
+            <p>
+                粒子物理, 量子场论, 宇宙学, 物理模型, 高能物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jim-eckstein/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jim-eckstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Jim Eckstein"><br>
+                <b>Jim Eckstein</b>
+            </a>
+            <p>
+                强相互作用物理, 粒子物理, 宇宙学, 天体物理, 相对论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/aida-el-khadra/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/aida-el-khadra-profile.jpg" width="150" style="border-radius: 8px;" alt="Aida El-Khadra"><br>
+                <b>Aida El-Khadra</b>
+            </a>
+            <p>
+                量子色动力学, 量子场论, 高能物理, 理论物理, 粒子物理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/tom-faulkner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tom-faulkner-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Faulkner"><br>
+                <b>Tom Faulkner</b>
+            </a>
+            <p>
+                粒子物理, 宇宙学, 强相互作用, 量子场论, 高能物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/eduardo-fradkin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/eduardo-fradkin-profile.jpg" width="150" style="border-radius: 8px;" alt="Eduardo Fradkin"><br>
+                <b>Eduardo Fradkin</b>
+            </a>
+            <p>
+                量子场论, 高能物理, 强相互作用, 量子信息, 宇宙学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/bryce-gadway/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bryce-gadway-profile.jpg" width="150" style="border-radius: 8px;" alt="Bryce Gadway"><br>
+                <b>Bryce Gadway</b>
+            </a>
+            <p>
+                量子气体, 超冷原子, 量子模拟, 量子物理, 强关联系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/elizabeth-goldschmidt/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/elizabeth-goldschmidt-profile.jpg" width="150" style="border-radius: 8px;" alt="Elizabeth Goldschmidt"><br>
+                <b>Elizabeth Goldschmidt</b>
+            </a>
+            <p>
+                量子光学, 凝聚态物理, 实验凝聚态系统, 量子多体物理, 超导量子计算
+            </p>
+        </td>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/taylor-hughes/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/taylor-hughes-profile.jpg" width="150" style="border-radius: 8px;" alt="Taylor Hughes"><br>
+                <b>Taylor Hughes</b>
+            </a>
+            <p>
+                凝聚态物理, 拓扑相态物质, 量子信息, 量子计算, 拓扑量子场论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/yonatan-kahn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yonatan-kahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Yonatan Kahn"><br>
+                <b>Yonatan Kahn</b>
+            </a>
+            <p>
+                量子计算, 量子测量, 量子信息科学, 量子网络, 实验量子技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/angela-kou/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/angela-kou-profile.jpg" width="150" style="border-radius: 8px;" alt="Angela Kou"><br>
+                <b>Angela Kou</b>
+            </a>
+            <p>
+                量子力学, 量子模拟, 凝聚态物理, 量子场论, 量子多体系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/paul-kwiat/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paul-kwiat-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Kwiat"><br>
+                <b>Paul Kwiat</b>
+            </a>
+            <p>
+                量子光学, 量子信息, 量子密码学, 量子纠缠, 光子学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/tony-leggett/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tony-leggett-profile.jpg" width="150" style="border-radius: 8px;" alt="Tony Leggett"><br>
+                <b>Tony Leggett</b>
+            </a>
+            <p>
+                超流体理论, 量子力学基础, 凝聚态物理, 量子计算, 超导理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/rob-leigh/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rob-leigh-profile.jpg" width="150" style="border-radius: 8px;" alt="Rob Leigh"><br>
+                <b>Rob Leigh</b>
+            </a>
+            <p>
+                弦理论, 量子场论, 黑洞物理, 数学物理, 拓扑物质
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/virginia-lorenz/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/virginia-lorenz-profile.jpg" width="150" style="border-radius: 8px;" alt="Virginia Lorenz"><br>
+                <b>Virginia Lorenz</b>
+            </a>
+            <p>
+                量子光学, 光子纠缠, 量子信息科学, 激光技术, 光学材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/vidya-madhavan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/vidya-madhavan-profile.jpg" width="150" style="border-radius: 8px;" alt="Vidya Madhavan"><br>
+                <b>Vidya Madhavan</b>
+            </a>
+            <p>
+                拓扑物质, 强关联电子系统, 量子材料, 扫描隧道显微镜, 凝聚态实验
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/fahad-mahmood/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/fahad-mahmood-profile.jpg" width="150" style="border-radius: 8px;" alt="Fahad Mahmood"><br>
+                <b>Fahad Mahmood</b>
+            </a>
+            <p>
+                超快光谱, 凝聚态物理, 拓扑材料, 非平衡动力学, 激光实验
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/nadya-mason/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nadya-mason-profile.jpg" width="150" style="border-radius: 8px;" alt="Nadya Mason"><br>
+                <b>Nadya Mason</b>
+            </a>
+            <p>
+                纳米电子学, 强关联电子, 量子点, 超导材料, 低温物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/wolfgang-pfaff/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wolfgang-pfaff-profile.jpg" width="150" style="border-radius: 8px;" alt="Wolfgang Pfaff"><br>
+                <b>Wolfgang Pfaff</b>
+            </a>
+            <p>
+                量子计算, 量子网络, 超导量子位, 量子通信, 实验量子物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/smitha-vishveshwara/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/smitha-vishveshwara-profile.jpg" width="150" style="border-radius: 8px;" alt="Smitha Vishveshwara"><br>
+                <b>Smitha Vishveshwara</b>
+            </a>
+            <p>
+                凝聚态理论, 拓扑相, 量子场论, 非平衡系统, 理论量子力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/pengjie-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/pengjie-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Pengjie Wang"><br>
+                <b>Pengjie Wang</b>
+            </a>
+            <p>
+                凝聚态理论, 超导现象, 强关联物质, 光学材料, 实验量子物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/philip-phillips/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/philip-phillips-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Phillips"><br>
+                <b>Philip Phillips</b>
+            </a>
+            <p>
+                强关联电子系统, 超导电性, 量子相变, 光学实验, 高温超导
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/michael-stone/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-stone-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Stone"><br>
+                <b>Michael Stone</b>
+            </a>
+            <p>
+                量子场论, 拓扑物理, 统计力学, 凝聚态理论, 数学物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/lucas-wagner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lucas-wagner-profile.jpg" width="150" style="border-radius: 8px;" alt="Lucas Wagner"><br>
+                <b>Lucas Wagner</b>
+            </a>
+            <p>
+                计算物理, 第一性原理计算, 凝聚态模拟, 电子结构理论, 量子多体问题
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Illinois Center for Advanced Studies of the Universe](https://icasu.illinois.edu/people)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/peter-adshead/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/peter-adshead-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Adshead"><br>
+                <b>Peter Adshead</b>
+            </a>
+            <p>
+                研究方向包括宇宙学、早期宇宙、引力波与粒子物理。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/kirk-barrow/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kirk-barrow-profile.jpg" width="150" style="border-radius: 8px;" alt="Kirk Barrow"><br>
+                <b>Kirk Barrow</b>
+            </a>
+            <p>
+                天文学、星系形成、宇宙模拟、早期宇宙光学观测。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/gordon-baym/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gordon-baym-profile.jpg" width="150" style="border-radius: 8px;" alt="Gordon A. Baym"><br>
+                <b>Gordon A. Baym</b>
+            </a>
+            <p>
+                凝聚态物理、核物理、超流体力学、天体物理。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/douglas-beck/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/douglas-beck-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas H. Beck"><br>
+                <b>Douglas H. Beck</b>
+            </a>
+            <p>
+                核物理、弱相互作用、标准模型测试。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/patrick-draper/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/patrick-draper-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick I. Draper"><br>
+                <b>Patrick I. Draper</b>
+            </a>
+            <p>
+                粒子物理、暗物质模型、超对称理论。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/aida-el-khadra/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/aida-el-khadra-profile.jpg" width="150" style="border-radius: 8px;" alt="Aida X. El-Khadra"><br>
+                <b>Aida X. El-Khadra</b>
+            </a>
+            <p>
+                格点量子色动力学、重味物理、标准模型测试。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/thomas-faulkner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/thomas-faulkner-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Faulkner"><br>
+                <b>Thomas Faulkner</b>
+            </a>
+            <p>
+                全息原理、量子引力、凝聚态理论。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/brian-fields/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brian-fields-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Fields"><br>
+                <b>Brian Fields</b>
+            </a>
+            <p>
+                核天体物理、宇宙射线起源、早期宇宙化学。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jeffrey-filippini/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jeffrey-filippini-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeffrey P. Filippini"><br>
+                <b>Jeffrey P. Filippini</b>
+            </a>
+            <p>
+                宇宙微波背景、暗物质探测、宇宙学仪器开发。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/charles-gammie/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/charles-gammie-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles Forbes Gammie"><br>
+                <b>Charles Forbes Gammie</b>
+            </a>
+            <p>
+                黑洞物理、天体流体力学、磁流体动力学。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/matthias-perdekamp/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/matthias-perdekamp-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthias Grosse Perdekamp"><br>
+                <b>Matthias Grosse Perdekamp</b>
+            </a>
+            <p>
+                粒子物理实验、强子物理、偏振现象研究。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/roland-haas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/roland-haas-profile.jpg" width="150" style="border-radius: 8px;" alt="Roland Haas"><br>
+                <b>Roland Haas</b>
+            </a>
+            <p>
+                数值相对论、引力波天文学、黑洞模拟。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/gilbert-holder/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gilbert-holder-profile.jpg" width="150" style="border-radius: 8px;" alt="Gilbert Holder"><br>
+                <b>Gilbert Holder</b>
+            </a>
+            <p>
+                宇宙学、星系团物理、引力透镜。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/yonatan-kahn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yonatan-kahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Yonatan Frederick Kahn"><br>
+                <b>Yonatan Frederick Kahn</b>
+            </a>
+            <p>
+                暗物质理论、粒子物理、量子计算。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/kay-kirkpatrick/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kay-kirkpatrick-profile.jpg" width="150" style="border-radius: 8px;" alt="Kay Kirkpatrick"><br>
+                <b>Kay Kirkpatrick</b>
+            </a>
+            <p>
+                数学物理、统计力学、概率论。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/gabriele-la-nave/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gabriele-la-nave-profile.jpg" width="150" style="border-radius: 8px;" alt="Gabriele La Nave"><br>
+                <b>Gabriele La Nave</b>
+            </a>
+            <p>
+                凝聚态理论、量子场论、几何流研究。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/robert-leigh/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/robert-leigh-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert G. Leigh"><br>
+                <b>Robert G. Leigh</b>
+            </a>
+            <p>
+                研究方向包括弦理论、量子场论及高能物理。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jorge-noronha-jr/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jorge-noronha-jr-profile.jpg" width="150" style="border-radius: 8px;" alt="Jorge Jose Leite Noronha, Jr"><br>
+                <b>Jorge Jose Leite Noronha, Jr</b>
+            </a>
+            <p>
+                重离子物理、夸克胶子等离子体及强子物理。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/xin-liu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/xin-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Xin Liu"><br>
+                <b>Xin Liu</b>
+            </a>
+            <p>
+                天体物理、黑洞及活动星系核。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/andrew-manning/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andrew-manning-profile.jpg" width="150" style="border-radius: 8px;" alt="T. Andrew Manning"><br>
+                <b>T. Andrew Manning</b>
+            </a>
+            <p>
+                光学与量子测量、实验物理、量子传感。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/felipe-menanteau/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/felipe-menanteau-profile.jpg" width="150" style="border-radius: 8px;" alt="Felipe Menanteau"><br>
+                <b>Felipe Menanteau</b>
+            </a>
+            <p>
+                宇宙学、星系团、宇宙背景探测。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/gautham-narayan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gautham-narayan-profile.jpg" width="150" style="border-radius: 8px;" alt="Gautham Narayan"><br>
+                <b>Gautham Narayan</b>
+            </a>
+            <p>
+                超新星、时间域天文学、天文数据科学。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/mark-neubauer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mark-neubauer-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Neubauer"><br>
+                <b>Mark Neubauer</b>
+            </a>
+            <p>
+                高能物理实验、希格斯物理学、暗物质探测。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jaki-noronha-hostler/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jaki-noronha-hostler-profile.jpg" width="150" style="border-radius: 8px;" alt="Jaki Noronha-Hostler"><br>
+                <b>Jaki Noronha-Hostler</b>
+            </a>
+            <p>
+                强子物理、夸克胶子等离子体、重离子碰撞。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jen-chieh-peng/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jen-chieh-peng-profile.jpg" width="150" style="border-radius: 8px;" alt="Jen-Chieh Peng"><br>
+                <b>Jen-Chieh Peng</b>
+            </a>
+            <p>
+                核物理实验、强子结构、夸克分布函数。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/philip-phillips/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/philip-phillips-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip W. Phillips"><br>
+                <b>Philip W. Phillips</b>
+            </a>
+            <p>
+                凝聚态物理、强关联电子系统、超导性。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/paul-ricker/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paul-ricker-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Milton Ricker"><br>
+                <b>Paul Milton Ricker</b>
+            </a>
+            <p>
+                天体物理、星系团、宇宙大尺度结构。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/stuart-shapiro/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stuart-shapiro-profile.jpg" width="150" style="border-radius: 8px;" alt="Stuart L. Shapiro"><br>
+                <b>Stuart L. Shapiro</b>
+            </a>
+            <p>
+                数值相对论、黑洞、引力波源模拟。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jessie-shelton/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jessie-shelton-profile.jpg" width="150" style="border-radius: 8px;" alt="Jessie Shelton"><br>
+                <b>Jessie Shelton</b>
+            </a>
+            <p>
+                理论粒子物理、暗物质模型、粒子物理宇宙学。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/anne-sickles/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anne-sickles-profile.jpg" width="150" style="border-radius: 8px;" alt="Anne M. Sickles"><br>
+                <b>Anne M. Sickles</b>
+            </a>
+            <p>
+                核物理实验、重离子碰撞、夸克物质性质。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/hector-silva/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hector-silva-profile.jpg" width="150" style="border-radius: 8px;" alt="Hector O. Silva"><br>
+                <b>Hector O. Silva</b>
+            </a>
+            <p>
+                中子星、黑洞、引力理论测试。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/matthew-turk/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/matthew-turk-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew J. Turk"><br>
+                <b>Matthew J. Turk</b>
+            </a>
+            <p>
+                天体物理模拟、星系形成、科学可视化。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/joaquin-vieira/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/joaquin-vieira-profile.jpg" width="150" style="border-radius: 8px;" alt="Joaquin Daniel Vieira"><br>
+                <b>Joaquin Daniel Vieira</b>
+            </a>
+            <p>
+                天体物理学、宇宙学、次毫米波天文学。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/smitha-vishveshwara/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/smitha-vishveshwara-profile.jpg" width="150" style="border-radius: 8px;" alt="Smitha Vishveshwara"><br>
+                <b>Smitha Vishveshwara</b>
+            </a>
+            <p>
+                凝聚态物理、量子力学、拓扑系统。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/christopher-weaver/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/christopher-weaver-profile.jpg" width="150" style="border-radius: 8px;" alt="Christopher Weaver"><br>
+                <b>Christopher Weaver</b>
+            </a>
+            <p>
+                高能物理、粒子探测器开发、数据分析。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/helvi-witek/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/helvi-witek-profile.jpg" width="150" style="border-radius: 8px;" alt="Helvi Witek"><br>
+                <b>Helvi Witek</b>
+            </a>
+            <p>
+                广义相对论、黑洞物理、数值引力。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/nicolas-yunes/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nicolas-yunes-profile.jpg" width="150" style="border-radius: 8px;" alt="Nicolas Yunes"><br>
+                <b>Nicolas Yunes</b>
+            </a>
+            <p>
+                引力波物理学、广义相对论、天体物理学。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/peter-abbamonte/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/peter-abbamonte-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Abbamonte"><br>
+                <b>Peter Abbamonte</b>
+            </a>
+            <p>
+                凝聚态物理、电子关联效应、X射线散射。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/pierre-albin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/pierre-albin-profile.jpg" width="150" style="border-radius: 8px;" alt="Pierre Albin"><br>
+                <b>Pierre Albin</b>
+            </a>
+            <p>
+                数学物理、几何分析、拓扑物理。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/eduardo-fradkin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/eduardo-fradkin-profile.jpg" width="150" style="border-radius: 8px;" alt="Eduardo H. Fradkin"><br>
+                <b>Eduardo H. Fradkin</b>
+            </a>
+            <p>
+                凝聚态物理、拓扑物质相、量子场论。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/benjamin-hooberman/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/benjamin-hooberman-profile.jpg" width="150" style="border-radius: 8px;" alt="Benjamin Hooberman"><br>
+                <b>Benjamin Hooberman</b>
+            </a>
+            <p>
+                高能物理实验、暗物质探索、超对称性。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/frederick-lamb/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/frederick-lamb-profile.jpg" width="150" style="border-radius: 8px;" alt="Frederick K. Lamb"><br>
+                <b>Frederick K. Lamb</b>
+            </a>
+            <p>
+                天体物理学、中子星、X射线双星系统。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/fahad-mahmood/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/fahad-mahmood-profile.jpg" width="150" style="border-radius: 8px;" alt="Fahad Mahmood"><br>
+                <b>Fahad Mahmood</b>
+            </a>
+            <p>
+                光学物理、量子材料、时间分辨光谱。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/kevin-pitts/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kevin-pitts-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin T. Pitts"><br>
+                <b>Kevin T. Pitts</b>
+            </a>
+            <p>
+                高能物理实验、粒子碰撞物理、粒子探测器开发。
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+- **Field**: [Illinois Quantum Information Science and Technology Center](https://iquist.illinois.edu/people)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/peter-abbamonte/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/peter-abbamonte-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter Abbamonte"><br>
+                <b>Peter Abbamonte</b>
+            </a>
+            <p>
+                凝聚态物理、X射线散射、电子相关效应、量子材料、低温实验。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/chris-anderson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chris-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris Anderson"><br>
+                <b>Chris Anderson</b>
+            </a>
+            <p>
+                光学设计、激光物理、应用物理研究、非线性光学、光纤技术。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/mikael-backlund/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mikael-backlund-profile.jpg" width="150" style="border-radius: 8px;" alt="Mikael Backlund"><br>
+                <b>Mikael Backlund</b>
+            </a>
+            <p>
+                生物物理、超分辨显微镜、单分子光谱学、纳米技术、生物传感器。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/gaurav-bahl/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gaurav-bahl-profile.jpg" width="150" style="border-radius: 8px;" alt="Gaurav Bahl"><br>
+                <b>Gaurav Bahl</b>
+            </a>
+            <p>
+                光学力学、声学物理、微纳器件设计、纳米光子学、传感器。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/douglas-beck/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/douglas-beck-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas Beck"><br>
+                <b>Douglas Beck</b>
+            </a>
+            <p>
+                核物理、弱相互作用、偏振电子散射、粒子物理、量子力学。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/alexey-bezryadin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/alexey-bezryadin-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexey Bezryadin"><br>
+                <b>Alexey Bezryadin</b>
+            </a>
+            <p>
+                纳米超导体、量子相干性、电子传输、低维材料、纳米电子学。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/simeon-bogdanov/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/simeon-bogdanov-profile.jpg" width="150" style="border-radius: 8px;" alt="Simeon Bogdanov"><br>
+                <b>Simeon Bogdanov</b>
+            </a>
+            <p>
+                凝聚态物理、量子材料、低温实验、超导体、电子行为。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/barry-bradlyn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/barry-bradlyn-profile.jpg" width="150" style="border-radius: 8px;" alt="Barry Bradlyn"><br>
+                <b>Barry Bradlyn</b>
+            </a>
+            <p>
+                拓扑物理、凝聚态理论、量子霍尔效应、拓扑绝缘体、量子计算。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/patrick-draper/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/patrick-draper-profile.jpg" width="150" style="border-radius: 8px;" alt="Patrick Draper"><br>
+                <b>Patrick Draper</b>
+            </a>
+            <p>
+                理论物理、量子场论、粒子物理、宇宙学、高能物理。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/jim-eckstein/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jim-eckstein-profile.jpg" width="150" style="border-radius: 8px;" alt="Jim Eckstein"><br>
+                <b>Jim Eckstein</b>
+            </a>
+            <p>
+                材料科学、量子材料、生长技术、固态物理、低温物理。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/emily-edwards/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/emily-edwards-profile.jpg" width="150" style="border-radius: 8px;" alt="Emily Edwards"><br>
+                <b>Emily Edwards</b>
+            </a>
+            <p>
+                科学传播、物理教育、跨学科研究、科技创新、教育技术。
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/kejie-fang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kejie-fang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kejie Fang"><br>
+                <b>Kejie Fang</b>
+            </a>
+            <p>
+                量子材料、凝聚态物理、光电子学、纳米技术、超导体。
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/tom-faulkner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tom-faulkner-profile.jpg" width="150" style="border-radius: 8px;" alt="Tom Faulkner"><br>
+                <b>Tom Faulkner</b>
+            </a>
+            <p>
+                量子物理, 超导量子比特, 量子计算, 高能物理, 量子场论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/eduardo-fradkin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/eduardo-fradkin-profile.jpg" width="150" style="border-radius: 8px;" alt="Eduardo Fradkin"><br>
+                <b>Eduardo Fradkin</b>
+            </a>
+            <p>
+                量子多体物理, 统计物理, 高能物理, 量子场论, 低温物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/bryce-gadway/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bryce-gadway-profile.jpg" width="150" style="border-radius: 8px;" alt="Bryce Gadway"><br>
+                <b>Bryce Gadway</b>
+            </a>
+            <p>
+                量子模拟, 光学量子实验, 多体物理, 原子光学, 量子信息科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/matthew-gilbert/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/matthew-gilbert-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Gilbert"><br>
+                <b>Matthew Gilbert</b>
+            </a>
+            <p>
+                量子信息, 量子通信, 量子算法, 量子比特, 量子传感器
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/elizabeth-goldschmidt/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/elizabeth-goldschmidt-profile.jpg" width="150" style="border-radius: 8px;" alt="Elizabeth Goldschmidt"><br>
+                <b>Elizabeth Goldschmidt</b>
+            </a>
+            <p>
+                量子物理, 统计力学, 原子核物理, 量子凝聚态, 非平衡物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/axel-hoffmann/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/axel-hoffmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Hoffmann"><br>
+                <b>Axel Hoffmann</b>
+            </a>
+            <p>
+                凝聚态物理, 磁性材料, 纳米科学, 自旋电子学, 高温超导
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/taylor-hughes/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/taylor-hughes-profile.jpg" width="150" style="border-radius: 8px;" alt="Taylor Hughes"><br>
+                <b>Taylor Hughes</b>
+            </a>
+            <p>
+                量子物理, 量子材料, 拓扑物理, 凝聚态理论, 强关联电子系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/marius-junge/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/marius-junge-profile.jpg" width="150" style="border-radius: 8px;" alt="Marius Junge"><br>
+                <b>Marius Junge</b>
+            </a>
+            <p>
+                实验物理, 超冷原子, 激光物理, 光学量子信息, 量子传感器
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/yonatan-kahn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yonatan-kahn-profile.jpg" width="150" style="border-radius: 8px;" alt="Yonatan Kahn"><br>
+                <b>Yonatan Kahn</b>
+            </a>
+            <p>
+                粒子物理, 高能物理实验, 标准模型, 暗物质, 宇宙学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/dakshita-khurana/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/dakshita-khurana-profile.jpg" width="150" style="border-radius: 8px;" alt="Dakshita Khurana"><br>
+                <b>Dakshita Khurana</b>
+            </a>
+            <p>
+                高能物理, 原子核物理, 量子光学, 量子场论, 标准模型扩展
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/kohei-kishida/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kohei-kishida-profile.jpg" width="150" style="border-radius: 8px;" alt="Kohei Kishida"><br>
+                <b>Kohei Kishida</b>
+            </a>
+            <p>
+                理论物理, 高能物理, 黑洞物理, 引力波, 宇宙学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/physics/angela-kou/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/angela-kou-profile.jpg" width="150" style="border-radius: 8px;" alt="Angela Kou"><br>
+                <b>Angela Kou</b>
+            </a>
+            <p>
+                宇宙学, 暗物质, 高能粒子物理, 量子重力, 宇宙大爆炸理论
+            </p>
+        </td>
+    </tr>
+    <tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/paul-kwiat/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/paul-kwiat-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Kwiat"><br>
+            <b>Paul Kwiat</b>
+        </a>
+        <p>
+            光学量子信息, 纠缠, 相关光子, 精密光学测量, 量子通信、计量和计算应用
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/felix-leditzky/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/felix-leditzky-profile.jpg" width="150" style="border-radius: 8px;" alt="Felix Leditzky"><br>
+            <b>Felix Leditzky</b>
+        </a>
+        <p>
+            量子信息理论, 量子计算, 量子相关性, 凝聚态物理, 量子纠缠
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/minjoo-lawrence-lee/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/minjoo-lawrence-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Minjoo Lawrence Lee"><br>
+            <b>Minjoo Lawrence Lee</b>
+        </a>
+        <p>
+            量子光学, 量子材料, 光子学与量子力学交叉领域, 量子态调控, 超冷物质
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/tony-leggett/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/tony-leggett-profile.jpg" width="150" style="border-radius: 8px;" alt="Tony Leggett"><br>
+            <b>Tony Leggett</b>
+        </a>
+        <p>
+            量子力学, 凝聚态物理, 超流性, 量子计算, 量子力学基础问题
+        </p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/rob-leigh/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/rob-leigh-profile.jpg" width="150" style="border-radius: 8px;" alt="Rob Leigh"><br>
+            <b>Rob Leigh</b>
+        </a>
+        <p>
+            量子多体物理, 高能物理, 超导材料, 高能量密度, 量子磁性
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/virginia-lorenz/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/virginia-lorenz-profile.jpg" width="150" style="border-radius: 8px;" alt="Virginia Lorenz"><br>
+            <b>Virginia Lorenz</b>
+        </a>
+        <p>
+            低温物理, 超导材料, 半导体物理, 纳米材料, 量子传输
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/vidya-madhavan/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/vidya-madhavan-profile.jpg" width="150" style="border-radius: 8px;" alt="Vidya Madhavan"><br>
+            <b>Vidya Madhavan</b>
+        </a>
+        <p>
+            纳米尺度物理, 单原子层材料, 量子现象研究, 量子霍尔效应, 纳米结构电学
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/fahad-mahmood/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/fahad-mahmood-profile.jpg" width="150" style="border-radius: 8px;" alt="Fahad Mahmood"><br>
+            <b>Fahad Mahmood</b>
+        </a>
+        <p>
+            量子材料, 热力学, 纳米物理, 界面物理, 电磁波传播
+        </p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/nancy-makri/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/nancy-makri-profile.jpg" width="150" style="border-radius: 8px;" alt="Nancy Makri"><br>
+            <b>Nancy Makri</b>
+        </a>
+        <p>
+            量子化学, 计算物理, 分子模拟, 量子动力学, 热力学, 非平衡态物理
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/nadya-mason/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/nadya-mason-profile.jpg" width="150" style="border-radius: 8px;" alt="Nadya Mason"><br>
+            <b>Nadya Mason</b>
+        </a>
+        <p>
+            量子材料, 碳纳米管, 超导性, 低温物理, 电子学
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/wolfgang-pfaff/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/wolfgang-pfaff-profile.jpg" width="150" style="border-radius: 8px;" alt="Wolfgang Pfaff"><br>
+            <b>Wolfgang Pfaff</b>
+        </a>
+        <p>
+            量子信息, 量子计算, 超导量子比特, 量子算法, 量子噪声
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/andre-schleife/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/andre-schleife-profile.jpg" width="150" style="border-radius: 8px;" alt="Andre Schleife"><br>
+            <b>Andre Schleife</b>
+        </a>
+        <p>
+            量子材料, 计算物理, 纳米材料, 电子结构计算, 量子相变
+        </p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/thomas-searles/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/thomas-searles-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Searles"><br>
+            <b>Thomas Searles</b>
+        </a>
+        <p>
+            量子多体物理, 纳米量子系统, 计算物理, 电子结构, 多体系统模拟
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/daniel-shoemaker/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/daniel-shoemaker-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Shoemaker"><br>
+            <b>Daniel Shoemaker</b>
+        </a>
+        <p>
+            原子物理, 光学, 核物理, 超冷原子, 量子气体
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/makrand-sinha/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/makrand-sinha-profile.jpg" width="150" style="border-radius: 8px;" alt="Makrand Sinha"><br>
+            <b>Makrand Sinha</b>
+        </a>
+        <p>
+            高能物理, 粒子物理, 理论物理, 相对论, 量子场论
+        </p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/edgar-solomonik/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/edgar-solomonik-profile.jpg" width="150" style="border-radius: 8px;" alt="Edgar Solomonik"><br>
+            <b>Edgar Solomonik</b>
+        </a>
+        <p>
+            量子计算, 高性能计算, 大规模计算, 科学计算, 数据分析
+        </p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/smitha-vishveshwara/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/smitha-vishveshwara-profile.jpg" width="150" style="border-radius: 8px;" alt="Smitha Vishveshwara"><br>
+            <b>Smitha Vishveshwara</b>
+        </a>
+        <p>量子信息, 量子计算, 量子纠缠, 量子场论, 复杂系统</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/pengjie-wang/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/pengjie-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Pengjie Wang"><br>
+            <b>Pengjie Wang</b>
+        </a>
+        <p>量子物理, 纳米材料, 超导材料, 电子结构, 量子霍尔效应</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/amanda-young/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/amanda-young-profile.jpg" width="150" style="border-radius: 8px;" alt="Amanda Young"><br>
+            <b>Amanda Young</b>
+        </a>
+        <p>超导性, 量子物理, 凝聚态物理, 电子材料, 纳米技术</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/jian-min-zuo/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/jian-min-zuo-profile.jpg" width="150" style="border-radius: 8px;" alt="Jian-Min Zuo"><br>
+            <b>Jian-Min Zuo</b>
+        </a>
+        <p>光电子学, 纳米结构, 半导体物理, 量子材料, 电磁学</p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/gul-agha/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/gul-agha-profile.jpg" width="150" style="border-radius: 8px;" alt="Gul Agha"><br>
+            <b>Gul Agha</b>
+        </a>
+        <p>计算机科学, 多体系统, 数据科学, 量子算法, 复杂系统</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/daniel-bodony/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/daniel-bodony-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Bodony"><br>
+            <b>Daniel Bodony</b>
+        </a>
+        <p>流体力学, 数值模拟, 空气动力学, 计算流体力学, 大气物理</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/kent-choquette/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/kent-choquette-profile.jpg" width="150" style="border-radius: 8px;" alt="Kent Choquette"><br>
+            <b>Kent Choquette</b>
+        </a>
+        <p>半导体物理, 光电子学, 纳米电子学, 量子器件, 激光技术</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/michael-forbes/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/michael-forbes-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Forbes"><br>
+            <b>Michael Forbes</b>
+        </a>
+        <p>量子计算, 量子多体物理, 数值模拟, 量子算法, 理论物理</p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/abhijeet-ghoshal/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/abhijeet-ghoshal-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhijeet Ghoshal"><br>
+            <b>Abhijeet Ghoshal</b>
+        </a>
+        <p>凝聚态物理, 量子材料, 量子现象, 多体物理, 高能物理</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/prashant-jain/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/prashant-jain-profile.jpg" width="150" style="border-radius: 8px;" alt="Prashant Jain"><br>
+            <b>Prashant Jain</b>
+        </a>
+        <p>纳米光学, 量子材料, 光学, 超导现象, 量子霍尔效应</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/jean-pierre-leburton/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/jean-pierre-leburton-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Pierre Leburton"><br>
+            <b>Jean-Pierre Leburton</b>
+        </a>
+        <p>半导体物理, 量子计算, 纳米材料, 电子学, 量子芯片</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/bo-li/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/bo-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Bo Li"><br>
+            <b>Bo Li</b>
+        </a>
+        <p>理论物理, 量子材料, 量子计算, 量子信息, 高能物理</p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/olgica-milenkovic/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/olgica-milenkovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Olgica Milenkovic"><br>
+            <b>Olgica Milenkovic</b>
+        </a>
+        <p>量子信息, 量子计算, 高能物理, 多体物理, 量子信息科学</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/santiago-nunez-corrales/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/santiago-nunez-corrales-profile.jpg" width="150" style="border-radius: 8px;" alt="Santiago Núñez-Corrales"><br>
+            <b>Santiago Núñez-Corrales</b>
+        </a>
+        <p>凝聚态物理, 量子计算, 纳米物理, 光电子学, 量子态</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/timur-oikhberg/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/timur-oikhberg-profile.jpg" width="150" style="border-radius: 8px;" alt="Timur Oikhberg"><br>
+            <b>Timur Oikhberg</b>
+        </a>
+        <p>量子信息, 高能物理, 量子计算, 量子算法, 理论物理</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/philip-phillips/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/philip-phillips-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Phillips"><br>
+            <b>Philip Phillips</b>
+        </a>
+        <p>凝聚态物理, 量子物理, 超导现象, 量子霍尔效应, 量子材料</p>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/maxim-raginsky/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/maxim-raginsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Raginsky"><br>
+            <b>Maxim Raginsky</b>
+        </a>
+        <p>量子信息, 量子计算, 数据科学, 数字通信, 量子优化</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/michael-stone/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/michael-stone-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Stone"><br>
+            <b>Michael Stone</b>
+        </a>
+        <p>凝聚态物理, 量子场论, 高能物理, 量子力学, 统计物理</p>
+    </td>
+    <td align="center">
+        <a href="research-quickview/uiuc/physics/lucas-wagner/research-overview.md">
+            <img src="research-quickview/uiuc/profiles/lucas-wagner-profile.jpg" width="150" style="border-radius: 8px;" alt="Lucas Wagner"><br>
+            <b>Lucas Wagner</b>
+        </a>
+        <p>量子多体物理, 理论物理, 超导性, 强关联电子系统, 量子材料</p>
+    </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### [Aerospace Engineering](https://aerospace.illinois.edu/)
 
