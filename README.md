@@ -30036,39 +30036,1464 @@ No ME PhD
 - **Field**: [Design, Manufacturing, MEMS and Nanostructures](https://mae.ucdavis.edu/design-manufacturing-mems-and-nano)
 
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/harry-h-cheng/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/harry-h-cheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Harry H. Cheng"><br>
+                <b>Harry H. Cheng</b>
+            </a>
+            <p>
+                机器人技术、智能机电系统、网络嵌入式系统、3D打印创新设计、计算与STEM教育整合
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/cristina-davis/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/cristina-davis-profile.jpg" width="150" style="border-radius: 8px;" alt="Cristina Davis"><br>
+                <b>Cristina Davis</b>
+            </a>
+            <p>
+                化学传感器系统、可穿戴传感器、机械设计、MEMS/微/纳米技术、机器学习、化学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mohsen-habibi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mohsen-habibi-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohsen Habibi"><br>
+                <b>Mohsen Habibi</b>
+            </a>
+            <p>
+                光学生物微系统、微机电系统（MEMS）、生物医学设备、纳米制造技术、集成电路设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-r-hill/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-r-hill-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael R. Hill"><br>
+                <b>Michael R. Hill</b>
+            </a>
+            <p>
+                结构健康监测、智能材料、传感器技术、航空航天结构、机械设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/david-a-horsley/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/david-a-horsley-profile.jpg" width="150" style="border-radius: 8px;" alt="David A. Horsley"><br>
+                <b>David A. Horsley</b>
+            </a>
+            <p>
+                微机电系统（MEMS）、传感器与执行器、纳米制造、微型机器人、集成电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/barbara-linke/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/barbara-linke-profile.jpg" width="150" style="border-radius: 8px;" alt="Barbara Linke"><br>
+                <b>Barbara Linke</b>
+            </a>
+            <p>
+                可持续制造、磨削技术、3D打印、精密工程、制造系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bahram-ravani/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bahram-ravani-profile.jpg" width="150" style="border-radius: 8px;" alt="Bahram Ravani"><br>
+                <b>Bahram Ravani</b>
+            </a>
+            <p>
+                机械设计、机器人学、车辆动力学、计算几何、CAD/CAM
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nesrin-sarigul-klijn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nesrin-sarigul-klijn-profile.jpg" width="150" style="border-radius: 8px;" alt="Nesrin Sarigul-Klijn"><br>
+                <b>Nesrin Sarigul-Klijn</b>
+            </a>
+            <p>
+                航空航天工程、飞行力学、结构动力学、振动控制、复合材料
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/masakazu-soshi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/masakazu-soshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Masakazu Soshi"><br>
+                <b>Masakazu Soshi</b>
+            </a>
+            <p>
+                精密制造、纳米加工、材料加工、微机电系统（MEMS）、制造工艺优化
+            </p>
+        </td>
+    </tr>
+</table>
 
 
-- **Field**: [Fluid Mechanics and Aerodynamics](https://mae.ucdavis.edu/dynamics-controls-vehicles-and-robotics)
 
 
 
 
-- **Field**: [Dynamics, Controls, Vehicles and Robotics](https://mae.ucdavis.edu/energy-propulsion-and-environment)
+- **Field**: [Fluid Mechanics and Aerodynamics](https://mae.ucdavis.edu/fluid-mechanics-and-aerodynamics)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ralph-c-aldredge/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ralph-c-aldredge-profile.jpg" width="150" style="border-radius: 8px;" alt="Ralph C. Aldredge"><br>
+                <b>Ralph C. Aldredge</b>
+            </a>
+            <p>
+                燃烧、流体动力学、生物传输、生物流体动力学、法医科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/camli-badrya/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/camli-badrya-profile.jpg" width="150" style="border-radius: 8px;" alt="Camli Badrya"><br>
+                <b>Camli Badrya</b>
+            </a>
+            <p>
+                空气动力学、计算流体动力学（CFD）、实验方法、旋翼和固定翼飞机设计、非定常空气动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jean-pierre-delplanque/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jean-pierre-delplanque-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Pierre Delplanque"><br>
+                <b>Jean-Pierre Delplanque</b>
+            </a>
+            <p>
+                传热、流体动力学、燃烧、数值模拟、湍流
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/christina-harvey/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/christina-harvey-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Harvey"><br>
+                <b>Christina Harvey</b>
+            </a>
+            <p>
+                生物启发的飞行、无人飞行器设计、空气动力学、飞行力学、计算流体动力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/seongkyu-lee/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/seongkyu-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Seongkyu Lee"><br>
+                <b>Seongkyu Lee</b>
+            </a>
+            <p>
+                空气动力学、计算流体动力学、湍流建模、旋翼动力学、风能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jae-wan-park/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jae-wan-park-profile.jpg" width="150" style="border-radius: 8px;" alt="Jae Wan Park"><br>
+                <b>Jae Wan Park</b>
+            </a>
+            <p>
+                电动汽车、电池管理系统、能源存储、可再生能源、智能电网
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/maximilian-f-platzer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/maximilian-f-platzer-profile.jpg" width="150" style="border-radius: 8px;" alt="Maximilian F. Platzer"><br>
+                <b>Maximilian F. Platzer</b>
+            </a>
+            <p>
+                空气动力学、流体动力学、飞行力学、计算流体动力学、航空航天工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/stephen-k-robinson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephen-k-robinson-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen K. Robinson"><br>
+                <b>Stephen K. Robinson</b>
+            </a>
+            <p>
+                人因工程、航天工程、机器人技术、飞行测试、空间系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nesrin-sarigul-klijn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nesrin-sarigul-klijn-profile.jpg" width="150" style="border-radius: 8px;" alt="Nesrin Sarigul-Klijn"><br>
+                <b>Nesrin Sarigul-Klijn</b>
+            </a>
+            <p>
+                航空航天工程、飞行力学、结构动力学、振动控制、复合材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ben-d-shaw/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ben-d-shaw-profile.jpg" width="150" style="border-radius: 8px;" alt="Ben D. Shaw"><br>
+                <b>Ben D. Shaw</b>
+            </a>
+            <p>
+                热流体科学、燃烧、传热、流体动力学、能源系统
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 
 
-- **Field**: [Human-Systems Engineering](https://mae.ucdavis.edu/fluid-mechanics-and-aerodynamics)
+
+- **Field**: [Dynamics, Controls, Vehicles and Robotics](https://mae.ucdavis.edu/dynamics-controls-vehicles-and-robotics)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/francis-f-assadian/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/francis-f-assadian-profile.jpg" width="150" style="border-radius: 8px;" alt="Francis F. Assadian"><br>
+                <b>Francis F. Assadian</b>
+            </a>
+            <p>
+                车辆动力学与控制、自动驾驶技术、未来出行系统、智能交通、机电一体化设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/harry-h-cheng/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/harry-h-cheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Harry H. Cheng"><br>
+                <b>Harry H. Cheng</b>
+            </a>
+            <p>
+                机器人技术、智能机电系统、网络嵌入式系统、3D打印创新设计、计算与STEM教育整合
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/raissa-m-dsouza/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/raissa-m-dsouza-profile.jpg" width="150" style="border-radius: 8px;" alt="Raissa M. D'Souza"><br>
+                <b>Raissa M. D'Souza</b>
+            </a>
+            <p>
+                复杂网络、非线性系统、相变与临界现象、计算社会科学、网络科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/niels-gronbech-jensen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/niels-gronbech-jensen-profile.jpg" width="150" style="border-radius: 8px;" alt="Niels Grønbech-Jensen"><br>
+                <b>Niels Grønbech-Jensen</b>
+            </a>
+            <p>
+                计算物理、非线性动力学、数值方法、量子力学、统计力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/christina-harvey/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/christina-harvey-profile.jpg" width="150" style="border-radius: 8px;" alt="Christina Harvey"><br>
+                <b>Christina Harvey</b>
+            </a>
+            <p>
+                生物启发的飞行、无人飞行器设计、空气动力学、飞行力学、计算流体动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sanjay-s-joshi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sanjay-s-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Sanjay S. Joshi"><br>
+                <b>Sanjay S. Joshi</b>
+            </a>
+            <p>
+                机器人学、神经工程、航天器控制系统、人机界面、人工智能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zhaodan-kong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zhaodan-kong-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaodan Kong"><br>
+                <b>Zhaodan Kong</b>
+            </a>
+            <p>
+                控制理论、机器人学、机器学习、无人系统、最优控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/xinfan-lin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/xinfan-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Xinfan Lin"><br>
+                <b>Xinfan Lin</b>
+            </a>
+            <p>
+                热流体科学、传热、能源系统、可再生能源、计算流体动力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shima-nazari/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shima-nazari-profile.jpg" width="150" style="border-radius: 8px;" alt="Shima Nazari"><br>
+                <b>Shima Nazari</b>
+            </a>
+            <p>
+                智能制造、先进材料加工、增材制造、纳米制造、制造系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/maximilian-f-platzer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/maximilian-f-platzer-profile.jpg" width="150" style="border-radius: 8px;" alt="Maximilian F. Platzer"><br>
+                <b>Maximilian F. Platzer</b>
+            </a>
+            <p>
+                空气动力学、流体动力学、飞行力学、计算流体动力学、航空航天工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/stephen-k-robinson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephen-k-robinson-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen K. Robinson"><br>
+                <b>Stephen K. Robinson</b>
+            </a>
+            <p>
+                人因工程、航天工程、机器人技术、飞行测试、空间系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nesrin-sarigul-klijn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nesrin-sarigul-klijn-profile.jpg" width="150" style="border-radius: 8px;" alt="Nesrin Sarigul-Klijn"><br>
+                <b>Nesrin Sarigul-Klijn</b>
+            </a>
+            <p>
+                航空航天工程、飞行力学、结构动力学、振动控制、复合材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jonathon-schofield/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jonathon-schofield-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathon Schofield"><br>
+                <b>Jonathon Schofield</b>
+            </a>
+            <p>
+                机器人导航、感知系统、移动平台控制、人工智能、传感器融合
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/iman-soltani/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/iman-soltani-profile.jpg" width="150" style="border-radius: 8px;" alt="Iman Soltani"><br>
+                <b>Iman Soltani</b>
+            </a>
+            <p>
+                精密制造、纳米技术、材料科学、增材制造、制造过程优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rich-whittle/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rich-whittle-profile.jpg" width="150" style="border-radius: 8px;" alt="Rich Whittle"><br>
+                <b>Rich Whittle</b>
+            </a>
+            <p>
+                航空航天工程、推进系统、流体力学、能源转换、机械设计
+            </p>
+        </td>
+    </tr>
+</table>
+
+ 
+
+
+
+- **Field**: [Human-Systems Engineering](https://mae.ucdavis.edu/human-systems-engineering)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ralph-c-aldredge/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ralph-c-aldredge-profile.jpg" width="150" style="border-radius: 8px;" alt="Ralph C. Aldredge"><br>
+                <b>Ralph C. Aldredge</b>
+            </a>
+            <p>
+                燃烧、流体动力学、生物传输、生物流体动力学、法医科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/cristina-davis/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/cristina-davis-profile.jpg" width="150" style="border-radius: 8px;" alt="Cristina Davis"><br>
+                <b>Cristina Davis</b>
+            </a>
+            <p>
+                生物传感器、微流控技术、医疗诊断设备、环境监测、纳米技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jean-pierre-delplanque/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jean-pierre-delplanque-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Pierre Delplanque"><br>
+                <b>Jean-Pierre Delplanque</b>
+            </a>
+            <p>
+                传热、流体动力学、燃烧、数值模拟、湍流
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sanjay-s-joshi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sanjay-s-joshi-profile.jpg" width="150" style="border-radius: 8px;" alt="Sanjay S. Joshi"><br>
+                <b>Sanjay S. Joshi</b>
+            </a>
+            <p>
+                机器人学、神经工程、航天器控制系统、人机界面、人工智能
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zhaodan-kong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zhaodan-kong-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhaodan Kong"><br>
+                <b>Zhaodan Kong</b>
+            </a>
+            <p>
+                控制理论、机器人学、机器学习、无人系统、最优控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/stephen-k-robinson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephen-k-robinson-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen K. Robinson"><br>
+                <b>Stephen K. Robinson</b>
+            </a>
+            <p>
+                人因工程、航天工程、机器人技术、飞行测试、空间系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nesrin-sarigul-klijn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nesrin-sarigul-klijn-profile.jpg" width="150" style="border-radius: 8px;" alt="Nesrin Sarigul-Klijn"><br>
+                <b>Nesrin Sarigul-Klijn</b>
+            </a>
+            <p>
+                航空航天工程、飞行力学、结构动力学、振动控制、复合材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jonathon-schofield/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jonathon-schofield-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathon Schofield"><br>
+                <b>Jonathon Schofield</b>
+            </a>
+            <p>
+                机器人导航、感知系统、移动平台控制、人工智能、传感器融合
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/anthony-wexler/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anthony-wexler-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Wexler"><br>
+                <b>Anthony Wexler</b>
+            </a>
+            <p>
+                大气气溶胶、空气污染、环境工程、气候变化、空气质量建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rich-whittle/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rich-whittle-profile.jpg" width="150" style="border-radius: 8px;" alt="Rich Whittle"><br>
+                <b>Rich Whittle</b>
+            </a>
+            <p>
+                航空航天工程、推进系统、流体力学、能源转换、机械设计
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+
 
 
 
 - **Field**: [Energy, Propulsion and Environment](https://mae.ucdavis.edu/biology-medicine-and-biomechanics)
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ben-d-shaw/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ben-d-shaw-profile.jpg" width="150" style="border-radius: 8px;" alt="Ben D. Shaw"><br>
+                <b>Ben D. Shaw</b>
+            </a>
+            <p>
+                燃烧、热传递、流体力学、能源系统、环境工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ralph-c-aldredge/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ralph-c-aldredge-profile.jpg" width="150" style="border-radius: 8px;" alt="Ralph C. Aldredge"><br>
+                <b>Ralph C. Aldredge</b>
+            </a>
+            <p>
+                燃烧、热传递、流体力学、生物传输、生物流体力学、法医科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/francis-f-assadian/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/francis-f-assadian-profile.jpg" width="150" style="border-radius: 8px;" alt="Francis F. Assadian"><br>
+                <b>Francis F. Assadian</b>
+            </a>
+            <p>
+                车辆动力学与控制、自动驾驶技术、未来出行系统、智能交通、机电一体化设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/camli-badrya/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/camli-badrya-profile.jpg" width="150" style="border-radius: 8px;" alt="Camli Badrya"><br>
+                <b>Camli Badrya</b>
+            </a>
+            <p>
+                空气动力学、飞行器设计、无人机技术、流体力学、风能利用
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/paul-erickson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paul-erickson-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Erickson"><br>
+                <b>Paul Erickson</b>
+            </a>
+            <p>
+                机械设计、材料工程、制造工艺、可持续工程、产品开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kelly-kissock/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kelly-kissock-profile.jpg" width="150" style="border-radius: 8px;" alt="Kelly Kissock"><br>
+                <b>Kelly Kissock</b>
+            </a>
+            <p>
+                能源效率、可再生能源、建筑环境、热力学、可持续设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/seongkyu-lee/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/seongkyu-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Seongkyu Lee"><br>
+                <b>Seongkyu Lee</b>
+            </a>
+            <p>
+                空气动力学、湍流、计算流体力学、飞行器设计、风洞测试
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/xinfan-lin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/xinfan-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Xinfan Lin"><br>
+                <b>Xinfan Lin</b>
+            </a>
+            <p>
+                热流体科学、传热、能源系统、可再生能源、计算流体动力学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/vinod-narayanan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/vinod-narayanan-profile.jpg" width="150" style="border-radius: 8px;" alt="Vinod Narayanan"><br>
+                <b>Vinod Narayanan</b>
+            </a>
+            <p>
+                传热、微流体、能源系统、热管理、可再生能源
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jae-wan-park/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jae-wan-park-profile.jpg" width="150" style="border-radius: 8px;" alt="Jae Wan Park"><br>
+                <b>Jae Wan Park</b>
+            </a>
+            <p>
+                电动汽车、电池技术、能源存储系统、可再生能源集成、智能电网
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nesrin-sarigul-klijn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nesrin-sarigul-klijn-profile.jpg" width="150" style="border-radius: 8px;" alt="Nesrin Sarigul-Klijn"><br>
+                <b>Nesrin Sarigul-Klijn</b>
+            </a>
+            <p>
+                航空航天工程、飞行力学、结构动力学、振动控制、复合材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/anthony-wexler/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anthony-wexler-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Wexler"><br>
+                <b>Anthony Wexler</b>
+            </a>
+            <p>
+                大气气溶胶、空气污染、环境工程、气候变化、空气质量建模
+            </p>
+        </td>
+    </tr>
+</table>
+
+ 
 
 
 - **Field**: [Mechanics of Solids, Structures and Materials](https://mae.ucdavis.edu/mechanics-solids-structures-and-materials)
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-r-hill/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-r-hill-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael R. Hill"><br>
+                <b>Michael R. Hill</b>
+            </a>
+            <p>
+                机械设计、固体力学、实验方法、疲劳与断裂、制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/valeria-la-saponara/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/valeria-la-saponara-profile.jpg" width="150" style="border-radius: 8px;" alt="Valeria La Saponara"><br>
+                <b>Valeria La Saponara</b>
+            </a>
+            <p>
+                复合材料的应用力学、航空航天结构、结构健康监测、疲劳与冲击性能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nesrin-sarigul-klijn/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nesrin-sarigul-klijn-profile.jpg" width="150" style="border-radius: 8px;" alt="Nesrin Sarigul-Klijn"><br>
+                <b>Nesrin Sarigul-Klijn</b>
+            </a>
+            <p>
+                航空航天工程、飞行力学、结构动力学、振动控制、复合材料
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 
 ### [Electrical and Computer Engineering](https://ece.ucdavis.edu/faculty-research)
 
 - **Field**: [Computer Engineering](https://ece.ucdavis.edu/faculty-research/computer-engineering)
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/venkatesh-akella/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/venkatesh-akella-profile.jpg" width="150" style="border-radius: 8px;" alt="Venkatesh Akella"><br>
+                <b>Venkatesh Akella</b>
+            </a>
+            <p>
+                计算机体系结构、高性能计算、嵌入式系统、物联网数据建模、低功耗设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hussain-al-asaad/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hussain-al-asaad-profile.jpg" width="150" style="border-radius: 8px;" alt="Hussain Al-Asaad"><br>
+                <b>Hussain Al-Asaad</b>
+            </a>
+            <p>
+                数字系统的计算机辅助设计、验证与测试，容错计算，VLSI架构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rajeevan-amirtharajah/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rajeevan-amirtharajah-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajeevan Amirtharajah"><br>
+                <b>Rajeevan Amirtharajah</b>
+            </a>
+            <p>
+                低功耗电路设计、能量采集技术、嵌入式系统、无线传感器网络、模拟与混合信号电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bevan-baas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bevan-baas-profile.jpg" width="150" style="border-radius: 8px;" alt="Bevan Baas"><br>
+                <b>Bevan Baas</b>
+            </a>
+            <p>
+                数字VLSI设计、并行处理器架构、低功耗集成电路、嵌入式系统、计算机体系结构
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/chen-nee-chuah/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chen-nee-chuah-profile.jpg" width="150" style="border-radius: 8px;" alt="Chen-Nee Chuah"><br>
+                <b>Chen-Nee Chuah</b>
+            </a>
+            <p>
+                计算机网络、无线通信、网络测量与分析、物联网、网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/soheil-ghiasi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/soheil-ghiasi-profile.jpg" width="150" style="border-radius: 8px;" alt="Soheil Ghiasi"><br>
+                <b>Soheil Ghiasi</b>
+            </a>
+            <p>
+                嵌入式系统设计、硬件加速器、可重构计算、低功耗设计、计算机辅助设计工具
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/houman-homayoun/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/houman-homayoun-profile.jpg" width="150" style="border-radius: 8px;" alt="Houman Homayoun"><br>
+                <b>Houman Homayoun</b>
+            </a>
+            <p>
+                大数据分析、计算机体系结构、嵌入式系统安全、硬件加速器设计、能效优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/john-owens/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/john-owens-profile.jpg" width="150" style="border-radius: 8px;" alt="John Owens"><br>
+                <b>John Owens</b>
+            </a>
+            <p>
+                图形处理器架构、并行计算、计算机图形学、可编程硬件、视觉计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/avesta-sasan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/avesta-sasan-profile.jpg" width="150" style="border-radius: 8px;" alt="Avesta Sasan"><br>
+                <b>Avesta Sasan</b>
+            </a>
+            <p>
+                硬件安全、嵌入式系统、物联网安全、VLSI设计、机器学习加速器
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/anthony-thomas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anthony-thomas-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Thomas"><br>
+                <b>Anthony Thomas</b>
+            </a>
+            <p>
+                无线通信、信号处理、物联网、嵌入式系统、网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sj-ben-yoo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sj-ben-yoo-profile.jpg" width="150" style="border-radius: 8px;" alt="S.J. Ben Yoo"><br>
+                <b>S.J. Ben Yoo</b>
+            </a>
+            <p>
+                光子学、光通信、光子集成电路、光网络、量子信息处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/junshan-zhang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/junshan-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Junshan Zhang"><br>
+                <b>Junshan Zhang</b>
+            </a>
+            <p>
+                无线网络、通信理论、机器学习、大数据分析、分布式优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/vojin-oklobdzija/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/vojin-oklobdzija-profile.jpg" width="150" style="border-radius: 8px;" alt="Vojin Oklobdzija"><br>
+                <b>Vojin Oklobdzija</b>
+            </a>
+            <p>
+                数字电路设计、计算机体系结构、低功耗设计、嵌入式系统、时钟和时序电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/g-robert-redinbo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/g-robert-redinbo-profile.jpg" width="150" style="border-radius: 8px;" alt="G. Robert Redinbo"><br>
+                <b>G. Robert Redinbo</b>
+            </a>
+            <p>
+                信号处理、通信系统、嵌入式硬件设计、数据分析、数字系统建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shih-ho-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shih-ho-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Shih-Ho Wang"><br>
+                <b>Shih-Ho Wang</b>
+            </a>
+            <p>
+                微波技术、天线设计、电磁兼容、无线通信、电子材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kent-wilken/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kent-wilken-profile.jpg" width="150" style="border-radius: 8px;" alt="Kent Wilken"><br>
+                <b>Kent Wilken</b>
+            </a>
+            <p>
+                编译器优化、计算机体系结构、嵌入式系统设计、低功耗处理、实时系统
+            </p>
+        </td>
+    </tr>
+</table>
+
+ 
+
+
 - **Field**: [Quantum, Photonic and Electronic Devices](https://ece.ucdavis.edu/faculty-research/photonic-and-electronic-devices)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andre-knoesen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andre-knoesen-profile.jpg" width="150" style="border-radius: 8px;" alt="André Knoesen"><br>
+                <b>André Knoesen</b>
+            </a>
+            <p>
+                光电子学、光学传感器、光通信、光子器件、纳米光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/j-sebastian-gomez-diaz/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/j-sebastian-gomez-diaz-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Sebastian Gomez-Diaz"><br>
+                <b>J. Sebastian Gomez-Diaz</b>
+            </a>
+            <p>
+                电磁学、光子学、纳米技术、超材料、天线设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/m-saif-islam/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/m-saif-islam-profile.jpg" width="150" style="border-radius: 8px;" alt="M. Saif Islam"><br>
+                <b>M. Saif Islam</b>
+            </a>
+            <p>
+                纳米技术、光电子学、半导体器件、纳米制造、光通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hyoyoung-jeong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hyoyoung-jeong-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyoyoung Jeong"><br>
+                <b>Hyoyoung Jeong</b>
+            </a>
+            <p>
+                神经工程、生物医学信号处理、脑机接口、神经调控、神经影像
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/brian-kolner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brian-kolner-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian Kolner"><br>
+                <b>Brian Kolner</b>
+            </a>
+            <p>
+                光电子学、超快光学、光纤通信、激光技术、光学测量
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jeremy-munday/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jeremy-munday-profile.jpg" width="150" style="border-radius: 8px;" alt="Jeremy Munday"><br>
+                <b>Jeremy Munday</b>
+            </a>
+            <p>
+                纳米光子学、太阳能技术、量子力学、光学材料、能源收集
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/william-putnam/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/william-putnam-profile.jpg" width="150" style="border-radius: 8px;" alt="William Putnam"><br>
+                <b>William Putnam</b>
+            </a>
+            <p>
+                超快电子学、光子学、纳米结构、电子加速器、量子电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/marina-radulaski/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/marina-radulaski-profile.jpg" width="150" style="border-radius: 8px;" alt="Marina Radulaski"><br>
+                <b>Marina Radulaski</b>
+            </a>
+            <p>
+                量子信息科学、纳米光子学、光子集成电路、量子计算、光学材料
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/erkin-seker/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/erkin-seker-profile.jpg" width="150" style="border-radius: 8px;" alt="Erkin Şeker"><br>
+                <b>Erkin Şeker</b>
+            </a>
+            <p>
+                生物电子学、纳米制造、生物传感器、微流控、生物材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jerry-m-woodall/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jerry-m-woodall-profile.jpg" width="150" style="border-radius: 8px;" alt="Jerry M. Woodall"><br>
+                <b>Jerry M. Woodall</b>
+            </a>
+            <p>
+                半导体材料、化合物半导体、电子器件、纳米技术、材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/weijian-yang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/weijian-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Weijian Yang"><br>
+                <b>Weijian Yang</b>
+            </a>
+            <p>
+                光学成像、光子学、生物医学工程、超快光学、光学显微镜
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sj-ben-yoo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sj-ben-yoo-profile.jpg" width="150px;" alt="S.J. Ben Yoo"><br>
+                <b>S.J. Ben Yoo</b>
+            </a>
+            <p>
+                光子集成电路、光网络、量子信息处理、光通信、纳米光子学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/diego-r-yankelevich/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/diego-r-yankelevich-profile.jpg" width="150" style="border-radius: 8px;" alt="Diego R. Yankelevich"><br>
+                <b>Diego R. Yankelevich</b>
+            </a>
+            <p>
+                光学设计、光子学、成像系统、激光器、光通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/v-ralph-algazi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/v-ralph-algazi-profile.jpg" width="150" style="border-radius: 8px;" alt="V. Ralph Algazi"><br>
+                <b>V. Ralph Algazi</b>
+            </a>
+            <p>
+                信号处理、音频技术、计算机图形学、虚拟现实、数据建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andrew-dienes/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andrew-dienes-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Dienes"><br>
+                <b>Andrew Dienes</b>
+            </a>
+            <p>
+                微电子学、光子学、量子工程、半导体技术、器件物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jonathan-heritage/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jonathan-heritage-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Heritage"><br>
+                <b>Jonathan Heritage</b>
+            </a>
+            <p>
+                光学通信、光网络、超快激光、光子技术、光纤传输
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/charles-hunt/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/charles-hunt-profile.jpg" width="150" style="border-radius: 8px;" alt="Charles Hunt"><br>
+                <b>Charles Hunt</b>
+            </a>
+            <p>
+                半导体技术、传感器设计、微电子器件、集成电路、纳米材料
+            </p>
+        </td>
+    </tr>
+</table>
+
+ 
+
+
+
+
+
+
 - **Field**: [Bio, Ag and Health Technologies](https://ece.ucdavis.edu/faculty-research/bio-ag-health-technologies)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andre-knoesen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andre-knoesen-profile.jpg" width="150" style="border-radius: 8px;" alt="André Knoesen"><br>
+                <b>André Knoesen</b>
+            </a>
+            <p>
+                光电子学、光学传感器、光通信、光子器件、纳米光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rajeevean-amirtharajah/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rajeevean-amirtharajah-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajeevan Amirtharajah"><br>
+                <b>Rajeevan Amirtharajah</b>
+            </a>
+            <p>
+                低功耗数字和混合信号集成电路、能量采集、传感器接口、嵌入式系统、多核处理器电路与架构
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/chen-nee-chuah/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chen-nee-chuah-profile.jpg" width="150" style="border-radius: 8px;" alt="Chen-Nee Chuah"><br>
+                <b>Chen-Nee Chuah</b>
+            </a>
+            <p>
+                计算机网络、无线通信、网络测量、物联网、网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/soheil-ghiasi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/soheil-ghiasi-profile.jpg" width="150" style="border-radius: 8px;" alt="Soheil Ghiasi"><br>
+                <b>Soheil Ghiasi</b>
+            </a>
+            <p>
+                嵌入式系统设计、计算机辅助设计、可重构计算、硬件加速器、低功耗设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/j-sebastian-gomez-diaz/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/j-sebastian-gomez-diaz-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Sebastian Gomez-Diaz"><br>
+                <b>J. Sebastian Gomez-Diaz</b>
+            </a>
+            <p>
+                电磁学、光子学、纳米技术、超材料、天线设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/houman-homayoun/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/houman-homayoun-profile.jpg" width="150" style="border-radius: 8px;" alt="Houman Homayoun"><br>
+                <b>Houman Homayoun</b>
+            </a>
+            <p>
+                计算机体系结构、嵌入式系统设计、硬件安全、物联网、人工智能加速器
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hyoyoung-jeong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hyoyoung-jeong-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyoyoung Jeong"><br>
+                <b>Hyoyoung Jeong</b>
+            </a>
+            <p>
+                神经工程、生物医学信号处理、脑机接口、神经调控、神经影像
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/erkin-seker/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/erkin-seker-profile.jpg" width="150" style="border-radius: 8px;" alt="Erkin Şeker"><br>
+                <b>Erkin Şeker</b>
+            </a>
+            <p>
+                生物电子学、纳米制造、生物传感器、微流控、生物材料
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/weijian-yang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/weijian-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Weijian Yang"><br>
+                <b>Weijian Yang</b>
+            </a>
+            <p>
+                光学成像、光子学、生物医学工程、超快光学、光学显微镜
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+
 - **Field**: [Information Systems](https://ece.ucdavis.edu/faculty-research/information-systems)
+
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/khaled-abdel-ghaffar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/khaled-abdel-ghaffar-profile.jpg" width="150" style="border-radius: 8px;" alt="Khaled Abdel-Ghaffar"><br>
+                <b>Khaled Abdel-Ghaffar</b>
+            </a>
+            <p>
+                编码理论、信息论、离散数学、误差校正码、数据传输可靠性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yubei-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yubei-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yubei Chen"><br>
+                <b>Yubei Chen</b>
+            </a>
+            <p>
+                计算神经科学、深度无监督学习、生成模型、世界模型、自然信号统计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zhi-ding/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zhi-ding-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhi Ding"><br>
+                <b>Zhi Ding</b>
+            </a>
+            <p>
+                数字无线通信、跨层无线网络设计与优化、统计信号处理方法、数字与阵列信号处理、自适应信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/soheil-ghiasi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/soheil-ghiasi-profile.jpg" width="150" style="border-radius: 8px;" alt="Soheil Ghiasi"><br>
+                <b>Soheil Ghiasi</b>
+            </a>
+            <p>
+                嵌入式系统设计、计算机辅助设计、可重构计算、硬件加速器、低功耗设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/a-n-gundes/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/a-n-gundes-profile.jpg" width="150" style="border-radius: 8px;" alt="A.N. Gundes"><br>
+                <b>A.N. Gundes</b>
+            </a>
+            <p>
+                控制系统、网络化控制、鲁棒控制、分布式控制、系统理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hyoyoung-jeong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hyoyoung-jeong-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyoyoung Jeong"><br>
+                <b>Hyoyoung Jeong</b>
+            </a>
+            <p>
+                神经工程、生物医学信号处理、脑机接口、神经调控、神经影像
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/lifeng-lai/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lifeng-lai-profile.jpg" width="150" style="border-radius: 8px;" alt="Lifeng Lai"><br>
+                <b>Lifeng Lai</b>
+            </a>
+            <p>
+                无线通信、信息论、机器学习、网络安全、统计信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/anthony-thomas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anthony-thomas-profile.jpg" width="150" style="border-radius: 8px;" alt="Anthony Thomas"><br>
+                <b>Anthony Thomas</b>
+            </a>
+            <p>
+                教学方法、电子电路设计、嵌入式系统、工程教育、学生参与
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sj-ben-yoo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sj-ben-yoo-profile.jpg" width="150" style="border-radius: 8px;" alt="S.J. Ben Yoo"><br>
+                <b>S.J. Ben Yoo</b>
+            </a>
+            <p>
+                光子集成电路、光网络、量子信息处理、光通信、纳米光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/junshan-zhang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/junshan-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Junshan Zhang"><br>
+                <b>Junshan Zhang</b>
+            </a>
+            <p>
+                无线网络、通信理论、机器学习、大数据分析、分布式优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shu-lin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shu-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Shu Lin"><br>
+                <b>Shu Lin</b>
+            </a>
+            <p>
+                编码理论、信息论、误差校正码、通信系统、数据存储
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/david-horsley/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/david-horsley-profile.jpg" width="150" style="border-radius: 8px;" alt="David Horsley"><br>
+               <b>David Horsley</b>
+            </a>
+            <p>
+                微机电系统（MEMS）、传感器与执行器设计、微型机器人、纳米制造、集成电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/naoki-saito/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/naoki-saito-profile.jpg" width="150" style="border-radius: 8px;" alt="Naoki Saito"><br>
+                <b>Naoki Saito</b>
+            </a>
+            <p>
+                信号处理、数学分析、数据科学、图信号处理、非线性动力学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/iman-soltani/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/iman-soltani-profile.jpg" width="150" style="border-radius: 8px;" alt="Iman Soltani"><br>
+                <b>Iman Soltani</b>
+            </a>
+            <p>
+                微电子制造、材料科学、纳米结构、半导体器件、集成工艺优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/tsu-shuan-chang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tsu-shuan-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Tsu-Shuan Chang"><br>
+                <b>Tsu-Shuan Chang</b>
+            </a>
+            <p>
+                信号处理、通信系统、电磁学、传感器网络、无线通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/william-gardner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/william-gardner-profile.jpg" width="150" style="border-radius: 8px;" alt="William Gardner"><br>
+                <b>William Gardner</b>
+            </a>
+            <p>
+                无线通信、信号处理、数据压缩、信息论、电子系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/v-ralph-algazi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/v-ralph-algazi-profile.jpg" width="150" style="border-radius: 8px;" alt="V. Ralph Algazi"><br>
+                <b>V. Ralph Algazi</b>
+            </a>
+            <p>
+                信号处理、音频技术、计算机图形学、虚拟现实、数据建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/tien-c-steve-hsia/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tien-c-steve-hsia-profile.jpg" width="150" style="border-radius: 8px;" alt="Tien C. 'Steve' Hsia"><br>
+                <b>Tien C. "Steve" Hsia</b>
+            </a>
+            <p>
+                机器人控制、系统动力学、非线性控制、智能系统、机电一体化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bernard-c-levy/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bernard-c-levy-profile.jpg" width="150" style="border-radius: 8px;" alt="Bernard C. Levy"><br>
+                <b>Bernard C. Levy</b>
+            </a>
+            <p>
+                统计信号处理、滤波技术、图像处理、优化理论、信息处理
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shih-ho-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shih-ho-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Shih-Ho Wang"><br>
+                <b>Shih-Ho Wang</b>
+            </a>
+            <p>
+                微波技术、天线设计、电磁兼容性、无线通信、电子材料
+            </p>
+        </td>
+    </tr>
+</table>
+
+ 
+
+
 - **Field**: [RF-to-THz Electronics and Waves](https://ece.ucdavis.edu/faculty-research/rf-thz-electronics-waves)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/g-r-branner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/g-r-branner-profile.jpg" width="150" style="border-radius: 8px;" alt="G. R. Branner"><br>
+                <b>G. R. Branner</b>
+            </a>
+            <p>
+                微波工程、天线设计、射频电路、电子系统、信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/j-sebastian-gomez-diaz/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/j-sebastian-gomez-diaz-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Sebastian Gomez-Diaz"><br>
+                <b>J. Sebastian Gomez-Diaz</b>
+            </a>
+            <p>
+                应用电磁学、等离激元学、天线设计、太赫兹技术、超材料
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/neville-c-luhmann-jr/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/neville-c-luhmann-jr-profile.jpg" width="150" style="border-radius: 8px;" alt="Neville C. Luhmann Jr."><br>
+                <b>Neville C. Luhmann Jr.</b>
+            </a>
+            <p>
+                毫米波技术、太赫兹成像、等离子体诊断、电子器件、微波光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/omeed-momeni/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/omeed-momeni-profile.jpg" width="150" style="border-radius: 8px;" alt="Omeed Momeni"><br>
+                <b>Omeed Momeni</b>
+            </a>
+            <p>
+                射频集成电路、毫米波电路设计、无线通信、硅基微波器件、低功耗电子
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/anh-vu-pham/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anh-vu-pham-profile.jpg" width="150" style="border-radius: 8px;" alt="Anh-Vu Pham"><br>
+                <b>Anh-Vu Pham</b>
+            </a>
+            <p>
+                微波与毫米波电路、射频集成电路、天线设计、无线传感器网络、电子封装
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/william-putnam/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/william-putnam-profile.jpg" width="150" style="border-radius: 8px;" alt="William Putnam"><br>
+                <b>William Putnam</b>
+            </a>
+            <p>
+                超快光学、光子学、纳米光子器件、非线性光学、光电子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jonathan-heritage/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jonathan-heritage-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Heritage"><br>
+                <b>Jonathan Heritage</b>
+            </a>
+            <p>
+                光纤通信、光子学、激光技术、光学信号处理、非线性光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/linda-katehi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/linda-katehi-profile.jpg" width="150" style="border-radius: 8px;" alt="Linda Katehi"><br>
+                <b>Linda Katehi</b>
+            </a>
+            <p>
+                微波电路、天线设计、微机电系统（MEMS）、射频器件、电子封装
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+
 - **Field**: [Integrated Circuits and Systems](https://ece.ucdavis.edu/faculty-research/integrated-circuits-systems)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/venkatesh-akella/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/venkatesh-akella-profile.jpg" width="150" style="border-radius: 8px;" alt="Venkatesh Akella"><br>
+                <b>Venkatesh Akella</b>
+            </a>
+            <p>
+                计算机体系结构、高性能计算、硬件安全、神经形态计算、应用机器学习、网络物理系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rajeevean-amirtharajah/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rajeevean-amirtharajah-profile.jpg" width="150" style="border-radius: 8px;" alt="Rajeevan Amirtharajah"><br>
+                <b>Rajeevan Amirtharajah</b>
+            </a>
+            <p>
+                低功耗数字与混合信号集成电路、能量采集、传感器接口、功率电子学、嵌入式系统、多核处理器电路与架构、新兴电气与光学器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bevan-baas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bevan-baas-profile.jpg" width="150" style="border-radius: 8px;" alt="Bevan Baas"><br>
+                <b>Bevan Baas</b>
+            </a>
+            <p>
+                VLSI设计、数字信号处理、并行处理器架构、低功耗电路设计、嵌入式系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/soheil-ghiasi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/soheil-ghiasi-profile.jpg" width="150" style="border-radius: 8px;" alt="Soheil Ghiasi"><br>
+                <b>Soheil Ghiasi</b>
+            </a>
+            <p>
+                嵌入式系统设计、计算机辅助设计、可重构计算、硬件加速器、低功耗设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/houman-homayoun/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/houman-homayoun-profile.jpg" width="150" style="border-radius: 8px;" alt="Houman Homayoun"><br>
+                <b>Houman Homayoun</b>
+            </a>
+            <p>
+                计算机体系结构、嵌入式系统、硬件安全、能效优化、大数据处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/stephen-h-lewis/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephen-h-lewis-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen H. Lewis"><br>
+                <b>Stephen H. Lewis</b>
+            </a>
+            <p>
+                模拟集成电路设计、数据转换器、低功耗电路、混合信号设计、集成电路测试
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/omeed-momeni/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/omeed-momeni-profile.jpg" width="150" style="border-radius: 8px;" alt="Omeed Momeni"><br>
+                <b>Omeed Momeni</b>
+            </a>
+            <p>
+                射频集成电路、毫米波电路设计、无线通信、硅基微波器件、低功耗电子
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/anh-vu-pham/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anh-vu-pham-profile.jpg" width="150" style="border-radius: 8px;" alt="Anh-Vu Pham"><br>
+                <b>Anh-Vu Pham</b>
+            </a>
+            <p>
+                微波与毫米波电路、射频集成电路、天线设计、无线传感器网络、电子封装
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hooman-rashtian/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hooman-rashtian-profile.jpg" width="150" style="border-radius: 8px;" alt="Hooman Rashtian"><br>
+                <b>Hooman Rashtian</b>
+            </a>
+            <p>
+                模拟与混合信号电路设计、传感器接口电路、低功耗电子、集成电路测试、嵌入式系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sj-ben-yoo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sj-ben-yoo-profile.jpg" width="150" style="border-radius: 8px;" alt="S.J. Ben Yoo"><br>
+                <b>S.J. Ben Yoo</b>
+            </a>
+            <p>
+                光子集成电路、光网络、量子信息处理、光通信、纳米光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/paul-hurst/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paul-hurst-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Hurst"><br>
+               <b>Paul Hurst</b>
+            </a>
+            <p>
+                模拟与混合信号电路设计、数据转换器、低功耗设计、信号处理电路、集成电路测试
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/richard-spencer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/richard-spencer-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Spencer"><br>
+                <b>Richard Spencer</b>
+            </a>
+            <p>
+                模拟电路、射频电路设计、通信系统、集成电路设计、混合信号电路
+            </p>
+        </td>
+    </tr>
+</table>
+
+ 
+
+
+
+
 
 
 </details>
@@ -30076,6 +31501,145 @@ No ME PhD
 <!-- End of UC Davis Section -->
 <!-- End of UC Davis Section -->
 <!-- End of UC Davis Section -->
+
+
+
+
+
+## [UC Irvine](https://uci.edu/)
+[ME: Jan, 15](https://grad.uci.edu/admissions/degree-programs/#:~:text=Interdisciplinary%20Programs,-Biotechnology%20Management%20M.S.&text=Students%20should%20apply%20via%20the%20UCI%20graduate%20application%20by%20January%2015th.); 
+[EECS: Jan, 15](https://engineering.uci.edu/dept/eecs/admissions/deadlines); 
+[$155](https://grad.uci.edu/admissions/application-fee-fee-waivers/);
+[More than one](http://ucigrad.wadev.com/helparticles/degree-programs-and-general-application-information/);
+[Apply Now](https://grad.uci.edu/admissions/applying-to-uci/)
+<details>
+<summary>Click to expand UC Irvine Professors</summary>
+
+### [Colleges and Schools](https://catalogue.uci.edu/schoolsandprograms/)
+### [All Graduate Programs](https://grad.uci.edu/admissions/degree-programs/)
+### [College of Engineering](https://engineering.uci.edu/)
+### [Departments in UC Irvine Engineering](https://engineering.uci.edu/#)
+
+### [Mechanical and Aerospace Engineering](https://engineering.uci.edu/dept/mae/research)
+
+- **Field**: [Dynamics and Controls](https://engineering.uci.edu/dept/mae/research/dynamics-and-controls)
+- **Field**: [Fluid Dynamics and Propulsion](https://engineering.uci.edu/dept/mae/research/fluid-dynamics-and-propulsion)
+- **Field**: [Thermal and Transport Sciences](https://engineering.uci.edu/dept/mae/research/thermal-and-transport-sciences)
+- **Field**: [Mechanics of Materials and Structures](https://engineering.uci.edu/dept/mae/research/mechanics-of-materials-and-structures)
+- **Field**: [Systems and Design](https://engineering.uci.edu/dept/mae/research/systems-and-design)
+
+
+
+### [Electrical Engineering and Computer Science](https://engineering.uci.edu/dept/eecs/research)
+
+- **Field**: [Circuits and Devices](https://engineering.uci.edu/dept/eecs/research/circuits-and-devices)
+- **Field**: [Electrical Engineering Systems](https://engineering.uci.edu/dept/eecs/research/electrical-engineering-systems)
+- **Field**: [Computer Engineering](https://engineering.uci.edu/dept/eecs/research/computer-engineering)
+
+
+</details>
+
+<!-- End of UC Irvine Section -->
+<!-- End of UC Irvine Section -->
+<!-- End of UC Irvine Section -->
+
+## [UCSB](https://www.ucsb.edu/)
+[ME: Dec, 15](https://www.graddiv.ucsb.edu/graduate-programs/departments/mechanical-engineering); 
+[ECE: Dec, 15](https://www.ece.ucsb.edu/grad/apply); 
+[$155](https://www.graddiv.ucsb.edu/how-apply/faqs-applicants#Graduate-Fee);
+[Only one program](https://www.graddiv.ucsb.edu/how-apply/types-applicants);
+[Apply Now](https://www.graddiv.ucsb.edu/how-apply/how-complete-online-application)
+<details>
+<summary>Click to expand UCSB Professors</summary>
+
+### [Colleges and Schools](https://www.ucsb.edu/academics/academic-departments-and-programs)
+### [All Graduate Programs](https://www.ucsb.edu/academics/academic-departments-and-programs)
+### [College of Engineering](https://engineering.ucsb.edu/)
+### [Departments in UCSB Engineering](https://engineering.ucsb.edu/about/departments)
+
+### [Mechanical Engineering](https://me.ucsb.edu/)
+
+- **Field**: [Bioengineering & Systems Biology](https://me.ucsb.edu/node/1268)
+- **Field**: [Dynamic Systems, Control & Robotics](https://me.ucsb.edu/research/dynamic-systems-control-robotics)
+- **Field**: [Computational Science & Engineering](https://me.ucsb.edu/research/computational-science-engineering)
+- **Field**: [Micro & Nano Technology](https://me.ucsb.edu/research/micro-nano-technology)
+- **Field**: [Thermal Science & Fluid Mechanics](https://me.ucsb.edu/research/thermal-science-fluid-mechanics)
+- **Field**: [Solid Mechanics, Materials & Structures](https://me.ucsb.edu/research/dynamic-systems-control-robotics)
+
+
+### [Electrical and Computer Engineering](https://www.ece.ucsb.edu/)
+
+- **Field**: [Communications & Signal Processing](https://www.ece.ucsb.edu/people/faculty)
+- **Field**: [Computer Engineering](https://www.ece.ucsb.edu/people/faculty)
+- **Field**: [Control Systems](https://www.ece.ucsb.edu/people/faculty)
+- **Field**: [Electronics & Photonics](https://www.ece.ucsb.edu/people/faculty)
+
+
+</details>
+
+<!-- End of UCSB Section -->
+<!-- End of UCSB Section -->
+<!-- End of UCSB Section -->
+
+## [Rochester](https://www.rochester.edu/)
+[ME: Jan, 15](https://www.hajim.rochester.edu/me/graduate/admissions.html); 
+[ECE: Jan, 15](https://www.hajim.rochester.edu/ece/graduate/applying.html); 
+[$70](https://www.hajim.rochester.edu/me/graduate/admissions.html);
+[More than one](https://www.rochester.edu/college/gradstudies/admissions/faq.html);
+[Apply Now](https://www.rochester.edu/college/gradstudies/admissions/apply.html)
+<details>
+<summary>Click to expand Rochester Professors</summary>
+
+### [Colleges and Schools](https://www.rochester.edu/academics/)
+### [All Graduate Programs](https://www.rochester.edu/academics/programs.html)
+### [School of Engineering](https://www.hajim.rochester.edu/index.html)
+### [Departments in Rochester Engineering](https://www.hajim.rochester.edu/about/departments.html)
+
+### [Mechanical Engineering](https://www.hajim.rochester.edu/me/index.html)
+
+- **Field**: [Fluid and Solid Mechanics](https://www.hajim.rochester.edu/me/research/fluid_and_solid_mechanics.html)
+- **Field**: [Biomechanics](https://www.hajim.rochester.edu/me/research/biomedical_engineering.html)
+- **Field**: [Fusion/Plasma/HEDP](https://www.hajim.rochester.edu/me/research/plasma_physics.html)
+- **Field**: [Materials Science](https://www.hajim.rochester.edu/me/research/materials_science.html)
+- **Field**: [Precision Machining and Optics Manufacturing](https://www.hajim.rochester.edu/me/research/precision_machining_and_optics_manufacturing.html)
+
+
+### [Electrical and Computer Engineering](https://www.hajim.rochester.edu/ece/research/topics.html)
+
+- **Field**: [Music Acoustics and Signal Processing](https://www.hajim.rochester.edu/ece/research/topics.html)
+- **Field**: [Signal and Image Processing and Communications](https://www.hajim.rochester.edu/ece/research/topics.html)
+- **Field**: [Biomedical Ultrasound and Biomedical Engineering](https://www.hajim.rochester.edu/ece/research/topics.html)
+- **Field**: [Circuits and Computer Systems](https://www.hajim.rochester.edu/ece/research/topics.html)
+- **Field**: [Nanoscale Electronics and Photonics](https://www.hajim.rochester.edu/ece/research/topics.html)
+- **Field**: [Quantum Engineering](https://www.hajim.rochester.edu/ece/research/topics.html)
+- **Field**: [Machine Learning and Artificial Intelligence](https://www.hajim.rochester.edu/ece/research/topics.html)
+- **Field**: [Robotics](https://www.hajim.rochester.edu/ece/research/topics.html)
+
+### [The Institute of Optics](https://www.hajim.rochester.edu/optics/index.html)
+
+- **Field**: [Biomedical Optics](https://www.hajim.rochester.edu/optics/research/biomedical.html)
+- **Field**: [Fibers & Optical Communication](https://www.hajim.rochester.edu/optics/research/fibers.html)
+- **Field**: [Image Science & Systems](https://www.hajim.rochester.edu/optics/research/imagescience.html)
+- **Field**: [Nanooptics](https://www.hajim.rochester.edu/optics/research/nanooptics.html)
+- **Field**: [Nonlinear Optics](https://www.hajim.rochester.edu/optics/research/nonlinear.html)
+- **Field**: [Optical Engineering & Design](https://www.hajim.rochester.edu/optics/research/optical_engineering.html)
+- **Field**: [Optical Fabrication & Testing](https://www.hajim.rochester.edu/optics/research/optical_fabrication.html)
+- **Field**: [Optical Materials](https://www.hajim.rochester.edu/optics/research/optical_materials.html)
+- **Field**: [Optics Education](https://www.hajim.rochester.edu/optics/research/optics_education.html)
+- **Field**: [Optoelectronics & Lasers](https://www.hajim.rochester.edu/optics/research/optoelectronics.html)
+- **Field**: [Physical Optics](https://www.hajim.rochester.edu/optics/research/physical_optics.html)
+- **Field**: [Quantum Optics](https://www.hajim.rochester.edu/optics/research/quantum_optics.html)
+- **Field**: [Ultrafast Optics & High-Field Sciences](https://www.hajim.rochester.edu/optics/research/ultrafast_optics.html)
+- **Field**: [Vision & Ophthalmic Optics](https://www.hajim.rochester.edu/optics/research/vision_optics.html)
+
+
+</details>
+
+<!-- End of Rochester Section -->
+<!-- End of Rochester Section -->
+<!-- End of Rochester Section -->
+
+
 
 
 
