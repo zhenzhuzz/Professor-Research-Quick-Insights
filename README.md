@@ -19873,6 +19873,746 @@ A repository for quickly accessing research insights into professors' expertise 
 - [**All Faculty:**](https://ece.illinois.edu/about/directory/faculty)
 
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ivan-thomas-abraham/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ivan-thomas-abraham-profile.jpg" width="150" style="border-radius: 8px;" alt="Ivan Thomas Abraham"><br>
+                <b>Ivan Thomas Abraham</b>
+            </a>
+            <p>
+                系统理论, 动力学, 数据分析, 神经科学, 控制论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sarita-v-adve/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sarita-v-adve-profile.jpg" width="150" style="border-radius: 8px;" alt="Sarita V. Adve"><br>
+                <b>Sarita V. Adve</b>
+            </a>
+            <p>
+                硬件, 编程语言, 操作系统, 应用程序, 面向特定领域系统的通用和可扩展专业化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/saksham-agarwal/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/saksham-agarwal-profile.jpg" width="150" style="border-radius: 8px;" alt="Saksham Agarwal"><br>
+                <b>Saksham Agarwal</b>
+            </a>
+            <p>
+                网络, 系统, 硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/anu-aggarwal/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/anu-aggarwal-profile.jpg" width="150" style="border-radius: 8px;" alt="Anu Aggarwal"><br>
+                <b>Anu Aggarwal</b>
+            </a>
+            <p>
+                神经形态VLSI设计, 医疗数据分析, 计算神经科学
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mostafa-gamal-ahmed/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mostafa-gamal-ahmed-profile.jpg" width="150" style="border-radius: 8px;" alt="Mostafa Gamal Ahmed"><br>
+                <b>Mostafa Gamal Ahmed</b>
+            </a>
+            <p>
+                高速光通信链路, 时钟电路, 射频/毫米波电路
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/narendra-ahuja/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/narendra-ahuja-profile.jpg" width="150" style="border-radius: 8px;" alt="Narendra Ahuja"><br>
+                <b>Narendra Ahuja</b>
+            </a>
+            <p>
+                计算机视觉, 图像处理, 机器人学, 模式识别, 对象识别
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/daniel-alabi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/daniel-alabi-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Alabi"><br>
+                <b>Daniel Alabi</b>
+            </a>
+            <p>
+                信息理论, 编码理论, 通信系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/haitham-al-hassanieh/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/haitham-al-hassanieh-profile.jpg" width="150" style="border-radius: 8px;" alt="Haitham Al-Hassanieh"><br>
+                <b>Haitham Al-Hassanieh</b>
+            </a>
+            <p>
+                无线网络, 物联网, 移动系统, 无线成像与传感, 稀疏恢复算法及其应用
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jont-allen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jont-allen-profile.jpg" width="150" style="border-radius: 8px;" alt="Jont Allen"><br>
+                <b>Jont Allen</b>
+            </a>
+            <p>
+                语音感知, 听力学, 语音识别, 语音处理, 听觉模型
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/juan-alvarez/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/juan-alvarez-profile.jpg" width="150" style="border-radius: 8px;" alt="Juan Alvarez"><br>
+                <b>Juan Alvarez</b>
+            </a>
+            <p>
+                电力系统, 电力电子, 可再生能源集成
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mark-anastasio/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mark-anastasio-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Anastasio"><br>
+                <b>Mark Anastasio</b>
+            </a>
+            <p>
+                计算成像科学, 图像重建, 机器学习, 逆问题, 生物医学成像
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/chris-anderson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chris-anderson-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris Anderson"><br>
+                <b>Chris Anderson</b>
+            </a>
+            <p>
+                材料科学, 应用物理, 电气工程, 固态材料中的光子操控, 量子计算模块化扩展
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/paul-m-arnold/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paul-m-arnold-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul M. Arnold"><br>
+                <b>Paul M. Arnold</b>
+            </a>
+            <p>
+                电力系统优化, 智能电网, 能源管理, 电力电子, 可持续能源技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/gaurav-bahl/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gaurav-bahl-profile.jpg" width="150" style="border-radius: 8px;" alt="Gaurav Bahl"><br>
+                <b>Gaurav Bahl</b>
+            </a>
+            <p>
+                光机械器件, 声子光子相互作用, 非线性光学, 光通信, 纳米技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/arijit-banerjee/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/arijit-banerjee-profile.jpg" width="150" style="border-radius: 8px;" alt="Arijit Banerjee"><br>
+                <b>Arijit Banerjee</b>
+            </a>
+            <p>
+                电力电子, 能量转换, 功率器件优化, 可再生能源技术, 高效电气系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/arindam-banerjee/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/arindam-banerjee-profile.jpg" width="150" style="border-radius: 8px;" alt="Arindam Banerjee"><br>
+                <b>Arindam Banerjee</b>
+            </a>
+            <p>
+                机器学习, 数据挖掘, 计算神经科学, 最优化算法, 大规模数据分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yuliy-baryshnikov/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yuliy-baryshnikov-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuliy Baryshnikov"><br>
+                <b>Yuliy Baryshnikov</b>
+            </a>
+            <p>
+                拓扑数据分析, 随机过程, 动力系统, 几何学, 计算数学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/tamer-basar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tamer-basar-profile.jpg" width="150" style="border-radius: 8px;" alt="Tamer Basar"><br>
+                <b>Tamer Basar</b>
+            </a>
+            <p>
+                控制理论, 博弈论, 分布式系统, 优化, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/tangul-basar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tangul-basar-profile.jpg" width="150" style="border-radius: 8px;" alt="Tangul Basar"><br>
+                <b>Tangul Basar</b>
+            </a>
+            <p>
+                动态优化, 分布式控制, 智能系统, 网络优化, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rashid-bashir/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rashid-bashir-profile.jpg" width="150" style="border-radius: 8px;" alt="Rashid Bashir"><br>
+                <b>Rashid Bashir</b>
+            </a>
+            <p>
+                生物纳米技术, 微流体, 生物医学设备, 分子诊断, 生物传感器
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/adam-bates/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/adam-bates-profile.jpg" width="150" style="border-radius: 8px;" alt="Adam Bates"><br>
+                <b>Adam Bates</b>
+            </a>
+            <p>
+                网络安全, 系统安全, 数据隐私, 操作系统安全, 可信计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/can-bayram/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/can-bayram-profile.jpg" width="150" style="border-radius: 8px;" alt="Can Bayram"><br>
+                <b>Can Bayram</b>
+            </a>
+            <p>
+                半导体材料, 光子学, 纳米制造, LED技术, 功率电子
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/carolyn-l-beck/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/carolyn-l-beck-profile.jpg" width="150" style="border-radius: 8px;" alt="Carolyn L. Beck"><br>
+                <b>Carolyn L. Beck</b>
+            </a>
+            <p>
+                动态系统建模, 控制理论, 分布式优化, 数据驱动控制, 系统理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mohamed-ali-belabbas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mohamed-ali-belabbas-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohamed Ali Belabbas"><br>
+                <b>Mohamed Ali Belabbas</b>
+            </a>
+            <p>
+                分布式系统, 自动化控制, 网络动力学, 最优控制, 非线性系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/joseph-bentsman/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/joseph-bentsman-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph Bentsman"><br>
+                <b>Joseph Bentsman</b>
+            </a>
+            <p>
+                非线性系统控制, 分布参数系统, 非线性振荡, 网络控制, 稳定性理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jennifer-bernhard/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jennifer-bernhard-profile.jpg" width="150" style="border-radius: 8px;" alt="Jennifer Bernhard"><br>
+                <b>Jennifer Bernhard</b>
+            </a>
+            <p>
+                电磁学, 无线通信, 可重构天线, 主动和被动天线设计, 电磁测量与封装
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rohit-bhargava/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rohit-bhargava-profile.jpg" width="150" style="border-radius: 8px;" alt="Rohit Bhargava"><br>
+                <b>Rohit Bhargava</b>
+            </a>
+            <p>
+                生物医学成像, 光谱学, 化学成像, 癌症诊断, 计算病理学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/suma-bhat/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/suma-bhat-profile.jpg" width="150" style="border-radius: 8px;" alt="Suma Bhat"><br>
+                <b>Suma Bhat</b>
+            </a>
+            <p>
+                自然语言处理, 机器学习, 语音识别, 语言建模, 人机交互
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ujjal-kumar-bhowmik/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ujjal-kumar-bhowmik-profile.jpg" width="150" style="border-radius: 8px;" alt="Ujjal Kumar Bhowmik"><br>
+                <b>Ujjal Kumar Bhowmik</b>
+            </a>
+            <p>
+                电力电子, 可再生能源系统, 智能电网, 能量管理, 电力系统保护
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/simeon-bogdanov/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/simeon-bogdanov-profile.jpg" width="150" style="border-radius: 8px;" alt="Simeon Bogdanov"><br>
+                <b>Simeon Bogdanov</b>
+            </a>
+            <p>
+                量子信息, 超导量子比特, 量子计算, 量子测量, 低温物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/stephen-boppart/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephen-boppart-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Boppart"><br>
+                <b>Stephen Boppart</b>
+            </a>
+            <p>
+                生物光子学, 光学相干断层扫描, 非线性光学显微镜, 生物医学成像, 光学仪器
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nikita-borisov/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nikita-borisov-profile.jpg" width="150" style="border-radius: 8px;" alt="Nikita Borisov"><br>
+                <b>Nikita Borisov</b>
+            </a>
+            <p>
+                网络安全, 隐私保护, 加密协议, 匿名通信, 无线安全
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/subhonmesh-bose/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/subhonmesh-bose-profile.jpg" width="150" style="border-radius: 8px;" alt="Subhonmesh Bose"><br>
+                <b>Subhonmesh Bose</b>
+            </a>
+            <p>
+                电力系统, 能源市场, 可再生能源集成, 电力系统优化, 电力系统稳定性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yoram-bresler/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yoram-bresler-profile.jpg" width="150" style="border-radius: 8px;" alt="Yoram Bresler"><br>
+                <b>Yoram Bresler</b>
+            </a>
+            <p>
+                信号处理, 医学成像, 压缩感知, 图像重建, 多维信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/timothy-bretl/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/timothy-bretl-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy Bretl"><br>
+                <b>Timothy Bretl</b>
+            </a>
+            <p>
+                机器人学, 控制理论, 优化算法, 无人机技术, 人机交互
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/donna-brown/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/donna-brown-profile.jpg" width="150" style="border-radius: 8px;"alt="Donna Brown"><br>
+                <b>Donna Brown</b>
+            </a>
+            <p>
+                教育技术, 数字学习, STEM教育, 学习分析, 教学策略优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/robert-j-brunner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/robert-j-brunner-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert J. Brunner"><br>
+                <b>Robert J. Brunner</b>
+            </a>
+            <p>
+                数据科学, 大数据分析, 人工智能, 云计算, 数据可视化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mark-d-butala/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mark-d-butala-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark D. Butala"><br>
+                <b>Mark D. Butala</b>
+            </a>
+            <p>
+                医疗设备, 生物医学工程, 信号处理, 生物传感器, 医疗图像分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/marco-caccamo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/marco-caccamo-profile.jpg" width="150" style="border-radius: 8px;" alt="Marco Caccamo"><br>
+                <b>Marco Caccamo</b>
+            </a>
+            <p>
+                实时系统, 嵌入式系统, 无人驾驶技术, 工业物联网, 系统可靠性
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/matthew-caesar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/matthew-caesar-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Caesar"><br>
+                <b>Matthew Caesar</b>
+            </a>
+            <p>
+                网络安全, 分布式系统, 互联网体系结构, 云计算, 网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andreas-c-cangellaris/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andreas-c-cangellaris-profile.jpg" width="150" style="border-radius: 8px;" alt="Andreas C. Cangellaris"><br>
+                <b>Andreas C. Cangellaris</b>
+            </a>
+            <p>
+                电磁学, 高速电子设计, 微波电路, 电磁建模, 集成电路封装
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/qing-cao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/qing-cao-profile.jpg" width="150" style="border-radius: 8px;" alt="Qing Cao"><br>
+                <b>Qing Cao</b>
+            </a>
+            <p>
+                柔性电子器件, 纳米材料, 印刷电子学, 传感器, 能源存储
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/abrita-chakravarty/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/abrita-chakravarty-profile.jpg" width="150" style="border-radius: 8px;" alt="Abrita Chakravarty"><br>
+                <b>Abrita Chakravarty</b>
+            </a>
+            <p>
+                半导体材料, 电子器件, 器件建模, 纳米技术, 材料工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/varun-chandrasekaran/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/varun-chandrasekaran-profile.jpg" width="150" style="border-radius: 8px;" alt="Varun Chandrasekaran"><br>
+                <b>Varun Chandrasekaran</b>
+            </a>
+            <p>
+                机器学习, 数据隐私, 算法设计, 大数据分析, 网络安全
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kevin-chenchuan-chang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kevin-chenchuan-chang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kevin Chenchuan Chang"><br>
+                <b>Kevin Chenchuan Chang</b>
+            </a>
+            <p>
+                数据库系统, 信息检索, 自然语言处理, 数据挖掘, 大规模数据管理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/deming-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/deming-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Deming Chen"><br>
+                <b>Deming Chen</b>
+            </a>
+            <p>
+                FPGA设计, 硬件加速, 电子设计自动化, 计算机体系结构, 人工智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wenchao-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wenchao-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenchao Chen"><br>
+                <b>Wenchao Chen</b>
+            </a>
+            <p>
+                生物医学工程, 计算成像, 医学信号处理, 生物材料, 诊断技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/xu-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/xu-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Xu Chen"><br>
+                <b>Xu Chen</b>
+            </a>
+            <p>
+                无线网络, 移动计算, 物联网, 边缘计算, 网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yun-sheng-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yun-sheng-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yun-Sheng Chen"><br>
+                <b>Yun-Sheng Chen</b>
+            </a>
+            <p>
+                医学成像系统, 乳腺癌应用, 血管疾病, 肾脏疾病, 纳米科学与纳米技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yuting-wu-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yuting-wu-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuting Wu Chen"><br>
+                <b>Yuting Wu Chen</b>
+            </a>
+            <p>
+                电气工程, 太赫兹波, 光电子学, 纳米技术, 材料科学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zuofu-cheng/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zuofu-cheng-profile.jpg" width="150" style="border-radius: 8px;" alt="Zuofu Cheng"><br>
+                <b>Zuofu Cheng</b>
+            </a>
+            <p>
+                航空航天工程, 结构动力学, 振动控制, 复合材料, 飞行器设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/weng-chew/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/weng-chew-profile.jpg" width="150" style="border-radius: 8px;" alt="Weng Chew"><br>
+                <b>Weng Chew</b>
+            </a>
+            <p>
+                电磁学, 计算电磁学, 天线设计, 微波工程, 雷达系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/eric-chitambar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/eric-chitambar-profile.jpg" width="150" style="border-radius: 8px;" alt="Eric Chitambar"><br>
+                <b>Eric Chitambar</b>
+            </a>
+            <p>
+                量子信息理论, 量子计算, 量子通信, 量子纠缠, 量子密码学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hyungsoo-choi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hyungsoo-choi-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyungsoo Choi"><br>
+                <b>Hyungsoo Choi</b>
+            </a>
+            <p>
+                生物医学工程, 生物传感器, 微流控技术, 纳米医学, 组织工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kent-d-choquette/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kent-d-choquette-profile.jpg" width="150" style="border-radius: 8px;" alt="Kent D. Choquette"><br>
+                <b>Kent D. Choquette</b>
+            </a>
+            <p>
+                垂直腔面发射激光器, 光子器件, 半导体激光器, 集成光学, 纳米光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/girish-chowdhary/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/girish-chowdhary-profile.jpg" width="150" style="border-radius: 8px;" alt="Girish Chowdhary"><br>
+                <b>Girish Chowdhary</b>
+            </a>
+            <p>
+                自主系统, 机器人技术, 人机交互, 机器学习, 农业自动化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ryan-corey/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ryan-corey-profile.jpg" width="150" style="border-radius: 8px;" alt="Ryan Corey"><br>
+                <b>Ryan Corey</b>
+            </a>
+            <p>
+                音频信号处理, 声学传感器, 机器听觉, 嵌入式系统, 人工智能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/brian-t-cunningham/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brian-t-cunningham-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian T. Cunningham"><br>
+                <b>Brian T. Cunningham</b>
+            </a>
+            <p>
+                生物光子学, 纳米光子学, 生物传感器, 微纳制造, 药物发现
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/john-dallesasse/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/john-dallesasse-profile.jpg" width="150" style="border-radius: 8px;" alt="John Dallesasse"><br>
+                <b>John Dallesasse</b>
+            </a>
+            <p>
+                光电子学, 半导体激光器, 集成光子学, 光通信, 纳米制造
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/minh-n-do/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/minh-n-do-profile.jpg" width="150" style="border-radius: 8px;" alt="Minh N. Do"><br>
+                <b>Minh N. Do</b>
+            </a>
+            <p>
+                信号处理, 图像处理, 多尺度几何分析, 计算摄影, 压缩感知
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ivan-dokmanic/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ivan-dokmanic-profile.jpg" width="150" style="border-radius: 8px;" alt="Ivan Dokmanic"><br>
+                <b>Ivan Dokmanic</b>
+            </a>
+            <p>
+                声学信号处理, 稀疏表示, 计算成像, 数字信号处理, 逆问题
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/alejandro-dominguez-garcia/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/alejandro-dominguez-garcia-profile.jpg" width="150" style="border-radius: 8px;" alt="Alejandro Dominguez-Garcia"><br>
+                <b>Alejandro Dominguez-Garcia</b>
+            </a>
+            <p>
+                电力系统, 可再生能源, 微电网, 电力系统可靠性, 智能电网
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/roy-dong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/roy-dong-profile.jpg" width="150" style="border-radius: 8px;" alt="Roy Dong"><br>
+                <b>Roy Dong</b>
+            </a>
+            <p>
+                控制理论, 网络系统, 数据驱动控制, 动态系统, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/peter-d-dragic/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/peter-d-dragic-profile.jpg" width="150" style="border-radius: 8px;" alt="Peter D. Dragic"><br>
+                <b>Peter D. Dragic</b>
+            </a>
+            <p>
+                光纤传感器, 光通信, 光学材料, 激光技术, 环境监测
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/katie-driggs-campbell/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/katie-driggs-campbell-profile.jpg" width="150" style="border-radius: 8px;" alt="Katie Driggs-Campbell"><br>
+                <b>Katie Driggs-Campbell</b>
+            </a>
+            <p>
+                自主系统, 机器人学, 智能交通系统, 人机交互, 强化学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/geir-dullerud/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/geir-dullerud-profile.jpg" width="150" style="border-radius: 8px;" alt="Geir Dullerud"><br>
+                <b>Geir Dullerud</b>
+            </a>
+            <p>
+                控制理论, 分布式系统, 随机系统, 机器人学, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/j-gary-eden/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/j-gary-eden-profile.jpg" width="150" style="border-radius: 8px;" alt="J. Gary Eden"><br>
+                <b>J. Gary Eden</b>
+            </a>
+            <p>
+                微放电器件, 光子学, 激光技术, 等离子体应用, 微型光源
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mohammed-el-kebir/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mohammed-el-kebir-profile.jpg" width="150" style="border-radius: 8px;" alt="Mohammed El-Kebir"><br>
+                <b>Mohammed El-Kebir</b>
+            </a>
+            <p>
+                生物信息学, 网络生物学, 基因组数据分析, 计算进化生物学, 算法设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rasoul-etesami/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rasoul-etesami-profile.jpg" width="150" style="border-radius: 8px;" alt="Rasoul Etesami"><br>
+                <b>Rasoul Etesami</b>
+            </a>
+            <p>
+                博弈论, 网络优化, 机器学习, 分布式算法, 网络系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kejie-fang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kejie-fang-profile.jpg" width="150" style="border-radius: 8px;" alt="Kejie Fang"><br>
+                <b>Kejie Fang</b>
+            </a>
+            <p>
+                量子光学, 纳米光子学, 非线性光学, 微腔器件, 光机械耦合
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/georgios-fellouris/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/georgios-fellouris-profile.jpg" width="150" style="border-radius: 8px;" alt="Georgios Fellouris"><br>
+                <b>Georgios Fellouris</b>
+            </a>
+            <p>
+                统计信号处理, 顺序分析, 假设检验, 自适应采样, 时间序列分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/milton-feng/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/milton-feng-profile.jpg" width="150" style="border-radius: 8px;" alt="Milton Feng"><br>
+                <b>Milton Feng</b>
+            </a>
+            <p>
+                高速电子器件, 半导体激光器, 微波工程, 光通信, 纳米制造
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/arne-fliflet/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/arne-fliflet-profile.jpg" width="150" style="border-radius: 8px;" alt="Arne Fliflet"><br>
+                <b>Arne Fliflet</b>
+            </a>
+            <p>
+                电磁理论, 微波技术, 等离子体物理, 电子束系统, 高功率射频器件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/david-forsyth/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/david-forsyth-profile.jpg" width="150" style="border-radius: 8px;" alt="David Forsyth"><br>
+                <b>David Forsyth</b>
+            </a>
+            <p>
+                计算机视觉, 机器学习, 图像处理, 深度学习, 数据驱动算法
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hubertus-franke/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hubertus-franke-profile.jpg" width="150" style="border-radius: 8px;" alt="Hubertus Franke"><br>
+                <b>Hubertus Franke</b>
+            </a>
+            <p>
+                高性能计算, 分布式系统, 云计算, 数据中心架构, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/steven-j-franke/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/steven-j-franke-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven J. Franke"><br>
+                <b>Steven J. Franke</b>
+            </a>
+            <p>
+                电离层物理, 无线电波传播, 通信系统, 雷达技术, 大气科学
+            </p>
+        </td>
+    </tr>
+    
+    
+
+ 
+
+
+                
+
+
+
+
+ 
+
+
+ 
+
+
 
 
 ### [Physics](https://physics.illinois.edu/)
@@ -32341,13 +33081,281 @@ No ME PhD
 
 ### [Electrical and Computer Engineering](https://www.ece.ucsb.edu/)
 
-- **Field**: [Communications & Signal Processing](https://www.ece.ucsb.edu/people/faculty)
+- **Field**: [Communications & Signal Processing,Control Systems](https://www.ece.ucsb.edu/people/faculty)
+
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/shiv-chandrasekaran">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Chandrasekaran.jpg" width="150" style="border-radius: 8px;" alt="Shiv Chandrasekaran"><br>
+                <b>Shiv Chandrasekaran</b>
+            </a>
+            <p>
+                快速算法、数值线性代数、科学计算、矩阵分解、高效计算技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/hua-lee">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Lee.jpg" width="150" style="border-radius: 8px;" alt="Hua Lee"><br>
+                <b>Hua Lee</b>
+            </a>
+            <p>
+                超声成像、信号处理、医学诊断、非破坏性检测、数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/bs-manjunath">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Manjunath.jpg" width="150" style="border-radius: 8px;" alt="B.S. Manjunath"><br>
+                <b>B.S. Manjunath</b>
+            </a>
+            <p>
+                计算机视觉、图像处理、机器学习、视觉计算、数据管理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/nina-miolane">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Miolane.jpg" width="150" style="border-radius: 8px;" alt="Nina Miolane"><br>
+                <b>Nina Miolane</b>
+            </a>
+            <p>
+                几何统计学、医疗数据分析、机器学习、代数拓扑、信号建模
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/pradeep-sen">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Sen.jpg" width="150" style="border-radius: 8px;" alt="Pradeep Sen"><br>
+                <b>Pradeep Sen</b>
+            </a>
+            <p>
+                计算机图形学、图像处理、视觉计算、数据压缩、算法开发
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/mahnoosh-alizadeh">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Alizadeh.jpg" width="150" style="border-radius: 8px;" alt="Mahnoosh Alizadeh"><br>
+                <b>Mahnoosh Alizadeh</b>
+            </a>
+            <p>
+                智能电网、能源市场、优化与控制、机器学习应用、分布式能源系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/katie-byl">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Byl.jpg" width="150" style="border-radius: 8px;" alt="Katie Byl"><br>
+                <b>Katie Byl</b>
+            </a>
+            <p>
+                机器人运动学、动态系统、控制理论、生物启发设计、仿生机器人
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/joao-hespanha">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Hespanha.jpg" width="150" style="border-radius: 8px;" alt="João Hespanha"><br>
+                <b>João Hespanha</b>
+            </a>
+            <p>
+                网络控制系统、混合系统、博弈论、自适应控制、分布式系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/tobia-marcucci">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Marcucci.jpg" width="150" style="border-radius: 8px;" alt="Tobia Marcucci"><br>
+                <b>Tobia Marcucci</b>
+            </a>
+            <p>
+                机器人规划、优化算法、机器学习、动态系统、控制理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/jason-marden">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Marden.jpg" width="150" style="border-radius: 8px;" alt="Jason Marden"><br>
+                <b>Jason Marden</b>
+            </a>
+            <p>
+                分布式控制、博弈论、网络化系统、协同控制、系统优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/yasamin-mostofi">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Mostofi.jpg" width="150" style="border-radius: 8px;" alt="Yasamin Mostofi"><br>
+                <b>Yasamin Mostofi</b>
+            </a>
+            <p>
+                无线通信、传感器网络、移动机器人、信号处理、环境感知
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/ramtin-pedarsani">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Pedarsani.jpg" width="150" style="border-radius: 8px;" alt="Ramtin Pedarsani"><br>
+                <b>Ramtin Pedarsani</b>
+            </a>
+            <p>
+                网络信息理论、优化算法、随机过程、交通系统、数据驱动优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/kenneth-rose">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Rose.jpg" width="150" style="border-radius: 8px;" alt="Kenneth Rose"><br>
+                <b>Kenneth Rose</b>
+            </a>
+            <p>
+                信息论、信号处理、数据压缩、优化理论、无线通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/andrew-teel">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Teel.jpg" width="150" style="border-radius: 8px;" alt="Andrew Teel"><br>
+                <b>Andrew Teel</b>
+            </a>
+            <p>
+                非线性控制、鲁棒控制、自适应控制、动力系统、分布式控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/jerry-gibson">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Gibson.jpg" width="150" style="border-radius: 8px;" alt="Jerry Gibson"><br>
+                <b>Jerry Gibson</b>
+            </a>
+            <p>
+                无线通信、多媒体信号处理、压缩算法、信息论、通信网络
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/upamanyu-madhow">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Madhow.jpg" width="150" style="border-radius: 8px;" alt="Upamanyu Madhow"><br>
+                <b>Upamanyu Madhow</b>
+            </a>
+            <p>
+                无线通信、信息论、信号处理、网络系统、数据分析
+            </p>
+        </td>
+    </tr>
+</table>
+
+ 
+
+
+
+
 
 
 - **Field**: [Computer Engineering](https://www.ece.ucsb.edu/people/faculty)
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/forrest-brewer">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Brewer.jpg" width="150" style="border-radius: 8px;" alt="Forrest Brewer"><br>
+                <b>Forrest Brewer</b>
+            </a>
+            <p>
+                VLSI设计、系统级工具、电子设计自动化、低功耗控制、信号处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/bongjin-kim">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Kim.jpg" width="150" style="border-radius: 8px;" alt="Bongjin Kim"><br>
+                <b>Bongjin Kim</b>
+            </a>
+            <p>
+                集成电路、存储器计算、模拟混合信号、数字VLSI、硬件加速
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/peng-li">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Li.jpg" width="150" style="border-radius: 8px;" alt="Peng Li"><br>
+                <b>Peng Li</b>
+            </a>
+            <p>
+                集成电路、脑启发计算、机器学习、电子设计自动化、硬件系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/dmitri-strukov">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Strukov.jpg" width="150" style="border-radius: 8px;" alt="Dmitri Strukov"><br>
+                <b>Dmitri Strukov</b>
+            </a>
+            <p>
+                纳米电子学、新兴器件、非易失性存储器、类脑计算、神经形态计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/luke-theogarajan">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Theogarajan.jpg" width="150" style="border-radius: 8px;" alt="Luke Theogarajan"><br>
+                <b>Luke Theogarajan</b>
+            </a>
+            <p>
+                低功耗模拟VLSI、高速电子学、生物仿生纳米系统、神经假体、生物传感器
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/zheng-zhang">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Zhang.jpg" width="150" style="border-radius: 8px;" alt="Zheng Zhang"><br>
+                <b>Zheng Zhang</b>
+            </a>
+            <p>
+                计算电磁学、电子设计自动化、机器学习、量子计算、数值方法
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/kerem-camsari">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Camsari.jpg" width="150" style="border-radius: 8px;" alt="Kerem Çamsarı"><br>
+                <b>Kerem Çamsarı</b>
+            </a>
+            <p>
+                纳米电子学、自旋电子学、新兴计算技术、数字和混合信号VLSI、神经形态计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/behrooz-parhami">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Parhami.jpg" width="150" style="border-radius: 8px;" alt="Behrooz Parhami"><br>
+                <b>Behrooz Parhami</b>
+            </a>
+            <p>
+                计算机架构、并行处理、容错计算、数字系统设计、算法优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/li-c-wang">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Wang.jpg" width="150" style="border-radius: 8px;" alt="Li-C. Wang"><br>
+                <b>Li-C. Wang</b>
+            </a>
+            <p>
+                电子设计自动化、VLSI测试、统计分析、机器学习、可靠性工程
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/haewon-jeong">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Jeong.jpg" width="150" style="border-radius: 8px;" alt="Haewon Jeong"><br>
+                <b>Haewon Jeong</b>
+            </a>
+            <p>
+                嵌入式系统、计算机体系结构、硬件安全、物联网、边缘计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/yao-qin">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Qin.jpg" width="150" style="border-radius: 8px;" alt="Yao Qin"><br>
+                <b>Yao Qin</b>
+            </a>
+            <p>
+                机器学习、计算机视觉、多模态建模、医疗数据分析、模型鲁棒性
+            </p>
+        </td>
+    </tr>
+</table>
 
-- **Field**: [Control Systems](https://www.ece.ucsb.edu/people/faculty)
 
 
 
