@@ -33362,8 +33362,153 @@ No ME PhD
 - **Field**: [Electronics & Photonics](https://www.ece.ucsb.edu/people/faculty)
 
 
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/spencer-l-smith">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Smith.jpg" width="150" style="border-radius: 8px;" alt="Spencer L. Smith"><br>
+                <b>Spencer L. Smith</b>
+            </a>
+            <p>
+                光学、成像、神经回路、机器学习、光学计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/james-buckwalter">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Buckwalter.jpg" width="150" style="border-radius: 8px;" alt="James Buckwalter"><br>
+                <b>James Buckwalter</b>
+            </a>
+            <p>
+                射频集成电路、混合信号系统、高速通信、毫米波技术、光电集成
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/mark-rodwell">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Rodwell.jpg" width="150" style="border-radius: 8px;" alt="Mark Rodwell"><br>
+                <b>Mark Rodwell</b>
+            </a>
+            <p>
+                超高频电子学、集成电路、III-V半导体器件、光纤通信、毫米波传输
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/loai-salem">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Salem.jpg" width="150" style="border-radius: 8px;" alt="Loai Salem"><br>
+                <b>Loai Salem</b>
+            </a>
+            <p>
+                电力电子、集成电路设计、能量收集、嵌入式系统、微系统技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/clint-schow">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Schow.jpg" width="150" style="border-radius: 8px;" alt="Clint Schow"><br>
+                <b>Clint Schow</b>
+            </a>
+            <p>
+                光电集成、光互连、数据中心网络、高速光通信、硅光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/robert-york">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/York.jpg" width="150" style="border-radius: 8px;" alt="Robert York"><br>
+                <b>Robert York</b>
+            </a>
+            <p>
+                微波电子学、射频系统、无线通信、微波光子学、器件建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/umesh-mishra">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Mishra.jpg" width="150" style="border-radius: 8px;" alt="Umesh Mishra"><br>
+                <b>Umesh Mishra</b>
+            </a>
+            <p>
+                半导体器件、功率电子学、氮化镓技术、射频电子学、器件物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/daniel-blumenthal">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Blumenthal.jpg" width="150" style="border-radius: 8px;" alt="Daniel Blumenthal"><br>
+                <b>Daniel Blumenthal</b>
+            </a>
+            <p>
+                光子集成、光通信、光学存储、微波光子学、光子传感
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/john-bowers">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Bowers.jpg" width="150" style="border-radius: 8px;" alt="John Bowers"><br>
+                <b>John Bowers</b>
+            </a>
+            <p>
+                光子学、光通信、硅光子学、光子集成、量子光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/nadir-dagli">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Dagli.jpg" width="150" style="border-radius: 8px;" alt="Nadir Dagli"><br>
+                <b>Nadir Dagli</b>
+            </a>
+            <p>
+                光子集成电路、光波导、光调制器、半导体光电子学、微纳光子学
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/steven-denbaars">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/DenBaars.jpg" width="150" style="border-radius: 8px;" alt="Steven DenBaars"><br>
+                <b>Steven DenBaars</b>
+            </a>
+            <p>
+               LED技术、固态照明、氮化镓材料、半导体光电子学、光子集成技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/jonathan-klamkin">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Klamkin.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Klamkin"><br>
+                <b>Jonathan Klamkin</b>
+            </a>
+            <p>
+                光子学、光通信、激光技术、硅光子学、集成光子器件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/galan-moody">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Moody.jpg" width="150" style="border-radius: 8px;" alt="Galan Moody"><br>
+                <b>Galan Moody</b>
+            </a>
+            <p>
+                量子光学、量子信息、光子集成、二维材料、非线性光学
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/chris-palmstrom">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Palmstrom.jpg" width="150" style="border-radius: 8px;" alt="Chris Palmstrøm"><br>
+                <b>Chris Palmstrøm</b>
+            </a>
+            <p>
+                电子材料、半导体异质结、自旋电子学、材料生长、器件物理
+            </p>
+        </td>
+        <td align="center">
+            <a href="https://www.ece.ucsb.edu/people/faculty/jon-schuller">
+                <img src="https://www.ece.ucsb.edu/sites/default/files/styles/medium/public/2020-05/Schuller.jpg" width="150" style="border-radius: 8px;" alt="Jon Schuller"><br>
+                <b>Jon Schuller</b>
+            </a>
+            <p>
+                纳米光学、光学材料、光子学、等离激元、量子纳米结构
+            </p>
+        </td>
+    </tr>
+</table>
 
-
+ 
 
 
 </details>
