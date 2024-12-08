@@ -30034,11 +30034,31 @@ No ME PhD
 ### [Mechanical and Aerospace Engineering](https://mae.ucdavis.edu/faculty-research)
 
 - **Field**: [Design, Manufacturing, MEMS and Nanostructures](https://mae.ucdavis.edu/design-manufacturing-mems-and-nano)
+
+
+
+
 - **Field**: [Fluid Mechanics and Aerodynamics](https://mae.ucdavis.edu/dynamics-controls-vehicles-and-robotics)
+
+
+
+
 - **Field**: [Dynamics, Controls, Vehicles and Robotics](https://mae.ucdavis.edu/energy-propulsion-and-environment)
+
+
+
+
 - **Field**: [Human-Systems Engineering](https://mae.ucdavis.edu/fluid-mechanics-and-aerodynamics)
+
+
+
 - **Field**: [Energy, Propulsion and Environment](https://mae.ucdavis.edu/biology-medicine-and-biomechanics)
+
+
+
 - **Field**: [Mechanics of Solids, Structures and Materials](https://mae.ucdavis.edu/mechanics-solids-structures-and-materials)
+
+
 
 
 ### [Electrical and Computer Engineering](https://ece.ucdavis.edu/faculty-research)
