@@ -19861,17 +19861,27 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ### [Electrical and Computer Engineering](https://ece.illinois.edu/)
 
-**Field:** [Biomedical imaging, bioengineering, and acoustics](https://ece.illinois.edu/research/areas/biba)
-**Field:** [Circuits](https://ece.illinois.edu/research/areas/circuits)
-**Field:** [Communications and control](https://ece.illinois.edu/research/areas/communications)
-**Field:** [Computing systems hardware and software](https://ece.illinois.edu/research/areas/systems)
-**Field:** [Data science and signal processing](https://ece.illinois.edu/research/areas/signals)
-**Field:** [Electromagnetics, optics, and remote sensing](https://ece.illinois.edu/research/areas/electromagnetics)
-**Field:** [Microelectronics and photonics](https://ece.illinois.edu/research/areas/microelectronics)
-**Field:** [Nanotechnology](https://ece.illinois.edu/research/areas/nanotechnology)
-**Field:** [Networking and distributed computing](https://ece.illinois.edu/research/areas/networking)
-**Field:** [Power and energy systems](https://ece.illinois.edu/research/areas/power)
-**Field:** [Reliable and secure computing systems](https://ece.illinois.edu/research/areas/reliable)
+- **Field:** [Biomedical imaging, bioengineering, and acoustics](https://ece.illinois.edu/research/areas/biba)
+
+- **Field:** [Circuits](https://ece.illinois.edu/research/areas/circuits)
+
+- **Field:** [Communications and control](https://ece.illinois.edu/research/areas/communications)
+
+- **Field:** [Computing systems hardware and software](https://ece.illinois.edu/research/areas/systems)
+
+- **Field:** [Data science and signal processing](https://ece.illinois.edu/research/areas/signals)
+
+- **Field:** [Electromagnetics, optics, and remote sensing](https://ece.illinois.edu/research/areas/electromagnetics)
+
+- **Field:** [Microelectronics and photonics](https://ece.illinois.edu/research/areas/microelectronics)
+
+- **Field:** [Nanotechnology](https://ece.illinois.edu/research/areas/nanotechnology)
+
+- **Field:** [Networking and distributed computing](https://ece.illinois.edu/research/areas/networking)
+
+- **Field:** [Power and energy systems](https://ece.illinois.edu/research/areas/power)
+
+- **Field:** [Reliable and secure computing systems](https://ece.illinois.edu/research/areas/reliable)
 
 
 
@@ -20603,20 +20613,6 @@ A repository for quickly accessing research insights into professors' expertise 
     </tr>
     
     
-
- 
-
-
-                
-
-
-
-
- 
-
-
- 
-
 
 
 
@@ -22995,15 +22991,14 @@ A repository for quickly accessing research insights into professors' expertise 
             </p>
         </td>
     </tr>
-
-
+</table>
 
 
 ### [Aerospace Engineering](https://aerospace.illinois.edu/)
 
+
+
 </details>
-
-
 <!-- End of UIUC Section -->
 <!-- End of UIUC Section -->
 <!-- End of UIUC Section -->
