@@ -12396,7 +12396,7 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## [Columbia University](https://www.columbia.edu/) 
 [ME & EE: Dec, 15](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements#accordion0);
-[85$](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements);
+[$85](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements);
 [Only one](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/apply-now);
 [Apply now](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/apply-now)
 
