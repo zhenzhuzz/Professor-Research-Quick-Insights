@@ -13200,7 +13200,7 @@ A repository for quickly accessing research insights into professors' expertise 
                 <b>Alexander Gaeta</b>
             </a>
             <p>
-                光子技术, 纳米光学, 非线性光学, 高速光通信, 数据优化光子集成
+                非线性光学，芯片级光学器件，生物医学成像, 纳米光学, 量子与高速光通信, 数据优化光子集成
             </p>
         </td>
         <td align="center">
