@@ -24933,7 +24933,9 @@ A repository for quickly accessing research insights into professors' expertise 
 ## [Yale](https://www.yale.edu/)
 [ME: Dec, 15](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines);
 [ECE: Dec, 15](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines);
-[$105](https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers)
+[$105](https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers);
+[Only one](https://gsas.yale.edu/admissions/phdmasters-application-process/admissions-frequently-asked-questions/application-faqs);
+[Apply now](https://gsas.yale.edu/admissions/phdmasters-application-process)
 
 <details>
 <summary>Click to expand Yale Professors</summary>
