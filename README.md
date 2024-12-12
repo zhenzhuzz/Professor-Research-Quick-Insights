@@ -15331,7 +15331,10 @@ A repository for quickly accessing research insights into professors' expertise 
 
 ## [Gatech](https://www.gatech.edu/)
 [ME: Dec, 16](https://grad.gatech.edu/degree-programs/mechanical-engineering);
-[ECE: Dec, 16](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering)
+[ECE: Dec, 16](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering);
+[$105](https://grad.gatech.edu/admissions/international/ready-to-apply);
+[Up to two programs](https://grad.gatech.edu/faq/knowledgebase.php?article=4);
+[Apply now](https://gradapp.gatech.edu/apply/)
 
 <details>
 <summary>Click to expand Gatech Professors</summary>
@@ -17548,7 +17551,7 @@ A repository for quickly accessing research insights into professors' expertise 
 ## [CMU](https://www.cmu.edu/)
 [ME: Dec, 15](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html)
 [ECE: Dec, 15](https://www.ece.cmu.edu/admissions/graduate-application-deadlines.html)
-[75$](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/)
+[$75](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/)
 [More than one](https://www.cmu.edu/graduate/prospective/)
 [Apply now](https://gradadmissions.engineering.cmu.edu/apply/)
 
