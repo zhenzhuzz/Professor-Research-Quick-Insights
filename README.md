@@ -8842,6 +8842,10 @@ A repository for quickly accessing research insights into professors' expertise 
 
 
 ## [USC](https://www.usc.edu/)
+[ME & ECE: Dec, 15](https://viterbigradadmission.usc.edu/doctoral/how-to-apply-phd/);
+[$90](https://gradadm.usc.edu/domestic-students/how-to-apply/);
+[Up to three program](https://gradadm.usc.edu/domestic-students/how-to-apply/);
+[Apply now](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/)
 
 <details>
 <summary>Click to expand USC Professors</summary>
