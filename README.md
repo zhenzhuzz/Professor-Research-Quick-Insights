@@ -21028,8 +21028,1832 @@ A repository for quickly accessing research insights into professors' expertise 
             </p>
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ju-gao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ju-gao-profile.jpg" width="150" style="border-radius: 8px;" alt="Ju Gao"><br>
+                <b>Ju Gao</b>
+            </a>
+            <p>
+                半导体优化, 纳米技术, 高效计算, 数据分析, 封装技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/liang-gao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/liang-gao-profile.jpg" width="150" style="border-radius: 8px;" alt="Liang Gao"><br>
+                <b>Liang Gao</b>
+            </a>
+            <p>
+                高速成像, 光学技术, 纳米传感器, 数据优化, 系统设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/chet-gardner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chet-gardner-profile.jpg" width="150" style="border-radius: 8px;" alt="Chet Gardner"><br>
+                <b>Chet Gardner</b>
+            </a>
+            <p>
+                半导体制造, 电路优化, 高速计算, 智能封装, 数据驱动
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/saugata-ghose/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/saugata-ghose-profile.jpg" width="150" style="border-radius: 8px;" alt="Saugata Ghose"><br>
+                <b>Saugata Ghose</b>
+            </a>
+            <p>
+                数据存储, 计算架构, 系统优化, 半导体技术, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/matthew-gilbert/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/matthew-gilbert-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Gilbert"><br>
+                <b>Matthew Gilbert</b>
+            </a>
+            <p>
+                半导体材料, 纳米技术, 器件设计, 数据优化, 高性能计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/lynford-goddard/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lynford-goddard-profile.jpg" width="150" style="border-radius: 8px;" alt="Lynford L. Goddard"><br>
+                <b>Lynford L. Goddard</b>
+            </a>
+            <p>
+                光电技术, 集成电路, 半导体优化, 光学设计, 数据驱动
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/brighten-godfrey/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brighten-godfrey-profile.jpg" width="150" style="border-radius: 8px;" alt="Brighten Godfrey"><br>
+                <b>Brighten Godfrey</b>
+            </a>
+            <p>
+                网络优化, 数据分析, 系统设计, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/elizabeth-goldschmidt/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/elizabeth-goldschmidt-profile.jpg" width="150" style="border-radius: 8px;" alt="Elizabeth Goldschmidt"><br>
+                <b>Elizabeth Goldschmidt</b>
+            </a>
+            <p>
+                光子学, 量子计算, 数据驱动, 纳米技术, 系统优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/songbin-gong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/songbin-gong-profile.jpg" width="150" style="border-radius: 8px;" alt="Songbin Gong"><br>
+                <b>Songbin Gong</b>
+            </a>
+            <p>
+                声学设备, 纳米技术, 数据优化, 系统设计, 半导体封装
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/gabriele-gradoni/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gabriele-gradoni-profile.jpg" width="150" style="border-radius: 8px;" alt="Gabriele Gradoni"><br>
+                <b>Gabriele Gradoni</b>
+            </a>
+            <p>
+                电磁建模, 系统优化, 半导体技术, 数据分析, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bill-gropp/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bill-gropp-profile.jpg" width="150" style="border-radius: 8px;" alt="Bill Gropp"><br>
+                <b>Bill Gropp</b>
+            </a>
+            <p>
+                并行计算, 系统优化, 数据分析, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/george-gross/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/george-gross-profile.jpg" width="150" style="border-radius: 8px;" alt="George Gross"><br>
+                <b>George Gross</b>
+            </a>
+            <p>
+                电力系统, 数据优化, 网络设计, 智能控制, 系统分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/viktor-gruev/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/viktor-gruev-profile.jpg" width="150" style="border-radius: 8px;" alt="Viktor Gruev"><br>
+                <b>Viktor Gruev</b>
+            </a>
+            <p>
+                生物传感器, 数据优化, 纳米技术, 光学系统, 半导体设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/indranil-gupta/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/indranil-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Indranil Gupta"><br>
+                <b>Indranil Gupta</b>
+            </a>
+            <p>
+                分布式系统, 数据分析, 网络设计, 系统优化, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/saurabh-gupta/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/saurabh-gupta-profile.jpg" width="150" style="border-radius: 8px;" alt="Saurabh Gupta"><br>
+                <b>Saurabh Gupta</b>
+            </a>
+            <p>
+                机器学习, 数据优化, 系统设计, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/levent-gurel/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/levent-gurel-profile.jpg" width="150" style="border-radius: 8px;" alt="Levent Gurel"><br>
+                <b>Levent Gurel</b>
+            </a>
+            <p>
+                电磁计算, 系统优化, 数据分析, 高效计算, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/chris-hadjicostis/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chris-hadjicostis-profile.jpg" width="150" style="border-radius: 8px;" alt="Chris Hadjicostis"><br>
+                <b>Chris Hadjicostis</b>
+            </a>
+            <p>
+                系统控制, 数据优化, 智能硬件, 半导体技术, 网络设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bruce-hajek/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bruce-hajek-profile.jpg" width="150" style="border-radius: 8px;" alt="Bruce Hajek"><br>
+                <b>Bruce Hajek</b>
+            </a>
+            <p>
+                信号处理, 数据优化, 系统分析, 网络设计, 半导体技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ibrahim-hajj/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ibrahim-hajj-profile.jpg" width="150" style="border-radius: 8px;" alt="Ibrahim N. Hajj"><br>
+                <b>Ibrahim N. Hajj</b>
+            </a>
+            <p>
+                电路设计, 数据优化, 系统分析, 半导体技术, 网络设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/lippold-haken/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lippold-haken-profile.jpg" width="150" style="border-radius: 8px;" alt="Lippold Haken"><br>
+                <b>Lippold Haken</b>
+            </a>
+            <p>
+                声学系统, 半导体设计, 数据优化, 系统集成, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/aiguo-han/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/aiguo-han-profile.jpg" width="150" style="border-radius: 8px;" alt="Aiguo Han"><br>
+                <b>Aiguo Han</b>
+            </a>
+            <p>
+                半导体设计, 纳米技术, 智能硬件, 系统优化, 数据分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/pavan-hanumolu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/pavan-hanumolu-profile.jpg" width="150" style="border-radius: 8px;" alt="Pavan Kumar Hanumolu"><br>
+                <b>Pavan Kumar Hanumolu</b>
+            </a>
+            <p>
+                电路设计, 数据优化, 系统集成, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kiruba-haran/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kiruba-haran-profile.jpg" width="150" style="border-radius: 8px;" alt="Kiruba S. Haran"><br>
+                <b>Kiruba S. Haran</b>
+            </a>
+            <p>
+                电力系统, 半导体优化, 数据分析, 系统设计, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mark-hasegawa-johnson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mark-hasegawa-johnson-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Hasegawa-Johnson"><br>
+                <b>Mark Hasegawa-Johnson</b>
+            </a>
+            <p>
+                信号处理, 数据优化, 系统设计, 智能硬件, 网络分析
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kris-hauser/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kris-hauser-profile.jpg" width="150" style="border-radius: 8px;" alt="Kris Hauser"><br>
+                <b>Kris Hauser</b>
+            </a>
+            <p>
+                机器人技术, 系统优化, 数据分析, 人机交互, 智能控制
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wei-he/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wei-he-profile.jpg" width="150" style="border-radius: 8px;" alt="Wei He"><br>
+                <b>Wei He</b>
+            </a>
+            <p>
+                纳米制造, 半导体优化, 数据驱动, 系统集成, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/philip-hillmer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/philip-hillmer-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip Hillmer"><br>
+                <b>Philip Hillmer</b>
+            </a>
+            <p>
+                半导体技术, 数据优化, 系统分析, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/axel-hoffmann/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/axel-hoffmann-profile.jpg" width="150" style="border-radius: 8px;" alt="Axel Hoffmann"><br>
+                <b>Axel Hoffmann</b>
+            </a>
+            <p>
+                自旋电子学, 纳米技术, 半导体材料, 数据优化, 系统集成
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/derek-hoiem/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/derek-hoiem-profile.jpg" width="150" style="border-radius: 8px;" alt="Derek W. Hoiem"><br>
+                <b>Derek W. Hoiem</b>
+            </a>
+            <p>
+                图像处理, 数据优化, 系统设计, 机器学习, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bob-horst/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bob-horst-profile.jpg" width="150" style="border-radius: 8px;" alt="Bob Horst"><br>
+                <b>Bob Horst</b>
+            </a>
+            <p>
+                电路设计, 数据优化, 高效计算, 半导体封装, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/naira-hovakimyan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/naira-hovakimyan-profile.jpg" width="150" style="border-radius: 8px;" alt="Naira Hovakimyan"><br>
+                <b>Naira Hovakimyan</b>
+            </a>
+            <p>
+                控制系统, 数据优化, 智能设备, 网络设计, 系统分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bin-hu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bin-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Bin Hu"><br>
+                <b>Bin Hu</b>
+            </a>
+            <p>
+                机器学习, 信号处理, 系统设计, 数据分析, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yih-chun-hu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yih-chun-hu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yih-Chun Hu"><br>
+                <b>Yih-Chun Hu</b>
+            </a>
+            <p>
+                网络安全, 数据优化, 系统分析, 智能设备, 半导体优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jian-huang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jian-huang-profile.jpg" width="150" style="border-radius: 8px;" alt="Jian Huang"><br>
+                <b>Jian Huang</b>
+            </a>
+            <p>
+                系统架构, 数据驱动, 半导体优化, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wen-mei-hwu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wen-mei-hwu-profile.jpg" width="150" style="border-radius: 8px;" alt="Wen-mei Hwu"><br>
+                <b>Wen-mei Hwu</b>
+            </a>
+            <p>
+                并行计算, 数据优化, 系统设计, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/raluca-ilie/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/raluca-ilie-profile.jpg" width="150" style="border-radius: 8px;" alt="Raluca Ilie"><br>
+                <b>Raluca Ilie</b>
+            </a>
+            <p>
+                电磁学, 系统优化, 数据驱动, 纳米技术, 半导体设计
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mike-insana/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mike-insana-profile.jpg" width="150" style="border-radius: 8px;" alt="Mike Insana"><br>
+                <b>Mike Insana</b>
+            </a>
+            <p>
+                医疗影像, 数据优化, 纳米技术, 系统设计, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ravishankar-iyer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ravishankar-iyer-profile.jpg" width="150" style="border-radius: 8px;" alt="Ravishankar K. Iyer"><br>
+                <b>Ravishankar K. Iyer</b>
+            </a>
+            <p>
+                容错系统, 数据优化, 网络设计, 系统安全, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sheldon-jacobson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sheldon-jacobson-profile.jpg" width="150" style="border-radius: 8px;" alt="Sheldon H. Jacobson"><br>
+                <b>Sheldon H. Jacobson</b>
+            </a>
+            <p>
+                数据分析, 优化算法, 系统设计, 智能硬件, 网络模型
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nan-jiang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nan-jiang-profile.jpg" width="150" style="border-radius: 8px;" alt="Nan Jiang"><br>
+                <b>Nan Jiang</b>
+            </a>
+            <p>
+                机器学习, 数据驱动, 系统优化, 半导体技术, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jianming-jin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jianming-jin-profile.jpg" width="150" style="border-radius: 8px;" alt="Jianming Jin"><br>
+                <b>Jianming Jin</b>
+            </a>
+            <p>
+                电磁学, 数据优化, 系统建模, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/douglas-jones/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/douglas-jones-profile.jpg" width="150" style="border-radius: 8px;" alt="Douglas L. Jones"><br>
+                <b>Douglas L. Jones</b>
+            </a>
+            <p>
+                信号处理, 数据分析, 系统优化, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zbigniew-kalbarczyk/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zbigniew-kalbarczyk-profile.jpg" width="150" style="border-radius: 8px;" alt="Zbigniew T. Kalbarczyk"><br>
+                <b>Zbigniew T. Kalbarczyk</b>
+            </a>
+            <p>
+                容错计算, 数据优化, 系统安全, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/farzad-kamalabadi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/farzad-kamalabadi-profile.jpg" width="150" style="border-radius: 8px;" alt="Farzad Kamalabadi"><br>
+                <b>Farzad Kamalabadi</b>
+            </a>
+            <p>
+                空间科学, 数据分析, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/daniel-kang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/daniel-kang-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel Kang"><br>
+                <b>Daniel Kang</b>
+            </a>
+            <p>
+                数据驱动, 系统优化, 高效计算, 半导体设计, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nickvash-kani/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nickvash-kani-profile.jpg" width="150" style="border-radius: 8px;" alt="Nickvash Kani"><br>
+                <b>Nickvash Kani</b>
+            </a>
+            <p>
+                光子学, 半导体材料, 数据优化, 系统集成, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/karrie-karahalios/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/karrie-karahalios-profile.jpg" width="150" style="border-radius: 8px;" alt="Karrie Karahalios"><br>
+                <b>Karrie Karahalios</b>
+            </a>
+            <p>
+                人机交互, 数据分析, 系统优化, 网络设计, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/dimitrios-katselis/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/dimitrios-katselis-profile.jpg" width="150" style="border-radius: 8px;" alt="Dimitrios Katselis"><br>
+                <b>Dimitrios Katselis</b>
+            </a>
+            <p>
+                网络优化, 数据分析, 系统设计, 半导体技术, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/timothy-killeen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/timothy-killeen-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy L. Killeen"><br>
+                <b>Timothy L. Killeen</b>
+            </a>
+            <p>
+                空间科学, 数据驱动, 系统优化, 网络设计, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hyunseok-kim/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hyunseok-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyunseok Kim"><br>
+                <b>Hyunseok Kim</b>
+            </a>
+            <p>
+                数据分析, 系统优化, 半导体技术, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/joohyung-kim/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/joohyung-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Joohyung Kim"><br>
+                <b>Joohyung Kim</b>
+            </a>
+            <p>
+                半导体优化, 数据驱动, 系统设计, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kyekyoon-kim/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kyekyoon-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Kyekyoon Kim"><br>
+                <b>Kyekyoon Kim</b>
+            </a>
+            <p>
+                纳米技术, 数据优化, 系统集成, 半导体材料, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nam-sung-kim/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nam-sung-kim-profile.jpg" width="150" style="border-radius: 8px;" alt="Nam Sung Kim"><br>
+                <b>Nam Sung Kim</b>
+            </a>
+            <p>
+                芯片设计, 高效计算, 数据优化, 系统架构, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/volodymyr-kindratenko/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/volodymyr-kindratenko-profile.jpg" width="150" style="border-radius: 8px;" alt="Volodymyr Kindratenko"><br>
+                <b>Volodymyr Kindratenko</b>
+            </a>
+            <p>
+                高性能计算, 数据分析, 智能系统, 网络优化, 并行处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bill-king/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bill-king-profile.jpg" width="150" style="border-radius: 8px;" alt="Bill King"><br>
+                <b>Bill King</b>
+            </a>
+            <p>
+                纳米制造, 半导体优化, 数据驱动, 系统集成, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/negar-kiyavash/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/negar-kiyavash-profile.jpg" width="150" style="border-radius: 8px;" alt="Negar Kiyavash"><br>
+                <b>Negar Kiyavash</b>
+            </a>
+            <p>
+                信息理论, 数据优化, 系统分析, 网络设计, 智能控制
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/eren-kizildag/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/eren-kizildag-profile.jpg" width="150" style="border-radius: 8px;" alt="Eren Kizildag"><br>
+                <b>Eren Kizildag</b>
+            </a>
+            <p>
+                电磁学, 数据优化, 系统设计, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andreas-kloeckner/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andreas-kloeckner-profile.jpg" width="150" style="border-radius: 8px;" alt="Andreas Paul Eberhard Kloeckner"><br>
+                <b>Andreas Paul Eberhard Kloeckner</b>
+            </a>
+            <p>
+                并行计算, 数据优化, 系统建模, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/robin-kravets/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/robin-kravets-profile.jpg" width="150" style="border-radius: 8px;" alt="Robin Hillary Kravets"><br>
+                <b>Robin Hillary Kravets</b>
+            </a>
+            <p>
+                网络优化, 数据驱动, 系统架构, 智能硬件, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/philip-krein/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/philip-krein-profile.jpg" width="150" style="border-radius: 8px;" alt="Philip T. Krein"><br>
+                <b>Philip T. Krein</b>
+            </a>
+            <p>
+                电力电子, 半导体优化, 数据驱动, 系统设计, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/erhan-kudeki/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/erhan-kudeki-profile.jpg" width="150" style="border-radius: 8px;" alt="Erhan Kudeki"><br>
+                <b>Erhan Kudeki</b>
+            </a>
+            <p>
+                电磁波, 数据优化, 系统分析, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rakesh-kumar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rakesh-kumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Rakesh Kumar"><br>
+                <b>Rakesh Kumar</b>
+            </a>
+            <p>
+                芯片设计, 数据优化, 系统集成, 半导体封装, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ranjitha-kumar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ranjitha-kumar-profile.jpg" width="150" style="border-radius: 8px;" alt="Ranjitha Kumar"><br>
+                <b>Ranjitha Kumar</b>
+            </a>
+            <p>
+                人机交互, 数据驱动, 系统优化, 网络设计, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/paul-kwiat/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paul-kwiat-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul G. Kwiat"><br>
+                <b>Paul G. Kwiat</b>
+            </a>
+            <p>
+                量子信息, 数据优化, 光子技术, 系统设计, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/fan-lam/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/fan-lam-profile.jpg" width="150" style="border-radius: 8px;" alt="Fan Lam"><br>
+                <b>Fan Lam</b>
+            </a>
+            <p>
+                医疗影像, 数据驱动, 系统分析, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/christy-landes/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/christy-landes-profile.jpg" width="150" style="border-radius: 8px;" alt="Christy Landes"><br>
+                <b>Christy Landes</b>
+            </a>
+            <p>
+                纳米技术, 数据优化, 系统设计, 智能硬件, 半导体封装
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/svetlana-lazebnik/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/svetlana-lazebnik-profile.jpg" width="150" style="border-radius: 8px;" alt="Svetlana Lazebnik"><br>
+                <b>Svetlana Lazebnik</b>
+            </a>
+            <p>
+                机器学习, 数据优化, 图像处理, 系统分析, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jean-pierre-leburton/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jean-pierre-leburton-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Pierre Leburton"><br>
+                <b>Jean-Pierre Leburton</b>
+            </a>
+            <p>
+                纳米技术, 半导体材料, 数据优化, 系统建模, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/felix-leditzky/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/felix-leditzky-profile.jpg" width="150" style="border-radius: 8px;" alt="Felix Leditzky"><br>
+                <b>Felix Leditzky</b>
+            </a>
+            <p>
+                信息理论, 数据优化, 系统分析, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/minjoo-lee/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/minjoo-lee-profile.jpg" width="150" style="border-radius: 8px;" alt="Minjoo Lawrence Lee"><br>
+                <b>Minjoo Lawrence Lee</b>
+            </a>
+            <p>
+                半导体材料, 纳米技术, 数据优化, 系统集成, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-lembeck/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-lembeck-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Lembeck"><br>
+                <b>Michael Lembeck</b>
+            </a>
+            <p>
+                航空系统, 数据分析, 系统优化, 网络设计, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/kirill-levchenko/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/kirill-levchenko-profile.jpg" width="150" style="border-radius: 8px;" alt="Kirill Levchenko"><br>
+                <b>Kirill Levchenko</b>
+            </a>
+            <p>
+                网络安全, 数据优化, 系统建模, 半导体优化, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bo-li/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bo-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Bo Li"><br>
+                <b>Bo Li</b>
+            </a>
+            <p>
+                机器学习, 数据驱动, 系统优化, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/chushan-li/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chushan-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Chushan Li"><br>
+                <b>Chushan Li</b>
+            </a>
+            <p>
+                半导体设计, 数据优化, 系统集成, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/erping-li/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/erping-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Erping Li"><br>
+                <b>Erping Li</b>
+            </a>
+            <p>
+                电磁学, 数据优化, 系统设计, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/xiuling-li/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/xiuling-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiuling Li"><br>
+                <b>Xiuling Li</b>
+            </a>
+            <p>
+                纳米技术, 半导体优化, 数据驱动, 系统集成, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yingying-li/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yingying-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Yingying Li"><br>
+                <b>Yingying Li</b>
+            </a>
+            <p>
+                机器学习, 数据分析, 系统建模, 智能设备, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zhi-pei-liang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zhi-pei-liang-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhi-Pei Liang"><br>
+                <b>Zhi-Pei Liang</b>
+            </a>
+            <p>
+                医疗影像, 数据驱动, 系统优化, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/daniel-liberzon/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/daniel-liberzon-profile.jpg" width="150" style="border-radius: 8px;" alt="Daniel M. Liberzon"><br>
+                <b>Daniel M. Liberzon</b>
+            </a>
+            <p>
+                控制理论, 数据优化, 系统设计, 智能硬件, 网络建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yu-lin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yu-lin-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu Lin"><br>
+                <b>Yu Lin</b>
+            </a>
+            <p>
+                网络优化, 数据驱动, 系统建模, 半导体优化, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jingbo-liu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jingbo-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Jingbo Liu"><br>
+                <b>Jingbo Liu</b>
+            </a>
+            <p>
+                信息理论, 数据优化, 系统设计, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yang-liu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yang-liu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Liu"><br>
+                <b>Yang Liu</b>
+            </a>
+            <p>
+                机器学习, 数据优化, 系统建模, 智能硬件, 半导体技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/virginia-lorenz/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/virginia-lorenz-profile.jpg" width="150" style="border-radius: 8px;" alt="Virginia Lorenz"><br>
+                <b>Virginia Lorenz</b>
+            </a>
+            <p>
+                量子光学, 数据驱动, 系统优化, 光子集成, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-loui/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-loui-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael Loui"><br>
+                <b>Michael Loui</b>
+            </a>
+            <p>
+                网络优化, 数据分析, 系统设计, 智能硬件, 信息理论
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ismini-lourentzou/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ismini-lourentzou-profile.jpg" width="150" style="border-radius: 8px;" alt="Ismini Lourentzou"><br>
+                <b>Ismini Lourentzou</b>
+            </a>
+            <p>
+                人机交互, 数据驱动, 系统优化, 机器学习, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yi-lu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yi-lu-profile.jpg" width="150" style="border-radius: 8px;" alt="Yi Lu"><br>
+                <b>Yi Lu</b>
+            </a>
+            <p>
+                生物传感器, 数据优化, 系统集成, 智能设备, 半导体技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/steven-lumetta/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/steven-lumetta-profile.jpg" width="150" style="border-radius: 8px;" alt="Steven Lumetta"><br>
+                <b>Steven Lumetta</b>
+            </a>
+            <p>
+                并行计算, 数据驱动, 系统优化, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ning-luo/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ning-luo-profile.jpg" width="150" style="border-radius: 8px;" alt="Ning Luo"><br>
+                <b>Ning Luo</b>
+            </a>
+            <p>
+                网络优化, 数据分析, 系统设计, 半导体技术, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/joseph-lyding/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/joseph-lyding-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph W. Lyding"><br>
+                <b>Joseph W. Lyding</b>
+            </a>
+            <p>
+                纳米技术, 半导体材料, 数据优化, 系统集成, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hanzhi-ma/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hanzhi-ma-profile.jpg" width="150" style="border-radius: 8px;" alt="Hanzhi Ma"><br>
+                <b>Hanzhi Ma</b>
+            </a>
+            <p>
+                信号处理, 数据驱动, 系统优化, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jonathan-makela/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jonathan-makela-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathan Makela"><br>
+                <b>Jonathan Makela</b>
+            </a>
+            <p>
+                空间科学, 数据优化, 系统设计, 网络分析, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/prashant-mehta/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/prashant-mehta-profile.jpg" width="150" style="border-radius: 8px;" alt="Prashant Mehta"><br>
+                <b>Prashant Mehta</b>
+            </a>
+            <p>
+                控制系统, 数据分析, 系统优化, 智能硬件, 网络建模
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/said-mikki/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/said-mikki-profile.jpg" width="150" style="border-radius: 8px;" alt="Said Mikki"><br>
+                <b>Said Mikki</b>
+            </a>
+            <p>
+                电磁学, 数据驱动, 系统优化, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/olgica-milenkovic/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/olgica-milenkovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Olgica Milenkovic"><br>
+                <b>Olgica Milenkovic</b>
+            </a>
+            <p>
+                信息理论, 数据分析, 系统建模, 智能硬件, 网络设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/nenad-miljkovic/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/nenad-miljkovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Nenad Miljkovic"><br>
+                <b>Nenad Miljkovic</b>
+            </a>
+            <p>
+                热管理, 数据驱动, 系统设计, 半导体材料, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/marco-milla/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/marco-milla-profile.jpg" width="150" style="border-radius: 8px;" alt="Marco Antonio Milla"><br>
+                <b>Marco Antonio Milla</b>
+            </a>
+            <p>
+                电力系统, 数据优化, 系统集成, 智能硬件, 高效计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andrew-miller/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andrew-miller-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Miller"><br>
+                <b>Andrew Miller</b>
+            </a>
+            <p>
+                区块链, 数据驱动, 系统优化, 智能硬件, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/olga-mironenko/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/olga-mironenko-profile.jpg" width="150" style="border-radius: 8px;" alt="Olga Mironenko"><br>
+                <b>Olga Mironenko</b>
+            </a>
+            <p>
+                纳米技术, 半导体优化, 数据驱动, 系统集成, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andrey-mironov/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andrey-mironov-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrey Mironov"><br>
+                <b>Andrey Mironov</b>
+            </a>
+            <p>
+                电磁学, 数据分析, 系统设计, 半导体技术, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sasa-misailovic/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sasa-misailovic-profile.jpg" width="150" style="border-radius: 8px;" alt="Sasa Misailovic"><br>
+                <b>Sasa Misailovic</b>
+            </a>
+            <p>
+                编程语言, 数据优化, 系统建模, 智能硬件, 高效计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sayan-mitra/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sayan-mitra-profile.jpg" width="150" style="border-radius: 8px;" alt="Sayan Mitra"><br>
+                <b>Sayan Mitra</b>
+            </a>
+            <p>
+                控制系统, 数据驱动, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/radhika-mittal/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/radhika-mittal-profile.jpg" width="150" style="border-radius: 8px;" alt="Radhika Mittal"><br>
+                <b>Radhika Mittal</b>
+            </a>
+            <p>
+                网络系统, 数据优化, 系统集成, 智能设备, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/thomas-moon/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/thomas-moon-profile.jpg" width="150" style="border-radius: 8px;" alt="Thomas Moon"><br>
+                <b>Thomas Moon</b>
+            </a>
+            <p>
+                信息理论, 数据分析, 系统设计, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/pierre-moulin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/pierre-moulin-profile.jpg" width="150" style="border-radius: 8px;" alt="Pierre Moulin"><br>
+                <b>Pierre Moulin</b>
+            </a>
+            <p>
+                信号处理, 数据优化, 系统建模, 智能设备, 半导体优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/george-moustakides/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/george-moustakides-profile.jpg" width="150" style="border-radius: 8px;" alt="George Moustakides"><br>
+                <b>George Moustakides</b>
+            </a>
+            <p>
+                信号检测, 数据优化, 系统分析, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/klara-nahrstedt/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/klara-nahrstedt-profile.jpg" width="150" style="border-radius: 8px;" alt="Klara Nahrstedt"><br>
+                <b>Klara Nahrstedt</b>
+            </a>
+            <p>
+                网络多媒体, 数据驱动, 系统优化, 智能硬件, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/mark-neubauer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/mark-neubauer-profile.jpg" width="150" style="border-radius: 8px;" alt="Mark Neubauer"><br>
+                <b>Mark Neubauer</b>
+            </a>
+            <p>
+                数据分析, 系统建模, 智能硬件, 半导体技术, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/david-nicol/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/david-nicol-profile.jpg" width="150" style="border-radius: 8px;" alt="David M. Nicol"><br>
+                <b>David M. Nicol</b>
+            </a>
+            <p>
+                网络安全, 数据驱动, 系统优化, 智能硬件, 高效计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shuming-nie/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shuming-nie-profile.jpg" width="150" style="border-radius: 8px;" alt="Shuming Nie"><br>
+                <b>Shuming Nie</b>
+            </a>
+            <p>
+                纳米医学, 数据驱动, 系统优化, 生物传感, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bob-norris/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bob-norris-profile.jpg" width="150" style="border-radius: 8px;" alt="Bob Norris"><br>
+                <b>Bob Norris</b>
+            </a>
+            <p>
+                电磁学, 数据优化, 系统集成, 半导体技术, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/bill-obrien/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/bill-obrien-profile.jpg" width="150" style="border-radius: 8px;" alt="Bill O'Brien, Jr."><br>
+                <b>Bill O'Brien, Jr.</b>
+            </a>
+            <p>
+                医疗影像, 数据驱动, 系统优化, 信号处理, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/idoia-ochoa/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/idoia-ochoa-profile.jpg" width="150" style="border-radius: 8px;" alt="Idoia Ochoa"><br>
+                <b>Idoia Ochoa</b>
+            </a>
+            <p>
+                数据压缩, 生物信息, 系统优化, 智能设备, 高效计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/timothy-oconnell/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/timothy-oconnell-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy C. O'Connell"><br>
+                <b>Timothy C. O'Connell</b>
+            </a>
+            <p>
+                系统建模, 数据分析, 网络设计, 智能硬件, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michael-oelze/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-oelze-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael L. Oelze"><br>
+                <b>Michael L. Oelze</b>
+            </a>
+            <p>
+                声学成像, 数据驱动, 系统优化, 生物医学, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/melkior-ornik/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/melkior-ornik-profile.jpg" width="150" style="border-radius: 8px;" alt="Melkior Ornik"><br>
+                <b>Melkior Ornik</b>
+            </a>
+            <p>
+                控制理论, 数据分析, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/sung-jin-park/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/sung-jin-park-profile.jpg" width="150" style="border-radius: 8px;" alt="Sung-Jin Park"><br>
+                <b>Sung-Jin Park</b>
+            </a>
+            <p>
+                纳米制造, 数据优化, 系统集成, 半导体封装, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/madhusudan-parthasarathy/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/madhusudan-parthasarathy-profile.jpg" width="150" style="border-radius: 8px;" alt="Madhusudan Parthasarathy"><br>
+                <b>Madhusudan Parthasarathy</b>
+            </a>
+            <p>
+                机器学习, 数据驱动, 系统优化, 智能设备, 网络安全
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/janak-patel/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/janak-patel-profile.jpg" width="150" style="border-radius: 8px;" alt="Janak H. Patel"><br>
+                <b>Janak H. Patel</b>
+            </a>
+            <p>
+                测试技术, 数据优化, 系统设计, 半导体优化, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zhen-peng/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zhen-peng-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhen Peng"><br>
+                <b>Zhen Peng</b>
+            </a>
+            <p>
+                电磁模拟, 数据优化, 系统建模, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/robert-pilawa-podgurski/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/robert-pilawa-profile.jpg" width="150" style="border-radius: 8px;" alt="Robert Pilawa-Podgurski"><br>
+                <b>Robert Pilawa-Podgurski</b>
+            </a>
+            <p>
+                电力电子, 数据优化, 系统集成, 半导体设计, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/chandrasekhar-radhakrishnan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/chandrasekhar-radhakrishnan-profile.jpg" width="150" style="border-radius: 8px;" alt="Chandrasekhar Radhakrishnan"><br>
+                <b>Chandrasekhar Radhakrishnan</b>
+            </a>
+            <p>
+                半导体优化, 数据驱动, 系统集成, 智能硬件, 网络设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/maxim-raginsky/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/maxim-raginsky-profile.jpg" width="150" style="border-radius: 8px;" alt="Maxim Raginsky"><br>
+                <b>Maxim Raginsky</b>
+            </a>
+            <p>
+                信息理论, 数据分析, 系统设计, 智能硬件, 控制理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shaloo-rakheja/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shaloo-rakheja-profile.jpg" width="150" style="border-radius: 8px;" alt="Shaloo Rakheja"><br>
+                <b>Shaloo Rakheja</b>
+            </a>
+            <p>
+                纳米技术, 半导体优化, 数据驱动, 系统建模, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/joao-ramos/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/joao-ramos-profile.jpg" width="150" style="border-radius: 8px;" alt="Joao Ramos"><br>
+                <b>Joao Ramos</b>
+            </a>
+            <p>
+                机器人技术, 数据优化, 系统设计, 智能硬件, 控制系统
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/umberto-ravaioli/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/umberto-ravaioli-profile.jpg" width="150" style="border-radius: 8px;" alt="Umberto Ravaioli"><br>
+                <b>Umberto Ravaioli</b>
+            </a>
+            <p>
+                半导体器件, 数据驱动, 系统优化, 纳米技术, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/michel-regenwetter/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michel-regenwetter-profile.jpg" width="150" style="border-radius: 8px;" alt="Michel Regenwetter"><br>
+                <b>Michel Regenwetter</b>
+            </a>
+            <p>
+                数据分析, 系统建模, 智能硬件, 网络优化, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/john-reid/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/john-reid-profile.jpg" width="150" style="border-radius: 8px;" alt="John F. Reid"><br>
+                <b>John F. Reid</b>
+            </a>
+            <p>
+                自动化技术, 数据驱动, 系统优化, 智能硬件, 控制系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ling-ren/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ling-ren-profile.jpg" width="150" style="border-radius: 8px;" alt="Ling Ren"><br>
+                <b>Ling Ren</b>
+            </a>
+            <p>
+                网络安全, 数据驱动, 系统集成, 智能硬件, 高效通信
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/john-rogers/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/john-rogers-profile.jpg" width="150" style="border-radius: 8px;" alt="John A. Rogers"><br>
+                <b>John A. Rogers</b>
+            </a>
+            <p>
+                纳米技术, 半导体材料, 数据优化, 系统建模, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/elyse-rosenbaum/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/elyse-rosenbaum-profile.jpg" width="150" style="border-radius: 8px;" alt="Elyse Rosenbaum"><br>
+                <b>Elyse Rosenbaum</b>
+            </a>
+            <p>
+                集成电路, 数据优化, 系统设计, 智能硬件, 半导体技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/romit-roy-choudhury/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/romit-roy-choudhury-profile.jpg" width="150" style="border-radius: 8px;" alt="Romit Roy Choudhury"><br>
+                <b>Romit Roy Choudhury</b>
+            </a>
+            <p>
+                无线网络, 数据驱动, 系统优化, 智能硬件, 网络设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/david-ruzic/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/david-ruzic-profile.jpg" width="150" style="border-radius: 8px;" alt="David Ruzic"><br>
+                <b>David Ruzic</b>
+            </a>
+            <p>
+                等离子体技术, 数据优化, 系统建模, 智能硬件, 半导体材料
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/william-sanders/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/william-sanders-profile.jpg" width="150" style="border-radius: 8px;" alt="William H. Sanders"><br>
+                <b>William H. Sanders</b>
+            </a>
+            <p>
+                网络安全, 数据分析, 系统优化, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/christopher-schmitz/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/christopher-schmitz-profile.jpg" width="150" style="border-radius: 8px;" alt="Christopher Schmitz"><br>
+                <b>Christopher Schmitz</b>
+            </a>
+            <p>
+                电磁学, 数据优化, 系统设计, 半导体优化, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jonathon-schuh/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jonathon-schuh-profile.jpg" width="150" style="border-radius: 8px;" alt="Jonathon Kenneth Schuh"><br>
+                <b>Jonathon Kenneth Schuh</b>
+            </a>
+            <p>
+                光子技术, 数据驱动, 系统集成, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jose-schutt-aine/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jose-schutt-aine-profile.jpg" width="150" style="border-radius: 8px;" alt="Jose E. Schutt-Aine"><br>
+                <b>Jose E. Schutt-Aine</b>
+            </a>
+            <p>
+                集成电路, 数据优化, 系统建模, 智能硬件, 半导体技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/alexander-schwing/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/alexander-schwing-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexander Schwing"><br>
+                <b>Alexander Schwing</b>
+            </a>
+            <p>
+                机器学习, 数据驱动, 系统优化, 智能硬件, 图像处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/paul-selvin/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paul-selvin-profile.jpg" width="150" style="border-radius: 8px;" alt="Paul Selvin"><br>
+                <b>Paul Selvin</b>
+            </a>
+            <p>
+                生物物理学, 数据分析, 系统建模, 高效计算, 智能硬件
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/lui-sha/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lui-sha-profile.jpg" width="150" style="border-radius: 8px;" alt="Lui Sha"><br>
+                <b>Lui Sha</b>
+            </a>
+            <p>
+                实时系统, 数据优化, 系统设计, 智能硬件, 控制理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/naresh-shanbhag/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/naresh-shanbhag-profile.jpg" width="150" style="border-radius: 8px;" alt="Naresh R. Shanbhag"><br>
+                <b>Naresh R. Shanbhag</b>
+            </a>
+            <p>
+                集成电路, 数据驱动, 系统集成, 半导体优化, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/victoria-shao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/victoria-shao-profile.jpg" width="150" style="border-radius: 8px;" alt="Victoria Shao"><br>
+                <b>Victoria Shao</b>
+            </a>
+            <p>
+                机器学习, 数据分析, 系统设计, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/humphrey-shi/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/humphrey-shi-profile.jpg" width="150" style="border-radius: 8px;" alt="Humphrey Shi"><br>
+                <b>Humphrey Shi</b>
+            </a>
+            <p>
+                视觉计算, 数据优化, 系统设计, 智能硬件, 图像处理
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ilan-shomorony/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ilan-shomorony-profile.jpg" width="150" style="border-radius: 8px;" alt="Ilan Shomorony"><br>
+                <b>Ilan Shomorony</b>
+            </a>
+            <p>
+                信息理论, 数据驱动, 系统优化, 智能硬件, 网络设计
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/craig-shultz/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/craig-shultz-profile.jpg" width="150" style="border-radius: 8px;" alt="Craig Shultz"><br>
+                <b>Craig Shultz</b>
+            </a>
+            <p>
+                电磁学, 数据分析, 系统建模, 半导体优化, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andrew-singer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andrew-singer-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew Singer"><br>
+                <b>Andrew Singer</b>
+            </a>
+            <p>
+                信号处理, 数据优化, 系统建模, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/paris-smaragdis/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/paris-smaragdis-profile.jpg" width="150" style="border-radius: 8px;" alt="Paris Smaragdis"><br>
+                <b>Paris Smaragdis</b>
+            </a>
+            <p>
+                音频信号处理, 数据驱动, 系统优化, 智能设备, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/corey-snyder/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/corey-snyder-profile.jpg" width="150" style="border-radius: 8px;" alt="Corey Ethan Snyder"><br>
+                <b>Corey Ethan Snyder</b>
+            </a>
+            <p>
+                纳米制造, 数据优化, 系统集成, 智能设备, 半导体优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/elahe-soltanaghai/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/elahe-soltanaghai-profile.jpg" width="150" style="border-radius: 8px;" alt="Elahe Soltanaghai"><br>
+                <b>Elahe Soltanaghai</b>
+            </a>
+            <p>
+                无线网络, 数据驱动, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/pengfei-song/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/pengfei-song-profile.jpg" width="150" style="border-radius: 8px;" alt="Pengfei Song"><br>
+                <b>Pengfei Song</b>
+            </a>
+            <p>
+                医疗影像, 数据分析, 系统优化, 高效计算, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ramavarapu-sreenivas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ramavarapu-sreenivas-profile.jpg" width="150" style="border-radius: 8px;" alt="Ramavarapu S. Sreenivas"><br>
+                <b>Ramavarapu S. Sreenivas</b>
+            </a>
+            <p>
+                控制系统, 数据优化, 系统建模, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/rayadurgam-srikant/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/rayadurgam-srikant-profile.jpg" width="150" style="border-radius: 8px;" alt="Rayadurgam Srikant"><br>
+                <b>Rayadurgam Srikant</b>
+            </a>
+            <p>
+                网络优化, 数据驱动, 系统设计, 智能硬件, 控制理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/austin-steinforth/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/austin-steinforth-profile.jpg" width="150" style="border-radius: 8px;" alt="Austin William Steinforth"><br>
+                <b>Austin William Steinforth</b>
+            </a>
+            <p>
+                电磁学, 数据优化, 系统建模, 半导体优化, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/andrew-stillwell/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/andrew-stillwell-profile.jpg" width="150" style="border-radius: 8px;" alt="Andrew R. Stillwell"><br>
+                <b>Andrew R. Stillwell</b>
+            </a>
+            <p>
+                网络优化, 数据驱动, 系统设计, 智能硬件, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ashlynn-stillwell/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ashlynn-stillwell-profile.jpg" width="150" style="border-radius: 8px;" alt="Ashlynn Stillwell"><br>
+                <b>Ashlynn Stillwell</b>
+            </a>
+            <p>
+                可持续能源, 数据优化, 系统建模, 智能设备, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/alexander-stolyar/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/alexander-stolyar-profile.jpg" width="150" style="border-radius: 8px;" alt="Alexander Stolyar"><br>
+                <b>Alexander Stolyar</b>
+            </a>
+            <p>
+                控制理论, 数据优化, 系统分析, 智能硬件, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/brad-sutton/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brad-sutton-profile.jpg" width="150" style="border-radius: 8px;" alt="Brad Sutton"><br>
+                <b>Brad Sutton</b>
+            </a>
+            <p>
+                医疗影像, 数据驱动, 系统优化, 高效计算, 智能设备
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/gary-swenson/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gary-swenson-profile.jpg" width="150" style="border-radius: 8px;" alt="Gary R. Swenson"><br>
+                <b>Gary R. Swenson</b>
+            </a>
+            <p>
+                空间科学, 数据优化, 系统设计, 智能硬件, 网络分析
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shurun-tan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shurun-tan-profile.jpg" width="150" style="border-radius: 8px;" alt="Shurun Tan"><br>
+                <b>Shurun Tan</b>
+            </a>
+            <p>
+                天线设计, 数据优化, 系统建模, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/meisong-tong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/meisong-tong-profile.jpg" width="150" style="border-radius: 8px;" alt="Meisong Tong"><br>
+                <b>Meisong Tong</b>
+            </a>
+            <p>
+                数据驱动, 系统优化, 智能设备, 半导体封装, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/josep-torrellas/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/josep-torrellas-profile.jpg" width="150" style="border-radius: 8px;" alt="Josep Torrellas"><br>
+                <b>Josep Torrellas</b>
+            </a>
+            <p>
+                并行计算, 数据优化, 系统设计, 智能硬件, 高效计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/timothy-trick/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/timothy-trick-profile.jpg" width="150" style="border-radius: 8px;" alt="Timothy N. Trick"><br>
+                <b>Timothy N. Trick</b>
+            </a>
+            <p>
+                电路设计, 数据优化, 系统建模, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/aristomenis-tsopelakos/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/aristomenis-tsopelakos-profile.jpg" width="150" style="border-radius: 8px;" alt="Aristomenis Tsopelakos"><br>
+                <b>Aristomenis Tsopelakos</b>
+            </a>
+            <p>
+                电磁学, 数据分析, 系统设计, 智能硬件, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/haohua-tu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/haohua-tu-profile.jpg" width="150" style="border-radius: 8px;" alt="Haohua Tu"><br>
+                <b>Haohua Tu</b>
+            </a>
+            <p>
+                光子技术, 数据优化, 系统集成, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/abhishek-umrawal/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/abhishek-umrawal-profile.jpg" width="150" style="border-radius: 8px;" alt="Abhishek K. Umrawal"><br>
+                <b>Abhishek K. Umrawal</b>
+            </a>
+            <p>
+                数据分析, 系统优化, 半导体优化, 智能设备, 高效计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/lav-varshney/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lav-varshney-profile.jpg" width="150" style="border-radius: 8px;" alt="Lav Varshney"><br>
+                <b>Lav Varshney</b>
+            </a>
+            <p>
+                信息理论, 数据驱动, 系统优化, 智能硬件, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/deepak-vasisht/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/deepak-vasisht-profile.jpg" width="150" style="border-radius: 8px;" alt="Deepak Vasisht"><br>
+                <b>Deepak Vasisht</b>
+            </a>
+            <p>
+                无线网络, 数据分析, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/venugopal-veeravalli/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/venugopal-veeravalli-profile.jpg" width="150" style="border-radius: 8px;" alt="Venugopal V. Veeravalli"><br>
+                <b>Venugopal V. Veeravalli</b>
+            </a>
+            <p>
+                信号处理, 数据驱动, 系统建模, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/pramod-viswanath/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/pramod-viswanath-profile.jpg" width="150" style="border-radius: 8px;" alt="Pramod Viswanath"><br>
+                <b>Pramod Viswanath</b>
+            </a>
+            <p>
+                信息理论, 数据优化, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yurii-vlasov/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yurii-vlasov-profile.jpg" width="150" style="border-radius: 8px;" alt="Yurii Vlasov"><br>
+                <b>Yurii Vlasov</b>
+            </a>
+            <p>
+                光子学, 数据优化, 系统设计, 智能设备, 半导体技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/petros-voulgaris/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/petros-voulgaris-profile.jpg" width="150" style="border-radius: 8px;" alt="Petros Voulgaris"><br>
+                <b>Petros Voulgaris</b>
+            </a>
+            <p>
+                控制系统, 数据分析, 系统建模, 智能硬件, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/lara-waldrop/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lara-waldrop-profile.jpg" width="150" style="border-radius: 8px;" alt="Lara Waldrop"><br>
+                <b>Lara Waldrop</b>
+            </a>
+            <p>
+                空间科学, 数据驱动, 系统优化, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/dong-kai-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/dong-kai-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Dong Kai Wang"><br>
+                <b>Dong Kai Wang</b>
+            </a>
+            <p>
+                半导体材料, 数据优化, 系统集成, 智能设备, 纳米技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/gang-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/gang-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Gang Wang"><br>
+                <b>Gang Wang</b>
+            </a>
+            <p>
+                网络安全, 数据驱动, 系统设计, 智能硬件, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/shenlong-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/shenlong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Shenlong Wang"><br>
+                <b>Shenlong Wang</b>
+            </a>
+            <p>
+                计算机视觉, 数据优化, 系统建模, 智能设备, 机器学习
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yuxiong-wang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yuxiong-wang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yuxiong Wang"><br>
+                <b>Yuxiong Wang</b>
+            </a>
+            <p>
+                机器学习, 数据优化, 系统设计, 智能硬件, 高效计算
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yu-lin-wei/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yu-lin-wei-profile.jpg" width="150" style="border-radius: 8px;" alt="Yu-Lin Wei"><br>
+                <b>Yu-Lin Wei</b>
+            </a>
+            <p>
+                半导体设计, 数据驱动, 系统优化, 智能设备, 纳米技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/ann-perry-witmer/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/ann-perry-witmer-profile.jpg" width="150" style="border-radius: 8px;" alt="Ann-Perry Witmer"><br>
+                <b>Ann-Perry Witmer</b>
+            </a>
+            <p>
+                可持续设计, 数据分析, 系统建模, 智能设备, 环境技术
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jinjun-xiong/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jinjun-xiong-profile.jpg" width="150" style="border-radius: 8px;" alt="Jinjun Xiong"><br>
+                <b>Jinjun Xiong</b>
+            </a>
+            <p>
+                高性能计算, 数据优化, 系统集成, 智能硬件, 人工智能
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/tianyin-xu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/tianyin-xu-profile.jpg" width="150" style="border-radius: 8px;" alt="Tianyin Xu"><br>
+                <b>Tianyin Xu</b>
+            </a>
+            <p>
+                系统安全, 数据分析, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/hao-yang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/hao-yang-profile.jpg" width="150" style="border-radius: 8px;" alt="Hao Yang"><br>
+                <b>Hao Yang</b>
+            </a>
+            <p>
+                机器学习, 数据驱动, 系统优化, 智能硬件, 高效计算
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/cunjiang-yu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/cunjiang-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Cunjiang Yu"><br>
+                <b>Cunjiang Yu</b>
+            </a>
+            <p>
+                柔性电子, 数据优化, 系统集成, 纳米技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wenzhen-yuan/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wenzhen-yuan-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenzhen Yuan"><br>
+                <b>Wenzhen Yuan</b>
+            </a>
+            <p>
+                机器人感知, 数据分析, 系统优化, 智能硬件, 控制系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/huan-zhang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/huan-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Huan Zhang"><br>
+                <b>Huan Zhang</b>
+            </a>
+            <p>
+                机器学习, 数据驱动, 系统建模, 智能设备, 网络优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/meng-zhang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/meng-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Meng Zhang"><br>
+                <b>Meng Zhang</b>
+            </a>
+            <p>
+                光子学, 数据优化, 系统设计, 半导体技术, 智能硬件
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/minjia-zhang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/minjia-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Minjia Zhang"><br>
+                <b>Minjia Zhang</b>
+            </a>
+            <p>
+                高性能计算, 数据分析, 系统优化, 智能设备, 半导体优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/richard-zhang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/richard-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Richard Y. Zhang"><br>
+                <b>Richard Y. Zhang</b>
+            </a>
+            <p>
+                电力系统, 数据优化, 系统建模, 智能硬件, 控制理论
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yupeng-zhang/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yupeng-zhang-profile.jpg" width="150" style="border-radius: 8px;" alt="Yupeng Zhang"><br>
+                <b>Yupeng Zhang</b>
+            </a>
+            <p>
+                网络安全, 数据驱动, 系统集成, 智能硬件, 高效通信
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/han-zhao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/han-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Han Zhao"><br>
+                <b>Han Zhao</b>
+            </a>
+            <p>
+                机器学习, 数据优化, 系统设计, 智能硬件, 网络优化
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/yang-zhao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yang-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Zhao"><br>
+                <b>Yang Zhao</b>
+            </a>
+            <p>
+                纳米技术, 数据驱动, 系统集成, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/zhizhen-zhao/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/zhizhen-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Zhizhen Jane Zhao"><br>
+                <b>Zhizhen Jane Zhao</b>
+            </a>
+            <p>
+                信息理论, 数据分析, 系统建模, 智能硬件, 控制系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/jin-zhou/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/jin-zhou-profile.jpg" width="150" style="border-radius: 8px;" alt="Jin Zhou"><br>
+                <b>Jin Zhou</b>
+            </a>
+            <p>
+                电磁学, 数据优化, 系统设计, 半导体技术, 智能设备
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/mems/wenjuan-zhu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/wenjuan-zhu-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenjuan Zhu"><br>
+                <b>Wenjuan Zhu</b>
+            </a>
+            <p>
+                纳米技术, 半导体优化, 数据驱动, 系统集成, 智能硬件
+            </p>
+        </td>
+    </tr>
 </table>
-    
+
 
 
 
