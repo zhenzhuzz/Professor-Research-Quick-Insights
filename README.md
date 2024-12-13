@@ -20778,8 +20778,6 @@ A repository for quickly accessing research insights into professors' expertise 
 
 - **Field:** [Communications and control](https://ece.illinois.edu/research/areas/communications)
 
-
-
 <table>
     <tr>
         <td align="center">
@@ -21571,7 +21569,7 @@ A repository for quickly accessing research insights into professors' expertise 
         </td>
     </tr>
 
-    </table>
+</table>
 
 
 
