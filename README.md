@@ -22184,12 +22184,6 @@ A repository for quickly accessing research insights into professors' expertise 
             </p>
         </td>
     </tr>
-
-
-
-
-
-    <table>
     <tr>
         <td align="center">
             <a href="research-quickview/uiuc/mems/subhonmesh-bose/research-overview.md">
