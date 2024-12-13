@@ -21028,7 +21028,7 @@ A repository for quickly accessing research insights into professors' expertise 
             </p>
         </td>
     </tr>
-    
+</table>
     
 
 
