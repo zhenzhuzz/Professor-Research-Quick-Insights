@@ -20283,92 +20283,93 @@ A repository for quickly accessing research insights into professors' expertise 
 <table>
     <tr>
         <td align="center">
-            <a href="research-quickview/yale/mems/simeon-bogdanov/research-overview.md">
-                <img src="research-quickview/yale/profiles/simeon-bogdanov-profile.jpg" width="150" style="border-radius: 8px;" alt="Simeon Bogdanov"><br>
-                <b>Simeon Bogdanov</b>
+            <a href="research-quickview/uiuc/ece/stephen-boppart/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/stephen-boppart-profile.jpg" width="150" style="border-radius: 8px;" alt="Stephen Boppart"><br>
+                <b>Stephen Boppart</b>
             </a>
             <p>
-                量子与纳米光子学, 非线性光学, 等离子体学与超材料, 集成光电子学, 固态自旋光学, 纳米组装, 机器学习与数据处理
+                光学相干断层扫描 (OCT), 生物医学成像, 分子诊断技术, 光学显微镜, 临床成像工具开发
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/yale/mems/hyungsoo-choi/research-overview.md">
-                <img src="research-quickview/yale/profiles/hyungsoo-choi-profile.jpg" width="150" style="border-radius: 8px;" alt="Hyungsoo Choi"><br>
-                <b>Hyungsoo Choi</b>
+            <a href="research-quickview/uiuc/ece/yun-sheng-chen/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yun-sheng-chen-profile.jpg" width="150" style="border-radius: 8px;" alt="Yun-Sheng Chen"><br>
+                <b>Yun-Sheng Chen</b>
             </a>
             <p>
-                电子与光学材料, 薄膜与纳米粒子制造, 纳米材料合成前驱体, 生物材料, 微纳米球药物递送系统
+                纳米成像技术, 超声光声成像, 癌症诊断工具, 生物材料成像, 纳米颗粒标记技术
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/yale/mems/matthew-gilbert/research-overview.md">
-                <img src="research-quickview/yale/profiles/matthew-gilbert-profile.jpg" width="150" style="border-radius: 8px;" alt="Matthew Gilbert"><br>
-                <b>Matthew Gilbert</b>
+            <a href="research-quickview/uiuc/ece/brian-t-cunningham/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/brian-t-cunningham-profile.jpg" width="150" style="border-radius: 8px;" alt="Brian T. Cunningham"><br>
+                <b>Brian T. Cunningham</b>
             </a>
             <p>
-                拓扑绝缘体, 纳米电子学, 量子计算, 半导体器件物理, 电子材料理论建模
+                光学传感器开发, 光子晶体技术, 生物分子检测, 微纳米光学, 高灵敏度诊断平台
             </p>
         </td>
         <td align="center">
-            <a href="research-quickview/yale/mems/jean-pierre-leburton/research-overview.md">
-                <img src="research-quickview/yale/profiles/jean-pierre-leburton-profile.jpg" width="150" style="border-radius: 8px;" alt="Jean-Pierre Leburton"><br>
-                <b>Jean-Pierre Leburton</b>
+            <a href="research-quickview/uiuc/ece/viktor-gruev/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/viktor-gruev-profile.jpg" width="150" style="border-radius: 8px;" alt="Viktor Gruev"><br>
+                <b>Viktor Gruev</b>
             </a>
             <p>
-                纳米电子学, 半导体器件建模, 量子点与纳米线, 生物电子学, 计算材料科学
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="research-quickview/yale/mems/xiuling-li/research-overview.md">
-                <img src="research-quickview/yale/profiles/xiuling-li-profile.jpg" width="150" style="border-radius: 8px;" alt="Xiuling Li"><br>
-                <b>Xiuling Li</b>
-            </a>
-            <p>
-                纳米制造技术, 半导体纳米结构, 电子材料与器件, 自组装技术, 柔性电子学
-            </p>
-        </td>
-        <td align="center">
-            <a href="research-quickview/yale/mems/joseph-w-lyding/research-overview.md">
-                <img src="research-quickview/yale/profiles/joseph-w-lyding-profile.jpg" width="150" style="border-radius: 8px;" alt="Joseph W. Lyding"><br>
-                <b>Joseph W. Lyding</b>
-            </a>
-            <p>
-                扫描隧道显微镜, 碳纳米管电子学, 半导体表面物理, 纳米尺度器件制造, 氢钝化技术
-            </p>
-        </td>
-        <td align="center">
-            <a href="research-quickview/yale/mems/umberto-ravaioli/research-overview.md">
-                <img src="research-quickview/yale/profiles/umberto-ravaioli-profile.jpg" width="150" style="border-radius: 8px;" alt="Umberto Ravaioli"><br>
-                <b>Umberto Ravaioli</b>
-            </a>
-            <p>
-                计算电子学, 半导体器件模拟, 纳米器件建模, 蒙特卡罗方法, 量子输运现象
-            </p>
-        </td>
-        <td align="center">
-            <a href="research-quickview/yale/mems/yang-zhao/research-overview.md">
-                <img src="research-quickview/yale/profiles/yang-zhao-profile.jpg" width="150" style="border-radius: 8px;" alt="Yang Zhao"><br>
-                <b>Yang Zhao</b>
-            </a>
-            <p>
-                生物光子学, 光学成像技术, 生物医学仪器, 纳米光子学, 光学传感器
+                生物启发成像系统, 偏振成像, 微纳米光学传感器, 医学诊断光学设备, 低功耗光学硬件
             </p>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="research-quickview/yale/mems/wenjuan-zhu/research-overview.md">
-                <img src="research-quickview/yale/profiles/wenjuan-zhu-profile.jpg" width="150" style="border-radius: 8px;" alt="Wenjuan Zhu"><br>
-                <b>Wenjuan Zhu</b>
+            <a href="research-quickview/uiuc/ece/lippold-haken/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/lippold-haken-profile.jpg" width="150" style="border-radius: 8px;" alt="Lippold Haken"><br>
+                <b>Lippold Haken</b>
             </a>
             <p>
-                纳米电子学, 二维材料, 半导体器件物理, 电子输运现象, 器件可靠性
+                电子音乐合成器设计, 数字信号处理, 音乐接口开发, 多触点感应技术, 声学优化系统
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/ece/michael-l-oelze/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/michael-l-oelze-profile.jpg" width="150" style="border-radius: 8px;" alt="Michael L. Oelze"><br>
+                <b>Michael L. Oelze</b>
+            </a>
+            <p>
+                超声波成像, 医学超声诊断, 超声波散射分析, 超声波弹性成像, 组织声学建模
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/ece/pengfei-song/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/pengfei-song-profile.jpg" width="150" style="border-radius: 8px;" alt="Pengfei Song"><br>
+                <b>Pengfei Song</b>
+            </a>
+            <p>
+                超声波弹性成像, 血管成像技术, 深度学习在医学成像中的应用, 生物力学建模, 临床超声设备优化
+            </p>
+        </td>
+        <td align="center">
+            <a href="research-quickview/uiuc/ece/yurii-vlasov/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/yurii-vlasov-profile.jpg" width="150" style="border-radius: 8px;" alt="Yurii Vlasov"><br>
+                <b>Yurii Vlasov</b>
+            </a>
+            <p>
+                神经形态光学处理, 光子集成电路, 光学神经网络, 微光学器件, 神经科学成像技术
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="research-quickview/uiuc/ece/cunjiang-yu/research-overview.md">
+                <img src="research-quickview/uiuc/profiles/cunjiang-yu-profile.jpg" width="150" style="border-radius: 8px;" alt="Cunjiang Yu"><br>
+                <b>Cunjiang Yu</b>
+            </a>
+            <p>
+                柔性电子学, 可穿戴设备, 人工电子皮肤, 生物传感器开发, 弹性电子材料
             </p>
         </td>
     </tr>
 </table>
+
 
 
 
