@@ -30602,7 +30602,7 @@ No ME PhD
 ### [Colleges and Schools](https://www.brown.edu/academics/schools-colleges)
 ### [All Departments](https://www.brown.edu/academics/departments)
 ### [College of Engineering](https://engineering.brown.edu/)
-### [Departments in Cornell Engineering](https://engineering.brown.edu/graduate)
+### [Departments in Brown Engineering](https://engineering.brown.edu/graduate)
 
 ### [Electrical and Computer Engineering](https://engineering.brown.edu/people/faculty)
 <table>
