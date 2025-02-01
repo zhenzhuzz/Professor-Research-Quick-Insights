@@ -10,9 +10,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //...
+      // Set README.md as the homepage so that it's loaded by Docsify.
+      homepage: 'README2.md'
+      // Additional Docsify configuration can go here.
     }
   </script>
+  <!-- Load Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- Load the docsify-include plugin to support including external markdown files -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/docsify-include.min.js"></script>
 </body>
 </html>
