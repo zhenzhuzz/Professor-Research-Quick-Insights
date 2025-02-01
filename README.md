@@ -32479,7 +32479,7 @@ No ME PhD
 
 ---
 
-# North Calorona
+# [North Carolina](https://en.wikipedia.org/wiki/North_Carolina)
 
 ## [Duke University](https://duke.edu/)
 [MEMS: Dec, 12](https://mems.duke.edu/admissions/phd/); 
