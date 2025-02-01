@@ -6698,10 +6698,10 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand UCSD Professors</summary>
 
-### [Colleges and Schools](https://ucsd.edu/academics/)
-### [All Departments](https://grad.ucsd.edu/admissions/programs.html)
-### [School of Engineering](https://jacobsschool.ucsd.edu/)
-### [Departments in UCSD Engineering](https://jacobsschool.ucsd.edu/departments)
+[Colleges and Schools](https://ucsd.edu/academics/)  
+[All Departments](https://grad.ucsd.edu/admissions/programs.html)  
+[School of Engineering](https://jacobsschool.ucsd.edu/)  
+[Departments in UCSD Engineering](https://jacobsschool.ucsd.edu/departments)  
 
 ### [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/)
 
@@ -10152,10 +10152,10 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand UC Davis Professors</summary>
 
-### [Colleges and Schools](https://www.ucdavis.edu/academics/colleges-and-schools)
-### [All Graduate Programs](https://grad.ucdavis.edu/graduate-programs)
-### [College of Engineering](https://engineering.ucdavis.edu/)
-### [Departments in UC Davis Engineering](https://engineering.ucdavis.edu/about/departments)
+[Colleges and Schools](https://www.ucdavis.edu/academics/colleges-and-schools)  
+[All Graduate Programs](https://grad.ucdavis.edu/graduate-programs)  
+[College of Engineering](https://engineering.ucdavis.edu/)  
+[Departments in UC Davis Engineering](https://engineering.ucdavis.edu/about/departments)  
 
 ### [Mechanical and Aerospace Engineering](https://mae.ucdavis.edu/faculty-research)
 
@@ -11636,10 +11636,10 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand UCSB Professors</summary>
 
-### [Colleges and Schools](https://www.ucsb.edu/academics/academic-departments-and-programs)
-### [All Graduate Programs](https://www.ucsb.edu/academics/academic-departments-and-programs)
-### [College of Engineering](https://engineering.ucsb.edu/)
-### [Departments in UCSB Engineering](https://engineering.ucsb.edu/about/departments)
+[Colleges and Schools](https://www.ucsb.edu/academics/academic-departments-and-programs)  
+[All Graduate Programs](https://www.ucsb.edu/academics/academic-departments-and-programs)  
+[College of Engineering](https://engineering.ucsb.edu/)  
+[Departments in UCSB Engineering](https://engineering.ucsb.edu/about/departments)  
 
 ### [Mechanical Engineering](https://me.ucsb.edu/)
 
@@ -12870,10 +12870,10 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand UC Irvine Professors</summary>
 
-### [Colleges and Schools](https://catalogue.uci.edu/schoolsandprograms/)
-### [All Graduate Programs](https://grad.uci.edu/admissions/degree-programs/)
-### [College of Engineering](https://engineering.uci.edu/)
-### [Departments in UC Irvine Engineering](https://engineering.uci.edu/#)
+[Colleges and Schools](https://catalogue.uci.edu/schoolsandprograms/)  
+[All Graduate Programs](https://grad.uci.edu/admissions/degree-programs/)  
+[College of Engineering](https://engineering.uci.edu/)  
+[Departments in UC Irvine Engineering](https://engineering.uci.edu/#)  
 
 ### [Mechanical and Aerospace Engineering](https://engineering.uci.edu/dept/mae/research)
 
@@ -12897,6 +12897,8 @@ A repository for quickly accessing research insights into professors' expertise 
 <!-- End of UC Irvine Section -->
 <!-- End of UC Irvine Section -->
 <!-- End of UC Irvine Section -->
+
+---
 
 # [Northeast](https://en.wikipedia.org/wiki/Northeastern_United_States)
 
@@ -15174,9 +15176,9 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand Yale Professors</summary>
 
-### [Colleges and Schools](https://yale2020.yale.edu/graduate-professional-schools)
-### [School of Engineering & Applied Science](https://seas.yale.edu/)
-### [Departments in Yale Engineering](https://seas.yale.edu/departments)
+[Colleges and Schools](https://yale2020.yale.edu/graduate-professional-schools)  
+[School of Engineering & Applied Science](https://seas.yale.edu/)  
+[Departments in Yale Engineering](https://seas.yale.edu/departments)  
 
 ### [Mechanical Engineering and Materials Science](https://seas.yale.edu/departments/mechanical-engineering-and-materials-science)
 
@@ -17793,8 +17795,8 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand Princeton Professors</summary>
 
-### [Departments](https://admission.princeton.edu/academics/degrees-departments)
-### [Schools of the College of Engineering](https://engineering.princeton.edu/)
+[Departments](https://admission.princeton.edu/academics/degrees-departments)  
+[Schools of the College of Engineering](https://engineering.princeton.edu/)  
 
 ### [Mechanical and Aerospace Engineering](https://mae.princeton.edu/)
 
@@ -19311,10 +19313,10 @@ A repository for quickly accessing research insights into professors' expertise 
 <details>
 <summary>Click to expand Cornell Professors</summary>
 
-### [Colleges and Schools](https://www.cornell.edu/academics/colleges.cfm)
-### [All Departments](https://www.cornell.edu/academics/departments.cfm)
-### [College of Engineering](https://www.engineering.cornell.edu/)
-### [Departments in Cornell Engineering](https://www.engineering.cornell.edu/programs-departments)
+[Colleges and Schools](https://www.cornell.edu/academics/colleges.cfm)  
+[All Departments](https://www.cornell.edu/academics/departments.cfm)  
+[College of Engineering](https://www.engineering.cornell.edu/)  
+[Departments in Cornell Engineering](https://www.engineering.cornell.edu/programs-departments)  
 
 ### [Mechanical and Aerospace Engineering](https://www.mae.cornell.edu/mae)
 
@@ -20588,10 +20590,10 @@ No ME PhD
 <details>
 <summary>Click to expand Brown Professors</summary>
 
-### [Colleges and Schools](https://www.brown.edu/academics/schools-colleges)
-### [All Departments](https://www.brown.edu/academics/departments)
-### [College of Engineering](https://engineering.brown.edu/)
-### [Departments in Brown Engineering](https://engineering.brown.edu/graduate)
+[Colleges and Schools](https://www.brown.edu/academics/schools-colleges)  
+[All Departments](https://www.brown.edu/academics/departments)  
+[College of Engineering](https://engineering.brown.edu/)  
+[Departments in Brown Engineering](https://engineering.brown.edu/graduate)  
 
 ### [Electrical and Computer Engineering](https://engineering.brown.edu/people/faculty)
 <table>
@@ -21945,7 +21947,7 @@ No ME PhD
 <!-- End of Columbia Section -->
 <!-- End of Columbia Section -->
 
-## [CMU](https://www.cmu.edu/)
+## [CMU--Carnegie Mellon University](https://www.cmu.edu/)
 [ME: Dec, 15](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html)
 [ECE: Dec, 15](https://www.ece.cmu.edu/admissions/graduate-application-deadlines.html)
 [$75](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/)
@@ -21956,9 +21958,8 @@ No ME PhD
 <details>
 <summary>Click to expand CMU Professors</summary>
 
-## [Carnegie Mellon University--CMU](https://www.cmu.edu/)
-### [Colleges and Schools](https://www.cmu.edu/academics/index.html)
-### [College of Engineering](https://engineering.cmu.edu/)
+[Colleges and Schools](https://www.cmu.edu/academics/index.html)  
+[College of Engineering](https://engineering.cmu.edu/)  
 
 ### [Mechanical Engineering](https://www.meche.engineering.cmu.edu/)
 
@@ -23002,10 +23003,10 @@ No ME PhD
 <details>
 <summary>Click to expand Rochester Professors</summary>
 
-### [Colleges and Schools](https://www.rochester.edu/academics/)
-### [All Graduate Programs](https://www.rochester.edu/academics/programs.html)
-### [School of Engineering](https://www.hajim.rochester.edu/index.html)
-### [Departments in Rochester Engineering](https://www.hajim.rochester.edu/about/departments.html)
+[Colleges and Schools](https://www.rochester.edu/academics/)  
+[All Graduate Programs](https://www.rochester.edu/academics/programs.html)  
+[School of Engineering](https://www.hajim.rochester.edu/index.html)  
+[Departments in Rochester Engineering](https://www.hajim.rochester.edu/about/departments.html)  
 
 ### [Mechanical Engineering](https://www.hajim.rochester.edu/me/index.html)
 
@@ -23051,6 +23052,8 @@ No ME PhD
 <!-- End of Rochester Section -->
 <!-- End of Rochester Section -->
 
+---
+
 # [Great Lakes](https://en.wikipedia.org/wiki/Great_Lakes)
 
 ## [Northwestern University](https://www.northwestern.edu/)
@@ -23064,10 +23067,10 @@ No ME PhD
 <details>
 <summary>Click to expand Northwestern Professors</summary>
 
-### [Colleges and Schools](https://admissions.northwestern.edu/academics/)
-### [All Graduate Programs](https://www.northwestern.edu/academics/graduate-a-to-z.html)
-### [School of Engineering and Applied Science](https://www.mccormick.northwestern.edu/)
-### [Departments in NU Engineering](https://www.mccormick.northwestern.edu/academics/departments.html)
+[Colleges and Schools](https://admissions.northwestern.edu/academics/)  
+[All Graduate Programs](https://www.northwestern.edu/academics/graduate-a-to-z.html)  
+[School of Engineering and Applied Science](https://www.mccormick.northwestern.edu/)  
+[Departments in NU Engineering](https://www.mccormick.northwestern.edu/academics/departments.html)  
 
 
 
@@ -24781,7 +24784,7 @@ No ME PhD
 
 
 
-## [UIUC](https://illinois.edu/)
+## [UIUC--University of Illinois Urbana-Champaign](https://illinois.edu/)
 [ME: Dec, 15](https://mechse.illinois.edu/graduate/applying-mechse-graduate-programs);
 [ECE: Dec, 15](https://ece.illinois.edu/admissions/graduate/graduate-dates-and-deadlines)
 [$90](https://grad.illinois.edu/application-fee)
@@ -24790,11 +24793,10 @@ No ME PhD
 <details>
 <summary>Click to expand UIUC Professors</summary>
 
-## [University of Illinois Urbana-Champaign--UIUC](https://illinois.edu/)
-### [Colleges and Schools](https://illinois.edu/academics/academics.html)
-### [All Departments](https://directory.illinois.edu/departmentsUnits)
-### [College of Engineering](https://grainger.illinois.edu/)
-### [Departments in UIUC Engineering](https://grainger.illinois.edu/about#tile37226)
+[Colleges and Schools](https://illinois.edu/academics/academics.html)  
+[All Departments](https://directory.illinois.edu/departmentsUnits)  
+[College of Engineering](https://grainger.illinois.edu/)  
+[Departments in UIUC Engineering](https://grainger.illinois.edu/about#tile37226)  
 
 ### [Mechanical Science and Engineering](https://mechse.illinois.edu/)
 
@@ -32475,6 +32477,8 @@ No ME PhD
 <!-- End of UIUC Section -->
 <!-- End of UIUC Section -->
 
+---
+
 # North Calorona
 
 ## [Duke University](https://duke.edu/)
@@ -33165,6 +33169,7 @@ No ME PhD
 <!-- End of Duke Section -->
 <!-- End of Duke Section -->
 
+---
 
 # [South](https://en.wikipedia.org/wiki/Southern_United_States)
 
@@ -33178,10 +33183,10 @@ No ME PhD
 <details>
 <summary>Click to expand Rice Professors</summary>
 
-### [Colleges and Schools](https://www.rice.edu/academics)
-### [All Graduate Programs](https://graduate.rice.edu/programs-study)
-### [School of Engineering and Computing](https://engineering.rice.edu/)
-### [Departments in Rice Engineering](https://engineering.rice.edu/academics/departments)
+[Colleges and Schools](https://www.rice.edu/academics)  
+[All Graduate Programs](https://graduate.rice.edu/programs-study)  
+[School of Engineering and Computing](https://engineering.rice.edu/)  
+[Departments in Rice Engineering](https://engineering.rice.edu/academics/departments)  
 
 ### [Mechanical Engineering](https://mech.rice.edu/research/research-focus-areas)
 
@@ -34631,7 +34636,7 @@ No ME PhD
 
 
 
-## [Gatech](https://www.gatech.edu/)
+## [Gatech--Georgia Institute of Technology](https://www.gatech.edu/)
 [ME: Dec, 16](https://grad.gatech.edu/degree-programs/mechanical-engineering);
 [ECE: Dec, 16](https://grad.gatech.edu/degree-programs/electrical-and-computer-engineering);
 [$105](https://grad.gatech.edu/admissions/international/ready-to-apply);
@@ -34641,9 +34646,8 @@ No ME PhD
 <details>
 <summary>Click to expand Gatech Professors</summary>
 
-## [Georgia Institute of Technology--Gatech](https://www.gatech.edu/)
-### [Colleges and Schools](https://www.gatech.edu/academics/colleges-and-schools)
-### [Schools of the College of Engineering](https://coe.gatech.edu/schools/schools-college-engineering)
+[Colleges and Schools](https://www.gatech.edu/academics/colleges-and-schools)  
+[Schools of the College of Engineering](https://coe.gatech.edu/schools/schools-college-engineering)  
 
 ### [Mechanical Engineering](https://coe.gatech.edu/schools/mechanical-engineering)
 
